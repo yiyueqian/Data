@@ -1,2 +1,0 @@
-time	confirm_us	new_us	recovered_us	death_us	death_new_us
- 2020-03-27 21:58 EDT	104335	18335	886	1706	386
