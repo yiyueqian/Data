@@ -1,59 +1,59 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	59,746	6224	966	132	1.6%
-New Jersey	13,386	2262	161	21	1.2%
-California	6,284	628	132	10	2.1%
-Michigan	5,488	837	132	20	2.4%
-Massachusetts	4,955	698	48	4	1%
-Florida	4,950	912	60	4	1.2%
-Illinois	4,596	1111	66	18	1.4%
-Washington	4,493	216	200	11	4.5%
-Louisiana	3,540	227	151	15	4.3%
-Pennsylvania	3,465	557	43	8	1.2%
-Texas	2,823	291	37	2	1.3%
-Georgia	2,683	242	84	5	3.1%
-Colorado 	2,308	248	47	3	2%
-Connecticut	1,993	469	34	1	1.7%
-Tennessee	1,723	192	8	1	0.5%
-Ohio	1,653	247	29	1	1.8%
-Indiana	1,514	282	32	0	2.1%
-Maryland	1,239	172	15	5	1.2%
-North Carolina	1,202	141	7	2	0.6%
-Wisconsin	1,164	109	18	1	1.5%
-Missouri	923	71	13	1	1.4%
-Nevada	920	181	15	1	1.6%
-Arizona	919	147	17	2	1.8%
-Virginia	890	150	24	7	2.7%
-Alabama	830	110	10	0	1.2%
-South Carolina	774	114	16	1	2.1%
-Mississippi	759	1	14	0	1.8%
-Utah	724	118	4	2	0.6%
-Oregon	549	70	13	0	2.4%
-Minnesota	503	62	9	4	1.8%
-Arkansas	449	43	6	1	1.3%
-Kentucky	439	45	9	0	2.1%
-Oklahoma	431	54	16	1	3.7%
-Washington, D.C.	401	59	9	4	2.2%
-Iowa	336	38	4	0	1.2%
-Kansas	330	62	7	2	2.1%
-Idaho	324	59	6	0	1.9%
-Rhode Island	294	55	3	1	1%
-New Hampshire	258	44	3	1	1.2%
-Maine	253	42	3	2	1.2%
-New Mexico	237	30	2	0	0.8%
-Vermont	235	24	12	0	5.1%
-Delaware	232	18	6	1	2.6%
-Hawaii	175	26	0	0	0%
-Montana	161	14	2	0	1.2%
-Puerto Rico	127	27	5	2	3.9%
-West Virginia	124	11	1	1	0.8%
-Nebraska	120	12	2	0	1.7%
-Alaska	114	12	3	1	2.6%
+New York	66,497	5818	1	192	1.8%
+New Jersey	16,636	3250	198	37	1.2%
+Michigan	6,498	1011	184	52	2.8%
+California	6,495	150	135	3	2.1%
+Florida	5,473	523	63	3	1.2%
+Massachusetts	4,955	0	48	0	1%
+Washington	4,906	10	205	1	4.2%
+Illinois	4,596	0	66	0	1.4%
+Pennsylvania	4,155	691	50	7	1.2%
+Louisiana	4,025	485	185	34	4.6%
+Texas	2,983	139	42	3	1.4%
+Georgia	2,809	189	87	4	3.1%
+Colorado 	2,311	0	47	0	2%
+Connecticut	1,993	0	34	0	1.7%
+Ohio	1,933	282	39	11	2%
+Tennessee	1,900	82	14	2	0.7%
+Indiana	1,787	273	36	4	2%
+Maryland	1,413	174	15	0	1.1%
+North Carolina	1,286	95	7	0	0.5%
+Wisconsin	1,221	56	19	1	1.6%
+Arizona	1,157	0	20	0	1.7%
+Virginia	1,020	134	25	1	2.5%
+Nevada	1,008	88	15	0	1.5%
+Missouri	931	4	13	0	1.4%
+Mississippi	847	89	16	2	1.9%
+Alabama	847	18	10	0	1.2%
+South Carolina	774	0	16	0	2.1%
+Utah	723	0	4	0	0.6%
+Minnesota	576	73	9	0	1.6%
+Oregon	549	0	13	0	2.4%
+Oklahoma	483	52	16	0	3.3%
+Arkansas	449	0	6	0	1.3%
+Kentucky	439	0	9	0	2.1%
+Iowa	424	88	6	0	1.4%
+Rhode Island	408	114	3	0	0.7%
+Washington, D.C.	401	0	9	0	2.2%
+Kansas	372	42	8	1	2.2%
+Idaho	325	0	6	0	1.8%
+Maine	275	22	3	0	1.1%
+Delaware	264	32	6	0	2.3%
+New Hampshire	258	0	3	0	1.2%
+Vermont	256	21	12	0	4.7%
+New Mexico	237	0	2	0	0.8%
+Hawaii	175	0	0	0	0%
+Puerto Rico	174	47	6	1	3.4%
+Montana	171	10	5	3	2.9%
+Nebraska	143	23	2	0	1.4%
+West Virginia	124	0	1	0	0.8%
+Alaska	114	0	3	0	2.6%
+North Dakota	109	12	2	1	1.8%
 Grand Princess	103	0	3	0	2.9%
-North Dakota	98	4	1	0	1%
-South Dakota	90	22	1	0	1.1%
-Wyoming	87	3	0	0	0%
-Guam	56	1	1	0	1.8%
+South Dakota	101	11	1	0	1%
+Wyoming	87	0	0	0	0%
+Guam	58	2	1	0	1.7%
 Diamond Princess	49	0	0	0	0%
-US Virgin Islands	23	0	0	0	0%
+US Virgin Islands	30	7	0	0	0%
 Wuhan Evacuee	4	0	0	0	0%
-Northern Mariana Islands	2	2	0	0	0%
+Northern Mariana Islands	2	0	0	0	0%
