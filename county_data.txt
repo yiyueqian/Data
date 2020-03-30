@@ -7,7 +7,7 @@ Rockland	New York	2,209	313	8	0	0.4%
 Orange	New York	1,247	105	5	1	0.4%
 Erie	New York	414	34	7	1	1.7%
 Dutchess	New York	320	58	2	0	0.6%
-Monroe	New York	219	17	5	0	2.3%
+Monroe	New York	223	21	6	1	2.7%
 Albany	New York	205	10	1	0	0.5%
 Onondaga	New York	194	48	1	0	0.5%
 Ulster	New York	186	51	0	0	0%
@@ -85,12 +85,12 @@ San Francisco	California	340	32	5	1	1.5%
 San Mateo	California	277	3	6	0	2.2%
 Alameda	California	270	14	6	0	2.2%
 Riverside	California	233	38	8	0	3.4%
-Contra Costa	California	168	0	3	0	1.8%
+Contra Costa	California	175	7	3	0	1.7%
 Sacramento	California	164	0	6	0	3.7%
-San Joaquin	California	113	12	4	0	3.5%
-Ventura	California	109	0	3	0	2.8%
+San Joaquin	California	121	20	5	1	4.1%
+Ventura	California	109	11	4	1	3.7%
+Marin	California	93	19	1	0	1.1%
 San Bernardino	California	76	0	3	0	3.9%
-Marin	California	74	0	1	0	1.4%
 San Luis Obispo	California	71	4	0	0	0%
 Santa Barbara	California	68	4	0	0	0%
 Sonoma	California	58	4	1	0	1.7%
@@ -107,11 +107,11 @@ Humboldt	California	18	0	0	0	0%
 Yolo	California	16	0	1	0	6.3%
 Madera	California	15	4	1	0	6.7%
 San Benito	California	14	0	1	0	7.1%
+Mono	California	13	2	0	0	0%
 Nevada	California	12	0	0	0	0%
 El Dorado	California	12	0	0	0	0%
-Mono	California	11	0	0	0	0%
 Napa	California	10	1	0	0	0%
-Merced	California	8	0	0	0	0%
+Merced	California	9	1	0	0	0%
 Inyo	California	8	3	0	0	0%
 Sutter	California	6	0	0	0	0%
 Butte	California	5	0	0	0	0%
@@ -310,14 +310,14 @@ Pierce	Washington	317	35	6	1	1.9%
 Yakima	Washington	140	40	2	0	1.4%
 Unassigned	Washington	125	0	0	0	0%
 Whatcom	Washington	116	14	7	3	6%
-Spokane	Washington	108	0	2	0	1.9%
+Spokane	Washington	115	7	4	2	3.5%
 Island	Washington	105	12	1	0	1%
 Skagit	Washington	99	2	3	0	3%
 Clark	Washington	90	8	6	0	6.7%
 Kitsap	Washington	56	6	0	0	0%
 Benton	Washington	56	0	5	0	8.9%
 Grant	Washington	50	6	1	0	2%
-Thurston	Washington	33	0	0	0	0%
+Thurston	Washington	36	3	0	0	0%
 Franklin	Washington	16	0	0	0	0%
 Jefferson	Washington	13	0	0	0	0%
 Chelan	Washington	13	0	1	0	7.7%
@@ -476,8 +476,8 @@ McLennan	Texas	34	0	0	0	0%
 Smith	Texas	31	4	1	0	3.2%
 Webb	Texas	30	5	0	0	0%
 Bell	Texas	28	0	1	0	3.6%
+Wichita	Texas	28	5	0	0	0%
 Hidalgo	Texas	28	1	0	0	0%
-Wichita	Texas	23	0	0	0	0%
 Nueces	Texas	22	1	0	0	0%
 Cameron	Texas	20	0	0	0	0%
 Jefferson	Texas	16	4	1	0	6.3%
@@ -500,6 +500,7 @@ Potter	Texas	5	2	0	0	0%
 Tom Green	Texas	5	2	0	0	0%
 Val Verde	Texas	5	0	0	0	0%
 Calhoun	Texas	5	2	0	0	0%
+Ector	Texas	5	4	0	0	0%
 Gregg	Texas	4	0	0	0	0%
 Parker	Texas	4	0	0	0	0%
 Eastland	Texas	4	0	0	0	0%
@@ -518,7 +519,6 @@ Victoria	Texas	3	0	0	0	0%
 Angelina	Texas	3	1	0	0	0%
 Rockwall	Texas	3	0	0	0	0%
 Dawson	Texas	3	0	0	0	0%
-Ector	Texas	3	2	0	0	0%
 De Witt	Texas	3	3	0	0	0%
 Rusk	Texas	2	0	0	0	0%
 Grimes	Texas	2	0	0	0	0%
@@ -588,19 +588,19 @@ Bartow	Georgia	119	2	1	0	0.8%
 Carroll	Georgia	70	6	0	0	0%
 Cherokee	Georgia	60	6	1	0	1.7%
 Clayton	Georgia	59	2	1	0	1.7%
-Henry	Georgia	55	5	1	0	1.8%
+Henry	Georgia	56	6	2	1	3.6%
 Lee	Georgia	43	4	6	0	14%
 Douglas	Georgia	38	3	1	0	2.6%
 Clarke	Georgia	35	0	2	0	5.7%
-Hall	Georgia	32	1	0	0	0%
+Hall	Georgia	33	2	0	0	0%
 Floyd	Georgia	28	1	2	1	7.1%
 Forsyth	Georgia	28	6	1	0	3.6%
 Fayette	Georgia	27	1	3	0	11.1%
 Coweta	Georgia	23	3	2	0	8.7%
 Paulding	Georgia	23	3	0	0	0%
 Lowndes	Georgia	20	0	1	0	5%
+Newton	Georgia	18	3	0	0	0%
 Rockdale	Georgia	18	1	1	0	5.6%
-Newton	Georgia	17	2	0	0	0%
 Chatham	Georgia	16	1	0	0	0%
 Early	Georgia	16	0	1	0	6.3%
 Houston	Georgia	15	2	1	0	6.7%
@@ -611,26 +611,27 @@ Bibb	Georgia	14	1	0	0	0%
 Tift	Georgia	13	0	0	0	0%
 Richmond	Georgia	12	0	0	0	0%
 Columbia	Georgia	12	0	0	0	0%
+Laurens	Georgia	12	3	0	0	0%
 Spalding	Georgia	12	1	0	0	0%
 Oconee	Georgia	11	1	0	0	0%
 Polk	Georgia	10	0	0	0	0%
+Troup	Georgia	10	1	1	0	10%
 Worth	Georgia	10	2	1	0	10%
 Terrell	Georgia	10	0	2	0	20%
 Coffee	Georgia	10	3	0	0	0%
-Troup	Georgia	9	0	1	0	11.1%
-Laurens	Georgia	9	0	0	0	0%
-Whitfield	Georgia	8	2	0	0	0%
+Muscogee	Georgia	9	1	0	0	0%
+Whitfield	Georgia	8	2	2	2	25%
 Glynn	Georgia	8	1	0	0	0%
-Muscogee	Georgia	8	0	0	0	0%
 Bryan	Georgia	7	0	0	0	0%
 Thomas	Georgia	7	0	0	0	0%
 Barrow	Georgia	6	0	1	0	16.7%
-Peach	Georgia	6	0	0	0	0%
+Peach	Georgia	6	0	1	1	16.7%
 Colquitt	Georgia	6	1	0	0	0%
 Crisp	Georgia	6	0	0	0	0%
 Pickens	Georgia	5	0	1	0	20%
 Butts	Georgia	5	0	0	0	0%
 Meriwether	Georgia	5	2	0	0	0%
+Seminole	Georgia	5	2	0	0	0%
 Ware	Georgia	5	0	0	0	0%
 Upson	Georgia	5	0	0	0	0%
 Effingham	Georgia	4	0	0	0	0%
@@ -646,10 +647,10 @@ Lincoln	Georgia	3	0	0	0	0%
 Catoosa	Georgia	3	0	0	0	0%
 Madison	Georgia	3	0	0	0	0%
 Liberty	Georgia	3	0	0	0	0%
+Harris	Georgia	3	1	0	0	0%
 Irwin	Georgia	3	0	0	0	0%
 Pulaski	Georgia	3	0	0	0	0%
 Stephens	Georgia	3	0	0	0	0%
-Seminole	Georgia	3	0	0	0	0%
 Fannin	Georgia	3	0	0	0	0%
 Calhoun	Georgia	3	0	0	0	0%
 Murray	Georgia	3	1	0	0	0%
@@ -660,12 +661,12 @@ Twiggs	Georgia	2	0	0	0	0%
 Tattnall	Georgia	2	0	0	0	0%
 Pierce	Georgia	2	0	0	0	0%
 Washington	Georgia	2	0	0	0	0%
-Harris	Georgia	2	0	0	0	0%
 Camden	Georgia	2	0	0	0	0%
 Ben Hill	Georgia	2	0	0	0	0%
 Jasper	Georgia	2	0	0	0	0%
 Jackson	Georgia	2	0	0	0	0%
 Jones	Georgia	2	0	0	0	0%
+Toombs	Georgia	2	1	0	0	0%
 Franklin	Georgia	2	0	0	0	0%
 Haralson	Georgia	2	0	0	0	0%
 Pike	Georgia	2	1	0	0	0%
@@ -682,7 +683,6 @@ Taylor	Georgia	1	0	0	0	0%
 White	Georgia	1	0	0	0	0%
 Wilkes	Georgia	1	0	0	0	0%
 Long	Georgia	1	0	0	0	0%
-Toombs	Georgia	1	0	0	0	0%
 Mcduffie	Georgia	1	0	0	0	0%
 Chattahoochee	Georgia	1	0	0	0	0%
 Hart	Georgia	1	0	0	0	0%
@@ -710,8 +710,8 @@ La Plata	Colorado 	21	4	0	0	0%
 Broomfield	Colorado 	17	1	0	0	0%
 Routt	Colorado 	16	2	0	0	0%
 Chaffee	Colorado 	15	4	1	0	6.7%
+Mesa	Colorado 	12	1	0	0	0%
 Summit	Colorado 	11	0	0	0	0%
-Mesa	Colorado 	11	0	0	0	0%
 Pueblo	Colorado 	10	3	1	0	10%
 Montrose	Colorado 	8	0	0	0	0%
 Teller	Colorado 	7	0	1	0	14.3%
@@ -998,9 +998,9 @@ Forsyth	North Carolina	35	2	0	0	0%
 Cabarrus	North Carolina	32	0	2	0	6.3%
 Orange	North Carolina	29	5	0	0	0%
 New Hanover	North Carolina	27	2	0	0	0%
+Gaston	North Carolina	25	8	0	0	0%
 Northampton	North Carolina	25	0	0	0	0%
 Iredell	North Carolina	21	3	0	0	0%
-Gaston	North Carolina	21	4	0	0	0%
 Buncombe	North Carolina	19	2	1	1	5.3%
 Rowan	North Carolina	17	5	1	0	5.9%
 Davidson	North Carolina	16	2	0	0	0%
@@ -1273,14 +1273,14 @@ Manassas Park	Virginia	1	1	0	0	0%
 Unassigned	Virginia	0	0	5	5	
 Unknown	Virginia	0	0	4	0	
 Jefferson	Alabama	246	32	0	0	0%
+Madison	Alabama	80	18	1	0	1.3%
 Shelby	Alabama	79	7	0	0	0%
-Madison	Alabama	79	17	1	0	1.3%
-Lee	Alabama	60	4	2	0	3.3%
-Mobile	Alabama	40	6	1	0	2.5%
+Lee	Alabama	57	1	2	0	3.5%
+Mobile	Alabama	41	7	1	0	2.4%
 Walker	Alabama	30	2	0	0	0%
 Chambers	Alabama	27	10	3	0	11.1%
 Tuscaloosa	Alabama	23	0	0	0	0%
-Montgomery	Alabama	21	3	0	0	0%
+Montgomery	Alabama	22	4	0	0	0%
 Morgan	Alabama	17	2	0	0	0%
 Limestone	Alabama	16	0	0	0	0%
 Baldwin	Alabama	15	5	1	0	6.7%
@@ -1288,10 +1288,10 @@ Elmore	Alabama	13	0	0	0	0%
 St. Clair	Alabama	13	2	0	0	0%
 Lauderdale	Alabama	12	0	1	0	8.3%
 Marion	Alabama	10	1	0	0	0%
+Houston	Alabama	8	4	0	0	0%
 Tallapoosa	Alabama	8	3	0	0	0%
+Chilton	Alabama	8	1	0	0	0%
 Cullman	Alabama	7	0	0	0	0%
-Chilton	Alabama	7	0	0	0	0%
-Houston	Alabama	6	2	0	0	0%
 Autauga	Alabama	6	0	0	0	0%
 Etowah	Alabama	6	0	0	0	0%
 Jackson	Alabama	5	0	1	0	20%
@@ -1442,7 +1442,7 @@ Carroll	Mississippi	1	0	0	0	0%
 Claiborne	Mississippi	1	0	0	0	0%
 Warren	Mississippi	1	0	0	0	0%
 Alcorn	Mississippi	1	1	0	0	0%
-Salt Lake	Utah	321	45	0	0	0%
+Salt Lake	Utah	321	45	2	2	0.6%
 Summit	Utah	151	24	0	0	0%
 Davis	Utah	69	10	1	0	1.4%
 Utah	Utah	50	20	0	0	0%
@@ -1453,9 +1453,9 @@ Tooele	Utah	9	1	0	0	0%
 Washington	Utah	8	0	1	0	12.5%
 Box Elder	Utah	5	1	0	0	0%
 Cache	Utah	5	0	0	0	0%
+Iron	Utah	4	2	0	0	0%
 Grand	Utah	4	0	0	0	0%
 San Juan	Utah	4	3	0	0	0%
-Iron	Utah	2	0	0	0	0%
 Beaver	Utah	1	0	0	0	0%
 Unitah	Utah	1	0	0	0	0%
 Garfield	Utah	1	0	0	0	0%
@@ -1529,6 +1529,56 @@ Cottonwood	Minnesota	1	1	0	0	0%
 Douglas	Minnesota	1	1	0	0	0%
 Otter Tail	Minnesota	1	1	0	0	0%
 Isanti	Minnesota	1	1	0	0	0%
+Pulaski	Arkansas	94	2	0	0	0%
+Cleburne	Arkansas	56	6	1	0	1.8%
+Benton	Arkansas	33	5	0	0	0%
+Unassigned	Arkansas	33	3	5	1	15.2%
+Faulkner	Arkansas	30	1	0	0	0%
+Jefferson	Arkansas	26	1	0	0	0%
+Garland	Arkansas	26	6	0	0	0%
+Clark	Arkansas	18	1	0	0	0%
+Van Buren	Arkansas	18	1	0	0	0%
+Crittenden	Arkansas	17	3	0	0	0%
+Washington	Arkansas	15	1	0	0	0%
+Saline	Arkansas	6	2	0	0	0%
+Craighead	Arkansas	6	2	0	0	0%
+Lincoln	Arkansas	6	0	0	0	0%
+Union	Arkansas	6	1	0	0	0%
+White	Arkansas	6	0	0	0	0%
+Cleveland	Arkansas	5	0	0	0	0%
+Sebastian	Arkansas	5	3	0	0	0%
+Bradley	Arkansas	4	0	0	0	0%
+Grant	Arkansas	3	0	0	0	0%
+Independence	Arkansas	3	0	0	0	0%
+Poinsett	Arkansas	3	0	0	0	0%
+Desha	Arkansas	2	0	0	0	0%
+Searcy	Arkansas	2	0	0	0	0%
+Pope	Arkansas	1	0	0	0	0%
+Sevier	Arkansas	1	0	0	0	0%
+Boone	Arkansas	1	0	0	0	0%
+Greene	Arkansas	1	0	0	0	0%
+Polk	Arkansas	1	0	0	0	0%
+Columbia	Arkansas	1	0	0	0	0%
+Conway	Arkansas	1	0	0	0	0%
+Woodruff	Arkansas	1	0	0	0	0%
+Stone	Arkansas	1	0	0	0	0%
+Crawford	Arkansas	1	0	0	0	0%
+Cross	Arkansas	1	0	0	0	0%
+Hempstead	Arkansas	1	1	0	0	0%
+Pike	Arkansas	1	0	0	0	0%
+Hot Spring	Arkansas	1	0	0	0	0%
+Drew	Arkansas	1	0	0	0	0%
+Lawrence	Arkansas	1	0	0	0	0%
+Lonoke	Arkansas	1	0	0	0	0%
+Randolph	Arkansas	1	0	0	0	0%
+Chicot	Arkansas	1	0	0	0	0%
+Baxter	Arkansas	1	0	0	0	0%
+Howard	Arkansas	1	0	0	0	0%
+Johnson	Arkansas	1	0	0	0	0%
+Ashley	Arkansas	1	1	0	0	0%
+Nevada	Arkansas	1	1	0	0	0%
+Perry	Arkansas	1	1	0	0	0%
+Arkansas	Arkansas	1	1	0	0	0%
 Jefferson	Kentucky	97	0	3	0	3.1%
 Unassigned	Kentucky	69	36	0	0	0%
 Fayette	Kentucky	67	0	2	0	3%
@@ -1634,55 +1684,7 @@ Le Flore	Oklahoma	1	0	0	0	0%
 Rogers	Oklahoma	1	1	0	0	0%
 Seminole	Oklahoma	1	1	0	0	0%
 Texas	Oklahoma	1	1	0	0	0%
-Pulaski	Arkansas	93	1	0	0	0%
-Cleburne	Arkansas	50	0	1	0	2%
-Benton	Arkansas	31	3	0	0	0%
-Unassigned	Arkansas	31	1	5	1	16.1%
-Faulkner	Arkansas	30	1	0	0	0%
-Jefferson	Arkansas	25	0	0	0	0%
-Garland	Arkansas	25	5	0	0	0%
-Clark	Arkansas	17	0	0	0	0%
-Van Buren	Arkansas	17	0	0	0	0%
-Crittenden	Arkansas	17	3	0	0	0%
-Washington	Arkansas	14	0	0	0	0%
-Saline	Arkansas	6	2	0	0	0%
-Craighead	Arkansas	6	2	0	0	0%
-Lincoln	Arkansas	6	0	0	0	0%
-White	Arkansas	6	0	0	0	0%
-Cleveland	Arkansas	5	0	0	0	0%
-Union	Arkansas	5	0	0	0	0%
-Bradley	Arkansas	4	0	0	0	0%
-Grant	Arkansas	3	0	0	0	0%
-Independence	Arkansas	3	0	0	0	0%
-Poinsett	Arkansas	3	0	0	0	0%
-Desha	Arkansas	2	0	0	0	0%
-Searcy	Arkansas	2	0	0	0	0%
-Sebastian	Arkansas	2	0	0	0	0%
-Pope	Arkansas	1	0	0	0	0%
-Sevier	Arkansas	1	0	0	0	0%
-Boone	Arkansas	1	0	0	0	0%
-Greene	Arkansas	1	0	0	0	0%
-Polk	Arkansas	1	0	0	0	0%
-Columbia	Arkansas	1	0	0	0	0%
-Conway	Arkansas	1	0	0	0	0%
-Woodruff	Arkansas	1	0	0	0	0%
-Stone	Arkansas	1	0	0	0	0%
-Crawford	Arkansas	1	0	0	0	0%
-Cross	Arkansas	1	0	0	0	0%
-Pike	Arkansas	1	0	0	0	0%
-Hot Spring	Arkansas	1	0	0	0	0%
-Drew	Arkansas	1	0	0	0	0%
-Lawrence	Arkansas	1	0	0	0	0%
-Lonoke	Arkansas	1	0	0	0	0%
-Randolph	Arkansas	1	0	0	0	0%
-Chicot	Arkansas	1	0	0	0	0%
-Baxter	Arkansas	1	0	0	0	0%
-Howard	Arkansas	1	0	0	0	0%
-Johnson	Arkansas	1	0	0	0	0%
-Ashley	Arkansas	1	1	0	0	0%
-Nevada	Arkansas	1	1	0	0	0%
-Hempstead	Arkansas	0	0	0	0	
-District of Columbia	Washington, D.C.	342	0	5	0	1.5%
+District of Columbia	Washington, D.C.	401	59	9	4	2.2%
 Johnson	Iowa	65	4	0	0	0%
 Polk	Iowa	50	10	0	0	0%
 Linn	Iowa	42	6	1	0	2.4%
@@ -1864,7 +1866,7 @@ Silver Bow	Montana	9	1	0	0	0%
 Flathead	Montana	8	2	0	0	0%
 Cascade	Montana	7	0	0	0	0%
 Toole	Montana	5	0	0	0	0%
-Madison	Montana	4	1	0	0	0%
+Madison	Montana	4	1	1	0	25%
 Lincoln	Montana	4	1	1	0	25%
 Broadwater	Montana	3	0	0	0	0%
 Lake	Montana	3	1	0	0	0%
@@ -1921,23 +1923,23 @@ Dawson	Nebraska	1	0	0	0	0%
 Gosper	Nebraska	1	0	0	0	0%
 Platte	Nebraska	1	1	0	0	0%
 Scotts Bluff	Nebraska	1	1	0	0	0%
-Unassigned	Grand Princess	95	0	0	0	0%
-Solano	Grand Princess	7	0	0	0	0%
-San Diego	Grand Princess	1	0	0	0	0%
-Grand Princess	Grand Princess	0	0	3	0	
-Anchorage	Alaska	49	0	1	0	2%
-Fairbanks North Star	Alaska	16	0	0	0	0%
-Ketchikan Gateway	Alaska	12	0	0	0	0%
-North Pole	Alaska	7	0	0	0	0%
-Juneau	Alaska	4	0	0	0	0%
-Eagle River	Alaska	4	0	0	0	0%
+Anchorage	Alaska	53	4	1	0	1.9%
+Fairbanks North Star	Alaska	20	4	0	0	0%
+Ketchikan Gateway	Alaska	13	1	0	0	0%
+North Pole	Alaska	8	1	0	0	0%
+Juneau	Alaska	5	1	0	0	0%
+Eagle River	Alaska	5	1	0	0	0%
 Soldotna	Alaska	2	0	0	0	0%
 Sterling	Alaska	2	0	0	0	0%
 Palmer	Alaska	2	0	0	0	0%
 Homer	Alaska	2	0	0	0	0%
 Seward	Alaska	1	0	0	0	0%
 Gridwood	Alaska	1	0	0	0	0%
-Unassigned	Alaska	0	0	1	0	
+Unassigned	Alaska	0	0	2	1	
+Unassigned	Grand Princess	95	0	0	0	0%
+Solano	Grand Princess	7	0	0	0	0%
+San Diego	Grand Princess	1	0	0	0	0%
+Grand Princess	Grand Princess	0	0	3	0	
 Burleigh	North Dakota	28	0	0	0	0%
 Cass	North Dakota	20	2	1	0	5%
 Morton	North Dakota	14	1	0	0	0%
