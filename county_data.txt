@@ -55,25 +55,25 @@ Hamilton	New York	2	0	0	0	0%
 Schuyler	New York	2	0	0	0	0%
 Lewis	New York	2	0	0	0	0%
 Fulton	New York	1	0	0	0	0%
-Unassigned	New York	0	0	242	0	
-Unassigned	New Jersey	3,686	0	149	68	4%
-Bergen	New Jersey	2,909	427	23	0	0.8%
-Essex	New Jersey	1,900	336	15	0	0.8%
+Unassigned	New York	0	0	406	164	
+Unassigned	New Jersey	3,686	0	95	58	2.6%
+Bergen	New Jersey	3,202	720	32	0	1%
+Essex	New Jersey	1,900	336	35	8	1.8%
 Hudson	New Jersey	1,606	292	11	0	0.7%
-Union	New Jersey	1,418	205	7	0	0.5%
-Passaic	New Jersey	1,294	203	11	1	0.9%
-Middlesex	New Jersey	1,277	154	12	0	0.9%
-Monmouth	New Jersey	1,140	110	8	0	0.7%
-Ocean	New Jersey	1,022	148	7	0	0.7%
-Morris	New Jersey	841	121	8	0	1%
-Somerset	New Jersey	413	64	6	0	1.5%
+Union	New Jersey	1,418	205	10	0	0.7%
+Passaic	New Jersey	1,294	203	12	1	0.9%
+Middlesex	New Jersey	1,277	154	14	0	1.1%
+Monmouth	New Jersey	1,140	110	11	0	1%
+Ocean	New Jersey	1,022	148	10	0	1%
+Morris	New Jersey	841	121	12	0	1.4%
+Somerset	New Jersey	413	64	11	0	2.7%
 Mercer	New Jersey	268	19	0	0	0%
 Camden	New Jersey	228	28	3	0	1.3%
-Burlington	New Jersey	202	24	2	0	1%
-Sussex	New Jersey	132	19	1	0	0.8%
+Burlington	New Jersey	202	24	5	2	2.5%
+Sussex	New Jersey	137	24	1	0	0.7%
 Gloucester	New Jersey	114	25	1	0	0.9%
 Hunterdon	New Jersey	97	18	0	0	0%
-Warren	New Jersey	76	8	1	0	1.3%
+Warren	New Jersey	76	8	2	0	2.6%
 Atlantic	New Jersey	31	2	0	0	0%
 Cumberland	New Jersey	18	6	1	0	5.6%
 Cape May	New Jersey	15	6	0	0	0%
@@ -89,44 +89,45 @@ San Mateo	California	309	0	10	0	3.2%
 Sacramento	California	224	0	7	0	3.1%
 Contra Costa	California	222	35	3	0	1.4%
 San Bernardino	California	183	72	6	3	3.3%
+San Joaquin	California	151	15	8	2	5.3%
 Ventura	California	149	23	5	1	3.4%
-San Joaquin	California	141	5	7	1	5%
+Marin	California	107	8	4	0	3.7%
 Kern	California	101	25	1	0	1%
-Marin	California	99	0	4	0	4%
 Santa Barbara	California	99	11	0	0	0%
 San Luis Obispo	California	80	3	0	0	0%
-Sonoma	California	73	0	2	1	2.7%
+Sonoma	California	78	5	2	1	2.6%
+Fresno	California	68	15	0	0	0%
 Placer	California	67	10	2	0	3%
-Fresno	California	53	0	0	0	0%
 Solano	California	49	6	0	0	0%
 Santa Cruz	California	49	4	1	0	2%
 Tulare	California	45	2	1	0	2.2%
-Monterey	California	40	0	1	0	2.5%
-Stanislaus	California	35	2	0	0	0%
+Monterey	California	42	2	1	0	2.4%
+Stanislaus	California	39	6	0	0	0%
 Imperial	California	33	0	0	0	0%
 Humboldt	California	27	6	0	0	0%
 Yolo	California	25	1	1	0	4%
+Madera	California	23	2	1	0	4.3%
 San Benito	California	21	4	1	0	4.8%
-Madera	California	21	0	1	0	4.8%
 Nevada	California	21	0	0	0	0%
-El Dorado	California	15	0	0	0	0%
+El Dorado	California	18	3	0	0	0%
 Napa	California	15	1	0	0	0%
-Mono	California	13	0	0	0	0%
+Mono	California	13	0	1	1	7.7%
 Merced	California	10	0	0	0	0%
 Sutter	California	10	1	0	0	0%
 Butte	California	8	0	0	0	0%
 Inyo	California	8	0	0	0	0%
+Shasta	California	7	1	1	0	14.3%
 Yuba	California	7	1	0	0	0%
-Shasta	California	6	0	1	0	16.7%
 Mendocino	California	4	0	0	0	0%
+Kings	California	4	2	0	0	0%
 Calaveras	California	3	0	0	0	0%
 Siskiyou	California	3	0	0	0	0%
-Kings	California	3	1	0	0	0%
 Amador	California	2	0	0	0	0%
 Glenn	California	2	0	0	0	0%
 Tuolumne	California	2	0	0	0	0%
 Colusa	California	1	0	0	0	0%
 Alpine	California	1	1	0	0	0%
+Plumas	California	1	1	0	0	0%
 Unassigned	California	0	0	0	0	
 Wayne--Detroit	Michigan	2,080	279	75	23	3.6%
 Wayne	Michigan	1,655	261	45	14	2.7%
@@ -269,9 +270,9 @@ Berkshire	Massachusetts	171	9	4	1	2.3%
 Hampshire	Massachusetts	69	23	1	1	1.4%
 Franklin	Massachusetts	61	12	4	2	6.6%
 Dukes and Nantucket	Massachusetts	8	0	0	0	0%
-Cook	Illinois	4,496	769	61	17	1.4%
+Cook	Illinois	4,496	769	60	17	1.3%
 Lake	Illinois	389	46	2	1	0.5%
-DuPage	Illinois	356	36	10	2	2.8%
+DuPage	Illinois	356	36	11	2	3.1%
 Will	Illinois	228	4	8	2	3.5%
 Kane	Illinois	128	15	7	1	5.5%
 McHenry	Illinois	63	11	2	0	3.2%
@@ -280,7 +281,7 @@ Kankakee	Illinois	42	9	0	0	0%
 Champaign	Illinois	26	2	0	0	0%
 Kendall	Illinois	19	1	2	0	10.5%
 McLean	Illinois	19	2	2	1	10.5%
-Unassigned	Illinois	18	10	0	0	0%
+Unassigned	Illinois	17	9	0	0	0%
 Madison	Illinois	16	3	0	0	0%
 Winnebago	Illinois	15	2	0	0	0%
 Sangamon	Illinois	14	2	1	0	7.1%
@@ -323,6 +324,7 @@ Clark	Illinois	1	0	0	0	0%
 Crawford	Illinois	1	0	0	0	0%
 Saline	Illinois	1	0	0	0	0%
 Ford	Illinois	1	1	0	0	0%
+Ogle	Illinois	1	1	0	0	0%
 King	Washington	2,330	0	150	0	6.4%
 Snohomish	Washington	1,229	102	33	2	2.7%
 Pierce	Washington	377	25	6	0	1.6%
@@ -332,7 +334,7 @@ Spokane	Washington	145	9	4	0	2.8%
 Whatcom	Washington	139	23	7	0	5%
 Skagit	Washington	128	27	3	0	2.3%
 Clark	Washington	116	26	6	0	5.2%
-Island	Washington	106	0	3	0	2.8%
+Island	Washington	109	3	3	0	2.8%
 Benton	Washington	89	0	6	1	6.7%
 Kitsap	Washington	74	18	0	0	0%
 Grant	Washington	63	4	1	0	1.6%
@@ -479,6 +481,7 @@ Mckean	Pennsylvania	1	0	0	0	0%
 Northumberland	Pennsylvania	1	0	0	0	0%
 Perry	Pennsylvania	1	0	0	0	0%
 Cameron	Pennsylvania	1	0	0	0	0%
+Unassigned	Pennsylvania	0	0	1	1	
 Fulton	Georgia	599	96	18	2	3%
 Dougherty	Georgia	466	188	26	8	5.6%
 DeKalb	Georgia	360	66	4	1	1.1%
@@ -634,18 +637,18 @@ Lubbock	Texas	100	23	1	0	1%
 Brazoria	Texas	95	16	1	0	1.1%
 Montgomery	Texas	93	12	0	0	0%
 Brazos	Texas	53	7	2	0	3.8%
+El Paso	Texas	50	4	0	0	0%
 Williamson	Texas	50	8	1	0	2%
-El Paso	Texas	46	0	0	0	0%
 Hidalgo	Texas	46	8	0	0	0%
 Webb	Texas	45	10	2	1	4.4%
 Bell	Texas	44	8	1	0	2.3%
-McLennan	Texas	39	3	0	0	0%
+McLennan	Texas	44	8	1	1	2.3%
 Hays	Texas	38	0	0	0	0%
+Wichita	Texas	38	8	0	0	0%
 Smith	Texas	36	4	1	0	2.8%
 Nueces	Texas	34	3	0	0	0%
-Wichita	Texas	30	0	0	0	0%
+Matagorda	Texas	27	6	1	0	3.7%
 Cameron	Texas	26	6	0	0	0%
-Matagorda	Texas	21	0	1	0	4.8%
 Ellis	Texas	20	5	0	0	0%
 Jefferson	Texas	18	0	1	0	5.6%
 Midland	Texas	16	3	1	0	6.3%
@@ -654,8 +657,8 @@ Victoria	Texas	15	9	0	0	0%
 Taylor	Texas	14	3	0	0	0%
 Hardin	Texas	12	3	0	0	0%
 Comal	Texas	11	0	2	0	18.2%
+Ector	Texas	11	4	0	0	0%
 Randall	Texas	10	4	0	0	0%
-Ector	Texas	10	3	0	0	0%
 Bowie	Texas	9	5	1	1	11.1%
 Tom Green	Texas	9	3	0	0	0%
 Washington	Texas	9	0	0	0	0%
@@ -789,7 +792,7 @@ Summit	Colorado 	20	6	0	0	0%
 Broomfield	Colorado 	20	2	1	1	5%
 Routt	Colorado 	17	1	0	0	0%
 Chaffee	Colorado 	17	2	1	0	5.9%
-Mesa	Colorado 	14	2	0	0	0%
+Mesa	Colorado 	16	4	0	0	0%
 Montrose	Colorado 	13	3	0	0	0%
 Teller	Colorado 	7	0	1	0	14.3%
 Logan	Colorado 	6	1	0	0	0%
@@ -1063,7 +1066,7 @@ Anne Arundel	Maryland	127	17	1	0	0.8%
 Howard	Maryland	117	21	2	1	1.7%
 Carroll	Maryland	92	10	2	1	2.2%
 Charles	Maryland	40	7	1	0	2.5%
-Frederick	Maryland	33	7	0	0	0%
+Frederick	Maryland	33	7	1	1	3%
 Harford	Maryland	25	1	0	0	0%
 Calvert	Maryland	15	3	0	0	0%
 St. Mary\'s	Maryland	15	6	0	0	0%
@@ -1082,16 +1085,16 @@ Wake	North Carolina	193	13	0	0	0%
 Durham	North Carolina	125	7	0	0	0%
 Guilford	North Carolina	50	6	1	1	2%
 Cabarrus	North Carolina	47	9	1	0	2.1%
+Union	North Carolina	44	5	0	0	0%
 Forsyth	North Carolina	42	2	1	1	2.4%
-Union	North Carolina	41	2	0	0	0%
 New Hanover	North Carolina	34	4	0	0	0%
 Orange	North Carolina	34	4	0	0	0%
 Northampton	North Carolina	30	4	1	0	3.3%
 Gaston	North Carolina	27	0	0	0	0%
 Pitt	North Carolina	27	2	0	0	0%
 Iredell	North Carolina	25	0	0	0	0%
+Rowan	North Carolina	24	6	1	0	4.2%
 Cumberland	North Carolina	24	6	0	0	0%
-Rowan	North Carolina	23	5	1	0	4.3%
 Buncombe	North Carolina	22	1	1	0	4.5%
 Davidson	North Carolina	22	3	0	0	0%
 Harnett	North Carolina	18	3	1	0	5.6%
@@ -1099,19 +1102,20 @@ Henderson	North Carolina	18	2	0	0	0%
 Randolph	North Carolina	17	0	0	0	0%
 Chatham	North Carolina	16	2	0	0	0%
 Brunswick	North Carolina	16	2	0	0	0%
+Catawba	North Carolina	16	2	0	0	0%
+Wilson	North Carolina	15	2	0	0	0%
 Johnston	North Carolina	14	3	1	0	7.1%
-Catawba	North Carolina	14	0	0	0	0%
-Wilson	North Carolina	13	0	0	0	0%
 Carteret	North Carolina	12	1	1	0	8.3%
+Davie	North Carolina	12	1	0	0	0%
 Franklin	North Carolina	11	5	0	0	0%
-Davie	North Carolina	11	0	0	0	0%
+Nash	North Carolina	11	7	0	0	0%
+Cherokee	North Carolina	9	2	1	1	11.1%
 Granville	North Carolina	9	2	0	0	0%
-Nash	North Carolina	9	5	0	0	0%
 Moore	North Carolina	8	0	0	0	0%
 Onslow	North Carolina	7	1	1	1	14.3%
-Cherokee	North Carolina	7	0	1	1	14.3%
 Alamance	North Carolina	7	0	0	0	0%
 McDowell	North Carolina	7	0	0	0	0%
+Beaufort	North Carolina	7	2	0	0	0%
 Craven	North Carolina	6	1	0	0	0%
 Watauga	North Carolina	6	1	0	0	0%
 Bertie	North Carolina	6	0	0	0	0%
@@ -1122,19 +1126,18 @@ Wayne	North Carolina	5	1	0	0	0%
 Stanly	North Carolina	5	0	0	0	0%
 Montgomery	North Carolina	5	2	0	0	0%
 Transylvania	North Carolina	5	2	0	0	0%
-Beaufort	North Carolina	5	0	0	0	0%
 Rutherford	North Carolina	5	3	0	0	0%
 Lincoln	North Carolina	4	1	0	0	0%
 Hoke	North Carolina	4	1	0	0	0%
 Pasquotank	North Carolina	4	2	0	0	0%
 Vance	North Carolina	4	1	0	0	0%
 Hertford	North Carolina	4	1	0	0	0%
+Polk	North Carolina	4	2	0	0	0%
 Columbus	North Carolina	4	0	0	0	0%
 Lee	North Carolina	3	1	0	0	0%
 Robeson	North Carolina	3	1	0	0	0%
 Lenoir	North Carolina	3	0	0	0	0%
 Caldwell	North Carolina	3	0	0	0	0%
-Polk	North Carolina	3	1	0	0	0%
 Edgecombe	North Carolina	3	2	0	0	0%
 Greene	North Carolina	3	0	0	0	0%
 Yadkin	North Carolina	3	1	0	0	0%
@@ -1208,12 +1211,12 @@ Door	Wisconsin	1	1	0	0	0%
 Oconto	Wisconsin	1	1	0	0	0%
 Unassigned	Wisconsin	0	0	0	0	
 St. Louis	Missouri	492	126	3	0	0.6%
-St. Louis City	Missouri	150	0	1	0	0.7%
+St. Louis City	Missouri	195	45	1	0	0.5%
 Kansas City	Missouri	119	19	0	0	0%
 Jackson	Missouri	77	21	1	0	1.3%
 St. Charles	Missouri	71	15	2	0	2.8%
-Boone	Missouri	64	5	1	0	1.6%
-Greene	Missouri	48	0	4	0	8.3%
+Boone	Missouri	66	7	1	0	1.5%
+Greene	Missouri	50	2	4	0	8%
 Jefferson	Missouri	30	12	0	0	0%
 Cole	Missouri	25	0	0	0	0%
 Johnson	Missouri	19	0	0	0	0%
@@ -1620,65 +1623,12 @@ Columbia	Oregon	1	0	0	0	0%
 Morrow	Oregon	1	0	0	0	0%
 Malheur	Oregon	1	1	0	0	0%
 Wallowa	Oregon	1	1	0	0	0%
-Hennepin	Minnesota	204	14	5	0	2.5%
-Ramsey	Minnesota	56	6	2	0	3.6%
-Olmsted	Minnesota	53	2	0	0	0%
-Dakota	Minnesota	47	1	0	0	0%
-Washington	Minnesota	39	5	0	0	0%
-Martin	Minnesota	25	2	2	0	8%
-Anoka	Minnesota	23	1	0	0	0%
-Le Sueur	Minnesota	15	2	0	0	0%
-Mower	Minnesota	13	1	0	0	0%
-St. Louis	Minnesota	12	0	0	0	0%
-Carver	Minnesota	10	0	0	0	0%
-Scott	Minnesota	10	0	0	0	0%
-Winona	Minnesota	10	5	0	0	0%
-Blue earth	Minnesota	9	0	0	0	0%
-Filmore	Minnesota	8	1	0	0	0%
-Dodge	Minnesota	8	0	0	0	0%
-Sherburne	Minnesota	8	1	0	0	0%
-Wright	Minnesota	6	0	0	0	0%
-Clay	Minnesota	6	2	0	0	0%
-Wabasha	Minnesota	6	0	0	0	0%
-Steele	Minnesota	6	0	0	0	0%
-Stearns	Minnesota	5	0	0	0	0%
-Beltrami	Minnesota	4	1	0	0	0%
-Waseca	Minnesota	3	0	0	0	0%
-Nicollet	Minnesota	3	0	0	0	0%
-Rice	Minnesota	3	0	0	0	0%
-Chisago	Minnesota	3	0	0	0	0%
-Goodhue	Minnesota	3	0	0	0	0%
-Kandiyohi	Minnesota	2	1	0	0	0%
-Faribault	Minnesota	2	1	0	0	0%
-Clearwater	Minnesota	2	0	0	0	0%
-Cottonwood	Minnesota	2	1	0	0	0%
-Isanti	Minnesota	2	0	0	0	0%
-Brown	Minnesota	2	2	0	0	0%
-Traverse	Minnesota	2	2	0	0	0%
-Renville	Minnesota	1	0	0	0	0%
-Benton	Minnesota	1	0	0	0	0%
-Jackson	Minnesota	1	0	0	0	0%
-Cass	Minnesota	1	0	0	0	0%
-Big Stone	Minnesota	1	0	0	0	0%
-Lac Qui Parle	Minnesota	1	0	0	0	0%
-Sibley	Minnesota	1	0	0	0	0%
-Wilkin	Minnesota	1	0	0	0	0%
-Lincoln	Minnesota	1	0	0	0	0%
-Mahnomen	Minnesota	1	0	0	0	0%
-Douglas	Minnesota	1	0	0	0	0%
-Otter Tail	Minnesota	1	0	0	0	0%
-Itasca	Minnesota	1	0	0	0	0%
-Meeker	Minnesota	1	0	0	0	0%
-Watonwan	Minnesota	1	0	0	0	0%
-Carlton	Minnesota	1	1	0	0	0%
-Lyon	Minnesota	1	1	0	0	0%
-Unassigned	Minnesota	0	0	3	2	
 Jefferson	Kentucky	206	72	7	4	3.4%
 Fayette	Kentucky	110	21	3	1	2.7%
 Daviess	Kentucky	34	7	0	0	0%
 Kenton	Kentucky	20	0	1	0	5%
+Unassigned	Kentucky	18	4	3	1	16.7%
 Hopkins	Kentucky	17	0	1	0	5.9%
-Unassigned	Kentucky	14	0	3	1	21.4%
 Warren	Kentucky	13	0	0	0	0%
 Jessamine	Kentucky	13	2	0	0	0%
 Harrison	Kentucky	11	0	0	0	0%
@@ -1741,6 +1691,59 @@ Lewis	Kentucky	1	1	0	0	0%
 Lawrence	Kentucky	1	1	0	0	0%
 Pendleton	Kentucky	1	1	0	0	0%
 Rockcastle	Kentucky	1	1	0	0	0%
+Hennepin	Minnesota	204	14	5	0	2.5%
+Ramsey	Minnesota	56	6	2	0	3.6%
+Olmsted	Minnesota	53	2	0	0	0%
+Dakota	Minnesota	47	1	0	0	0%
+Washington	Minnesota	39	5	0	0	0%
+Martin	Minnesota	25	2	2	0	8%
+Anoka	Minnesota	23	1	0	0	0%
+Le Sueur	Minnesota	15	2	0	0	0%
+Mower	Minnesota	13	1	0	0	0%
+St. Louis	Minnesota	12	0	0	0	0%
+Carver	Minnesota	10	0	0	0	0%
+Scott	Minnesota	10	0	0	0	0%
+Winona	Minnesota	10	5	0	0	0%
+Blue earth	Minnesota	9	0	0	0	0%
+Filmore	Minnesota	8	1	0	0	0%
+Dodge	Minnesota	8	0	0	0	0%
+Sherburne	Minnesota	8	1	0	0	0%
+Wright	Minnesota	6	0	0	0	0%
+Clay	Minnesota	6	2	0	0	0%
+Wabasha	Minnesota	6	0	0	0	0%
+Steele	Minnesota	6	0	0	0	0%
+Stearns	Minnesota	5	0	0	0	0%
+Beltrami	Minnesota	4	1	0	0	0%
+Waseca	Minnesota	3	0	0	0	0%
+Nicollet	Minnesota	3	0	0	0	0%
+Rice	Minnesota	3	0	0	0	0%
+Chisago	Minnesota	3	0	0	0	0%
+Goodhue	Minnesota	3	0	0	0	0%
+Kandiyohi	Minnesota	2	1	0	0	0%
+Faribault	Minnesota	2	1	0	0	0%
+Clearwater	Minnesota	2	0	0	0	0%
+Cottonwood	Minnesota	2	1	0	0	0%
+Isanti	Minnesota	2	0	0	0	0%
+Brown	Minnesota	2	2	0	0	0%
+Traverse	Minnesota	2	2	0	0	0%
+Renville	Minnesota	1	0	0	0	0%
+Benton	Minnesota	1	0	0	0	0%
+Jackson	Minnesota	1	0	0	0	0%
+Cass	Minnesota	1	0	0	0	0%
+Big Stone	Minnesota	1	0	0	0	0%
+Lac Qui Parle	Minnesota	1	0	0	0	0%
+Sibley	Minnesota	1	0	0	0	0%
+Wilkin	Minnesota	1	0	0	0	0%
+Lincoln	Minnesota	1	0	0	0	0%
+Mahnomen	Minnesota	1	0	0	0	0%
+Douglas	Minnesota	1	0	0	0	0%
+Otter Tail	Minnesota	1	0	0	0	0%
+Itasca	Minnesota	1	0	0	0	0%
+Meeker	Minnesota	1	0	0	0	0%
+Watonwan	Minnesota	1	0	0	0	0%
+Carlton	Minnesota	1	1	0	0	0%
+Lyon	Minnesota	1	1	0	0	0%
+Unassigned	Minnesota	0	0	3	2	
 Oklahoma	Oklahoma	155	21	7	3	4.5%
 Tulsa	Oklahoma	83	18	3	0	3.6%
 Cleveland	Oklahoma	65	5	6	0	9.2%
@@ -1870,6 +1873,7 @@ Owyhee	Idaho	1	0	0	0	0%
 Minidoka	Idaho	1	0	0	0	0%
 Adam	Idaho	1	1	0	0	0%
 Camas	Idaho	1	1	0	0	0%
+District of Columbia	Washington, D.C.	507	12	9	0	1.8%
 Linn	Iowa	90	19	2	0	2.2%
 Polk	Iowa	76	15	0	0	0%
 Johnson	Iowa	73	3	0	0	0%
@@ -1927,7 +1931,6 @@ Crawford	Iowa	1	0	0	0	0%
 Guthrie	Iowa	1	0	0	0	0%
 Jackson	Iowa	1	0	0	0	0%
 Van Buren	Iowa	1	0	0	0	0%
-District of Columbia	Washington, D.C.	495	0	9	0	1.8%
 Providence	Rhode Island	301	11	0	0	0%
 Unassigned	Rhode Island	82	71	8	4	9.8%
 Kent	Rhode Island	39	0	0	0	0%
@@ -1937,11 +1940,11 @@ Bristol	Rhode Island	18	0	0	0	0%
 Johnson	Kansas	134	18	2	0	1.5%
 Wyandotte	Kansas	79	12	4	0	5.1%
 Sedgwick	Kansas	58	9	1	0	1.7%
+Leavenworth	Kansas	25	5	0	0	0%
 Douglas	Kansas	24	1	0	0	0%
-Leavenworth	Kansas	24	4	0	0	0%
 Shawnee	Kansas	17	3	1	0	5.9%
+Lyon	Kansas	14	3	0	0	0%
 Coffey	Kansas	14	4	0	0	0%
-Lyon	Kansas	11	0	0	0	0%
 Franklin	Kansas	7	1	0	0	0%
 Reno	Kansas	7	0	0	0	0%
 Linn	Kansas	5	0	0	0	0%
@@ -1992,7 +1995,7 @@ New Castle	Delaware	197	41	2	0	1%
 Sussex	Delaware	88	7	2	0	2.3%
 Kent	Delaware	34	7	3	0	8.8%
 Unassigned	Delaware	0	0	3	3	
-Bernalillo	New Mexico	129	12	3	0	2.3%
+Bernalillo	New Mexico	129	12	4	1	3.1%
 Santa Fe	New Mexico	42	5	0	0	0%
 San Juan	New Mexico	32	5	0	0	0%
 Sandoval	New Mexico	29	6	0	0	0%
@@ -2010,6 +2013,7 @@ Lea	New Mexico	2	0	0	0	0%
 Cibola	New Mexico	2	0	0	0	0%
 San Miguel	New Mexico	1	0	0	0	0%
 Roosevelt	New Mexico	1	0	0	0	0%
+Otero	New Mexico	1	1	0	0	0%
 Cumberland	Maine	169	15	3	0	1.8%
 York	Maine	59	6	1	1	1.7%
 Kennebec	Maine	12	2	1	1	8.3%
@@ -2040,7 +2044,7 @@ Puerto Rico	Puerto Rico	239	65	8	0	3.3%
 Honolulu	Hawaii	157	18	0	0	0%
 Maui	Hawaii	25	0	0	0	0%
 Hawaii	Hawaii	15	0	0	0	0%
-Unassigned	Hawaii	13	0	1	1	7.7%
+Unassigned	Hawaii	15	2	1	1	6.7%
 Kauai	Hawaii	12	0	0	0	0%
 Gallatin	Montana	74	5	0	0	0%
 Yellowstone	Montana	31	3	0	0	0%
