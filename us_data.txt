@@ -1,2 +1,2 @@
 time	confirm_us	new_us	recovered_us	death_us	death_new_us
- 2020-04-01 12:39 EDT	199034	9056	8361	4365	272
+ 2020-04-01 23:41 EDT	216692	26717	8661	5147	1064
