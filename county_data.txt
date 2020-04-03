@@ -1,10 +1,10 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
-New York	New York	51,809	4,370	1,562	188	3%
-Westchester	New York	11,567	884	67	3	0.6%
-Nassau	New York	10,587	1,033	95	19	0.9%
-Suffolk	New York	8,746	1,141	84	15	1%
-Rockland	New York	3,751	430	42	13	1.1%
-Orange	New York	2,048	292	30	5	1.5%
+New York	New York	51809	4370	1562	188	3%
+Westchester	New York	11567	884	67	3	0.6%
+Nassau	New York	10587	1033	95	19	0.9%
+Suffolk	New York	8746	1141	84	15	1%
+Rockland	New York	3751	430	42	13	1.1%
+Orange	New York	2048	292	30	5	1.5%
 Erie	New York	734	131	19	7	2.6%
 Dutchess	New York	667	120	5	0	0.7%
 Monroe	New York	420	61	9	0	2.1%
@@ -58,16 +58,16 @@ Hamilton	New York	2	0	0	0	0%
 Lewis	New York	2	0	0	0	0%
 Yates	New York	1	1	0	0	0%
 Unassigned	New York	0	0	516	0	
-Unassigned	New Jersey	4,866	354	4	4	0.1%
-Bergen	New Jersey	4,099	605	120	45	2.9%
-Essex	New Jersey	2,617	355	99	30	3.8%
-Hudson	New Jersey	2,270	360	44	15	1.9%
-Union	New Jersey	2,010	349	34	5	1.7%
-Middlesex	New Jersey	1,766	273	48	21	2.7%
-Passaic	New Jersey	1,750	256	22	7	1.3%
-Monmouth	New Jersey	1,458	157	38	14	2.6%
-Ocean	New Jersey	1,371	162	38	15	2.8%
-Morris	New Jersey	1,082	140	40	15	3.7%
+Unassigned	New Jersey	4866	354	4	4	0.1%
+Bergen	New Jersey	4099	605	120	45	2.9%
+Essex	New Jersey	2617	355	99	30	3.8%
+Hudson	New Jersey	2270	360	44	15	1.9%
+Union	New Jersey	2010	349	34	5	1.7%
+Middlesex	New Jersey	1766	273	48	21	2.7%
+Passaic	New Jersey	1750	256	22	7	1.3%
+Monmouth	New Jersey	1458	157	38	14	2.6%
+Ocean	New Jersey	1371	162	38	15	2.8%
+Morris	New Jersey	1082	140	40	15	3.7%
 Somerset	New Jersey	549	77	17	2	3.1%
 Mercer	New Jersey	386	53	4	1	1%
 Camden	New Jersey	343	54	6	3	1.7%
@@ -80,8 +80,8 @@ Atlantic	New Jersey	50	10	1	1	2%
 Cape May	New Jersey	34	12	0	0	0%
 Cumberland	New Jersey	31	4	1	0	3.2%
 Salem	New Jersey	20	1	1	0	5%
-Los Angeles	California	4,045	527	78	0	1.9%
-Santa Clara	California	1,019	63	36	4	3.5%
+Los Angeles	California	4045	527	78	0	1.9%
+Santa Clara	California	1019	63	36	4	3.5%
 San Diego	California	966	117	16	1	1.7%
 Orange	California	656	50	13	3	2%
 Riverside	California	493	64	14	1	2.8%
@@ -131,10 +131,10 @@ Alpine	California	1	0	0	0	0%
 Colusa	California	1	0	0	0	0%
 Plumas	California	1	0	0	0	0%
 Del Norte	California	1	1	0	0	0%
-Wayne--Detroit	Michigan	2,858	386	101	18	3.5%
-Wayne	Michigan	2,211	213	93	30	4.2%
-Oakland	Michigan	2,183	273	119	20	5.5%
-Macomb	Michigan	1,332	244	58	7	4.4%
+Wayne--Detroit	Michigan	2858	386	101	18	3.5%
+Wayne	Michigan	2211	213	93	30	4.2%
+Oakland	Michigan	2183	273	119	20	5.5%
+Macomb	Michigan	1332	244	58	7	4.4%
 Washtenaw	Michigan	438	37	8	0	1.8%
 Genesee	Michigan	349	100	10	2	2.9%
 Other	Michigan	166	24	0	0	0%
@@ -203,8 +203,8 @@ Leelanau	Michigan	1	0	0	0	0%
 Mackinac	Michigan	1	0	0	0	0%
 Manistee	Michigan	1	0	0	0	0%
 Roscommon	Michigan	1	0	0	0	0%
-Orleans	Louisiana	3,148	878	125	10	4%
-Jefferson	Louisiana	2,178	745	73	9	3.4%
+Orleans	Louisiana	3148	878	125	10	4%
+Jefferson	Louisiana	2178	745	73	9	3.4%
 St. Tammany	Louisiana	399	129	9	3	2.3%
 Caddo	Louisiana	336	38	10	3	3%
 East Baton Rouge	Louisiana	325	81	11	1	3.4%
@@ -264,8 +264,8 @@ East Carroll	Louisiana	1	0	0	0	0%
 Madison	Louisiana	1	0	0	0	0%
 Red River	Louisiana	1	0	0	0	0%
 St. Helena	Louisiana	1	0	0	0	0%
-Miami-Dade	Florida	2,886	684	20	13	0.7%
-Broward	Florida	1,481	133	17	4	1.1%
+Miami-Dade	Florida	2886	684	20	13	0.7%
+Broward	Florida	1481	133	17	4	1.1%
 Palm Beach	Florida	737	121	27	5	3.7%
 Orange	Florida	541	83	5	1	0.9%
 Hillsborough	Florida	404	42	5	2	1.2%
@@ -324,9 +324,9 @@ Holmes	Florida	1	0	0	0	0%
 Union	Florida	1	0	0	0	0%
 Washington	Florida	1	0	0	0	0%
 Okeechobee	Florida	1	1	0	0	0%
-Suffolk	Massachusetts	1,896	272	19	6	1%
-Middlesex	Massachusetts	1,870	288	28	8	1.5%
-Essex	Massachusetts	1,039	154	18	1	1.7%
+Suffolk	Massachusetts	1896	272	19	6	1%
+Middlesex	Massachusetts	1870	288	28	8	1.5%
+Essex	Massachusetts	1039	154	18	1	1.7%
 Norfolk	Massachusetts	938	109	21	6	2.2%
 Worcester	Massachusetts	667	104	13	4	1.9%
 Plymouth	Massachusetts	621	60	6	1	1%
@@ -338,7 +338,7 @@ Berkshire	Massachusetts	213	30	5	1	2.3%
 Hampshire	Massachusetts	102	21	2	1	2%
 Franklin	Massachusetts	85	13	8	1	9.4%
 Dukes and Nantucket	Massachusetts	12	1	0	0	0%
-Cook	Illinois	5,575	423	107	13	1.9%
+Cook	Illinois	5575	423	107	13	1.9%
 Lake	Illinois	542	65	12	5	2.2%
 DuPage	Illinois	448	56	14	1	3.1%
 Will	Illinois	384	62	9	0	2.3%
@@ -400,7 +400,7 @@ Macoupin	Illinois	1	1	0	0	0%
 Mercer	Illinois	1	1	0	0	0%
 Moultrie	Illinois	1	1	0	0	0%
 Piatt	Illinois	1	1	0	0	0%
-Philadelphia	Pennsylvania	2,100	425	13	3	0.6%
+Philadelphia	Pennsylvania	2100	425	13	3	0.6%
 Montgomery	Pennsylvania	735	86	9	1	1.2%
 Lehigh	Pennsylvania	479	105	5	0	1%
 Delaware	Pennsylvania	470	80	8	1	1.7%
@@ -462,8 +462,8 @@ Mifflin	Pennsylvania	1	0	0	0	0%
 Warren	Pennsylvania	1	0	0	0	0%
 Forest	Pennsylvania	1	0	0	0	0%
 Wyoming	Pennsylvania	1	1	0	0	0%
-King	Washington	2,656	160	175	11	6.6%
-Snohomish	Washington	1,376	72	41	1	3%
+King	Washington	2656	160	175	11	6.6%
+Snohomish	Washington	1376	72	41	1	3%
 Unassigned	Washington	501	157	0	0	0%
 Pierce	Washington	498	81	7	0	1.4%
 Yakima	Washington	240	16	6	0	2.5%
@@ -790,7 +790,7 @@ Palo Pinto	Texas	1	1	0	0	0%
 Hemphill	Texas	1	1	0	0	0%
 Titus	Texas	1	1	0	0	0%
 Reeves	Texas	1	1	0	0	0%
-Fairfield	Connecticut	2,132	146	65	19	3%
+Fairfield	Connecticut	2132	146	65	19	3%
 New Haven	Connecticut	647	36	17	2	2.6%
 Hartford	Connecticut	539	70	13	2	2.4%
 Unassigned	Connecticut	174	0	1	0	0.6%
@@ -852,7 +852,7 @@ Lincoln	Colorado 	1	0	0	0	0%
 Washington	Colorado 	1	0	0	0	0%
 Custer	Colorado 	1	1	0	0	0%
 Out of state	Colorado 	0	0	1	0	
-Marion	Indiana	1,304	187	24	3	1.8%
+Marion	Indiana	1304	187	24	3	1.8%
 Lake	Indiana	215	35	6	0	2.8%
 Hamilton	Indiana	207	28	4	0	1.9%
 Johnson	Indiana	126	8	3	0	2.4%
@@ -1098,7 +1098,7 @@ Warren	Tennessee	1	0	0	0	0%
 Weakley	Tennessee	1	0	0	0	0%
 Polk	Tennessee	1	1	0	0	0%
 Montgomery	Maryland	498	51	6	2	1.2%
-Prince George\'s	Maryland	473	70	9	1	1.9%
+Prince George's	Maryland	473	70	9	1	1.9%
 Baltimore	Maryland	353	64	3	1	0.8%
 Baltimore City	Maryland	265	44	2	0	0.8%
 Anne Arundel	Maryland	206	48	3	0	1.5%
@@ -1107,11 +1107,11 @@ Carroll	Maryland	105	9	4	0	3.8%
 Charles	Maryland	69	13	1	0	1.4%
 Frederick	Maryland	45	10	3	0	6.7%
 Harford	Maryland	37	3	0	0	0%
-St. Mary\'s	Maryland	27	8	0	0	0%
+St. Mary's	Maryland	27	8	0	0	0%
 Calvert	Maryland	22	4	1	0	4.5%
 Cecil	Maryland	20	4	1	1	5%
 Washington	Maryland	17	2	0	0	0%
-Queen Anne\'s	Maryland	8	1	0	0	0%
+Queen Anne's	Maryland	8	1	0	0	0%
 Wicomico	Maryland	7	0	1	0	14.3%
 Kent	Maryland	5	2	0	0	0%
 Worcester	Maryland	5	1	0	0	0%
@@ -1502,7 +1502,7 @@ Dillon	South Carolina	1	0	0	0	0%
 Cherokee	South Carolina	1	1	0	0	0%
 Hampton	South Carolina	1	1	0	0	0%
 McCormick	South Carolina	1	1	0	0	0%
-Clark	Nevada	1,125	164	34	6	3%
+Clark	Nevada	1125	164	34	6	3%
 Washoe	Nevada	184	21	4	0	2.2%
 Unassigned	Nevada	148	0	0	0	0%
 Douglas	Nevada	6	0	0	0	0%
