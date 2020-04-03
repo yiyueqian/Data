@@ -1,0 +1,1 @@
+state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
