@@ -7,14 +7,14 @@ Rockland	New York	3,751	0	42	0	1.1%
 Orange	New York	2,048	0	30	0	1.5%
 Erie	New York	734	0	19	0	2.6%
 Dutchess	New York	667	0	5	0	0.7%
-Monroe	New York	420	0	9	0	2.1%
+Monroe	New York	420	0	10	0	2.4%
 Onondaga	New York	301	0	2	0	0.7%
 Albany	New York	253	0	2	0	0.8%
 Ulster	New York	243	0	3	0	1.2%
 Putnam	New York	216	0	7	0	3.2%
 Sullivan	New York	156	0	5	0	3.2%
 Saratoga	New York	132	0	1	0	0.8%
-Schenectady	New York	101	0	1	0	1%
+Schenectady	New York	101	0	5	0	5%
 Niagara	New York	91	0	0	0	0%
 Tompkins	New York	87	0	0	0	0%
 Madison	New York	77	0	2	0	2.6%
@@ -87,7 +87,7 @@ Orange	California	656	0	13	0	2%
 Riverside	California	493	0	14	0	2.8%
 San Mateo	California	453	0	10	0	2.2%
 San Francisco	California	450	0	7	0	1.6%
-Alameda	California	359	0	8	0	2.2%
+Alameda	California	373	0	9	0	2.4%
 Sacramento	California	341	0	9	0	2.6%
 San Bernardino	California	304	0	8	0	2.6%
 Contra Costa	California	276	0	3	0	1.1%
@@ -131,6 +131,7 @@ Alpine	California	1	0	0	0	0%
 Colusa	California	1	0	0	0	0%
 Plumas	California	1	0	0	0	0%
 Del Norte	California	1	0	0	0	0%
+Unassigned	California	0	0	2	0	
 Wayne--Detroit	Michigan	2,858	0	101	0	3.5%
 Wayne	Michigan	2,211	0	93	0	4.2%
 Oakland	Michigan	2,183	0	119	0	5.5%
@@ -1010,6 +1011,7 @@ Pike	Ohio	1	0	0	0	0%
 Preble	Ohio	1	0	0	0	0%
 Guernsey	Ohio	1	0	0	0	0%
 Hardin	Ohio	1	0	0	0	0%
+Williams	Ohio	1	0	0	0	0%
 Shelby	Tennessee	638	0	7	0	1.1%
 Davidson	Tennessee	617	0	6	0	1%
 Sumner	Tennessee	268	0	7	0	2.6%
@@ -1694,7 +1696,7 @@ Valley	Idaho	3	0	0	0	0%
 Bingham	Idaho	2	0	0	0	0%
 Custer	Idaho	2	0	0	0	0%
 Owyhee	Idaho	2	0	0	0	0%
-Adam	Idaho	1	0	0	0	0%
+Adams	Idaho	1	0	0	0	0%
 Bonner	Idaho	1	0	0	0	0%
 Camas	Idaho	1	0	0	0	0%
 Fremont	Idaho	1	0	0	0	0%
@@ -2047,11 +2049,11 @@ Shawnee	Kansas	20	0	2	0	10%
 Coffey	Kansas	16	0	1	0	6.3%
 Lyon	Kansas	16	0	0	0	0%
 Reno	Kansas	8	0	0	0	0%
+Riley	Kansas	8	0	0	0	0%
 Butler	Kansas	7	0	0	0	0%
 Franklin	Kansas	7	0	0	0	0%
 Linn	Kansas	6	0	0	0	0%
 Montgomery	Kansas	6	0	0	0	0%
-Riley	Kansas	6	0	0	0	0%
 Crawford	Kansas	5	0	1	0	20%
 McPherson	Kansas	5	0	0	0	0%
 Cherokee	Kansas	4	0	0	0	0%
@@ -2083,6 +2085,7 @@ Anderson	Kansas	1	0	0	0	0%
 Cloud	Kansas	1	0	0	0	0%
 Cowley	Kansas	1	0	0	0	0%
 Marion	Kansas	1	0	0	0	0%
+Osborne	Kansas	1	0	0	0	0%
 Unknown	Kansas	0	0	1	0	
 Rockingham	New Hampshire	170	0	1	0	0.6%
 Hillsborough-Manchester	New Hampshire	63	0	0	0	0%
@@ -2148,7 +2151,7 @@ Orleans	Vermont	7	0	0	0	0%
 Unassigned	Vermont	5	0	12	0	240%
 Caledonia	Vermont	4	0	0	0	0%
 Orange	Vermont	4	0	0	0	0%
-Puerto Rico	Puerto Rico	316	0	12	0	3.8%
+Puerto Rico	Puerto Rico	316	0	15	3	4.7%
 Honolulu	Hawaii	206	0	2	0	1%
 Maui	Hawaii	27	0	0	0	0%
 Unassigned	Hawaii	20	0	0	0	0%
