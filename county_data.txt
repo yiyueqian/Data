@@ -20,17 +20,17 @@ Tompkins	New York	93	0	0	0	0%
 Madison	New York	78	0	2	0	2.6%
 Oneida	New York	71	0	1	0	1.4%
 Rensselaer	New York	67	0	0	0	0%
+Steuben	New York	60	14	0	0	0%
 Columbia	New York	57	0	2	0	3.5%
 Broome	New York	56	0	4	0	7.1%
 St. Lawrence	New York	48	0	0	0	0%
-Steuben	New York	46	0	0	0	0%
-Chemung	New York	35	0	0	0	0%
 Chenango	New York	32	0	0	0	0%
 Clinton	New York	30	0	0	0	0%
 Wayne	New York	30	0	0	0	0%
 Oswego	New York	28	0	0	0	0%
 Ontario	New York	28	0	0	0	0%
 Delaware	New York	24	0	1	0	4.2%
+Chemung	New York	24	0	0	0	0%
 Greene	New York	23	0	0	0	0%
 Otsego	New York	21	0	1	0	4.8%
 Warren	New York	19	0	0	0	0%
@@ -1034,6 +1034,31 @@ Preble	Ohio	1	0	0	0	0%
 Guernsey	Ohio	1	0	0	0	0%
 Hardin	Ohio	1	0	0	0	0%
 Williams	Ohio	1	0	0	0	0%
+Prince George\'s	Maryland	653	90	13	4	2%
+Montgomery	Maryland	640	74	9	0	1.4%
+Baltimore	Maryland	491	64	4	1	0.8%
+Baltimore City	Maryland	343	30	6	2	1.7%
+Anne Arundel	Maryland	289	40	6	2	2.1%
+Howard	Maryland	180	14	3	1	1.7%
+Carroll	Maryland	134	5	6	1	4.5%
+Charles	Maryland	95	5	1	0	1.1%
+Frederick	Maryland	73	19	3	0	4.1%
+Harford	Maryland	44	3	0	0	0%
+St. Mary\'s	Maryland	34	4	0	0	0%
+Calvert	Maryland	33	3	1	0	3%
+Cecil	Maryland	33	8	1	0	3%
+Washington	Maryland	29	2	0	0	0%
+Queen Anne\'s	Maryland	13	1	0	0	0%
+Wicomico	Maryland	8	1	1	0	12.5%
+Worcester	Maryland	7	2	0	0	0%
+Talbot	Maryland	6	1	0	0	0%
+Kent	Maryland	5	0	0	0	0%
+Caroline	Maryland	4	0	0	0	0%
+Somerset	Maryland	4	0	0	0	0%
+Garrett	Maryland	3	0	0	0	0%
+Allegany	Maryland	3	1	0	0	0%
+Dorchester	Maryland	1	0	0	0	0%
+Unassigned	Maryland	0	0	0	0	
 Davidson	Tennessee	685	0	6	0	0.9%
 Shelby	Tennessee	640	0	7	0	1.1%
 Sumner	Tennessee	283	0	8	0	2.8%
@@ -1121,31 +1146,6 @@ Unicoi	Tennessee	1	0	0	0	0%
 Union	Tennessee	1	0	0	0	0%
 Warren	Tennessee	1	0	0	0	0%
 Weakley	Tennessee	1	0	0	0	0%
-Montgomery	Maryland	566	0	9	0	1.6%
-Prince George\'s	Maryland	563	0	9	0	1.6%
-Baltimore	Maryland	427	0	3	0	0.7%
-Baltimore City	Maryland	313	0	4	0	1.3%
-Anne Arundel	Maryland	249	0	4	0	1.6%
-Howard	Maryland	166	0	2	0	1.2%
-Carroll	Maryland	129	0	5	0	3.9%
-Charles	Maryland	90	0	1	0	1.1%
-Frederick	Maryland	54	0	3	0	5.6%
-Harford	Maryland	41	0	0	0	0%
-Calvert	Maryland	30	0	1	0	3.3%
-St. Mary\'s	Maryland	30	0	0	0	0%
-Washington	Maryland	27	0	0	0	0%
-Cecil	Maryland	25	0	1	0	4%
-Queen Anne\'s	Maryland	12	0	0	0	0%
-Wicomico	Maryland	7	0	1	0	14.3%
-Kent	Maryland	5	0	0	0	0%
-Talbot	Maryland	5	0	0	0	0%
-Worcester	Maryland	5	0	0	0	0%
-Caroline	Maryland	4	0	0	0	0%
-Somerset	Maryland	4	0	0	0	0%
-Garrett	Maryland	3	0	0	0	0%
-Allegany	Maryland	2	0	0	0	0%
-Dorchester	Maryland	1	0	0	0	0%
-Unassigned	Maryland	0	0	0	0	
 Mecklenburg	North Carolina	601	0	3	0	0.5%
 Wake	North Carolina	279	0	0	0	0%
 Durham	North Carolina	172	0	0	0	0%
@@ -1315,6 +1315,63 @@ Howell	Missouri	1	0	0	0	0%
 New Madrid	Missouri	1	0	0	0	0%
 Nodaway	Missouri	1	0	0	0	0%
 Clark	Missouri	1	0	0	0	0%
+Milwaukee	Wisconsin	1,023	0	24	0	2.3%
+Dane	Wisconsin	252	0	5	0	2%
+Waukesha	Wisconsin	141	0	4	0	2.8%
+Kenosha	Wisconsin	81	0	0	0	0%
+Washington	Wisconsin	52	0	1	0	1.9%
+Ozaukee	Wisconsin	50	0	5	0	10%
+Racine	Wisconsin	41	0	0	0	0%
+Fond du Lac	Wisconsin	30	0	2	0	6.7%
+Brown	Wisconsin	24	0	0	0	0%
+Winnebago	Wisconsin	24	0	0	0	0%
+Sheboygan	Wisconsin	20	0	1	0	5%
+Rock	Wisconsin	20	0	1	0	5%
+La Crosse	Wisconsin	19	0	0	0	0%
+Outagamie	Wisconsin	19	0	0	0	0%
+Sauk	Wisconsin	18	0	2	0	11.1%
+Columbia	Wisconsin	18	0	0	0	0%
+Eau Claire	Wisconsin	16	0	0	0	0%
+Walworth	Wisconsin	15	0	0	0	0%
+Chippewa	Wisconsin	14	0	0	0	0%
+Dodge	Wisconsin	14	0	0	0	0%
+Jefferson	Wisconsin	13	0	0	0	0%
+Marathon	Wisconsin	9	0	0	0	0%
+Green	Wisconsin	8	0	0	0	0%
+Douglas	Wisconsin	7	0	0	0	0%
+Pierce	Wisconsin	7	0	0	0	0%
+St. Croix	Wisconsin	7	0	0	0	0%
+Pepin	Wisconsin	7	0	0	0	0%
+Clark	Wisconsin	6	0	0	0	0%
+Dunn	Wisconsin	5	0	0	0	0%
+Juneau	Wisconsin	4	0	0	0	0%
+Bayfield	Wisconsin	3	0	0	0	0%
+Calumet	Wisconsin	3	0	0	0	0%
+Iowa	Wisconsin	3	0	0	0	0%
+Monroe	Wisconsin	3	0	0	0	0%
+Oneida	Wisconsin	3	0	0	0	0%
+Portage	Wisconsin	3	0	0	0	0%
+Vilas	Wisconsin	3	0	0	0	0%
+Waupaca	Wisconsin	2	0	1	0	50%
+Buffalo	Wisconsin	2	0	0	0	0%
+Door	Wisconsin	2	0	0	0	0%
+Grant	Wisconsin	2	0	0	0	0%
+Jackson	Wisconsin	2	0	0	0	0%
+Marinette	Wisconsin	2	0	0	0	0%
+Marquette	Wisconsin	2	0	0	0	0%
+Richland	Wisconsin	2	0	0	0	0%
+Wood	Wisconsin	2	0	0	0	0%
+Iron	Wisconsin	1	0	1	0	100%
+Ashland	Wisconsin	1	0	0	0	0%
+Crawford	Wisconsin	1	0	0	0	0%
+Oconto	Wisconsin	1	0	0	0	0%
+Adams	Wisconsin	1	0	0	0	0%
+Menominee	Wisconsin	1	0	0	0	0%
+Trempealeau	Wisconsin	1	0	0	0	0%
+Barron	Wisconsin	1	0	0	0	0%
+Rusk	Wisconsin	1	0	0	0	0%
+Manitowoc	Wisconsin	1	1	0	0	0%
+Unassigned	Wisconsin	0	0	4	0	
 Fairfax	Virginia	372	0	2	0	0.5%
 Arlington	Virginia	135	0	2	0	1.5%
 Prince William	Virginia	131	0	1	0	0.8%
@@ -1425,62 +1482,6 @@ Wise	Virginia	1	0	0	0	0%
 Richmond	Virginia	1	0	0	0	0%
 Unknown	Virginia	0	0	23	0	
 Unassigned	Virginia	0	0	8	0	
-Milwaukee	Wisconsin	1,023	0	24	0	2.3%
-Dane	Wisconsin	252	0	5	0	2%
-Waukesha	Wisconsin	141	0	4	0	2.8%
-Kenosha	Wisconsin	81	0	0	0	0%
-Washington	Wisconsin	52	0	1	0	1.9%
-Ozaukee	Wisconsin	50	0	5	0	10%
-Racine	Wisconsin	41	0	0	0	0%
-Fond du Lac	Wisconsin	30	0	2	0	6.7%
-Brown	Wisconsin	24	0	0	0	0%
-Winnebago	Wisconsin	24	0	0	0	0%
-Sheboygan	Wisconsin	20	0	1	0	5%
-Rock	Wisconsin	20	0	1	0	5%
-La Crosse	Wisconsin	19	0	0	0	0%
-Outagamie	Wisconsin	19	0	0	0	0%
-Sauk	Wisconsin	18	0	2	0	11.1%
-Columbia	Wisconsin	18	0	0	0	0%
-Eau Claire	Wisconsin	16	0	0	0	0%
-Walworth	Wisconsin	15	0	0	0	0%
-Chippewa	Wisconsin	14	0	0	0	0%
-Dodge	Wisconsin	14	0	0	0	0%
-Jefferson	Wisconsin	13	0	0	0	0%
-Marathon	Wisconsin	9	0	0	0	0%
-Green	Wisconsin	8	0	0	0	0%
-Douglas	Wisconsin	7	0	0	0	0%
-Pierce	Wisconsin	7	0	0	0	0%
-St. Croix	Wisconsin	7	0	0	0	0%
-Pepin	Wisconsin	7	0	0	0	0%
-Clark	Wisconsin	6	0	0	0	0%
-Dunn	Wisconsin	5	0	0	0	0%
-Juneau	Wisconsin	4	0	0	0	0%
-Bayfield	Wisconsin	3	0	0	0	0%
-Calumet	Wisconsin	3	0	0	0	0%
-Iowa	Wisconsin	3	0	0	0	0%
-Monroe	Wisconsin	3	0	0	0	0%
-Oneida	Wisconsin	3	0	0	0	0%
-Portage	Wisconsin	3	0	0	0	0%
-Vilas	Wisconsin	3	0	0	0	0%
-Waupaca	Wisconsin	2	0	1	0	50%
-Buffalo	Wisconsin	2	0	0	0	0%
-Door	Wisconsin	2	0	0	0	0%
-Grant	Wisconsin	2	0	0	0	0%
-Jackson	Wisconsin	2	0	0	0	0%
-Marinette	Wisconsin	2	0	0	0	0%
-Marquette	Wisconsin	2	0	0	0	0%
-Richland	Wisconsin	2	0	0	0	0%
-Wood	Wisconsin	2	0	0	0	0%
-Iron	Wisconsin	1	0	1	0	100%
-Ashland	Wisconsin	1	0	0	0	0%
-Crawford	Wisconsin	1	0	0	0	0%
-Oconto	Wisconsin	1	0	0	0	0%
-Adams	Wisconsin	1	0	0	0	0%
-Menominee	Wisconsin	1	0	0	0	0%
-Trempealeau	Wisconsin	1	0	0	0	0%
-Barron	Wisconsin	1	0	0	0	0%
-Rusk	Wisconsin	1	0	0	0	0%
-Unassigned	Wisconsin	0	0	4	0	
 Maricopa	Arizona	1,049	0	17	0	1.6%
 Pima	Arizona	280	0	11	0	3.9%
 Navajo	Arizona	148	0	1	0	0.7%
