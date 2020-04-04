@@ -2,7 +2,7 @@ county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	63,306	6,147	1,905	38	3%
 Nassau	New York	13,346	1,322	95	0	0.7%
 Westchester	New York	13,081	730	67	0	0.5%
-Suffolk	New York	11,370	1,216	96	0	0.8%
+Suffolk	New York	11,370	1,216	124	28	1.1%
 Rockland	New York	4,872	583	69	0	1.4%
 Orange	New York	2,741	271	40	0	1.5%
 Dutchess	New York	938	129	5	0	0.5%
@@ -57,7 +57,7 @@ Schuyler	New York	4	1	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Lewis	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	1,201	589	0%
+Unassigned	New York	0	0	1,173	561	0%
 Bergen	New Jersey	5,760	894	179	47	3.1%
 Unassigned	New Jersey	3,935	0	14	10	0.4%
 Essex	New Jersey	3,584	217	155	37	4.3%
@@ -267,6 +267,20 @@ Winn	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Jackson	Louisiana	1	0	0	0	0%
 Madison	Louisiana	1	0	0	0	0%
+Middlesex	Massachusetts	2,468	266	38	0	1.5%
+Suffolk	Massachusetts	2,429	246	23	2	0.9%
+Essex	Massachusetts	1,400	162	24	1	1.7%
+Norfolk	Massachusetts	1,199	154	24	0	2%
+Worcester	Massachusetts	915	90	15	1	1.6%
+Plymouth	Massachusetts	898	153	7	0	0.8%
+Hampden	Massachusetts	733	72	27	0	3.7%
+Bristol	Massachusetts	601	84	5	1	0.8%
+Barnstable	Massachusetts	330	16	6	0	1.8%
+Unassigned	Massachusetts	274	61	9	0	3.3%
+Berkshire	Massachusetts	253	13	5	0	2%
+Hampshire	Massachusetts	125	11	3	0	2.4%
+Franklin	Massachusetts	95	6	11	0	11.6%
+Dukes and Nantucket	Massachusetts	16	0	0	0	0%
 Miami-Dade	Florida	3,667	303	30	5	0.8%
 Broward	Florida	1,792	194	31	9	1.7%
 Palm Beach	Florida	908	50	34	1	3.7%
@@ -393,28 +407,14 @@ Mckean	Pennsylvania	1	0	0	0	0%
 Warren	Pennsylvania	1	0	0	0	0%
 Clinton	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	1	0	0	0%
-Middlesex	Massachusetts	2,202	0	38	0	1.7%
-Suffolk	Massachusetts	2,183	0	21	0	1%
-Essex	Massachusetts	1,238	0	23	0	1.9%
-Norfolk	Massachusetts	1,045	0	24	0	2.3%
-Worcester	Massachusetts	825	0	14	0	1.7%
-Plymouth	Massachusetts	745	0	7	0	0.9%
-Hampden	Massachusetts	661	0	27	0	4.1%
-Bristol	Massachusetts	517	0	4	0	0.8%
-Barnstable	Massachusetts	314	0	6	0	1.9%
-Berkshire	Massachusetts	240	0	5	0	2.1%
-Unassigned	Massachusetts	213	0	9	0	4.2%
-Hampshire	Massachusetts	114	0	3	0	2.6%
-Franklin	Massachusetts	89	0	11	0	12.4%
-Dukes and Nantucket	Massachusetts	16	0	0	0	0%
-Cook	Illinois	7,439	966	141	0	1.9%
+Cook	Illinois	7,439	966	167	26	2.2%
 Lake	Illinois	683	75	13	0	1.9%
-DuPage	Illinois	590	90	16	0	2.7%
-Will	Illinois	582	127	10	0	1.7%
-Kane	Illinois	207	31	9	0	4.3%
+DuPage	Illinois	590	90	18	2	3.1%
+Will	Illinois	582	127	11	1	1.9%
+Kane	Illinois	207	31	12	3	5.8%
 McHenry	Illinois	122	20	3	0	2.5%
 St. Clair	Illinois	80	23	2	0	2.5%
-Kankakee	Illinois	68	10	2	0	2.9%
+Kankakee	Illinois	68	10	3	1	4.4%
 Unassigned	Illinois	61	8	1	0	1.6%
 Champaign	Illinois	52	1	0	0	0%
 Kendall	Illinois	47	10	2	0	4.3%
@@ -428,8 +428,8 @@ DeKalb	Illinois	19	3	0	0	0%
 Christian	Illinois	17	0	2	0	11.8%
 Whiteside	Illinois	15	6	1	0	6.7%
 Peoria	Illinois	11	0	0	0	0%
+Jackson	Illinois	10	2	1	1	10%
 Clinton	Illinois	10	2	0	0	0%
-Jackson	Illinois	10	2	0	0	0%
 Tazewell	Illinois	10	3	0	0	0%
 Douglas	Illinois	9	0	0	0	0%
 Grundy	Illinois	9	2	0	0	0%
@@ -477,20 +477,20 @@ Jersey	Illinois	1	0	0	0	0%
 Mason	Illinois	1	1	0	0	0%
 Pike	Illinois	1	1	0	0	0%
 King	Washington	2,787	0	188	0	6.7%
-Snohomish	Washington	1,450	0	42	0	2.9%
-Pierce	Washington	571	0	7	0	1.2%
+Snohomish	Washington	1,503	53	45	3	3%
+Pierce	Washington	620	49	8	1	1.3%
 Unassigned	Washington	483	0	0	0	0%
 Yakima	Washington	289	0	7	0	2.4%
 Whatcom	Washington	199	17	9	0	4.5%
 Spokane	Washington	194	0	7	0	3.6%
 Skagit	Washington	160	0	4	0	2.5%
+Benton	Washington	151	15	13	0	8.6%
 Clark	Washington	137	0	8	0	5.8%
-Benton	Washington	136	0	13	0	9.6%
 Island	Washington	122	0	4	0	3.3%
 Kitsap	Washington	95	0	0	0	0%
 Grant	Washington	77	0	1	0	1.3%
 Thurston	Washington	58	0	0	0	0%
-Franklin	Washington	45	0	1	0	2.2%
+Franklin	Washington	46	1	1	0	2.2%
 Chelan	Washington	20	0	3	0	15%
 Adams	Washington	20	0	0	0	0%
 Jefferson	Washington	19	0	0	0	0%
@@ -515,17 +515,17 @@ Wahkiakum	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
 Asotin	Washington	1	0	0	0	0%
 Dallas	Texas	1,105	184	18	1	1.6%
-Harris--Houston	Texas	587	0	8	0	1.4%
-Harris--Non Houston	Texas	519	0	5	0	1%
+Harris--Houston	Texas	690	103	9	1	1.3%
+Harris--Non Houston	Texas	594	75	8	3	1.3%
 Travis	Texas	430	0	4	1	0.9%
 Tarrant	Texas	404	21	9	2	2.2%
 Bexar	Texas	342	0	9	0	2.6%
 Denton	Texas	273	0	6	0	2.2%
 Collin	Texas	256	0	2	0	0.8%
 Fort Bend	Texas	255	0	2	0	0.8%
+Brazoria	Texas	144	8	1	0	0.7%
 Montgomery	Texas	142	12	3	0	2.1%
 Lubbock	Texas	138	0	4	0	2.9%
-Brazoria	Texas	136	0	1	0	0.7%
 Galveston	Texas	136	0	0	0	0%
 El Paso	Texas	96	18	0	0	0%
 Hidalgo	Texas	86	7	0	0	0%
@@ -533,8 +533,8 @@ Webb	Texas	83	0	5	0	6%
 Brazos	Texas	72	0	5	0	6.9%
 Williamson	Texas	71	0	1	0	1.4%
 Cameron	Texas	62	7	0	0	0%
+Bell	Texas	58	7	1	0	1.7%
 Smith	Texas	57	0	1	0	1.8%
-Bell	Texas	51	0	1	0	2%
 McLennan	Texas	50	1	1	0	2%
 Hays	Texas	50	3	0	0	0%
 Nueces	Texas	47	0	0	0	0%
@@ -543,17 +543,17 @@ Matagorda	Texas	36	0	2	0	5.6%
 Victoria	Texas	32	0	0	0	0%
 Jefferson	Texas	29	0	1	0	3.4%
 Ellis	Texas	29	2	2	1	6.9%
+Taylor	Texas	27	4	0	0	0%
 Guadalupe	Texas	26	3	0	0	0%
 Potter	Texas	24	0	0	0	0%
 Randall	Texas	24	0	0	0	0%
-Taylor	Texas	23	0	0	0	0%
 Midland	Texas	22	0	1	0	4.5%
 Ector	Texas	22	0	0	0	0%
 Comal	Texas	21	3	2	0	9.5%
 Johnson	Texas	21	3	1	0	4.8%
+Tom Green	Texas	20	3	0	0	0%
 Bowie	Texas	17	7	1	0	5.9%
 Washington	Texas	17	0	1	0	5.9%
-Tom Green	Texas	17	0	0	0	0%
 Gregg	Texas	16	0	0	0	0%
 Nacogdoches	Texas	15	2	2	0	13.3%
 Hardin	Texas	15	0	1	0	6.7%
@@ -1044,37 +1044,37 @@ Hardin	Ohio	1	0	0	0	0%
 Williams	Ohio	1	0	0	0	0%
 Adam	Ohio	1	1	0	0	0%
 Davidson	Tennessee	741	56	6	0	0.8%
-Shelby	Tennessee	640	0	7	0	1.1%
-Sumner	Tennessee	283	0	8	0	2.8%
-Williamson	Tennessee	221	0	3	0	1.4%
-Out-of-state	Tennessee	187	0	1	0	0.5%
-Rutherford	Tennessee	127	0	3	0	2.4%
-Knox	Tennessee	98	0	1	0	1%
-Wilson	Tennessee	71	0	0	0	0%
-Hamilton	Tennessee	68	0	8	0	11.8%
-Unassigned	Tennessee	54	0	0	0	0%
+Shelby	Tennessee	689	49	8	1	1.2%
+Sumner	Tennessee	301	18	10	2	3.3%
+Williamson	Tennessee	239	18	3	0	1.3%
+Out-of-state	Tennessee	218	31	1	0	0.5%
+Rutherford	Tennessee	140	13	3	0	2.1%
+Knox	Tennessee	99	1	1	0	1%
+Wilson	Tennessee	82	11	0	0	0%
+Hamilton	Tennessee	71	3	8	0	11.3%
+Unassigned	Tennessee	63	9	0	0	0%
+Putnam	Tennessee	52	2	0	0	0%
 Robertson	Tennessee	51	0	0	0	0%
-Putnam	Tennessee	50	0	0	0	0%
-Montgomery	Tennessee	41	0	0	0	0%
+Montgomery	Tennessee	46	5	1	1	2.2%
 Blount	Tennessee	34	1	0	0	0%
-Tipton	Tennessee	28	0	0	0	0%
+Tipton	Tennessee	31	3	0	0	0%
 Cumberland	Tennessee	23	1	0	0	0%
+Washington	Tennessee	22	2	2	2	9.1%
 Dickson	Tennessee	22	1	0	0	0%
 Bradley	Tennessee	21	0	0	0	0%
-Maury	Tennessee	20	0	0	0	0%
-Washington	Tennessee	20	0	0	0	0%
+Maury	Tennessee	21	1	0	0	0%
+Madison	Tennessee	19	2	0	0	0%
 Sullivan	Tennessee	18	0	1	0	5.6%
 Fayette	Tennessee	18	1	0	0	0%
-Madison	Tennessee	17	0	0	0	0%
 Greene	Tennessee	16	0	1	0	6.3%
-Marion	Tennessee	14	0	1	0	7.1%
+Marion	Tennessee	16	2	1	0	6.3%
+Loudon	Tennessee	13	1	0	0	0%
 Sevier	Tennessee	13	0	0	0	0%
 Franklin	Tennessee	12	0	1	0	8.3%
 Cheatham	Tennessee	12	1	0	0	0%
-Loudon	Tennessee	12	0	0	0	0%
-Grundy	Tennessee	11	0	0	0	0%
+Grundy	Tennessee	12	1	0	0	0%
 Anderson	Tennessee	10	0	0	0	0%
-Hawkins	Tennessee	8	0	1	0	12.5%
+Hawkins	Tennessee	9	1	1	0	11.1%
 Bedford	Tennessee	8	2	0	0	0%
 Gibson	Tennessee	8	1	0	0	0%
 Trousdale	Tennessee	7	0	1	0	14.3%
@@ -1082,54 +1082,55 @@ Dyer	Tennessee	7	2	0	0	0%
 Macon	Tennessee	7	0	0	0	0%
 Carroll	Tennessee	6	0	0	0	0%
 Chester	Tennessee	6	1	0	0	0%
+Hardeman	Tennessee	6	1	0	0	0%
 Jefferson	Tennessee	6	0	0	0	0%
+Monroe	Tennessee	6	1	0	0	0%
 Campbell	Tennessee	5	1	0	0	0%
 Dekalb	Tennessee	5	0	0	0	0%
-Hardeman	Tennessee	5	0	0	0	0%
-Monroe	Tennessee	5	0	0	0	0%
+Lincoln	Tennessee	5	1	0	0	0%
+Roane	Tennessee	5	2	0	0	0%
 Benton	Tennessee	4	0	0	0	0%
 Cannon	Tennessee	4	0	0	0	0%
 Coffee	Tennessee	4	1	0	0	0%
+Hamblen	Tennessee	4	1	0	0	0%
 Henry	Tennessee	4	0	0	0	0%
-Lincoln	Tennessee	4	0	0	0	0%
 Marshall	Tennessee	4	0	0	0	0%
+Morgan	Tennessee	4	2	0	0	0%
 Carter	Tennessee	3	0	0	0	0%
 Giles	Tennessee	3	0	0	0	0%
 Grainger	Tennessee	3	0	0	0	0%
-Hamblen	Tennessee	3	0	0	0	0%
 Humphreys	Tennessee	3	0	0	0	0%
 Lawrence	Tennessee	3	0	0	0	0%
 McMinn	Tennessee	3	0	0	0	0%
 McNairy	Tennessee	3	0	0	0	0%
-Roane	Tennessee	3	0	0	0	0%
+Perry	Tennessee	3	1	0	0	0%
 Scott	Tennessee	3	0	0	0	0%
 Smith	Tennessee	3	0	0	0	0%
+Polk	Tennessee	3	1	0	0	0%
 Jackson	Tennessee	3	0	0	0	0%
 Obion	Tennessee	2	0	1	0	50%
 Bledsoe	Tennessee	2	0	0	0	0%
 Claiborne	Tennessee	2	0	0	0	0%
 Hardin	Tennessee	2	0	0	0	0%
 Haywood	Tennessee	2	0	0	0	0%
+Houston	Tennessee	2	1	0	0	0%
 Johnson	Tennessee	2	0	0	0	0%
 Lauderdale	Tennessee	2	0	0	0	0%
 Lewis	Tennessee	2	0	0	0	0%
 Meigs	Tennessee	2	0	0	0	0%
-Morgan	Tennessee	2	0	0	0	0%
 Overton	Tennessee	2	0	0	0	0%
-Perry	Tennessee	2	0	0	0	0%
 Sequatchie	Tennessee	2	0	0	0	0%
 Wayne	Tennessee	2	0	0	0	0%
 White	Tennessee	2	0	0	0	0%
-Polk	Tennessee	2	0	0	0	0%
 Clay	Tennessee	1	0	0	0	0%
 Cocke	Tennessee	1	0	0	0	0%
 Fentress	Tennessee	1	0	0	0	0%
 Hickman	Tennessee	1	0	0	0	0%
-Houston	Tennessee	1	0	0	0	0%
 Unicoi	Tennessee	1	0	0	0	0%
 Union	Tennessee	1	0	0	0	0%
 Warren	Tennessee	1	0	0	0	0%
 Weakley	Tennessee	1	0	0	0	0%
+Stewart	Tennessee	1	1	0	0	0%
 Prince George\'s	Maryland	653	90	13	4	2%
 Montgomery	Maryland	640	74	9	0	1.4%
 Baltimore	Maryland	491	64	4	1	0.8%
@@ -1354,8 +1355,7 @@ Caroline	Virginia	1	0	0	0	0%
 Pulaski	Virginia	1	0	0	0	0%
 Charlotte	Virginia	1	1	0	0	0%
 Staunton	Virginia	1	1	0	0	0%
-Unknown	Virginia	0	0	23	0	0%
-Unassigned	Virginia	0	0	8	0	0%
+Unassigned	Virginia	0	0	36	5	0%
 St. Louis	Missouri	864	70	7	0	0.8%
 St. Louis City	Missouri	297	0	5	0	1.7%
 Kansas City	Missouri	172	19	2	0	1.2%
@@ -1508,12 +1508,12 @@ Rusk	Wisconsin	1	0	0	0	0%
 Manitowoc	Wisconsin	1	1	0	0	0%
 Unassigned	Wisconsin	0	0	4	0	0%
 Charleston	South Carolina	274	27	1	0	0.4%
-Richland	South Carolina	242	18	5	0	2.1%
+Richland	South Carolina	242	18	6	1	2.5%
 Greenville	South Carolina	183	9	2	0	1.1%
-Beaufort	South Carolina	148	17	2	0	1.4%
+Beaufort	South Carolina	148	17	3	1	2%
 Kershaw	South Carolina	141	5	2	0	1.4%
-Lexington	South Carolina	95	17	1	0	1.1%
-York	South Carolina	81	8	1	0	1.2%
+Lexington	South Carolina	95	17	3	2	3.2%
+York	South Carolina	81	8	2	1	2.5%
 Sumter	South Carolina	79	4	3	0	3.8%
 Spartanburg	South Carolina	72	12	0	0	0%
 Anderson	South Carolina	68	6	3	0	4.4%
@@ -1526,7 +1526,7 @@ Florence	South Carolina	35	6	5	0	14.3%
 Orangeburg	South Carolina	26	1	0	0	0%
 Aiken	South Carolina	24	2	1	0	4.2%
 Darlington	South Carolina	19	4	0	0	0%
-Georgetown	South Carolina	17	1	0	0	0%
+Georgetown	South Carolina	17	1	1	1	5.9%
 Pickens	South Carolina	17	0	0	0	0%
 Lee	South Carolina	16	3	1	0	6.3%
 Chesterfield	South Carolina	13	3	0	0	0%
@@ -1554,8 +1554,8 @@ Dillon	South Carolina	1	0	0	0	0%
 Hampton	South Carolina	1	0	0	0	0%
 McCormick	South Carolina	1	0	0	0	0%
 Clark	Nevada	1,418	139	41	2	2.9%
-Washoe	Nevada	229	0	4	0	1.7%
-Unassigned	Nevada	50	34	0	0	0%
+Washoe	Nevada	245	16	4	0	1.6%
+Unassigned	Nevada	34	18	0	0	0%
 Carson City	Nevada	10	1	0	0	0%
 Humboldt	Nevada	9	0	0	0	0%
 Elko	Nevada	8	0	1	1	12.5%
