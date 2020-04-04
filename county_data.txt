@@ -1201,11 +1201,11 @@ Polk	North Carolina	6	0	0	0	0%
 Yadkin	North Carolina	6	0	0	0	0%
 Caldwell	North Carolina	5	0	0	0	0%
 Columbus	North Carolina	5	0	0	0	0%
+Duplin	North Carolina	5	1	0	0	0%
 Greene	North Carolina	5	0	0	0	0%
 Stokes	North Carolina	5	0	0	0	0%
 Transylvania	North Carolina	5	0	0	0	0%
 Wilkes	North Carolina	4	0	1	0	25%
-Duplin	North Carolina	4	0	0	0	0%
 Edgecombe	North Carolina	4	0	0	0	0%
 Hertford	North Carolina	4	0	0	0	0%
 Person	North Carolina	4	0	0	0	0%
@@ -2100,6 +2100,7 @@ Bremer	Iowa	1	0	0	0	0%
 Louisa	Iowa	1	0	0	0	0%
 Lyon	Iowa	1	0	0	0	0%
 Plymouth	Iowa	1	0	0	0	0%
+Mills	Iowa	1	0	0	0	0%
 Unassigned	Iowa	0	0	1	0	
 Johnson	Kansas	172	0	7	0	4.1%
 Wyandotte	Kansas	137	0	6	0	4.4%

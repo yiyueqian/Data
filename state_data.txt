@@ -17,7 +17,7 @@ Indiana	3,437	0	102	0	3%
 Ohio	3,312	0	91	0	2.7%
 Tennessee	3,068	0	44	0	1.4%
 Maryland	2,758	0	43	0	1.6%
-North Carolina	2,336	0	30	0	1.3%
+North Carolina	2,337	1	30	0	1.3%
 Missouri	2,158	0	33	0	1.5%
 Virginia	2,012	0	47	0	2.3%
 Wisconsin	2,012	0	51	0	2.5%
@@ -35,7 +35,7 @@ Minnesota	789	0	22	0	2.8%
 Washington, D.C.	757	0	15	0	2%
 Arkansas	738	0	12	0	1.6%
 Rhode Island	711	0	14	0	2%
-Iowa	699	0	11	0	1.6%
+Iowa	700	0	11	0	1.6%
 Kansas	629	0	18	0	2.9%
 New Hampshire	540	0	7	0	1.3%
 New Mexico	495	0	10	0	2%
