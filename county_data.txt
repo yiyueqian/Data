@@ -174,7 +174,7 @@ Fresno	California	100	0	1	0	1%
 Placer	California	97	0	2	0	2.1%
 Sonoma	California	95	0	2	0	2.1%
 San Luis Obispo	California	93	0	0	0	0%
-Tulare	California	81	0	2	0	2.5%
+Tulare	California	81	0	3	0	3.7%
 Solano	California	61	0	1	0	1.6%
 Santa Cruz	California	59	0	1	0	1.7%
 Monterey	California	53	0	2	0	3.8%
@@ -344,7 +344,7 @@ Holmes	Florida	1	0	0	0	0%
 Union	Florida	1	0	0	0	0%
 Washington	Florida	1	0	0	0	0%
 Franklin	Florida	1	0	0	0	0%
-Cook	Illinois	6,111	0	141	0	2.3%
+Cook	Illinois	6,473	0	141	0	2.2%
 Lake	Illinois	608	0	13	0	2.1%
 DuPage	Illinois	500	0	16	0	3.2%
 Will	Illinois	455	0	10	0	2.2%
@@ -537,8 +537,8 @@ Nueces	Texas	47	0	0	0	0%
 Wichita	Texas	46	0	0	0	0%
 Jefferson	Texas	40	0	1	0	2.5%
 Matagorda	Texas	36	0	2	0	5.6%
+Victoria	Texas	32	0	0	0	0%
 Ellis	Texas	27	0	1	0	3.7%
-Victoria	Texas	27	0	0	0	0%
 Potter	Texas	24	0	0	0	0%
 Randall	Texas	24	0	0	0	0%
 Guadalupe	Texas	23	0	0	0	0%
@@ -832,9 +832,9 @@ Boulder	Colorado 	143	0	2	0	1.4%
 Larimer	Colorado 	134	0	7	0	5.2%
 Gunnison	Colorado 	88	0	1	0	1.1%
 Garfield	Colorado 	45	0	1	0	2.2%
+Summit	Colorado 	43	0	0	0	0%
 Pitkin	Colorado 	38	0	2	0	5.3%
 Broomfield	Colorado 	36	0	2	0	5.6%
-Summit	Colorado 	35	0	0	0	0%
 Pueblo	Colorado 	31	0	2	0	6.5%
 Routt	Colorado 	28	0	0	0	0%
 Montrose	Colorado 	26	0	1	0	3.8%
@@ -1149,7 +1149,7 @@ Unassigned	Maryland	0	0	0	0
 Mecklenburg	North Carolina	601	0	3	0	0.5%
 Wake	North Carolina	279	0	0	0	0%
 Durham	North Carolina	172	0	0	0	0%
-Guilford	North Carolina	88	0	4	0	4.5%
+Guilford	North Carolina	88	0	5	0	5.7%
 Forsyth	North Carolina	80	0	1	0	1.3%
 Union	North Carolina	63	0	0	0	0%
 Cabarrus	North Carolina	58	0	1	0	1.7%
