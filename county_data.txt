@@ -6,24 +6,24 @@ Suffolk	New York	10,154	0	96	0	0.9%
 Rockland	New York	4,289	0	69	0	1.6%
 Orange	New York	2,470	0	40	0	1.6%
 Dutchess	New York	809	0	5	0	0.6%
-Erie	New York	734	0	19	0	2.6%
+Erie	New York	802	0	22	0	2.7%
 Monroe	New York	464	0	10	0	2.2%
 Onondaga	New York	322	0	3	0	0.9%
 Albany	New York	267	0	2	0	0.7%
-Ulster	New York	263	0	3	0	1.1%
+Ulster	New York	266	0	4	0	1.5%
 Putnam	New York	252	0	7	0	2.8%
-Sullivan	New York	168	0	5	0	3%
+Sullivan	New York	188	0	5	0	2.7%
 Saratoga	New York	141	0	1	0	0.7%
 Schenectady	New York	110	0	5	0	4.5%
 Niagara	New York	94	0	0	0	0%
-Tompkins	New York	87	0	0	0	0%
-Madison	New York	77	0	2	0	2.6%
+Tompkins	New York	93	0	0	0	0%
+Madison	New York	78	0	2	0	2.6%
 Oneida	New York	71	0	1	0	1.4%
 Rensselaer	New York	67	0	0	0	0%
+Columbia	New York	57	0	2	0	3.5%
 Broome	New York	56	0	4	0	7.1%
-Columbia	New York	51	0	2	0	3.9%
+St. Lawrence	New York	48	0	0	0	0%
 Steuben	New York	46	0	0	0	0%
-St. Lawrence	New York	43	0	0	0	0%
 Chemung	New York	35	0	0	0	0%
 Chenango	New York	32	0	0	0	0%
 Clinton	New York	30	0	0	0	0%
@@ -57,7 +57,7 @@ Schuyler	New York	3	0	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Lewis	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	623	0	
+Unassigned	New York	0	0	619	0	
 Bergen	New Jersey	4,866	0	132	0	2.7%
 Unassigned	New Jersey	4,808	0	4	0	0.1%
 Essex	New Jersey	3,067	0	118	0	3.8%
@@ -1296,6 +1296,7 @@ Reynolds	Missouri	2	0	0	0	0%
 Ripley	Missouri	2	0	0	0	0%
 Stone	Missouri	2	0	0	0	0%
 Webster	Missouri	2	0	0	0	0%
+Saline	Missouri	2	0	0	0	0%
 Henry	Missouri	1	0	1	0	100%
 Atchison	Missouri	1	0	0	0	0%
 Barry	Missouri	1	0	0	0	0%
@@ -1313,6 +1314,7 @@ Texas	Missouri	1	0	0	0	0%
 Howell	Missouri	1	0	0	0	0%
 New Madrid	Missouri	1	0	0	0	0%
 Nodaway	Missouri	1	0	0	0	0%
+Clark	Missouri	1	0	0	0	0%
 Fairfax	Virginia	372	0	2	0	0.5%
 Arlington	Virginia	135	0	2	0	1.5%
 Prince William	Virginia	131	0	1	0	0.8%
@@ -2219,13 +2221,13 @@ Hawaii	Hawaii	20	0	0	0	0%
 Kauai	Hawaii	13	0	0	0	0%
 Unassigned	Hawaii	11	0	0	0	0%
 Residents diagnosed Outside of HI	Hawaii	2	0	0	0	0%
-Douglas	Nebraska	124	0	1	0	0.8%
-Hall	Nebraska	26	0	1	0	3.8%
-Sarpy	Nebraska	24	0	0	0	0%
+Douglas	Nebraska	125	0	1	0	0.8%
+Hall	Nebraska	27	0	1	0	3.7%
+Sarpy	Nebraska	25	0	0	0	0%
 Washington	Nebraska	19	0	0	0	0%
-Lincoln	Nebraska	14	0	1	0	7.1%
+Lincoln	Nebraska	15	0	1	0	6.7%
 Lancaster	Nebraska	14	0	0	0	0%
-Buffalo	Nebraska	9	0	1	0	11.1%
+Buffalo	Nebraska	10	0	1	0	10%
 Adams	Nebraska	6	0	0	0	0%
 Dodge	Nebraska	5	0	0	0	0%
 Kimball	Nebraska	5	0	0	0	0%
@@ -2237,7 +2239,6 @@ Hamilton	Nebraska	3	0	0	0	0%
 Gage	Nebraska	2	0	1	0	50%
 Cass	Nebraska	2	0	0	0	0%
 Knox	Nebraska	2	0	0	0	0%
-Unassigned	Nebraska	1	0	1	0	100%
 Antelope	Nebraska	1	0	0	0	0%
 Cuming	Nebraska	1	0	0	0	0%
 Dawson	Nebraska	1	0	0	0	0%
@@ -2247,6 +2248,9 @@ Nemaha	Nebraska	1	0	0	0	0%
 York	Nebraska	1	0	0	0	0%
 Otoe	Nebraska	1	0	0	0	0%
 Colfax	Nebraska	1	0	0	0	0%
+Merrick	Nebraska	1	0	0	0	0%
+Cherry	Nebraska	1	0	0	0	0%
+Unassigned	Nebraska	0	0	1	0	
 Gallatin	Montana	101	0	0	0	0%
 Yellowstone	Montana	38	0	0	0	0%
 Flathead	Montana	20	0	0	0	0%
