@@ -177,12 +177,12 @@ San Luis Obispo	California	93	0	0	0	0%
 Tulare	California	81	0	3	0	3.7%
 Solano	California	61	0	1	0	1.6%
 Santa Cruz	California	59	0	1	0	1.7%
+Imperial	California	55	0	1	0	1.8%
 Monterey	California	53	0	2	0	3.8%
-Imperial	California	52	0	1	0	1.9%
 Stanislaus	California	51	0	0	0	0%
 Humboldt	California	40	0	0	0	0%
 Yolo	California	37	0	1	0	2.7%
-Nevada	California	30	0	0	0	0%
+Nevada	California	31	0	1	0	3.2%
 Madera	California	28	0	1	0	3.6%
 San Benito	California	23	0	2	0	8.7%
 Napa	California	20	0	2	0	10%
@@ -196,8 +196,8 @@ Inyo	California	10	0	0	0	0%
 Yuba	California	9	0	0	0	0%
 Kings	California	5	0	0	0	0%
 Mendocino	California	4	0	0	0	0%
+Calaveras	California	4	0	0	0	0%
 Amador	California	3	0	0	0	0%
-Calaveras	California	3	0	0	0	0%
 Siskiyou	California	3	0	0	0	0%
 Glenn	California	2	0	0	0	0%
 Tuolumne	California	2	0	0	0	0%
@@ -285,8 +285,8 @@ St. Helena	Louisiana	1	0	0	0	0%
 Caldwell	Louisiana	1	0	0	0	0%
 Miami-Dade	Florida	3,364	0	25	0	0.7%
 Broward	Florida	1,598	0	22	0	1.4%
-Palm Beach	Florida	858	0	29	0	3.4%
-Orange	Florida	602	0	6	0	1%
+Palm Beach	Florida	858	0	33	0	3.8%
+Orange	Florida	602	0	7	0	1.2%
 Hillsborough	Florida	463	0	5	0	1.1%
 Duval	Florida	323	0	9	0	2.8%
 Pinellas	Florida	318	0	7	0	2.2%
@@ -294,7 +294,7 @@ Lee	Florida	304	0	11	0	3.6%
 Collier	Florida	203	0	2	0	1%
 Osceola	Florida	201	0	4	0	2%
 Seminole	Florida	163	0	0	0	0%
-Polk	Florida	126	0	2	0	1.6%
+Polk	Florida	126	0	3	0	2.4%
 Volusia	Florida	125	0	1	0	0.8%
 Sarasota	Florida	124	0	7	0	5.6%
 St. Johns	Florida	119	0	2	0	1.7%
@@ -304,7 +304,7 @@ Manatee	Florida	104	0	3	0	2.9%
 Lake	Florida	88	0	2	0	2.3%
 Pasco	Florida	77	0	2	0	2.6%
 Clay	Florida	69	0	6	0	8.7%
-Sumter	Florida	68	0	2	0	2.9%
+Sumter	Florida	68	0	3	0	4.4%
 Brevard	Florida	62	0	0	0	0%
 St. Lucie	Florida	60	0	3	0	5%
 Okaloosa	Florida	54	0	1	0	1.9%
@@ -325,7 +325,7 @@ Bay	Florida	18	0	0	0	0%
 Putnam	Florida	15	0	1	0	6.7%
 Baker	Florida	11	0	0	0	0%
 Suwannee	Florida	11	0	0	0	0%
-Unassigned	Florida	10	0	7	0	70%
+Unassigned	Florida	10	0	0	0	0%
 Desoto	Florida	9	0	1	0	11.1%
 Bradford	Florida	5	0	0	0	0%
 Hendry	Florida	5	0	0	0	0%
@@ -517,8 +517,8 @@ Travis	Texas	430	0	3	0	0.7%
 Tarrant	Texas	383	0	7	0	1.8%
 Bexar	Texas	342	0	9	0	2.6%
 Denton	Texas	273	0	6	0	2.2%
+Collin	Texas	256	0	2	0	0.8%
 Fort Bend	Texas	255	0	2	0	0.8%
-Collin	Texas	227	0	2	0	0.9%
 Lubbock	Texas	138	0	4	0	2.9%
 Brazoria	Texas	136	0	1	0	0.7%
 Galveston	Texas	136	0	0	0	0%
@@ -2181,6 +2181,7 @@ Grant	New Mexico	1	0	0	0	0%
 Otero	New Mexico	1	0	0	0	0%
 Roosevelt	New Mexico	1	0	0	0	0%
 San Miguel	New Mexico	1	0	0	0	0%
+Puerto Rico	Puerto Rico	452	74	18	3	4%
 New Castle	Delaware	279	0	7	0	2.5%
 Sussex	Delaware	117	0	3	0	2.6%
 Kent	Delaware	54	0	2	0	3.7%
@@ -2214,7 +2215,6 @@ Orleans	Vermont	8	0	0	0	0%
 Unassigned	Vermont	6	0	12	0	200%
 Caledonia	Vermont	4	0	0	0	0%
 Orange	Vermont	4	0	0	0	0%
-Puerto Rico	Puerto Rico	378	0	15	0	4%
 Honolulu	Hawaii	237	0	3	0	1.3%
 Maui	Hawaii	36	0	0	0	0%
 Hawaii	Hawaii	20	0	0	0	0%
