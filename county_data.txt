@@ -164,8 +164,8 @@ San Mateo	California	538	0	13	0	2.4%
 Alameda	California	537	94	12	0	2.2%
 San Francisco	California	529	32	8	1	1.5%
 Sacramento	California	390	0	10	0	2.6%
+San Bernardino	California	372	19	13	0	3.5%
 Contra Costa	California	353	46	5	2	1.4%
-San Bernardino	California	353	0	13	0	3.7%
 Kern	California	210	11	2	0	1%
 Ventura	California	203	14	6	0	3%
 San Joaquin	California	189	9	11	1	5.8%
@@ -353,8 +353,8 @@ Lehigh	Pennsylvania	804	220	7	2	0.9%
 Luzerne	Pennsylvania	648	164	5	0	0.8%
 Delaware	Pennsylvania	616	74	13	3	2.1%
 Northampton	Pennsylvania	588	122	11	1	1.9%
+Bucks	Pennsylvania	580	130	14	6	2.4%
 Allegheny	Pennsylvania	552	76	3	1	0.5%
-Bucks	Pennsylvania	517	67	11	3	2.1%
 Monroe	Pennsylvania	484	87	11	1	2.3%
 Lancaster	Pennsylvania	291	59	5	0	1.7%
 Chester	Pennsylvania	250	24	2	0	0.8%
@@ -412,15 +412,15 @@ Warren	Pennsylvania	1	0	0	0	0%
 Clinton	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	1	0	0	0%
 Cook	Illinois	7,439	966	167	26	2.2%
-Lake	Illinois	683	75	13	0	1.9%
+Lake	Illinois	689	81	14	1	2%
 DuPage	Illinois	590	90	18	2	3.1%
 Will	Illinois	582	127	11	1	1.9%
 Kane	Illinois	207	31	12	3	5.8%
 McHenry	Illinois	122	20	3	0	2.5%
 St. Clair	Illinois	80	23	2	0	2.5%
 Kankakee	Illinois	68	10	3	1	4.4%
-Unassigned	Illinois	58	5	1	0	1.7%
 Champaign	Illinois	55	4	0	0	0%
+Unassigned	Illinois	53	0	1	0	1.9%
 Kendall	Illinois	47	10	2	0	4.3%
 Madison	Illinois	47	16	0	0	0%
 McLean	Illinois	40	5	2	0	5%
@@ -539,6 +539,7 @@ Williamson	Texas	76	5	1	0	1.3%
 Brazos	Texas	75	3	5	0	6.7%
 Cameron	Texas	62	7	0	0	0%
 Bell	Texas	58	7	1	0	1.7%
+Jefferson	Texas	58	8	1	0	1.7%
 Smith	Texas	57	0	1	0	1.8%
 McLennan	Texas	50	1	1	0	2%
 Hays	Texas	50	3	0	0	0%
@@ -548,7 +549,6 @@ Potter	Texas	40	16	1	1	2.5%
 Matagorda	Texas	39	3	2	0	5.1%
 Randall	Texas	34	10	0	0	0%
 Victoria	Texas	32	0	0	0	0%
-Jefferson	Texas	29	0	1	0	3.4%
 Ellis	Texas	29	2	2	1	6.9%
 Taylor	Texas	27	4	1	1	3.7%
 Guadalupe	Texas	26	3	0	0	0%
@@ -566,6 +566,7 @@ Grayson	Texas	12	0	0	0	0%
 Rusk	Texas	12	1	0	0	0%
 Shelby	Texas	12	2	0	0	0%
 Castro	Texas	11	0	1	0	9.1%
+Calhoun	Texas	11	3	0	0	0%
 Chambers	Texas	11	0	0	0	0%
 Rockwall	Texas	11	1	0	0	0%
 Angelina	Texas	10	0	0	0	0%
@@ -576,7 +577,6 @@ Erath	Texas	9	0	1	0	11.1%
 Hood	Texas	9	1	1	0	11.1%
 Kendall	Texas	9	1	0	0	0%
 Wharton	Texas	9	0	0	0	0%
-Calhoun	Texas	8	0	0	0	0%
 Hunt	Texas	8	0	0	0	0%
 Walker	Texas	8	3	0	0	0%
 Waller	Texas	8	1	0	0	0%
@@ -585,6 +585,7 @@ El Paso--Fort Bliss	Texas	7	0	0	0	0%
 Orange	Texas	7	0	0	0	0%
 Polk	Texas	7	0	0	0	0%
 Harrison	Texas	6	1	1	0	16.7%
+Brown	Texas	6	2	0	0	0%
 Cherokee	Texas	6	0	0	0	0%
 DeWitt	Texas	6	0	0	0	0%
 Hale	Texas	6	0	0	0	0%
@@ -592,7 +593,6 @@ Moore	Texas	6	0	0	0	0%
 Parker	Texas	6	1	0	0	0%
 Wilson	Texas	6	0	0	0	0%
 Navarro	Texas	5	0	1	0	20%
-Brown	Texas	5	1	0	0	0%
 Val Verde	Texas	5	0	0	0	0%
 Dawson	Texas	5	0	0	0	0%
 Donley	Texas	5	0	0	0	0%
@@ -652,6 +652,7 @@ Trinity	Texas	2	1	0	0	0%
 Hutchinson	Texas	2	2	0	0	0%
 Anderson	Texas	1	0	0	0	0%
 Andrews	Texas	1	0	0	0	0%
+Aransas	Texas	1	0	0	0	0%
 Camp	Texas	1	0	0	0	0%
 Clay	Texas	1	0	0	0	0%
 Falls	Texas	1	0	0	0	0%
@@ -673,7 +674,6 @@ Titus	Texas	1	0	0	0	0%
 Reeves	Texas	1	0	0	0	0%
 Lampasas	Texas	1	0	0	0	0%
 Mason	Texas	1	1	0	0	0%
-Aransas	Texas	0	0	0	0	0%
 Fulton	Georgia	959	49	26	0	2.7%
 Dougherty	Georgia	685	78	30	0	4.4%
 DeKalb	Georgia	539	56	9	1	1.7%
@@ -1175,40 +1175,41 @@ Wake	North Carolina	302	23	0	0	0%
 Durham	North Carolina	182	10	1	1	0.5%
 Guilford	North Carolina	94	6	5	0	5.3%
 Forsyth	North Carolina	88	8	1	0	1.1%
+Cabarrus	North Carolina	69	11	1	0	1.4%
 Union	North Carolina	67	4	0	0	0%
-Cabarrus	North Carolina	65	7	1	0	1.5%
 Davidson	North Carolina	53	2	0	0	0%
 Orange	North Carolina	52	8	0	0	0%
-Rowan	North Carolina	44	0	1	0	2.3%
+Gaston	North Carolina	47	4	1	0	2.1%
+Rowan	North Carolina	46	2	1	0	2.2%
+Cumberland	North Carolina	45	3	0	0	0%
 New Hanover	North Carolina	44	2	0	0	0%
-Gaston	North Carolina	43	0	1	0	2.3%
-Cumberland	North Carolina	42	0	0	0	0%
 Iredell	North Carolina	42	0	0	0	0%
-Northampton	North Carolina	38	0	1	0	2.6%
+Northampton	North Carolina	40	2	1	0	2.5%
 Pitt	North Carolina	35	2	0	0	0%
-Johnston	North Carolina	32	7	3	1	9.4%
+Johnston	North Carolina	33	8	3	1	9.1%
 Buncombe	North Carolina	31	0	1	0	3.2%
 Wilson	North Carolina	28	7	1	0	3.6%
 Randolph	North Carolina	26	0	1	0	3.8%
 Henderson	North Carolina	25	3	1	0	4%
-Harnett	North Carolina	24	0	1	0	4.2%
+Harnett	North Carolina	24	0	2	1	8.3%
 Brunswick	North Carolina	24	0	1	0	4.2%
 Granville	North Carolina	24	0	0	0	0%
 Catawba	North Carolina	22	2	1	0	4.5%
 Chatham	North Carolina	21	2	0	0	0%
-Nash	North Carolina	18	1	0	0	0%
-Onslow	North Carolina	16	3	1	0	6.3%
-Alamance	North Carolina	16	1	0	0	0%
+Nash	North Carolina	21	4	0	0	0%
+Burke	North Carolina	18	5	1	1	5.6%
+Alamance	North Carolina	18	3	0	0	0%
+Onslow	North Carolina	17	4	1	0	5.9%
+Davie	North Carolina	16	4	2	0	12.5%
 Carteret	North Carolina	16	0	0	0	0%
-Cleveland	North Carolina	15	2	0	0	0%
-Davie	North Carolina	14	2	2	0	14.3%
+Cleveland	North Carolina	16	3	0	0	0%
 Craven	North Carolina	14	1	0	0	0%
 Franklin	North Carolina	14	1	0	0	0%
-Burke	North Carolina	13	0	1	1	7.7%
-Moore	North Carolina	12	0	0	0	0%
+Moore	North Carolina	14	2	0	0	0%
 Rutherford 	North Carolina	12	0	0	0	0%
 Wayne	North Carolina	12	0	0	0	0%
 Cherokee	North Carolina	11	0	1	0	9.1%
+Caldwell	North Carolina	11	6	0	0	0%
 Montgomery	North Carolina	10	0	1	0	10%
 Halifax	North Carolina	10	3	0	0	0%
 Hoke	North Carolina	10	1	0	0	0%
@@ -1222,16 +1223,15 @@ Bertie	North Carolina	7	1	1	0	14.3%
 Lenoir	North Carolina	7	0	0	0	0%
 Stanly	North Carolina	7	0	0	0	0%
 Columbus	North Carolina	6	1	0	0	0%
+Greene	North Carolina	6	1	0	0	0%
 Polk	North Carolina	6	0	0	0	0%
+Stokes	North Carolina	6	1	0	0	0%
 Yadkin	North Carolina	6	0	0	0	0%
 Rockingham	North Carolina	5	2	1	0	20%
 Dare	North Carolina	5	2	0	0	0%
-Caldwell	North Carolina	5	0	0	0	0%
 Duplin	North Carolina	5	1	0	0	0%
 Edgecombe	North Carolina	5	1	0	0	0%
-Greene	North Carolina	5	0	0	0	0%
 Robeson	North Carolina	5	2	0	0	0%
-Stokes	North Carolina	5	0	0	0	0%
 Transylvania	North Carolina	5	0	0	0	0%
 Wilkes	North Carolina	4	0	1	0	25%
 Hertford	North Carolina	4	0	0	0	0%
@@ -1246,19 +1246,19 @@ Washington	North Carolina	3	0	0	0	0%
 Sampson	North Carolina	2	0	0	0	0%
 Alexander	North Carolina	2	0	0	0	0%
 Alleghany	North Carolina	2	0	0	0	0%
+Caswell	North Carolina	2	1	0	0	0%
 Currituck	North Carolina	2	0	0	0	0%
 Jackson	North Carolina	2	0	0	0	0%
 Mitchell	North Carolina	2	0	0	0	0%
 Scotland	North Carolina	2	0	0	0	0%
 Haywood	North Carolina	2	0	0	0	0%
-Caswell	North Carolina	1	0	0	0	0%
+Warren	North Carolina	2	1	0	0	0%
 Chowan	North Carolina	1	0	0	0	0%
 Gates	North Carolina	1	0	0	0	0%
 Macon	North Carolina	1	0	0	0	0%
 Perquimans	North Carolina	1	0	0	0	0%
 Bladen	North Carolina	1	0	0	0	0%
 Ashe	North Carolina	1	0	0	0	0%
-Warren	North Carolina	1	0	0	0	0%
 Pender	North Carolina	1	0	0	0	0%
 Swain	North Carolina	1	0	0	0	0%
 Fairfax	Virginia	387	15	2	0	0.5%
@@ -1390,7 +1390,7 @@ Lafayette	Missouri	26	6	1	0	3.8%
 Franklin	Missouri	24	1	0	0	0%
 Cass	Missouri	22	1	1	0	4.5%
 Perry	Missouri	22	1	0	0	0%
-Camden	Missouri	20	0	1	0	5%
+Camden	Missouri	21	0	1	0	4.8%
 Callaway	Missouri	18	0	0	0	0%
 Cape Girardeau	Missouri	16	1	0	0	0%
 Christian	Missouri	16	3	0	0	0%
@@ -1412,11 +1412,11 @@ Ste. Genevieve	Missouri	6	0	0	0	0%
 Wright	Missouri	6	0	0	0	0%
 Cedar	Missouri	5	0	0	0	0%
 Taney	Missouri	5	0	0	0	0%
+Carter	Missouri	4	0	0	0	0%
 Chariton	Missouri	4	0	0	0	0%
 Montgomery	Missouri	4	1	0	0	0%
 Bates	Missouri	3	0	0	0	0%
 Benton	Missouri	3	0	0	0	0%
-Carter	Missouri	3	0	0	0	0%
 Macon	Missouri	3	0	0	0	0%
 Pemiscot	Missouri	3	0	0	0	0%
 Ray	Missouri	3	1	0	0	0%
