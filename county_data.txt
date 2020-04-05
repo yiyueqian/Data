@@ -1,5 +1,5 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
-New York	New York	63,306	6,147	2,254	387	3.6%
+New York	New York	63,306	6,147	2,624	757	4.1%
 Nassau	New York	13,346	1,322	95	0	0.7%
 Westchester	New York	13,081	730	67	0	0.5%
 Suffolk	New York	11,370	1,216	124	28	1.1%
@@ -57,7 +57,7 @@ Schuyler	New York	4	1	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Lewis	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	824	212	0%
+Unassigned	New York	0	0	454	0	0%
 Bergen	New Jersey	5,760	894	179	47	3.1%
 Unassigned	New Jersey	3,935	0	14	10	0.4%
 Essex	New Jersey	3,584	217	155	37	4.3%
@@ -154,8 +154,8 @@ Crawford	Michigan	1	0	0	0	0%
 Leelanau	Michigan	1	0	0	0	0%
 Luce	Michigan	1	0	0	0	0%
 Los Angeles	California	5,304	738	119	28	2.2%
+San Diego	California	1,209	97	18	1	1.5%
 Santa Clara	California	1,148	54	39	1	3.4%
-San Diego	California	1,112	0	17	0	1.5%
 Orange	California	786	75	14	1	1.8%
 Riverside	California	665	27	18	3	2.7%
 San Mateo	California	538	0	13	0	2.4%
@@ -282,7 +282,7 @@ Hampshire	Massachusetts	125	11	3	0	2.4%
 Franklin	Massachusetts	95	6	12	1	12.6%
 Dukes and Nantucket	Massachusetts	16	0	0	0	0%
 Miami-Dade	Florida	3,890	526	31	6	0.8%
-Broward	Florida	1,765	167	31	9	1.8%
+Broward	Florida	1,765	167	32	10	1.8%
 Palm Beach	Florida	954	96	35	2	3.7%
 Orange	Florida	657	55	8	1	1.2%
 Hillsborough	Florida	497	34	5	0	1%
@@ -325,7 +325,7 @@ Suwannee	Florida	17	6	0	0	0%
 Desoto	Florida	11	2	1	0	9.1%
 Baker	Florida	11	0	0	0	0%
 Columbia	Florida	10	6	0	0	0%
-Union	Florida	10	9	0	0	0%
+Unassigned	Florida	10	0	0	0	0%
 Bradford	Florida	6	1	0	0	0%
 Hendry	Florida	6	1	0	0	0%
 Madison	Florida	6	2	0	0	0%
@@ -336,10 +336,10 @@ Jackson	Florida	4	0	0	0	0%
 Calhoun	Florida	3	1	0	0	0%
 Okeechobee	Florida	3	1	0	0	0%
 Levy	Florida	2	0	0	0	0%
-Unassigned	Florida	1	0	1	1	100%
 Gulf	Florida	1	0	0	0	0%
 Hardee	Florida	1	0	0	0	0%
 Holmes	Florida	1	0	0	0	0%
+Union	Florida	1	0	0	0	0%
 Washington	Florida	1	0	0	0	0%
 Franklin	Florida	1	0	0	0	0%
 Dixie	Florida	1	1	0	0	0%
@@ -479,8 +479,8 @@ Mason	Illinois	1	1	0	0	0%
 Pike	Illinois	1	1	0	0	0%
 King	Washington	2,898	111	200	12	6.9%
 Snohomish	Washington	1,503	53	45	3	3%
+Unassigned	Washington	807	324	0	0	0%
 Pierce	Washington	620	49	8	1	1.3%
-Unassigned	Washington	483	0	0	0	0%
 Yakima	Washington	289	0	7	0	2.4%
 Spokane	Washington	209	15	10	3	4.8%
 Whatcom	Washington	199	17	9	0	4.5%
@@ -491,39 +491,39 @@ Island	Washington	130	8	4	0	3.1%
 Kitsap	Washington	99	4	0	0	0%
 Grant	Washington	77	0	1	0	1.3%
 Thurston	Washington	64	6	1	1	1.6%
-Franklin	Washington	46	1	1	0	2.2%
+Franklin	Washington	49	4	1	0	2%
 Chelan	Washington	24	4	3	0	12.5%
-Adams	Washington	20	0	0	0	0%
-Jefferson	Washington	19	0	0	0	0%
+Adams	Washington	23	3	0	0	0%
+Jefferson	Washington	20	1	0	0	0%
 Cowlitz	Washington	18	0	0	0	0%
 Lewis	Washington	13	0	0	0	0%
 Mason	Washington	13	0	0	0	0%
 Whitman	Washington	11	0	0	0	0%
+Douglas	Washington	10	3	0	0	0%
 Kittitas	Washington	10	0	0	0	0%
 Klickitat	Washington	9	0	1	0	11.1%
-Douglas	Washington	9	2	0	0	0%
-Walla Walla	Washington	8	0	0	0	0%
+Walla Walla	Washington	9	1	0	0	0%
 Clallam	Washington	8	0	0	0	0%
-Okanogan	Washington	6	2	0	0	0%
-San Juan	Washington	6	0	0	0	0%
+Okanogan	Washington	7	3	0	0	0%
+San Juan	Washington	7	1	0	0	0%
 Stevens	Washington	5	0	0	0	0%
 Grays Harbor	Washington	3	0	0	0	0%
+Asotin	Washington	2	1	0	0	0%
 Lincoln	Washington	1	0	0	0	0%
 Columbia	Washington	1	0	0	0	0%
 Ferry	Washington	1	0	0	0	0%
 Skamania	Washington	1	0	0	0	0%
 Wahkiakum	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
-Asotin	Washington	1	0	0	0	0%
 Dallas	Texas	1,105	184	18	1	1.6%
 Harris--Houston	Texas	690	103	9	1	1.3%
 Harris--Non Houston	Texas	594	75	8	3	1.3%
 Travis	Texas	430	0	4	1	0.9%
 Tarrant	Texas	404	21	9	2	2.2%
-Bexar	Texas	342	0	9	0	2.6%
-Denton	Texas	273	0	6	0	2.2%
+Bexar	Texas	384	42	11	2	2.9%
+Denton	Texas	288	15	6	0	2.1%
+Collin	Texas	268	12	3	1	1.1%
 Fort Bend	Texas	268	13	2	0	0.7%
-Collin	Texas	256	0	3	1	1.2%
 Galveston	Texas	222	86	0	0	0%
 Lubbock	Texas	151	13	4	0	2.6%
 Brazoria	Texas	144	8	1	0	0.7%
@@ -1141,8 +1141,8 @@ Baltimore City	Maryland	343	30	6	2	1.7%
 Anne Arundel	Maryland	289	40	6	2	2.1%
 Howard	Maryland	180	14	3	1	1.7%
 Carroll	Maryland	134	5	6	1	4.5%
+Frederick	Maryland	120	66	3	0	2.5%
 Charles	Maryland	95	5	1	0	1.1%
-Frederick	Maryland	73	19	3	0	4.1%
 Harford	Maryland	44	3	0	0	0%
 St. Mary\'s	Maryland	34	4	0	0	0%
 Calvert	Maryland	33	3	1	0	3%
@@ -1359,17 +1359,17 @@ Pulaski	Virginia	1	0	0	0	0%
 Charlotte	Virginia	1	1	0	0	0%
 Staunton	Virginia	1	1	0	0	0%
 Unassigned	Virginia	0	0	36	5	0%
-St. Louis	Missouri	864	70	7	0	0.8%
-St. Louis City	Missouri	297	0	5	0	1.7%
+St. Louis	Missouri	864	70	11	4	1.3%
+St. Louis City	Missouri	328	31	6	1	1.8%
 Kansas City	Missouri	172	19	2	0	1.2%
-St. Charles	Missouri	151	19	4	0	2.6%
+St. Charles	Missouri	151	19	7	3	4.6%
 Jackson	Missouri	135	3	3	0	2.2%
 Boone	Missouri	75	1	1	0	1.3%
 Jefferson	Missouri	69	7	0	0	0%
 Greene	Missouri	64	0	7	0	10.9%
 Clay	Missouri	32	6	0	0	0%
 Johnson	Missouri	29	1	0	0	0%
-Cole	Missouri	28	2	0	0	0%
+Cole	Missouri	28	2	1	1	3.6%
 Lafayette	Missouri	26	6	1	0	3.8%
 Franklin	Missouri	24	1	0	0	0%
 Cass	Missouri	22	1	1	0	4.5%
@@ -1379,8 +1379,8 @@ Callaway	Missouri	18	0	0	0	0%
 Cape Girardeau	Missouri	16	1	0	0	0%
 Christian	Missouri	16	3	0	0	0%
 Lincoln	Missouri	16	0	0	0	0%
+St. Francois	Missouri	15	3	1	1	6.7%
 Platte	Missouri	14	0	0	0	0%
-St. Francois	Missouri	14	2	0	0	0%
 Adair	Missouri	10	2	0	0	0%
 Pulaski	Missouri	10	0	0	0	0%
 Jasper	Missouri	9	1	0	0	0%
@@ -1788,28 +1788,28 @@ Major	Oklahoma	1	0	0	0	0%
 McCurtain	Oklahoma	1	0	0	0	0%
 Tillman	Oklahoma	1	1	0	0	0%
 Unassigned	Oklahoma	0	0	0	0	0%
-Blaine	Idaho	405	0	2	0	0.5%
-Ada	Idaho	360	9	3	0	0.8%
-Canyon	Idaho	89	0	1	0	1.1%
-Kootenai	Idaho	37	0	0	0	0%
-Twin Falls	Idaho	33	0	1	0	3%
+Blaine	Idaho	410	5	2	0	0.5%
+Ada	Idaho	385	34	3	0	0.8%
+Canyon	Idaho	99	10	1	0	1%
+Kootenai	Idaho	40	3	0	0	0%
+Twin Falls	Idaho	37	4	1	0	2.7%
 Nez Perce	Idaho	13	0	2	0	15.4%
-Jerome	Idaho	11	0	0	0	0%
-Elmore	Idaho	10	0	0	0	0%
+Jerome	Idaho	13	2	0	0	0%
+Elmore	Idaho	11	1	0	0	0%
+Lincoln	Idaho	9	2	0	0	0%
 Gem	Idaho	7	0	0	0	0%
-Lincoln	Idaho	7	0	0	0	0%
+Bonneville	Idaho	6	1	0	0	0%
 Bannock	Idaho	5	0	0	0	0%
-Bonneville	Idaho	5	0	0	0	0%
 Payette	Idaho	5	0	0	0	0%
 Cassia	Idaho	4	0	1	0	25%
 Madison	Idaho	4	0	0	0	0%
+Teton	Idaho	4	1	0	0	0%
+Idaho	Idaho	3	1	0	0	0%
 Jefferson	Idaho	3	0	0	0	0%
-Teton	Idaho	3	0	0	0	0%
 Valley	Idaho	3	0	0	0	0%
 Bingham	Idaho	2	0	0	0	0%
 Bonner	Idaho	2	0	0	0	0%
 Custer	Idaho	2	0	0	0	0%
-Idaho	Idaho	2	0	0	0	0%
 Owyhee	Idaho	2	0	0	0	0%
 Adams	Idaho	1	0	0	0	0%
 Camas	Idaho	1	0	0	0	0%
@@ -1819,6 +1819,34 @@ Latah	Idaho	1	0	0	0	0%
 Minidoka	Idaho	1	0	0	0	0%
 Lewis	Idaho	1	0	0	0	0%
 Washington	Idaho	1	0	0	0	0%
+Caribou	Idaho	1	1	0	0	0%
+Washington	Oregon	247	19	4	0	1.6%
+Multnomah	Oregon	209	34	6	0	2.9%
+Marion	Oregon	188	10	5	0	2.7%
+Clackamas	Oregon	78	12	3	0	3.8%
+Linn	Oregon	41	4	2	0	4.9%
+Deschutes	Oregon	39	3	0	0	0%
+Jackson	Oregon	33	6	0	0	0%
+Lane	Oregon	24	3	1	0	4.2%
+Yamhill	Oregon	23	0	3	0	13%
+Polk	Oregon	22	2	1	0	4.5%
+Benton	Oregon	19	2	1	0	5.3%
+Klamath	Oregon	14	1	0	0	0%
+Josephine	Oregon	13	1	0	0	0%
+Douglas	Oregon	11	2	0	0	0%
+Wasco	Oregon	7	0	0	0	0%
+Umatilla	Oregon	5	0	0	0	0%
+Clatsop	Oregon	4	0	0	0	0%
+Lincoln	Oregon	4	0	0	0	0%
+Columbia	Oregon	3	2	0	0	0%
+Tillamook	Oregon	3	0	0	0	0%
+Union	Oregon	3	0	0	0	0%
+Hood River	Oregon	2	0	0	0	0%
+Malheur	Oregon	2	0	0	0	0%
+Morrow	Oregon	2	0	0	0	0%
+Grant	Oregon	1	0	0	0	0%
+Wallowa	Oregon	1	0	0	0	0%
+Crook	Oregon	1	0	0	0	0%
 Jefferson	Kentucky	299	42	11	0	3.7%
 Fayette	Kentucky	120	0	7	1	5.8%
 Daviess	Kentucky	55	0	1	0	1.8%
@@ -1902,44 +1930,17 @@ Bath	Kentucky	1	1	0	0	0%
 Russell	Kentucky	1	1	0	0	0%
 Ohio	Kentucky	1	1	0	0	0%
 District of Columbia	Washington, D.C.	902	0	21	0	2.3%
-Washington	Oregon	228	0	4	0	1.8%
-Marion	Oregon	178	0	4	0	2.2%
-Multnomah	Oregon	175	0	3	0	1.7%
-Clackamas	Oregon	66	0	3	0	4.5%
-Linn	Oregon	37	0	2	0	5.4%
-Deschutes	Oregon	36	0	0	0	0%
-Jackson	Oregon	27	0	0	0	0%
-Yamhill	Oregon	23	0	3	0	13%
-Lane	Oregon	21	0	1	0	4.8%
-Polk	Oregon	20	0	1	0	5%
-Benton	Oregon	17	0	1	0	5.9%
-Klamath	Oregon	13	0	0	0	0%
-Josephine	Oregon	12	0	0	0	0%
-Douglas	Oregon	9	0	0	0	0%
-Wasco	Oregon	7	0	0	0	0%
-Umatilla	Oregon	5	0	0	0	0%
-Clatsop	Oregon	4	0	0	0	0%
-Lincoln	Oregon	4	0	0	0	0%
-Hood River	Oregon	3	0	0	0	0%
-Tillamook	Oregon	3	0	0	0	0%
-Union	Oregon	3	0	0	0	0%
-Malheur	Oregon	2	0	0	0	0%
-Morrow	Oregon	2	0	0	0	0%
-Columbia	Oregon	1	0	0	0	0%
-Grant	Oregon	1	0	0	0	0%
-Wallowa	Oregon	1	0	0	0	0%
-Crook	Oregon	1	0	0	0	0%
 Hennepin	Minnesota	252	10	9	0	3.6%
 Olmsted	Minnesota	88	12	2	0	2.3%
 Ramsey	Minnesota	79	8	2	0	2.5%
 Dakota	Minnesota	56	2	1	0	1.8%
 Washington	Minnesota	54	3	0	0	0%
 Anoka	Minnesota	36	2	0	0	0%
-Martin	Minnesota	32	0	2	0	6.3%
+Martin	Minnesota	32	0	3	1	9.4%
 Le Sueur	Minnesota	20	1	0	0	0%
 Mower	Minnesota	17	2	0	0	0%
 Blue earth	Minnesota	14	4	0	0	0%
-Winona	Minnesota	13	2	1	0	7.7%
+Winona	Minnesota	13	2	2	1	15.4%
 Clay	Minnesota	13	5	0	0	0%
 St. Louis	Minnesota	13	0	0	0	0%
 Scott	Minnesota	12	1	1	0	8.3%
@@ -1966,7 +1967,7 @@ Isanti	Minnesota	3	1	0	0	0%
 Lyon	Minnesota	3	0	0	0	0%
 Waseca	Minnesota	3	0	0	0	0%
 Watonwan	Minnesota	3	0	0	0	0%
-Unassigned	Minnesota	2	1	5	2	250%
+Unassigned	Minnesota	2	1	3	0	150%
 Clearwater	Minnesota	2	0	0	0	0%
 Itasca	Minnesota	2	0	0	0	0%
 Kandiyohi	Minnesota	2	0	0	0	0%
@@ -2176,6 +2177,19 @@ Cowley	Kansas	1	0	0	0	0%
 Greenwood	Kansas	1	1	0	0	0%
 Jewell	Kansas	1	1	0	0	0%
 Unknown	Kansas	0	0	3	3	0%
+Rockingham	New Hampshire	213	23	1	0	0.5%
+Hillsborough-Manchester	New Hampshire	97	23	0	0	0%
+Hillsborough-other	New Hampshire	74	5	2	0	2.7%
+Hillsborough-Nashua	New Hampshire	60	9	0	0	0%
+Strafford	New Hampshire	43	7	0	0	0%
+Grafton	New Hampshire	41	3	0	0	0%
+Merrimack	New Hampshire	39	3	0	0	0%
+Belknap	New Hampshire	17	3	0	0	0%
+Carroll	New Hampshire	17	0	0	0	0%
+Cheshire	New Hampshire	10	1	0	0	0%
+Sullivan	New Hampshire	5	0	0	0	0%
+Unassigned	New Hampshire	4	4	6	2	150%
+Coos	New Hampshire	1	0	0	0	0%
 New Castle	Delaware	400	121	7	0	1.8%
 Sussex	Delaware	125	8	3	0	2.4%
 Kent	Delaware	68	14	2	0	2.9%
@@ -2204,19 +2218,6 @@ Catron	New Mexico	1	1	0	0	0%
 Lincoln	New Mexico	1	1	0	0	0%
 Los Alamos	New Mexico	1	1	0	0	0%
 Unassigned	New Mexico	0	0	0	0	0%
-Rockingham	New Hampshire	190	0	1	0	0.5%
-Hillsborough-Manchester	New Hampshire	74	0	0	0	0%
-Hillsborough-other	New Hampshire	69	0	2	0	2.9%
-Hillsborough-Nashua	New Hampshire	51	0	0	0	0%
-Grafton	New Hampshire	38	0	0	0	0%
-Merrimack	New Hampshire	36	0	0	0	0%
-Strafford	New Hampshire	36	0	0	0	0%
-Carroll	New Hampshire	17	0	0	0	0%
-Belknap	New Hampshire	14	0	0	0	0%
-Cheshire	New Hampshire	9	0	0	0	0%
-Sullivan	New Hampshire	5	0	0	0	0%
-Coos	New Hampshire	1	0	0	0	0%
-Unassigned	New Hampshire	0	0	4	0	0%
 Chittenden	Vermont	245	46	4	0	1.6%
 Addison	Vermont	34	2	0	0	0%
 Windham	Vermont	25	4	0	0	0%
