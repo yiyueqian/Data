@@ -4,60 +4,60 @@ Nassau	New York	13,346	1,322	95	0	0.7%
 Westchester	New York	13,081	730	67	0	0.5%
 Suffolk	New York	11,370	1,216	124	28	1.1%
 Rockland	New York	4,872	583	69	0	1.4%
-Orange	New York	2,741	271	40	0	1.5%
-Dutchess	New York	938	129	5	0	0.5%
-Erie	New York	808	6	22	0	2.7%
-Monroe	New York	512	48	14	0	2.7%
+Orange	New York	2,863	393	51	11	1.8%
+Erie	New York	945	143	26	4	2.8%
+Dutchess	New York	938	129	8	3	0.9%
+Monroe	New York	512	48	17	3	3.3%
 Onondaga	New York	349	27	4	1	1.1%
+Ulster	New York	318	52	4	0	1.3%
 Albany	New York	293	26	6	2	2%
-Ulster	New York	290	24	4	0	1.4%
 Putnam	New York	283	31	7	0	2.5%
 Sullivan	New York	193	5	5	0	2.6%
-Saratoga	New York	141	0	1	0	0.7%
-Schenectady	New York	117	7	5	0	4.3%
+Saratoga	New York	150	9	1	0	0.7%
+Schenectady	New York	117	7	6	1	5.1%
 Niagara	New York	101	7	0	0	0%
-Tompkins	New York	93	0	0	0	0%
-Oneida	New York	80	9	1	0	1.3%
-Madison	New York	78	0	2	0	2.6%
-Rensselaer	New York	67	0	0	0	0%
+Tompkins	New York	95	2	0	0	0%
+Oneida	New York	86	15	2	1	2.3%
+Madison	New York	85	7	2	0	2.4%
+Rensselaer	New York	73	6	1	0	1.4%
 Broome	New York	65	9	4	0	6.2%
+Columbia	New York	61	4	3	1	4.9%
 Steuben	New York	60	14	0	0	0%
-Columbia	New York	57	0	2	0	3.5%
-St. Lawrence	New York	52	4	0	0	0%
+St. Lawrence	New York	58	10	0	0	0%
 Chenango	New York	39	7	0	0	0%
 Chemung	New York	36	12	0	0	0%
 Clinton	New York	31	1	0	0	0%
 Ontario	New York	31	3	0	0	0%
+Oswego	New York	30	2	0	0	0%
 Wayne	New York	30	0	0	0	0%
-Oswego	New York	28	0	0	0	0%
 Otsego	New York	26	5	1	0	3.8%
-Delaware	New York	26	2	1	0	3.8%
+Delaware	New York	25	1	1	0	4%
 Greene	New York	24	1	0	0	0%
-Genesee	New York	20	3	1	0	5%
+Livingston	New York	22	4	1	0	4.5%
+Genesee	New York	21	4	1	0	4.8%
 Jefferson	New York	20	2	0	0	0%
 Warren	New York	20	1	0	0	0%
 Wyoming	New York	18	3	1	0	5.6%
 Herkimer	New York	18	4	3	0	16.7%
-Livingston	New York	18	0	1	0	5.6%
+Washington	New York	17	2	1	1	5.9%
 Allegany	New York	16	2	1	0	6.3%
-Washington	New York	16	1	0	0	0%
+Chautauqua	New York	14	5	1	0	7.1%
 Cortland	New York	14	0	0	0	0%
-Montgomery	New York	13	3	0	0	0%
+Montgomery	New York	13	3	1	1	7.7%
 Schoharie	New York	11	0	0	0	0%
-Chautauqua	New York	10	1	1	0	10%
 Franklin	New York	10	0	0	0	0%
 Orleans	New York	10	4	0	0	0%
 Cattaraugus	New York	9	0	0	0	0%
+Essex	New York	9	2	0	0	0%
 Fulton	New York	9	3	0	0	0%
+Cayuga	New York	8	2	0	0	0%
 Tioga	New York	8	0	0	0	0%
-Cayuga	New York	7	1	0	0	0%
-Essex	New York	7	0	0	0	0%
 Seneca	New York	6	0	0	0	0%
 Schuyler	New York	4	1	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Lewis	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	454	0	0%
+Unassigned	New York	0	0	427	0	0%
 Bergen	New Jersey	5,760	894	179	47	3.1%
 Unassigned	New Jersey	3,935	0	14	10	0.4%
 Essex	New Jersey	3,584	217	155	37	4.3%
@@ -459,6 +459,7 @@ Fayette	Illinois	2	0	0	0	0%
 Montgomery	Illinois	2	0	0	0	0%
 Jasper	Illinois	2	2	0	0	0%
 Lee	Illinois	2	2	0	0	0%
+Jefferson	Illinois	2	2	0	0	0%
 Cumberland	Illinois	1	0	0	0	0%
 Ford	Illinois	1	0	0	0	0%
 Franklin	Illinois	1	0	0	0	0%
@@ -481,7 +482,7 @@ King	Washington	2,898	111	200	12	6.9%
 Snohomish	Washington	1,503	53	45	3	3%
 Unassigned	Washington	807	324	0	0	0%
 Pierce	Washington	620	49	8	1	1.3%
-Yakima	Washington	289	0	7	0	2.4%
+Yakima	Washington	326	37	9	2	2.8%
 Spokane	Washington	209	15	10	3	4.8%
 Whatcom	Washington	199	17	9	0	4.5%
 Skagit	Washington	161	1	4	0	2.5%
@@ -489,15 +490,15 @@ Benton	Washington	151	15	13	0	8.6%
 Clark	Washington	137	0	8	0	5.8%
 Island	Washington	130	8	4	0	3.1%
 Kitsap	Washington	99	4	0	0	0%
-Grant	Washington	77	0	1	0	1.3%
+Grant	Washington	80	3	2	1	2.5%
 Thurston	Washington	64	6	1	1	1.6%
 Franklin	Washington	49	4	1	0	2%
 Chelan	Washington	24	4	3	0	12.5%
 Adams	Washington	23	3	0	0	0%
 Jefferson	Washington	20	1	0	0	0%
 Cowlitz	Washington	18	0	0	0	0%
+Mason	Washington	14	1	0	0	0%
 Lewis	Washington	13	0	0	0	0%
-Mason	Washington	13	0	0	0	0%
 Whitman	Washington	11	0	0	0	0%
 Douglas	Washington	10	3	0	0	0%
 Kittitas	Washington	10	0	0	0	0%
@@ -518,7 +519,7 @@ Pend Oreille	Washington	1	0	0	0	0%
 Dallas	Texas	1,105	184	18	1	1.6%
 Harris--Houston	Texas	690	103	9	1	1.3%
 Harris--Non Houston	Texas	594	75	8	3	1.3%
-Travis	Texas	430	0	4	1	0.9%
+Travis	Texas	460	30	6	3	1.3%
 Tarrant	Texas	404	21	9	2	2.2%
 Bexar	Texas	384	42	11	2	2.9%
 Denton	Texas	288	15	6	0	2.1%
@@ -528,20 +529,20 @@ Galveston	Texas	222	86	0	0	0%
 Lubbock	Texas	151	13	4	0	2.6%
 Brazoria	Texas	144	8	1	0	0.7%
 Montgomery	Texas	142	12	3	0	2.1%
-El Paso	Texas	96	18	0	0	0%
+El Paso	Texas	106	28	0	0	0%
+Webb	Texas	98	15	6	1	6.1%
 Hidalgo	Texas	86	7	0	0	0%
-Webb	Texas	83	0	5	0	6%
+Williamson	Texas	76	5	1	0	1.3%
 Brazos	Texas	75	3	5	0	6.7%
-Williamson	Texas	71	0	1	0	1.4%
 Cameron	Texas	62	7	0	0	0%
 Bell	Texas	58	7	1	0	1.7%
 Smith	Texas	57	0	1	0	1.8%
 McLennan	Texas	50	1	1	0	2%
 Hays	Texas	50	3	0	0	0%
-Nueces	Texas	47	0	0	0	0%
+Nueces	Texas	50	3	0	0	0%
 Wichita	Texas	46	0	0	0	0%
 Potter	Texas	40	16	1	1	2.5%
-Matagorda	Texas	36	0	2	0	5.6%
+Matagorda	Texas	39	3	2	0	5.1%
 Randall	Texas	34	10	0	0	0%
 Victoria	Texas	32	0	0	0	0%
 Jefferson	Texas	29	0	1	0	3.4%
@@ -555,15 +556,15 @@ Johnson	Texas	21	3	1	0	4.8%
 Tom Green	Texas	20	3	0	0	0%
 Bowie	Texas	17	7	1	0	5.9%
 Washington	Texas	17	0	1	0	5.9%
+Nacogdoches	Texas	16	3	2	0	12.5%
 Gregg	Texas	16	0	0	0	0%
-Nacogdoches	Texas	15	2	2	0	13.3%
 Hardin	Texas	15	0	1	0	6.7%
 Grayson	Texas	12	0	0	0	0%
+Rusk	Texas	12	1	0	0	0%
+Shelby	Texas	12	2	0	0	0%
 Castro	Texas	11	0	1	0	9.1%
 Chambers	Texas	11	0	0	0	0%
 Rockwall	Texas	11	1	0	0	0%
-Rusk	Texas	11	0	0	0	0%
-Shelby	Texas	11	1	0	0	0%
 Angelina	Texas	10	0	0	0	0%
 Bastrop	Texas	10	0	0	0	0%
 Fayette	Texas	10	0	0	0	0%
@@ -580,13 +581,13 @@ Hockley	Texas	7	0	1	0	14.3%
 El Paso--Fort Bliss	Texas	7	0	0	0	0%
 Orange	Texas	7	0	0	0	0%
 Polk	Texas	7	0	0	0	0%
+Harrison	Texas	6	1	1	0	16.7%
 Cherokee	Texas	6	0	0	0	0%
 DeWitt	Texas	6	0	0	0	0%
 Hale	Texas	6	0	0	0	0%
 Moore	Texas	6	0	0	0	0%
 Parker	Texas	6	1	0	0	0%
 Wilson	Texas	6	0	0	0	0%
-Harrison	Texas	5	0	1	0	20%
 Navarro	Texas	5	0	1	0	20%
 Brown	Texas	5	1	0	0	0%
 Val Verde	Texas	5	0	0	0	0%
@@ -605,6 +606,7 @@ Austin	Texas	4	0	0	0	0%
 Burnet	Texas	4	0	0	0	0%
 Cass	Texas	4	0	0	0	0%
 Coryell	Texas	4	2	0	0	0%
+Hopkins	Texas	4	1	0	0	0%
 Maverick	Texas	4	0	0	0	0%
 San Patricio	Texas	4	1	0	0	0%
 Terry	Texas	4	0	0	0	0%
@@ -614,7 +616,6 @@ Caldwell	Texas	3	1	0	0	0%
 Deaf Smith	Texas	3	0	0	0	0%
 Eastland	Texas	3	0	0	0	0%
 Grimes	Texas	3	0	0	0	0%
-Hopkins	Texas	3	0	0	0	0%
 Jackson	Texas	3	0	0	0	0%
 Jasper	Texas	3	0	0	0	0%
 Live Oak	Texas	3	0	0	0	0%
@@ -633,6 +634,7 @@ Comanche	Texas	2	1	0	0	0%
 Crane	Texas	2	0	0	0	0%
 Fannin	Texas	2	0	0	0	0%
 Gillespie	Texas	2	1	0	0	0%
+Henderson	Texas	2	1	0	0	0%
 Karnes	Texas	2	0	0	0	0%
 Kerr	Texas	2	0	0	0	0%
 Kleberg	Texas	2	1	0	0	0%
@@ -653,7 +655,6 @@ Falls	Texas	1	0	0	0	0%
 Franklin	Texas	1	0	0	0	0%
 Gaines	Texas	1	0	0	0	0%
 Gonzales	Texas	1	0	0	0	0%
-Henderson	Texas	1	0	0	0	0%
 Lamb	Texas	1	0	0	0	0%
 Martin	Texas	1	0	0	0	0%
 Montague	Texas	1	0	0	0	0%
@@ -1565,18 +1566,18 @@ Douglas	Nevada	7	0	0	0	0%
 Nye	Nevada	7	0	0	0	0%
 Lyon	Nevada	3	1	0	0	0%
 White Pine	Nevada	1	0	0	0	0%
-Jefferson	Alabama	373	4	9	3	2.4%
-Madison	Alabama	125	2	1	0	0.8%
-Shelby	Alabama	124	9	5	1	4%
+Jefferson	Alabama	376	7	9	3	2.4%
+Shelby	Alabama	127	12	5	1	3.9%
+Madison	Alabama	126	3	1	0	0.8%
 Mobile	Alabama	114	11	5	0	4.4%
-Lee	Alabama	102	3	3	0	2.9%
+Lee	Alabama	104	5	3	0	2.9%
 Chambers	Alabama	87	6	6	1	6.9%
-Montgomery	Alabama	62	2	1	0	1.6%
+Montgomery	Alabama	63	3	1	0	1.6%
 Walker	Alabama	49	1	0	0	0%
-Tuscaloosa	Alabama	43	2	0	0	0%
+Tuscaloosa	Alabama	44	3	0	0	0%
 Limestone	Alabama	31	1	0	0	0%
 Baldwin	Alabama	29	1	1	0	3.4%
-Etowah	Alabama	26	5	3	1	11.5%
+Etowah	Alabama	27	6	3	1	11.1%
 St. Clair	Alabama	25	2	0	0	0%
 Morgan	Alabama	24	0	0	0	0%
 Calhoun	Alabama	21	1	0	0	0%
@@ -1589,23 +1590,24 @@ Talladega	Alabama	16	4	0	0	0%
 Cullman	Alabama	15	0	1	0	6.7%
 Chilton	Alabama	15	0	0	0	0%
 Houston	Alabama	14	2	1	0	7.1%
+Jackson	Alabama	13	1	1	0	7.7%
 DeKalb	Alabama	13	3	0	0	0%
-Jackson	Alabama	12	0	1	0	8.3%
 Autauga	Alabama	12	0	0	0	0%
 Pickens	Alabama	12	1	0	0	0%
 Randolph	Alabama	11	1	1	0	9.1%
 Wilcox	Alabama	11	5	0	0	0%
 Blount	Alabama	10	1	0	0	0%
 Pike	Alabama	10	0	0	0	0%
-Clay	Alabama	8	0	0	0	0%
+Clay	Alabama	9	1	0	0	0%
 Marengo	Alabama	8	0	0	0	0%
+Clarke	Alabama	7	4	0	0	0%
 Cleburne	Alabama	7	0	0	0	0%
 Dallas	Alabama	7	0	0	0	0%
 Coffee	Alabama	7	1	0	0	0%
 Cherokee	Alabama	6	1	0	0	0%
-Clarke	Alabama	6	3	0	0	0%
 Coosa	Alabama	6	0	0	0	0%
 Franklin	Alabama	6	1	0	0	0%
+Russell	Alabama	6	2	0	0	0%
 Sumter	Alabama	6	0	0	0	0%
 Washington	Alabama	5	0	1	0	20%
 Colbert	Alabama	5	0	0	0	0%
@@ -1616,8 +1618,8 @@ Bibb	Alabama	4	0	0	0	0%
 Choctaw	Alabama	4	0	0	0	0%
 Covington	Alabama	4	0	0	0	0%
 Lawrence	Alabama	4	0	0	0	0%
-Russell	Alabama	4	0	0	0	0%
 Hale	Alabama	3	0	0	0	0%
+Lamar	Alabama	3	2	0	0	0%
 Lowndes	Alabama	3	1	0	0	0%
 Winston	Alabama	3	0	0	0	0%
 Bullock	Alabama	2	0	0	0	0%
@@ -1625,11 +1627,11 @@ Conecuh	Alabama	2	1	0	0	0%
 Crenshaw	Alabama	2	1	0	0	0%
 Dale	Alabama	2	1	0	0	0%
 Escambia	Alabama	2	0	0	0	0%
-Lamar	Alabama	2	1	0	0	0%
 Barbour	Alabama	2	1	0	0	0%
 Henry	Alabama	2	0	0	0	0%
 Butler	Alabama	1	0	0	0	0%
 Fayette	Alabama	1	0	0	0	0%
+Perry	Alabama	1	1	0	0	0%
 Hinds	Mississippi	140	1	0	0	0%
 DeSoto	Mississippi	118	7	1	0	0.8%
 Jackson	Mississippi	79	4	1	0	1.3%
@@ -1989,12 +1991,12 @@ Yellow Medicine	Minnesota	1	0	0	0	0%
 Koochiching	Minnesota	1	0	0	0	0%
 McLeod	Minnesota	1	1	0	0	0%
 Polk	Minnesota	1	1	0	0	0%
-Providence	Rhode Island	418	0	3	0	0.7%
-Unassigned	Rhode Island	241	95	14	3	5.8%
-Kent	Rhode Island	59	0	0	0	0%
-Washington	Rhode Island	34	0	0	0	0%
-Newport	Rhode Island	33	0	0	0	0%
-Bristol	Rhode Island	21	0	0	0	0%
+Providence	Rhode Island	491	4	3	0	0.6%
+Unassigned	Rhode Island	122	81	14	3	11.5%
+Kent	Rhode Island	82	2	0	0	0%
+Washington	Rhode Island	48	5	0	0	0%
+Newport	Rhode Island	39	2	0	0	0%
+Bristol	Rhode Island	24	1	0	0	0%
 Linn	Iowa	139	21	4	0	2.9%
 Polk	Iowa	109	9	1	0	0.9%
 Johnson	Iowa	96	13	0	0	0%
@@ -2254,7 +2256,7 @@ Hawaii	Hawaii	22	2	0	0	0%
 Kauai	Hawaii	15	2	0	0	0%
 Unassigned	Hawaii	8	0	0	0	0%
 Residents diagnosed Outside of HI	Hawaii	2	0	0	0	0%
-Douglas	Nebraska	131	6	1	0	0.8%
+Douglas	Nebraska	133	8	3	2	2.3%
 Hall	Nebraska	40	13	1	0	2.5%
 Sarpy	Nebraska	26	1	0	0	0%
 Washington	Nebraska	19	0	0	0	0%
@@ -2340,14 +2342,15 @@ Carbon	Montana	1	0	0	0	0%
 Glacier	Montana	1	0	0	0	0%
 Beaverhead	Montana	1	1	0	0	0%
 Unassigned	Montana	0	0	0	0	0%
-Navajo	Navajo Nation	97	0	0	0	0%
-Coconino	Navajo Nation	49	0	0	0	0%
-Unassigned	Navajo Nation	27	0	7	0	25.9%
+Navajo	Navajo Nation	112	15	0	0	0%
+Coconino	Navajo Nation	83	34	0	0	0%
+San Juan, NM	Navajo Nation	26	4	0	0	0%
 Apache	Navajo Nation	22	0	0	0	0%
-San Juan, NM	Navajo Nation	22	0	0	0	0%
-McKinley	Navajo Nation	14	0	0	0	0%
+McKinley	Navajo Nation	15	1	0	0	0%
 San Juan, UT	Navajo Nation	7	0	0	0	0%
-Cibola	Navajo Nation	3	0	0	0	0%
+Cibola	Navajo Nation	4	1	0	0	0%
+Socorro-NM	Navajo Nation	1	1	0	0	0%
+Unassigned	Navajo Nation	0	0	12	5	0%
 Minnehaha	South Dakota	81	13	0	0	0%
 Beadle	South Dakota	21	0	1	0	4.8%
 Lincoln	South Dakota	21	2	0	0	0%
@@ -2445,8 +2448,8 @@ Sonoma	Diamond Princess	2	0	0	0	0%
 San Diego	Diamond Princess	1	0	0	0	0%
 St. Thomas	US Virgin Islands	26	0	0	0	0%
 St. Croix	US Virgin Islands	12	0	0	0	0%
+Unassigned	US Virgin Islands	2	2	0	0	0%
 St. John	US Virgin Islands	2	0	0	0	0%
-Unassigned	US Virgin Islands	0	0	0	0	0%
 Saipan	Northern Mariana Islands	6	0	1	0	16.7%
 Unassigned	Northern Mariana Islands	2	0	0	0	0%
 Unassigned	Wuhan Evacuee	4	0	0	0	0%
