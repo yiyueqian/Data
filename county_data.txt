@@ -175,9 +175,9 @@ Fresno	California	103	3	1	0	1%
 Placer	California	101	4	2	0	2%
 San Luis Obispo	California	93	0	0	0	0%
 Solano	California	73	12	1	0	1.4%
+Stanislaus	California	65	7	0	0	0%
+Monterey	California	62	9	2	0	3.2%
 Santa Cruz	California	62	3	1	0	1.6%
-Stanislaus	California	58	0	0	0	0%
-Monterey	California	57	4	2	0	3.5%
 Imperial	California	55	0	1	0	1.8%
 Humboldt	California	44	4	0	0	0%
 Yolo	California	37	0	1	0	2.7%
@@ -187,8 +187,8 @@ San Benito	California	23	0	2	0	8.7%
 El Dorado	California	22	3	0	0	0%
 Napa	California	20	0	2	0	10%
 Mono	California	19	1	1	0	5.3%
+Merced	California	19	3	0	0	0%
 Sutter	California	16	2	1	0	6.3%
-Merced	California	16	0	0	0	0%
 Shasta	California	12	0	2	0	16.7%
 Butte	California	11	1	0	0	0%
 Inyo	California	10	0	0	0	0%
@@ -197,10 +197,10 @@ Kings	California	5	0	0	0	0%
 Mendocino	California	4	0	0	0	0%
 Calaveras	California	4	0	0	0	0%
 Amador	California	3	0	0	0	0%
+Plumas	California	3	2	0	0	0%
 Siskiyou	California	3	0	0	0	0%
 Colusa	California	2	1	0	0	0%
 Glenn	California	2	0	0	0	0%
-Plumas	California	2	1	0	0	0%
 Tuolumne	California	2	0	0	0	0%
 Del Norte	California	2	1	0	0	0%
 Alpine	California	1	0	0	0	0%
@@ -522,12 +522,12 @@ Travis	Texas	430	0	4	1	0.9%
 Tarrant	Texas	404	21	9	2	2.2%
 Bexar	Texas	342	0	9	0	2.6%
 Denton	Texas	273	0	6	0	2.2%
+Fort Bend	Texas	268	13	2	0	0.7%
 Collin	Texas	256	0	3	1	1.2%
-Fort Bend	Texas	255	0	2	0	0.8%
+Galveston	Texas	222	86	0	0	0%
+Lubbock	Texas	151	13	4	0	2.6%
 Brazoria	Texas	144	8	1	0	0.7%
 Montgomery	Texas	142	12	3	0	2.1%
-Lubbock	Texas	138	0	4	0	2.9%
-Galveston	Texas	136	0	0	0	0%
 El Paso	Texas	96	18	0	0	0%
 Hidalgo	Texas	86	7	0	0	0%
 Webb	Texas	83	0	5	0	6%
@@ -540,15 +540,15 @@ McLennan	Texas	50	1	1	0	2%
 Hays	Texas	50	3	0	0	0%
 Nueces	Texas	47	0	0	0	0%
 Wichita	Texas	46	0	0	0	0%
+Potter	Texas	40	16	1	1	2.5%
 Matagorda	Texas	36	0	2	0	5.6%
+Randall	Texas	34	10	0	0	0%
 Victoria	Texas	32	0	0	0	0%
 Jefferson	Texas	29	0	1	0	3.4%
 Ellis	Texas	29	2	2	1	6.9%
 Taylor	Texas	27	4	1	1	3.7%
 Guadalupe	Texas	26	3	0	0	0%
-Potter	Texas	24	0	0	0	0%
-Randall	Texas	24	0	0	0	0%
-Midland	Texas	22	0	1	0	4.5%
+Midland	Texas	24	2	1	0	4.2%
 Ector	Texas	22	0	0	0	0%
 Comal	Texas	21	3	2	0	9.5%
 Johnson	Texas	21	3	1	0	4.8%
@@ -588,6 +588,7 @@ Parker	Texas	6	1	0	0	0%
 Wilson	Texas	6	0	0	0	0%
 Harrison	Texas	5	0	1	0	20%
 Navarro	Texas	5	0	1	0	20%
+Brown	Texas	5	1	0	0	0%
 Val Verde	Texas	5	0	0	0	0%
 Dawson	Texas	5	0	0	0	0%
 Donley	Texas	5	0	0	0	0%
@@ -600,7 +601,6 @@ Gray	Texas	5	2	0	0	0%
 Van Zandt	Texas	4	1	1	0	25%
 Panola	Texas	4	0	1	0	25%
 San Augustine	Texas	4	0	1	0	25%
-Brown	Texas	4	0	0	0	0%
 Austin	Texas	4	0	0	0	0%
 Burnet	Texas	4	0	0	0	0%
 Cass	Texas	4	0	0	0	0%
@@ -829,15 +829,15 @@ New London	Connecticut	57	17	3	0	5.3%
 Windham	Connecticut	31	4	1	1	3.2%
 Denver	Colorado 	769	53	14	0	1.8%
 Arapahoe	Colorado 	552	52	10	0	1.8%
-Jefferson	Colorado 	483	43	13	0	2.7%
-Weld	Colorado 	424	45	16	0	3.8%
-El Paso	Colorado 	406	32	18	0	4.4%
+Jefferson	Colorado 	483	43	15	2	3.1%
+Weld	Colorado 	424	45	22	6	5.2%
+El Paso	Colorado 	406	32	22	4	5.4%
 Eagle	Colorado 	333	0	5	0	1.5%
 Adams	Colorado 	320	26	9	0	2.8%
-Douglas	Colorado 	209	15	2	0	1%
+Douglas	Colorado 	209	15	3	1	1.4%
 Unassigned	Colorado 	204	46	0	0	0%
 Boulder	Colorado 	154	11	2	0	1.3%
-Larimer	Colorado 	144	10	7	0	4.9%
+Larimer	Colorado 	144	10	8	1	5.6%
 Gunnison	Colorado 	90	2	1	0	1.1%
 Summit	Colorado 	50	7	0	0	0%
 Garfield	Colorado 	45	0	1	0	2.2%
@@ -851,8 +851,8 @@ Chaffee	Colorado 	21	2	2	0	9.5%
 Mesa	Colorado 	20	0	0	0	0%
 Morgan	Colorado 	16	9	0	0	0%
 Teller	Colorado 	11	0	1	0	9.1%
+Elbert	Colorado 	9	3	1	1	11.1%
 Baca	Colorado 	9	0	0	0	0%
-Elbert	Colorado 	9	3	0	0	0%
 San Miguel	Colorado 	9	0	0	0	0%
 Logan	Colorado 	8	1	0	0	0%
 Montezuma	Colorado 	6	3	1	0	16.7%
@@ -1160,7 +1160,7 @@ Allegany	Maryland	3	1	0	0	0%
 Dorchester	Maryland	1	0	0	0	0%
 Unassigned	Maryland	0	0	0	0	0%
 Mecklenburg	North Carolina	650	49	4	1	0.6%
-Wake	North Carolina	283	4	0	0	0%
+Wake	North Carolina	302	23	0	0	0%
 Durham	North Carolina	182	10	1	1	0.5%
 Guilford	North Carolina	94	6	5	0	5.3%
 Forsyth	North Carolina	88	8	1	0	1.1%
@@ -1169,10 +1169,10 @@ Cabarrus	North Carolina	65	7	1	0	1.5%
 Davidson	North Carolina	53	2	0	0	0%
 Orange	North Carolina	52	8	0	0	0%
 Rowan	North Carolina	44	0	1	0	2.3%
+New Hanover	North Carolina	44	2	0	0	0%
 Gaston	North Carolina	43	0	1	0	2.3%
 Cumberland	North Carolina	42	0	0	0	0%
 Iredell	North Carolina	42	0	0	0	0%
-New Hanover	North Carolina	42	0	0	0	0%
 Northampton	North Carolina	38	0	1	0	2.6%
 Pitt	North Carolina	35	2	0	0	0%
 Johnston	North Carolina	32	7	3	1	9.4%
@@ -1437,19 +1437,19 @@ Howell	Missouri	1	0	0	0	0%
 New Madrid	Missouri	1	0	0	0	0%
 Nodaway	Missouri	1	0	0	0	0%
 Clark	Missouri	1	0	0	0	0%
-Milwaukee	Wisconsin	1,069	46	24	0	2.2%
+Milwaukee	Wisconsin	1,069	46	29	1	2.7%
 Dane	Wisconsin	269	17	8	3	3%
 Waukesha	Wisconsin	147	6	4	0	2.7%
 Kenosha	Wisconsin	93	12	0	0	0%
-Washington	Wisconsin	55	3	1	0	1.8%
-Ozaukee	Wisconsin	53	3	5	0	9.4%
-Racine	Wisconsin	48	7	0	0	0%
+Washington	Wisconsin	55	3	3	2	5.5%
+Ozaukee	Wisconsin	53	3	6	1	11.3%
+Racine	Wisconsin	48	7	1	1	2.1%
 Fond du Lac	Wisconsin	36	6	2	0	5.6%
 Brown	Wisconsin	27	3	0	0	0%
 Rock	Wisconsin	26	6	1	0	3.8%
 Sheboygan	Wisconsin	21	1	1	0	4.8%
 La Crosse	Wisconsin	21	2	0	0	0%
-Outagamie	Wisconsin	20	1	0	0	0%
+Outagamie	Wisconsin	20	1	1	1	5%
 Columbia	Wisconsin	19	1	0	0	0%
 Sauk	Wisconsin	18	0	2	0	11.1%
 Winnebago	Wisconsin	18	1	0	0	0%
@@ -1493,7 +1493,6 @@ Trempealeau	Wisconsin	1	0	0	0	0%
 Rusk	Wisconsin	1	0	0	0	0%
 Manitowoc	Wisconsin	1	1	0	0	0%
 Shawano	Wisconsin	1	1	0	0	0%
-Unassigned	Wisconsin	0	0	4	0	0%
 Maricopa	Arizona	1,171	122	28	11	2.4%
 Pima	Arizona	326	46	11	0	3.4%
 Navajo	Arizona	177	29	1	0	0.6%
