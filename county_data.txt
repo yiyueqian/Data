@@ -418,13 +418,13 @@ Fulton	Pennsylvania	1	1	0	0	0%
 Cook	Illinois	8,034	595	186	19	2.3%
 Lake	Illinois	742	53	13	0	1.8%
 DuPage	Illinois	656	66	22	4	3.4%
-Will	Illinois	648	66	13	1	2%
+Will	Illinois	648	66	15	1	2.3%
 Kane	Illinois	220	13	15	3	6.8%
 McHenry	Illinois	133	11	3	0	2.3%
 St. Clair	Illinois	86	6	2	0	2.3%
 Kankakee	Illinois	76	8	4	1	5.3%
 Unassigned	Illinois	62	9	0	0	0%
-Champaign	Illinois	55	0	0	0	0%
+Champaign	Illinois	56	1	0	0	0%
 Kendall	Illinois	49	2	2	0	4.1%
 Madison	Illinois	48	1	0	0	0%
 McLean	Illinois	46	6	2	0	4.3%
@@ -552,7 +552,7 @@ Hays	Texas	54	4	0	0	0%
 Nueces	Texas	53	3	0	0	0%
 McLennan	Texas	51	1	1	0	2%
 Wichita	Texas	47	1	0	0	0%
-Matagorda	Texas	41	2	2	0	4.9%
+Matagorda	Texas	41	2	3	1	7.3%
 Potter	Texas	40	0	1	0	2.5%
 Randall	Texas	34	0	0	0	0%
 Ellis	Texas	32	3	2	0	6.3%
@@ -570,6 +570,7 @@ Nacogdoches	Texas	18	2	2	0	11.1%
 Bowie	Texas	17	0	1	0	5.9%
 Washington	Texas	17	0	1	0	5.9%
 Gregg	Texas	16	0	0	0	0%
+Wharton	Texas	13	4	0	0	0%
 Grayson	Texas	12	0	0	0	0%
 Rusk	Texas	12	0	0	0	0%
 Shelby	Texas	12	0	0	0	0%
@@ -586,7 +587,6 @@ Kaufman	Texas	10	0	0	0	0%
 Kendall	Texas	10	1	0	0	0%
 Walker	Texas	10	2	0	0	0%
 Hood	Texas	9	0	1	0	11.1%
-Wharton	Texas	9	0	0	0	0%
 Hunt	Texas	8	0	0	0	0%
 Waller	Texas	8	0	0	0	0%
 Dawson	Texas	7	2	0	0	0%
@@ -1186,17 +1186,17 @@ Wake	North Carolina	308	6	0	0	0%
 Durham	North Carolina	188	6	1	0	0.5%
 Guilford	North Carolina	96	2	5	0	5.2%
 Forsyth	North Carolina	89	1	2	1	2.2%
+Union	North Carolina	72	5	0	0	0%
 Cabarrus	North Carolina	69	0	1	0	1.4%
-Union	North Carolina	67	0	0	0	0%
 Davidson	North Carolina	57	4	0	0	0%
+Gaston	North Carolina	52	5	1	0	1.9%
 Orange	North Carolina	52	0	0	0	0%
-Henderson	North Carolina	50	25	1	0	2%
+Henderson	North Carolina	50	25	2	1	4%
 Cumberland	North Carolina	48	3	0	0	0%
-Gaston	North Carolina	47	0	1	0	2.1%
 New Hanover	North Carolina	47	3	0	0	0%
 Rowan	North Carolina	46	0	1	0	2.2%
+Northampton	North Carolina	44	4	1	0	2.3%
 Iredell	North Carolina	44	2	0	0	0%
-Northampton	North Carolina	42	2	1	0	2.4%
 Granville	North Carolina	37	13	0	0	0%
 Pitt	North Carolina	36	1	0	0	0%
 Johnston	North Carolina	33	0	3	0	9.1%
@@ -1206,40 +1206,41 @@ Wilson	North Carolina	29	1	1	0	3.4%
 Harnett	North Carolina	25	1	2	0	8%
 Catawba	North Carolina	24	2	1	0	4.2%
 Brunswick	North Carolina	24	0	1	0	4.2%
+Onslow	North Carolina	21	4	1	0	4.8%
 Chatham	North Carolina	21	0	0	0	0%
 Nash	North Carolina	21	0	0	0	0%
 Alamance	North Carolina	19	1	0	0	0%
 Burke	North Carolina	18	0	1	0	5.6%
-Onslow	North Carolina	17	0	1	0	5.9%
 Davie	North Carolina	16	0	2	0	12.5%
 Carteret	North Carolina	16	0	0	0	0%
 Cleveland	North Carolina	16	0	0	0	0%
 Craven	North Carolina	15	1	0	0	0%
-Rutherford 	North Carolina	15	3	0	0	0%
+Rutherford	North Carolina	15	3	0	0	0%
 Wayne	North Carolina	15	3	0	0	0%
 Moore	North Carolina	14	0	1	1	7.1%
 Franklin	North Carolina	14	0	0	0	0%
+Cherokee	North Carolina	12	1	1	0	8.3%
 Vance	North Carolina	12	2	0	0	0%
-Cherokee	North Carolina	11	0	1	0	9.1%
 Caldwell	North Carolina	11	0	0	0	0%
 Montgomery	North Carolina	10	0	1	0	10%
 Halifax	North Carolina	10	0	0	0	0%
 Hoke	North Carolina	10	0	0	0	0%
 McDowell	North Carolina	10	1	0	0	0%
 Beaufort	North Carolina	9	0	0	0	0%
+Columbus	North Carolina	9	3	0	0	0%
 Lincoln	North Carolina	9	0	0	0	0%
 Yadkin	North Carolina	9	3	0	0	0%
-Columbus	North Carolina	8	2	0	0	0%
 Pasquotank	North Carolina	8	0	0	0	0%
 Watauga	North Carolina	8	0	0	0	0%
 Bertie	North Carolina	7	0	1	0	14.3%
 Lenoir	North Carolina	7	0	0	0	0%
 Stanly	North Carolina	7	0	0	0	0%
+Stokes	North Carolina	7	1	0	0	0%
 Rockingham	North Carolina	6	1	1	0	16.7%
 Dare	North Carolina	6	1	0	0	0%
 Greene	North Carolina	6	0	0	0	0%
+Person	North Carolina	6	2	0	0	0%
 Polk	North Carolina	6	0	0	0	0%
-Stokes	North Carolina	6	0	0	0	0%
 Anson	North Carolina	5	2	0	0	0%
 Duplin	North Carolina	5	0	0	0	0%
 Edgecombe	North Carolina	5	0	0	0	0%
@@ -1247,15 +1248,14 @@ Robeson	North Carolina	5	0	0	0	0%
 Transylvania	North Carolina	5	0	0	0	0%
 Wilkes	North Carolina	4	0	1	0	25%
 Hertford	North Carolina	4	0	1	0	25%
-Person	North Carolina	4	0	0	0	0%
+Washington	North Carolina	4	1	0	0	0%
+Sampson	North Carolina	3	1	0	0	0%
 Martin	North Carolina	3	0	0	0	0%
 Clay	North Carolina	3	0	0	0	0%
 Lee	North Carolina	3	0	0	0	0%
 Pamlico	North Carolina	3	0	0	0	0%
 Surry	North Carolina	3	0	0	0	0%
-Washington	North Carolina	3	0	0	0	0%
 Haywood	North Carolina	3	1	0	0	0%
-Sampson	North Carolina	2	0	0	0	0%
 Alexander	North Carolina	2	0	0	0	0%
 Alleghany	North Carolina	2	0	0	0	0%
 Caswell	North Carolina	2	0	0	0	0%
@@ -1608,64 +1608,54 @@ Cherokee	South Carolina	2	0	0	0	0%
 Hampton	South Carolina	2	1	0	0	0%
 Dillon	South Carolina	1	0	0	0	0%
 McCormick	South Carolina	1	0	0	0	0%
-Clark	Nevada	1,519	101	41	0	2.7%
-Washoe	Nevada	264	19	4	0	1.5%
-Unassigned	Nevada	25	0	0	0	0%
-Humboldt	Nevada	11	2	0	0	0%
-Carson City	Nevada	10	0	0	0	0%
-Elko	Nevada	8	0	1	0	12.5%
-Douglas	Nevada	7	0	0	0	0%
-Nye	Nevada	7	0	0	0	0%
-Lyon	Nevada	3	0	0	0	0%
-White Pine	Nevada	1	0	0	0	0%
 Jefferson	Alabama	418	42	9	0	2.2%
-Shelby	Alabama	143	16	5	0	3.5%
+Shelby	Alabama	145	18	5	0	3.4%
 Madison	Alabama	137	11	1	0	0.7%
 Mobile	Alabama	127	13	6	1	4.7%
 Lee	Alabama	110	6	3	0	2.7%
 Chambers	Alabama	90	3	6	0	6.7%
 Montgomery	Alabama	71	8	1	0	1.4%
-Tuscaloosa	Alabama	56	12	0	0	0%
+Tuscaloosa	Alabama	60	16	0	0	0%
 Walker	Alabama	49	0	0	0	0%
 Etowah	Alabama	36	9	3	0	8.3%
-Baldwin	Alabama	33	4	1	0	3%
+Baldwin	Alabama	34	5	1	0	2.9%
 Limestone	Alabama	32	2	0	0	0%
 Tallapoosa	Alabama	30	10	1	0	3.3%
 St. Clair	Alabama	28	3	0	0	0%
 Morgan	Alabama	27	3	0	0	0%
-Marshall	Alabama	25	8	0	0	0%
+Marshall	Alabama	26	9	0	0	0%
 Calhoun	Alabama	24	3	0	0	0%
 Houston	Alabama	20	6	1	0	5%
+Talladega	Alabama	20	4	0	0	0%
+Marion	Alabama	19	2	2	0	10.5%
 Elmore	Alabama	19	0	0	0	0%
-Talladega	Alabama	19	3	0	0	0%
-Marion	Alabama	18	1	2	0	11.1%
 Chilton	Alabama	18	3	0	0	0%
 Lauderdale	Alabama	16	0	2	0	12.5%
 Cullman	Alabama	15	0	1	0	6.7%
 Jackson	Alabama	14	1	1	0	7.1%
 DeKalb	Alabama	14	1	0	0	0%
 Pike	Alabama	14	4	0	0	0%
+Marengo	Alabama	13	5	0	0	0%
 Autauga	Alabama	12	0	0	0	0%
-Marengo	Alabama	12	4	0	0	0%
 Pickens	Alabama	12	0	0	0	0%
 Wilcox	Alabama	12	1	0	0	0%
 Randolph	Alabama	11	0	1	0	9.1%
 Blount	Alabama	10	0	0	0	0%
 Russell	Alabama	10	4	0	0	0%
+Clarke	Alabama	9	2	0	0	0%
 Clay	Alabama	9	0	0	0	0%
-Clarke	Alabama	8	1	0	0	0%
+Bibb	Alabama	7	3	0	0	0%
 Cleburne	Alabama	7	0	0	0	0%
 Coosa	Alabama	7	1	0	0	0%
 Dallas	Alabama	7	0	0	0	0%
+Sumter	Alabama	7	1	0	0	0%
 Coffee	Alabama	7	0	0	0	0%
-Bibb	Alabama	6	2	0	0	0%
 Cherokee	Alabama	6	0	0	0	0%
 Colbert	Alabama	6	1	0	0	0%
 Franklin	Alabama	6	0	0	0	0%
 Greene	Alabama	6	1	0	0	0%
 Lawrence	Alabama	6	2	0	0	0%
 Lowndes	Alabama	6	3	0	0	0%
-Sumter	Alabama	6	0	0	0	0%
 Washington	Alabama	5	0	1	0	20%
 Choctaw	Alabama	5	1	0	0	0%
 Macon	Alabama	5	0	0	0	0%
@@ -1684,6 +1674,16 @@ Barbour	Alabama	2	0	0	0	0%
 Butler	Alabama	1	0	0	0	0%
 Fayette	Alabama	1	0	0	0	0%
 Perry	Alabama	1	0	0	0	0%
+Clark	Nevada	1,519	101	41	0	2.7%
+Washoe	Nevada	264	19	4	0	1.5%
+Humboldt	Nevada	11	2	0	0	0%
+Carson City	Nevada	10	0	0	0	0%
+Elko	Nevada	8	0	1	0	12.5%
+Douglas	Nevada	7	0	0	0	0%
+Nye	Nevada	7	0	0	0	0%
+Unassigned	Nevada	6	0	0	0	0%
+Lyon	Nevada	3	0	0	0	0%
+White Pine	Nevada	1	0	0	0	0%
 Hinds	Mississippi	154	0	0	0	0%
 DeSoto	Mississippi	132	0	1	0	0.8%
 Jackson	Mississippi	86	0	3	0	3.5%
