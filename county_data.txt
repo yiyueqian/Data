@@ -1,7 +1,7 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
-New York	New York	67,551	4,245	2,472	218	3.7%
+New York	New York	67,551	4,245	3,048	418	4.5%
 Nassau	New York	14,398	1,052	162	13	1.1%
-Westchester	New York	13,723	642	67	0	0.5%
+Westchester	New York	13,723	642	197	0	1.4%
 Suffolk	New York	13,129	1,759	175	51	1.3%
 Rockland	New York	5,326	454	69	0	1.3%
 Orange	New York	3,187	324	53	2	1.7%
@@ -57,7 +57,7 @@ Schuyler	New York	4	0	0	0	0%
 Lewis	New York	3	1	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	1,044	303	0%
+Unassigned	New York	0	0	338	101	0%
 Bergen	New Jersey	6,187	427	189	10	3.1%
 Essex	New Jersey	4,082	498	172	17	4.2%
 Hudson	New Jersey	3,924	433	87	9	2.2%
@@ -490,47 +490,47 @@ Gallatin	Illinois	1	1	0	0	0%
 King	Washington	3,167	269	208	8	6.6%
 Snohomish	Washington	1,559	56	48	3	3.1%
 Pierce	Washington	688	68	10	2	1.5%
-Unassigned	Washington	533	0	0	0	0%
-Yakima	Washington	326	0	9	0	2.8%
-Whatcom	Washington	224	25	13	4	5.8%
+Unassigned	Washington	648	0	0	0	0%
+Yakima	Washington	326	0	12	3	3.7%
+Whatcom	Washington	224	25	15	6	6.7%
 Spokane	Washington	219	10	11	1	5%
-Benton	Washington	164	13	13	0	7.9%
+Benton	Washington	166	15	13	0	7.8%
 Skagit	Washington	161	0	4	0	2.5%
-Clark	Washington	137	0	8	0	5.8%
-Island	Washington	130	0	4	0	3.1%
+Clark	Washington	145	8	8	0	5.5%
+Island	Washington	141	11	4	0	2.8%
 Kitsap	Washington	104	5	0	0	0%
-Grant	Washington	80	0	2	0	2.5%
+Grant	Washington	82	2	2	0	2.4%
 Thurston	Washington	67	3	1	0	1.5%
-Franklin	Washington	56	7	1	0	1.8%
+Franklin	Washington	59	10	2	1	3.4%
 Chelan	Washington	29	5	3	0	10.3%
-Adams	Washington	23	0	0	0	0%
-Jefferson	Washington	20	0	0	0	0%
+Adams	Washington	26	3	0	0	0%
+Jefferson	Washington	22	2	0	0	0%
 Cowlitz	Washington	18	0	0	0	0%
+Lewis	Washington	16	3	0	0	0%
 Mason	Washington	14	0	0	0	0%
-Lewis	Washington	13	0	0	0	0%
+Walla Walla	Washington	12	3	0	0	0%
 Klickitat	Washington	11	2	1	0	9.1%
+Kittitas	Washington	11	1	0	0	0%
 Whitman	Washington	11	0	0	0	0%
 Douglas	Washington	10	0	0	0	0%
-Kittitas	Washington	10	0	0	0	0%
-Walla Walla	Washington	9	0	0	0	0%
+Okanogan	Washington	9	2	0	0	0%
+San Juan	Washington	9	2	0	0	0%
 Clallam	Washington	8	0	0	0	0%
-Okanogan	Washington	7	0	0	0	0%
-San Juan	Washington	7	0	0	0	0%
 Grays Harbor	Washington	6	3	0	0	0%
 Stevens	Washington	5	0	0	0	0%
+Asotin	Washington	3	1	0	0	0%
 Skamania	Washington	2	1	0	0	0%
-Asotin	Washington	2	0	0	0	0%
+Wahkiakum	Washington	2	1	0	0	0%
 Lincoln	Washington	1	0	0	0	0%
 Columbia	Washington	1	0	0	0	0%
 Ferry	Washington	1	0	0	0	0%
-Wahkiakum	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
 Dallas	Texas	1,112	97	18	0	1.6%
 Harris--Houston	Texas	743	53	10	1	1.3%
 Harris--Non Houston	Texas	652	58	10	2	1.5%
 Travis	Texas	484	24	6	0	1.2%
 Tarrant	Texas	418	14	11	2	2.6%
-Bexar	Texas	384	0	11	0	2.9%
+Bexar	Texas	410	26	12	1	2.9%
 Denton	Texas	304	16	7	1	2.3%
 Collin	Texas	287	19	3	0	1%
 Fort Bend	Texas	280	12	6	4	2.1%
@@ -538,10 +538,10 @@ Galveston	Texas	240	18	1	1	0.4%
 Lubbock	Texas	154	3	4	0	2.6%
 Montgomery	Texas	149	7	3	0	2%
 Brazoria	Texas	144	0	1	0	0.7%
-El Paso	Texas	106	0	0	0	0%
-Webb	Texas	98	0	6	0	6.1%
+El Paso	Texas	115	9	0	0	0%
+Webb	Texas	106	8	6	0	5.7%
+Hidalgo	Texas	99	13	0	0	0%
 Brazos	Texas	94	19	6	1	6.4%
-Hidalgo	Texas	86	0	0	0	0%
 Williamson	Texas	77	1	2	1	2.6%
 Cameron	Texas	77	15	0	0	0%
 Smith	Texas	62	5	2	1	3.2%
@@ -577,13 +577,13 @@ Calhoun	Texas	11	0	0	0	0%
 Chambers	Texas	11	0	0	0	0%
 Fayette	Texas	11	1	0	0	0%
 Rockwall	Texas	11	0	0	0	0%
+Erath	Texas	10	1	1	0	10%
 Hockley	Texas	10	3	1	0	10%
 Angelina	Texas	10	0	0	0	0%
 Bastrop	Texas	10	0	0	0	0%
 Kaufman	Texas	10	0	0	0	0%
 Kendall	Texas	10	1	0	0	0%
 Walker	Texas	10	2	0	0	0%
-Erath	Texas	9	0	1	0	11.1%
 Hood	Texas	9	0	1	0	11.1%
 Wharton	Texas	9	0	0	0	0%
 Hunt	Texas	8	0	0	0	0%
@@ -2051,12 +2051,12 @@ McLeod	Minnesota	1	0	0	0	0%
 Polk	Minnesota	1	0	0	0	0%
 Houston	Minnesota	1	1	0	0	0%
 Pipestone	Minnesota	1	1	0	0	0%
-Providence	Rhode Island	491	0	3	0	0.6%
-Unassigned	Rhode Island	238	116	22	8	9.2%
-Kent	Rhode Island	82	0	0	0	0%
-Washington	Rhode Island	48	0	0	0	0%
-Newport	Rhode Island	39	0	0	0	0%
-Bristol	Rhode Island	24	0	0	0	0%
+Providence	Rhode Island	538	3	3	0	0.6%
+Unassigned	Rhode Island	172	103	22	8	12.8%
+Kent	Rhode Island	92	2	0	0	0%
+Washington	Rhode Island	53	5	0	0	0%
+Newport	Rhode Island	42	2	0	0	0%
+Bristol	Rhode Island	25	1	0	0	0%
 Linn	Iowa	161	22	6	1	3.7%
 Polk	Iowa	122	13	4	2	3.3%
 Johnson	Iowa	106	10	1	1	0.9%
@@ -2131,33 +2131,34 @@ Hamilton	Iowa	1	1	0	0	0%
 Marion	Iowa	1	1	0	0	0%
 Unassigned	Iowa	0	0	0	0	0%
 Delaware	Iowa	0	0	0	0	0%
-Pulaski	Arkansas	157	20	2	0	1.3%
-Cleburne	Arkansas	64	0	2	0	3.1%
-Jefferson	Arkansas	59	6	0	0	0%
-Unassigned	Arkansas	57	6	10	2	17.5%
-Crittenden	Arkansas	50	7	0	0	0%
-Faulkner	Arkansas	46	6	1	0	2.2%
-Benton	Arkansas	43	1	0	0	0%
+Pulaski	Arkansas	161	24	2	0	1.2%
+Cleburne	Arkansas	65	1	2	0	3.1%
+Jefferson	Arkansas	62	9	0	0	0%
+Crittenden	Arkansas	53	10	0	0	0%
+Faulkner	Arkansas	47	7	1	0	2.1%
+Unassigned	Arkansas	45	0	10	2	22.2%
+Benton	Arkansas	42	0	0	0	0%
 Garland	Arkansas	41	1	0	0	0%
-Washington	Arkansas	28	3	0	0	0%
+Saline	Arkansas	29	8	0	0	0%
+Washington	Arkansas	29	4	0	0	0%
 Clark	Arkansas	27	0	0	0	0%
-Saline	Arkansas	27	6	0	0	0%
 White	Arkansas	25	2	0	0	0%
 Van Buren	Arkansas	21	1	0	0	0%
-Craighead	Arkansas	18	2	0	0	0%
-Lonoke	Arkansas	16	0	0	0	0%
+Craighead	Arkansas	20	4	0	0	0%
+Lonoke	Arkansas	17	1	0	0	0%
+Pope	Arkansas	13	5	0	0	0%
 Union	Arkansas	12	2	0	0	0%
-Pope	Arkansas	11	3	0	0	0%
-St. Francis	Arkansas	10	9	0	0	0%
+St. Francis	Arkansas	11	10	0	0	0%
+Johnson	Arkansas	8	1	0	0	0%
 Miller	Arkansas	8	0	0	0	0%
 Sebastian	Arkansas	8	0	0	0	0%
+Cleveland	Arkansas	7	2	0	0	0%
 Hot Spring	Arkansas	7	2	0	0	0%
-Johnson	Arkansas	7	0	0	0	0%
 Lincoln	Arkansas	7	1	0	0	0%
 Sevier	Arkansas	6	5	0	0	0%
-Cleveland	Arkansas	5	0	0	0	0%
 Cross	Arkansas	5	0	0	0	0%
 Desha	Arkansas	5	3	0	0	0%
+Drew	Arkansas	5	4	0	0	0%
 Howard	Arkansas	5	4	0	0	0%
 Independence	Arkansas	5	2	0	0	0%
 Poinsett	Arkansas	5	0	0	0	0%
@@ -2175,7 +2176,6 @@ Boone	Arkansas	1	0	0	0	0%
 Carroll	Arkansas	1	0	0	0	0%
 Columbia	Arkansas	1	0	0	0	0%
 Crawford	Arkansas	1	0	0	0	0%
-Drew	Arkansas	1	0	0	0	0%
 Greene	Arkansas	1	0	0	0	0%
 Hempstead	Arkansas	1	0	0	0	0%
 Lawrence	Arkansas	1	0	0	0	0%
@@ -2195,6 +2195,7 @@ Prairie	Arkansas	1	0	0	0	0%
 Sharp	Arkansas	1	0	0	0	0%
 Yell	Arkansas	1	1	0	0	0%
 Phillips	Arkansas	1	1	0	0	0%
+Dallas	Arkansas	1	1	0	0	0%
 Johnson	Kansas	192	7	7	0	3.6%
 Wyandotte	Kansas	158	9	6	0	3.8%
 Sedgwick	Kansas	108	11	1	0	0.9%
