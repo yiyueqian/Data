@@ -8,6 +8,7 @@ Orange	New York	3,599	66	76	0	2.1%
 Dutchess	New York	1,249	60	9	0	0.7%
 Erie	New York	1,163	0	30	0	2.6%
 Monroe	New York	596	22	26	0	4.4%
+Unassigned	New York	406	406	357	207	87.9%
 Ulster	New York	398	16	4	0	1%
 Onondaga	New York	377	0	5	0	1.3%
 Putnam	New York	366	21	7	0	1.9%
@@ -57,7 +58,6 @@ Lewis	New York	6	0	0	0	0%
 Schuyler	New York	4	0	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	357	207	0%
 Bergen	New Jersey	7,533	671	263	60	3.5%
 Essex	New Jersey	5,078	585	232	40	4.6%
 Hudson	New Jersey	4,949	554	103	11	2.1%
@@ -658,9 +658,9 @@ Chambers	Georgia	0	0	0	0	0%
 Dallas	Texas	1,261	106	19	1	1.5%
 Harris--Houston	Texas	1,145	0	10	0	0.9%
 Harris--Non Houston	Texas	664	0	12	0	1.8%
+Tarrant	Texas	517	65	18	5	3.5%
 Travis	Texas	502	0	4	0	0.8%
 Bexar	Texas	456	0	12	0	2.6%
-Tarrant	Texas	452	0	18	5	4%
 Denton	Texas	337	0	7	0	2.1%
 Fort Bend	Texas	318	0	6	0	1.9%
 Collin	Texas	306	0	4	0	1.3%
@@ -676,7 +676,7 @@ Brazos	Texas	94	0	7	0	7.4%
 Williamson	Texas	81	0	3	0	3.7%
 Jefferson	Texas	78	19	2	0	2.6%
 Smith	Texas	75	0	2	0	2.7%
-Bell	Texas	68	0	2	0	2.9%
+Bell	Texas	71	3	2	0	2.8%
 Hays	Texas	61	2	0	0	0%
 Nueces	Texas	59	0	0	0	0%
 McLennan	Texas	56	3	1	0	1.8%
@@ -820,28 +820,28 @@ Callahan	Texas	1	1	0	0	0%
 Knox	Texas	1	1	0	0	0%
 Mitchell	Texas	1	1	0	0	0%
 King	Washington	3,331	0	222	0	6.7%
-Snohomish	Washington	1,603	0	58	0	3.6%
+Snohomish	Washington	1,659	56	61	3	3.7%
 Pierce	Washington	717	0	12	0	1.7%
 Unassigned	Washington	677	0	0	0	0%
 Yakima	Washington	380	0	12	0	3.2%
 Whatcom	Washington	238	10	19	0	8%
 Spokane	Washington	222	0	12	0	5.4%
-Benton	Washington	175	0	17	0	9.7%
+Benton	Washington	176	1	19	2	10.8%
 Clark	Washington	168	0	11	0	6.5%
 Skagit	Washington	166	0	4	0	2.4%
 Island	Washington	142	0	5	0	3.5%
 Kitsap	Washington	111	0	1	0	0.9%
 Grant	Washington	88	0	2	0	2.3%
+Franklin	Washington	70	6	2	0	2.9%
 Thurston	Washington	67	0	1	0	1.5%
-Franklin	Washington	64	0	2	0	3.1%
 Chelan	Washington	34	0	3	0	8.8%
 Adams	Washington	27	0	0	0	0%
 Jefferson	Washington	27	0	0	0	0%
-Cowlitz	Washington	18	0	0	0	0%
+Cowlitz	Washington	21	3	0	0	0%
 Lewis	Washington	16	0	1	0	6.3%
-Mason	Washington	15	0	0	0	0%
+Mason	Washington	16	1	0	0	0%
 Walla Walla	Washington	13	0	0	0	0%
-Kittitas	Washington	12	0	0	0	0%
+Kittitas	Washington	13	1	0	0	0%
 Whitman	Washington	12	0	0	0	0%
 Klickitat	Washington	11	0	1	0	9.1%
 Douglas	Washington	10	0	0	0	0%
@@ -873,9 +873,9 @@ Hendricks	Indiana	225	29	5	1	2.2%
 Johnson	Indiana	212	17	7	1	3.3%
 Madison	Indiana	137	36	11	2	8%
 St. Joseph	Indiana	129	17	1	0	0.8%
+Allen	Indiana	90	3	6	0	6.7%
 Decatur	Indiana	90	0	6	2	6.7%
 Hancock	Indiana	89	17	2	0	2.2%
-Allen	Indiana	87	0	6	0	6.9%
 Porter	Indiana	84	5	0	0	0%
 Clark	Indiana	82	11	7	3	8.5%
 Morgan	Indiana	79	3	1	0	1.3%
@@ -1371,7 +1371,7 @@ Henderson	North Carolina	51	0	3	0	5.9%
 New Hanover	North Carolina	51	0	0	0	0%
 Johnston	North Carolina	47	3	3	0	6.4%
 Pitt	North Carolina	44	2	1	0	2.3%
-Burke	North Carolina	39	0	1	0	2.6%
+Burke	North Carolina	39	0	2	1	5.1%
 Wilson	North Carolina	36	3	2	0	5.6%
 Randolph	North Carolina	35	2	1	0	2.9%
 Buncombe	North Carolina	33	0	1	0	3%
@@ -1829,46 +1829,46 @@ Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
 Carbon	Utah	1	0	0	0	0%
 Unassigned Southwest	Utah	0	0	0	0	0%
-Oklahoma	Oklahoma	279	0	11	0	3.9%
-Tulsa	Oklahoma	249	0	8	0	3.2%
-Cleveland	Oklahoma	180	0	11	0	6.1%
-Wagoner	Oklahoma	49	0	2	0	4.1%
-Creek	Oklahoma	45	0	1	0	2.2%
-Comanche	Oklahoma	41	0	0	0	0%
-Washington	Oklahoma	39	0	1	0	2.6%
-Canadian	Oklahoma	35	0	1	0	2.9%
-Osage	Oklahoma	31	0	3	0	9.7%
-Kay	Oklahoma	30	0	1	0	3.3%
-Greer	Oklahoma	26	0	3	0	11.5%
-Pawnee	Oklahoma	22	0	1	0	4.5%
-Payne	Oklahoma	21	0	0	0	0%
-Muskogee	Oklahoma	20	0	2	0	10%
-Adair	Oklahoma	20	0	0	0	0%
-Rogers	Oklahoma	15	0	0	0	0%
-Cherokee	Oklahoma	14	0	0	0	0%
-Pottawatomie	Oklahoma	13	0	1	0	7.7%
+Oklahoma	Oklahoma	303	24	11	0	3.6%
+Tulsa	Oklahoma	273	24	8	0	2.9%
+Cleveland	Oklahoma	203	23	11	0	5.4%
+Wagoner	Oklahoma	55	6	2	0	3.6%
+Creek	Oklahoma	47	2	1	0	2.1%
+Washington	Oklahoma	43	4	1	0	2.3%
+Comanche	Oklahoma	42	1	0	0	0%
+Canadian	Oklahoma	40	5	1	0	2.5%
+Osage	Oklahoma	34	3	3	0	8.8%
+Kay	Oklahoma	33	3	1	0	3%
+Greer	Oklahoma	31	5	3	0	9.7%
+Adair	Oklahoma	25	5	0	0	0%
+Payne	Oklahoma	24	3	0	0	0%
+Pawnee	Oklahoma	23	1	1	0	4.3%
+Muskogee	Oklahoma	21	1	2	0	9.5%
+Pottawatomie	Oklahoma	19	6	1	0	5.3%
+Rogers	Oklahoma	17	2	0	0	0%
+Cherokee	Oklahoma	16	2	0	0	0%
+McClain	Oklahoma	16	4	0	0	0%
+Ottawa	Oklahoma	14	2	0	0	0%
 Delaware	Oklahoma	13	0	0	0	0%
-McClain	Oklahoma	12	0	0	0	0%
-Ottawa	Oklahoma	12	0	0	0	0%
+Mayes	Oklahoma	12	2	1	0	8.3%
+Garvin	Oklahoma	12	2	0	0	0%
 Stephens	Oklahoma	11	0	1	0	9.1%
 Okmulgee	Oklahoma	11	0	0	0	0%
-Mayes	Oklahoma	10	0	1	0	10%
-Garvin	Oklahoma	10	0	0	0	0%
-Lincoln	Oklahoma	9	0	0	0	0%
-Nowata	Oklahoma	9	0	0	0	0%
-Grady	Oklahoma	8	0	0	0	0%
-Pontotoc	Oklahoma	8	0	0	0	0%
-Sequoyah	Oklahoma	7	0	1	0	14.3%
+Sequoyah	Oklahoma	10	3	1	0	10%
+Lincoln	Oklahoma	10	1	0	0	0%
+Nowata	Oklahoma	10	1	0	0	0%
+Grady	Oklahoma	9	1	0	0	0%
+Pontotoc	Oklahoma	9	1	0	0	0%
+Pittsburg	Oklahoma	7	1	0	0	0%
+Caddo	Oklahoma	6	1	0	0	0%
+Jackson	Oklahoma	6	2	0	0	0%
 Logan	Oklahoma	6	0	0	0	0%
 Noble	Oklahoma	6	0	0	0	0%
-Pittsburg	Oklahoma	6	0	0	0	0%
-Caddo	Oklahoma	5	0	0	0	0%
-Craig	Oklahoma	5	0	0	0	0%
 Custer	Oklahoma	5	0	0	0	0%
 Garfield	Oklahoma	5	0	0	0	0%
 Latimer	Oklahoma	4	0	1	0	25%
 Cotton	Oklahoma	4	0	0	0	0%
-Jackson	Oklahoma	4	0	0	0	0%
+Craig	Oklahoma	4	0	0	0	0%
 Seminole	Oklahoma	3	0	1	0	33.3%
 Bryan	Oklahoma	3	0	0	0	0%
 Texas	Oklahoma	3	0	0	0	0%
@@ -1876,6 +1876,8 @@ Kingfisher	Oklahoma	3	0	0	0	0%
 Choctaw	Oklahoma	2	0	0	0	0%
 Love	Oklahoma	2	0	0	0	0%
 Out-of-State	Oklahoma	2	0	0	0	0%
+McCurtain	Oklahoma	2	1	0	0	0%
+McIntosh	Oklahoma	2	1	0	0	0%
 Beckham	Oklahoma	1	0	0	0	0%
 Carter	Oklahoma	1	0	0	0	0%
 Le Flore	Oklahoma	1	0	0	0	0%
@@ -1884,12 +1886,12 @@ Woodward	Oklahoma	1	0	0	0	0%
 Kiowa	Oklahoma	1	0	0	0	0%
 Grant	Oklahoma	1	0	0	0	0%
 Major	Oklahoma	1	0	0	0	0%
-McCurtain	Oklahoma	1	0	0	0	0%
 Tillman	Oklahoma	1	0	0	0	0%
-McIntosh	Oklahoma	1	0	0	0	0%
 Jefferson	Oklahoma	1	0	0	0	0%
+Beaver	Oklahoma	1	1	0	0	0%
+Dewey	Oklahoma	1	1	0	0	0%
+Marshall	Oklahoma	1	1	0	0	0%
 Unassigned	Oklahoma	0	0	0	0	0%
-Washita	Oklahoma	0	0	0	0	0%
 District of Columbia	Washington, D.C.	1,211	114	22	0	1.8%
 Blaine	Idaho	423	0	2	0	0.5%
 Ada	Idaho	419	0	3	0	0.7%
@@ -2254,30 +2256,31 @@ Logan	Arkansas	1	0	0	0	0%
 Franklin	Arkansas	1	0	0	0	0%
 Izard	Arkansas	1	0	0	0	0%
 Clay	Arkansas	1	0	0	0	0%
-Johnson	Kansas	213	1	9	0	4.2%
-Wyandotte	Kansas	190	4	6	0	3.2%
-Sedgwick	Kansas	124	0	1	0	0.8%
-Shawnee	Kansas	40	0	2	0	5%
-Leavenworth	Kansas	40	0	0	0	0%
-Douglas	Kansas	36	0	0	0	0%
+Johnson	Kansas	219	7	9	0	4.1%
+Wyandotte	Kansas	192	6	6	0	3.1%
+Sedgwick	Kansas	134	10	1	0	0.7%
+Shawnee	Kansas	43	3	2	0	4.7%
+Leavenworth	Kansas	43	3	0	0	0%
+Douglas	Kansas	38	2	0	0	0%
 Coffey	Kansas	32	3	1	0	3.1%
 Lyon	Kansas	25	2	0	0	0%
-Riley	Kansas	14	0	0	0	0%
+Riley	Kansas	17	3	0	0	0%
 Finney	Kansas	11	1	0	0	0%
 Reno	Kansas	11	1	0	0	0%
 Franklin	Kansas	10	0	0	0	0%
-McPherson	Kansas	9	0	0	0	0%
+McPherson	Kansas	10	1	0	0	0%
 Montgomery	Kansas	9	0	0	0	0%
 Butler	Kansas	8	0	0	0	0%
+Labette	Kansas	8	3	0	0	0%
 Bourbon	Kansas	7	1	0	0	0%
 Saline	Kansas	7	0	0	0	0%
 Crawford	Kansas	6	2	1	0	16.7%
 Cherokee	Kansas	5	0	0	0	0%
-Labette	Kansas	5	0	0	0	0%
 Linn	Kansas	5	0	0	0	0%
+Harvey	Kansas	4	1	0	0	0%
+Geary	Kansas	4	2	0	0	0%
 Barton	Kansas	3	0	0	0	0%
 Chautauqua	Kansas	3	0	0	0	0%
-Harvey	Kansas	3	0	0	0	0%
 Jefferson	Kansas	3	0	0	0	0%
 Osage	Kansas	3	0	0	0	0%
 Ottawa	Kansas	3	0	0	0	0%
@@ -2290,7 +2293,7 @@ Morris	Kansas	2	0	0	0	0%
 Sumner	Kansas	2	0	0	0	0%
 Osborne	Kansas	2	0	0	0	0%
 Miami	Kansas	2	0	0	0	0%
-Geary	Kansas	2	0	0	0	0%
+Republic	Kansas	2	1	0	0	0%
 Clay	Kansas	1	0	0	0	0%
 Doniphan	Kansas	1	0	0	0	0%
 Ford	Kansas	1	0	0	0	0%
@@ -2305,8 +2308,10 @@ Cowley	Kansas	1	0	0	0	0%
 Greenwood	Kansas	1	0	0	0	0%
 Jewell	Kansas	1	0	0	0	0%
 Wabaunsee	Kansas	1	0	0	0	0%
-Republic	Kansas	1	0	0	0	0%
 Morton	Kansas	1	0	0	0	0%
+Barber	Kansas	1	1	0	0	0%
+Scott	Kansas	1	1	0	0	0%
+Seward	Kansas	1	1	0	0	0%
 Unknown	Kansas	0	0	5	0	0%
 Anderson	Kansas	0	0	0	0	0%
 New Castle	Delaware	496	0	9	0	1.8%
