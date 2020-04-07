@@ -1,1 +1,2577 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
+New York	New York	72,181	4,630	3,485	437	4.8%
+Nassau	New York	15,616	1,218	381	60	2.4%
+Westchester	New York	14,294	571	211	0	1.5%
+Suffolk	New York	14,185	1,056	199	24	1.4%
+Rockland	New York	5,703	377	119	30	2.1%
+Orange	New York	3,533	346	76	23	2.2%
+Dutchess	New York	1,189	112	9	1	0.8%
+Erie	New York	1,148	89	30	3	2.6%
+Monroe	New York	574	26	26	7	4.5%
+Ulster	New York	382	24	4	0	1%
+Onondaga	New York	377	13	5	0	1.3%
+Putnam	New York	345	31	7	0	2%
+Albany	New York	319	14	8	0	2.5%
+Sullivan	New York	253	60	6	1	2.4%
+Saratoga	New York	153	3	4	3	2.6%
+Schenectady	New York	138	10	7	0	5.1%
+Niagara	New York	120	4	0	0	0%
+Tompkins	New York	102	7	0	0	0%
+Oneida	New York	100	5	2	0	2%
+Madison	New York	92	3	2	0	2.2%
+Broome	New York	76	5	5	0	6.6%
+Steuben	New York	75	2	4	3	5.3%
+Rensselaer	New York	74	0	2	1	2.7%
+Columbia	New York	70	1	3	0	4.3%
+St. Lawrence	New York	61	0	0	0	0%
+Chemung	New York	47	9	0	0	0%
+Chenango	New York	46	3	0	0	0%
+Clinton	New York	36	3	0	0	0%
+Oswego	New York	34	2	0	0	0%
+Wayne	New York	34	2	0	0	0%
+Jefferson	New York	33	7	0	0	0%
+Ontario	New York	32	0	0	0	0%
+Otsego	New York	29	0	1	0	3.4%
+Delaware	New York	29	2	1	0	3.4%
+Warren	New York	26	1	0	0	0%
+Herkimer	New York	25	3	3	0	12%
+Livingston	New York	24	0	1	0	4.2%
+Greene	New York	24	0	0	0	0%
+Wyoming	New York	23	1	1	0	4.3%
+Genesee	New York	23	1	1	0	4.3%
+Washington	New York	19	1	1	0	5.3%
+Chautauqua	New York	18	0	2	1	11.1%
+Allegany	New York	17	1	1	0	5.9%
+Montgomery	New York	15	0	1	0	6.7%
+Cortland	New York	14	0	0	0	0%
+Orleans	New York	13	2	0	0	0%
+Cattaraugus	New York	12	2	0	0	0%
+Cayuga	New York	11	3	0	0	0%
+Fulton	New York	11	2	0	0	0%
+Schoharie	New York	11	0	0	0	0%
+Franklin	New York	10	0	0	0	0%
+Essex	New York	9	0	0	0	0%
+Seneca	New York	9	0	0	0	0%
+Tioga	New York	8	0	0	0	0%
+Lewis	New York	6	3	0	0	0%
+Schuyler	New York	4	0	0	0	0%
+Hamilton	New York	2	0	0	0	0%
+Yates	New York	1	0	0	0	0%
+Unassigned	New York	0	0	150	5	0%
+Bergen	New Jersey	6,862	675	200	11	2.9%
+Essex	New Jersey	4,493	411	186	14	4.1%
+Hudson	New Jersey	4,395	471	92	5	2.1%
+Passaic	New Jersey	3,756	529	53	11	1.4%
+Union	New Jersey	3,685	469	78	7	2.1%
+Unassigned	New Jersey	3,521	0	14	1	0.4%
+Middlesex	New Jersey	3,263	313	87	7	2.7%
+Monmouth	New Jersey	2,545	191	62	4	2.4%
+Ocean	New Jersey	2,374	197	71	9	3%
+Morris	New Jersey	1,956	156	60	5	3.1%
+Somerset	New Jersey	902	69	31	5	3.4%
+Mercer	New Jersey	740	86	19	3	2.6%
+Burlington	New Jersey	646	99	11	0	1.7%
+Camden	New Jersey	645	89	8	0	1.2%
+Sussex	New Jersey	292	25	11	2	3.8%
+Gloucester	New Jersey	279	31	3	0	1.1%
+Warren	New Jersey	215	20	7	1	3.3%
+Hunterdon	New Jersey	211	22	2	0	0.9%
+Atlantic	New Jersey	132	11	1	0	0.8%
+Cape May	New Jersey	85	8	3	1	3.5%
+Cumberland	New Jersey	64	10	2	0	3.1%
+Salem	New Jersey	29	3	2	0	6.9%
+Wayne--Detroit	Michigan	5,023	528	193	35	3.8%
+Oakland	Michigan	3,380	345	185	22	5.5%
+Wayne	Michigan	3,247	224	153	18	4.7%
+Macomb	Michigan	2,159	156	100	17	4.6%
+Genesee	Michigan	568	64	26	8	4.6%
+Washtenaw	Michigan	539	21	10	2	1.9%
+Other	Michigan	241	3	1	0	0.4%
+Ingham	Michigan	178	6	1	0	0.6%
+Kent	Michigan	177	12	5	2	2.8%
+Livingston	Michigan	143	8	2	0	1.4%
+Saginaw	Michigan	139	21	2	2	1.4%
+Unknown	Michigan	130	16	0	0	0%
+Monroe	Michigan	117	9	0	0	0%
+St. Clair	Michigan	110	16	3	1	2.7%
+Jackson	Michigan	103	13	4	1	3.9%
+Out of State	Michigan	91	8	1	0	1.1%
+Berrien	Michigan	60	2	1	0	1.7%
+Kalamazoo	Michigan	58	5	3	0	5.2%
+Eaton	Michigan	57	2	2	0	3.5%
+Clinton	Michigan	56	1	1	0	1.8%
+Lapeer	Michigan	49	4	0	0	0%
+Hillsdale	Michigan	46	2	3	0	6.5%
+Ottawa	Michigan	44	0	0	0	0%
+Calhoun	Michigan	41	0	1	0	2.4%
+Muskegon	Michigan	33	2	4	0	12.1%
+Lenawee	Michigan	32	1	0	0	0%
+Bay	Michigan	30	0	0	0	0%
+Otsego	Michigan	26	2	2	1	7.7%
+Shiawassee	Michigan	24	1	0	0	0%
+Tuscola	Michigan	22	0	2	0	9.1%
+Midland	Michigan	22	4	0	0	0%
+Isabella	Michigan	16	4	2	0	12.5%
+Van Buren	Michigan	16	2	1	0	6.3%
+Marquette	Michigan	15	1	2	1	13.3%
+Branch	Michigan	15	2	1	0	6.7%
+Allegan	Michigan	15	1	0	0	0%
+Montcalm	Michigan	15	1	0	0	0%
+Sanilac	Michigan	14	1	2	1	14.3%
+Grand Traverse	Michigan	14	2	3	0	21.4%
+Emmet	Michigan	13	0	2	0	15.4%
+St. Joseph	Michigan	11	1	0	0	0%
+Kalkaska	Michigan	8	0	2	0	25%
+Cheboygan	Michigan	8	0	1	0	12.5%
+Charlevoix	Michigan	8	1	0	0	0%
+Ionia	Michigan	8	0	0	0	0%
+Cass	Michigan	7	0	1	0	14.3%
+Barry	Michigan	7	1	0	0	0%
+Delta	Michigan	7	0	0	0	0%
+Mecosta	Michigan	6	0	1	0	16.7%
+Manistee	Michigan	6	2	0	0	0%
+Antrim	Michigan	5	1	0	0	0%
+Gratiot	Michigan	5	1	0	0	0%
+Roscommon	Michigan	5	0	0	0	0%
+Wexford	Michigan	5	0	0	0	0%
+Gladwin	Michigan	4	0	0	0	0%
+Huron	Michigan	4	0	0	0	0%
+Gogebic	Michigan	3	0	1	0	33.3%
+Iosco	Michigan	3	0	1	0	33.3%
+Arenac	Michigan	3	0	0	0	0%
+Clare	Michigan	3	2	0	0	0%
+Oceana	Michigan	3	0	0	0	0%
+Ogemaw	Michigan	3	0	0	0	0%
+Osceola	Michigan	3	0	0	0	0%
+Dickinson	Michigan	2	1	1	0	50%
+Crawford	Michigan	2	1	0	0	0%
+Leelanau	Michigan	2	1	0	0	0%
+Mackinac	Michigan	2	0	0	0	0%
+Newaygo	Michigan	2	0	0	0	0%
+Oscoda	Michigan	2	0	0	0	0%
+Missaukee	Michigan	1	0	1	0	100%
+Chippewa	Michigan	1	0	0	0	0%
+Houghton	Michigan	1	0	0	0	0%
+Luce	Michigan	1	0	0	0	0%
+Presque Isle	Michigan	1	1	0	0	0%
+Ontonagon	Michigan	1	0	0	0	0%
+Schoolcraft	Michigan	0	0	0	0	0%
+Benzie	Michigan	0	0	0	0	0%
+Los Angeles	California	6,377	437	147	15	2.3%
+San Diego	California	1,326	0	19	0	1.4%
+Santa Clara	California	1,207	0	39	0	3.2%
+Riverside	California	946	147	25	6	2.6%
+Orange	California	882	51	14	0	1.6%
+Alameda	California	588	22	13	1	2.2%
+San Francisco	California	583	15	9	1	1.5%
+San Mateo	California	579	24	13	0	2.2%
+Sacramento	California	462	20	18	2	3.9%
+Contra Costa	California	417	31	7	1	1.7%
+San Bernardino	California	373	1	13	0	3.5%
+Kern	California	239	9	2	0	0.8%
+Ventura	California	221	0	6	0	2.7%
+San Joaquin	California	206	15	11	0	5.3%
+Santa Barbara	California	174	0	2	0	1.1%
+Marin	California	141	0	7	0	5%
+Tulare	California	135	19	6	1	4.4%
+Sonoma	California	111	4	2	0	1.8%
+Fresno	California	108	5	1	0	0.9%
+Placer	California	106	3	3	0	2.8%
+San Luis Obispo	California	95	0	1	0	1.1%
+Solano	California	73	0	1	0	1.4%
+Stanislaus	California	71	6	0	0	0%
+Santa Cruz	California	69	0	1	0	1.4%
+Imperial	California	65	8	3	1	4.6%
+Monterey	California	62	0	2	0	3.2%
+Humboldt	California	44	0	0	0	0%
+Unassigned	California	43	0	0	0	0%
+Yolo	California	37	0	1	0	2.7%
+Nevada	California	32	1	1	0	3.1%
+Merced	California	29	0	1	1	3.4%
+Madera	California	28	0	2	0	7.1%
+San Benito	California	23	0	2	0	8.7%
+Napa	California	22	2	2	0	9.1%
+El Dorado	California	22	0	0	0	0%
+Shasta	California	20	0	3	0	15%
+Mono	California	19	0	1	0	5.3%
+Sutter	California	16	0	2	0	12.5%
+Butte	California	11	0	0	0	0%
+Inyo	California	11	0	0	0	0%
+Yuba	California	11	2	0	0	0%
+Calaveras	California	5	1	0	0	0%
+Kings	California	5	0	0	0	0%
+Mendocino	California	4	0	0	0	0%
+Siskiyou	California	4	1	0	0	0%
+Amador	California	3	0	0	0	0%
+Plumas	California	3	0	0	0	0%
+Colusa	California	2	0	0	0	0%
+Glenn	California	2	0	0	0	0%
+Tuolumne	California	2	0	0	0	0%
+Del Norte	California	2	0	0	0	0%
+Alpine	California	1	0	0	0	0%
+Tehama	California	1	0	0	0	0%
+Lake	California	1	0	0	0	0%
+Orleans	Louisiana	4,565	499	171	10	3.7%
+Jefferson	Louisiana	3,530	442	121	8	3.4%
+East Baton Rouge	Louisiana	816	160	25	3	3.1%
+Caddo	Louisiana	711	64	21	2	3%
+St. Tammany	Louisiana	637	77	17	3	2.7%
+St. John the Baptist	Louisiana	366	21	24	0	6.6%
+Ascension	Louisiana	347	61	11	0	3.2%
+Lafourche	Louisiana	305	77	7	3	2.3%
+St. Charles	Louisiana	285	25	15	2	5.3%
+St. Bernard	Louisiana	267	25	8	0	3%
+Lafayette	Louisiana	260	13	6	1	2.3%
+Ouachita	Louisiana	230	48	1	0	0.4%
+Tangipahoa	Louisiana	186	15	2	0	1.1%
+Terrebonne	Louisiana	182	34	7	0	3.8%
+St. James	Louisiana	167	12	6	0	3.6%
+Calcasieu	Louisiana	159	20	3	0	1.9%
+Bossier	Louisiana	139	6	3	0	2.2%
+Iberville	Louisiana	136	14	6	1	4.4%
+Rapides	Louisiana	110	10	4	0	3.6%
+Plaquemines	Louisiana	100	8	6	0	6%
+Washington	Louisiana	92	11	2	0	2.2%
+St. Martin	Louisiana	90	13	4	0	4.4%
+Iberia	Louisiana	83	14	5	2	6%
+De Soto	Louisiana	82	2	4	1	4.9%
+Acadia	Louisiana	79	4	2	0	2.5%
+Livingston	Louisiana	79	12	1	0	1.3%
+Assumption	Louisiana	77	18	0	0	0%
+St. Mary	Louisiana	73	6	0	0	0%
+St. Landry	Louisiana	52	5	4	0	7.7%
+Allen	Louisiana	52	12	5	0	9.6%
+Webster	Louisiana	51	2	2	0	3.9%
+Parish Under Investigation	Louisiana	48	17	3	0	6.3%
+West Baton Rouge	Louisiana	45	5	7	0	15.6%
+Avoyelles	Louisiana	40	3	1	0	2.5%
+East Feliciana	Louisiana	39	12	0	0	0%
+Claiborne	Louisiana	30	7	2	0	6.7%
+West Feliciana	Louisiana	30	11	0	0	0%
+Franklin	Louisiana	28	3	0	0	0%
+Union	Louisiana	26	7	0	0	0%
+Pointe Coupee	Louisiana	24	7	0	0	0%
+Beauregard	Louisiana	23	4	0	0	0%
+Evangeline	Louisiana	23	4	0	0	0%
+Natchitoches	Louisiana	22	8	0	0	0%
+Jefferson Davis	Louisiana	21	8	1	1	4.8%
+Lincoln	Louisiana	19	1	0	0	0%
+Vermilion	Louisiana	17	1	1	0	5.9%
+Morehouse	Louisiana	15	5	0	0	0%
+Bienville	Louisiana	14	2	1	0	7.1%
+Catahoula	Louisiana	12	3	1	0	8.3%
+Richland	Louisiana	11	1	0	0	0%
+Caldwell	Louisiana	11	1	0	0	0%
+Grant	Louisiana	10	2	0	0	0%
+Vernon	Louisiana	10	0	0	0	0%
+Concordia	Louisiana	9	4	1	0	11.1%
+St. Helena	Louisiana	8	3	0	0	0%
+Sabine	Louisiana	7	2	0	0	0%
+La Salle	Louisiana	6	2	0	0	0%
+Jackson	Louisiana	4	3	0	0	0%
+Winn	Louisiana	2	0	1	0	50%
+Red River	Louisiana	2	0	0	0	0%
+East Carroll	Louisiana	1	0	0	0	0%
+Madison	Louisiana	1	0	0	0	0%
+West Carroll	Louisiana	1	1	0	0	0%
+Middlesex	Massachusetts	2,950	318	47	6	1.6%
+Suffolk	Massachusetts	2,929	271	31	4	1.1%
+Essex	Massachusetts	1,653	147	29	2	1.8%
+Norfolk	Massachusetts	1,382	111	29	3	2.1%
+Worcester	Massachusetts	1,077	99	18	1	1.7%
+Plymouth	Massachusetts	1,067	104	15	5	1.4%
+Hampden	Massachusetts	889	121	38	4	4.3%
+Bristol	Massachusetts	722	63	8	0	1.1%
+Barnstable	Massachusetts	383	36	7	1	1.8%
+Berkshire	Massachusetts	268	10	11	0	4.1%
+Unassigned	Massachusetts	246	31	10	1	4.1%
+Hampshire	Massachusetts	147	19	3	0	2%
+Franklin	Massachusetts	107	7	13	1	12.1%
+Dukes and Nantucket	Massachusetts	17	0	1	1	5.9%
+Miami-Dade	Florida	4,671	525	41	10	0.9%
+Broward	Florida	2,075	189	47	7	2.3%
+Palm Beach	Florida	1,082	82	51	2	4.7%
+Orange	Florida	754	41	9	1	1.2%
+Hillsborough	Florida	575	39	5	0	0.9%
+Duval	Florida	478	65	9	0	1.9%
+Lee	Florida	400	21	14	3	3.5%
+Pinellas	Florida	372	13	8	0	2.2%
+Collier	Florida	249	18	3	1	1.2%
+Osceola	Florida	241	12	4	0	1.7%
+Seminole	Florida	195	4	1	0	0.5%
+Polk	Florida	180	23	5	1	2.8%
+Sarasota	Florida	159	19	7	0	4.4%
+Volusia	Florida	153	2	3	1	2%
+St. Johns	Florida	147	6	2	0	1.4%
+Manatee	Florida	145	9	5	2	3.4%
+Escambia	Florida	141	16	1	0	0.7%
+Alachua	Florida	133	10	0	0	0%
+Pasco	Florida	114	12	2	0	1.8%
+St. Lucie	Florida	107	25	5	2	4.7%
+Lake	Florida	107	6	2	0	1.9%
+Brevard	Florida	92	13	0	0	0%
+Martin	Florida	85	25	0	0	0%
+Clay	Florida	81	2	6	0	7.4%
+Sumter	Florida	81	6	5	2	6.2%
+Okaloosa	Florida	65	3	1	0	1.5%
+Santa Rosa	Florida	64	9	2	0	3.1%
+Indian River	Florida	60	5	0	0	0%
+Leon	Florida	59	17	0	0	0%
+Charlotte	Florida	55	8	1	0	1.8%
+Marion	Florida	55	5	2	0	3.6%
+Hernando	Florida	48	5	0	0	0%
+Citrus	Florida	46	3	2	0	4.3%
+Monroe	Florida	46	2	2	0	4.3%
+Highlands	Florida	36	1	2	0	5.6%
+Flagler	Florida	34	3	1	0	2.9%
+Suwannee	Florida	31	13	0	0	0%
+Nassau	Florida	25	4	0	0	0%
+Walton	Florida	25	2	0	0	0%
+Bay	Florida	24	0	1	0	4.2%
+Putnam	Florida	19	0	1	0	5.3%
+Columbia	Florida	15	2	0	0	0%
+Desoto	Florida	14	2	3	1	21.4%
+Baker	Florida	13	1	0	0	0%
+Madison	Florida	11	1	0	0	0%
+Bradford	Florida	9	2	0	0	0%
+Hendry	Florida	9	2	0	0	0%
+Wakulla	Florida	6	0	0	0	0%
+Gadsden	Florida	5	1	0	0	0%
+Unknown	Florida	5	1	0	0	0%
+Glades	Florida	4	0	1	0	25%
+Jackson	Florida	4	0	0	0	0%
+Levy	Florida	4	0	0	0	0%
+Okeechobee	Florida	4	1	0	0	0%
+Calhoun	Florida	3	0	0	0	0%
+Jefferson	Florida	3	2	0	0	0%
+Hardee	Florida	2	0	0	0	0%
+Union	Florida	2	0	0	0	0%
+Franklin	Florida	2	0	0	0	0%
+Gulf	Florida	1	0	0	0	0%
+Holmes	Florida	1	0	0	0	0%
+Washington	Florida	1	0	0	0	0%
+Dixie	Florida	1	0	0	0	0%
+Hamilton	Florida	1	1	0	0	0%
+Philadelphia	Pennsylvania	3,728	539	45	2	1.2%
+Montgomery	Pennsylvania	1,230	119	18	0	1.5%
+Lehigh	Pennsylvania	1,006	129	8	0	0.8%
+Luzerne	Pennsylvania	849	108	5	0	0.6%
+Delaware	Pennsylvania	822	114	15	1	1.8%
+Northampton	Pennsylvania	716	80	12	1	1.7%
+Allegheny	Pennsylvania	642	37	4	0	0.6%
+Bucks	Pennsylvania	634	0	17	3	2.7%
+Monroe	Pennsylvania	572	44	11	0	1.9%
+Lancaster	Pennsylvania	408	37	11	3	2.7%
+Berks	Pennsylvania	326	50	3	0	0.9%
+Chester	Pennsylvania	307	38	3	1	1%
+Lackawanna	Pennsylvania	190	18	7	1	3.7%
+York	Pennsylvania	189	18	1	0	0.5%
+Westmoreland	Pennsylvania	157	10	0	0	0%
+Dauphin	Pennsylvania	132	14	1	0	0.8%
+Pike	Pennsylvania	125	11	2	1	1.6%
+Lebanon	Pennsylvania	124	18	0	0	0%
+Schuylkill	Pennsylvania	103	13	0	0	0%
+Beaver	Pennsylvania	96	12	6	0	6.3%
+Butler	Pennsylvania	91	4	2	0	2.2%
+Cumberland	Pennsylvania	68	10	2	0	2.9%
+Carbon	Pennsylvania	59	9	1	0	1.7%
+Washington	Pennsylvania	53	3	0	0	0%
+Centre	Pennsylvania	44	1	0	0	0%
+Montour	Pennsylvania	37	0	0	0	0%
+Wayne	Pennsylvania	35	2	0	0	0%
+Franklin	Pennsylvania	32	2	0	0	0%
+Fayette	Pennsylvania	29	2	1	0	3.4%
+Erie	Pennsylvania	27	8	0	0	0%
+Columbia	Pennsylvania	26	4	0	0	0%
+Adams	Pennsylvania	25	3	0	0	0%
+Lawrence	Pennsylvania	24	1	2	0	8.3%
+Mercer	Pennsylvania	18	0	0	0	0%
+Indiana	Pennsylvania	17	4	0	0	0%
+Northumberland	Pennsylvania	15	1	0	0	0%
+Armstrong	Pennsylvania	13	1	0	0	0%
+Greene	Pennsylvania	12	0	0	0	0%
+Juniata	Pennsylvania	11	4	0	0	0%
+Bradford	Pennsylvania	10	0	0	0	0%
+Lycoming	Pennsylvania	10	1	0	0	0%
+Crawford	Pennsylvania	9	2	0	0	0%
+Mifflin	Pennsylvania	9	0	0	0	0%
+Snyder	Pennsylvania	8	0	1	0	12.5%
+Tioga	Pennsylvania	8	5	0	0	0%
+Cambria	Pennsylvania	7	0	0	0	0%
+Clearfield	Pennsylvania	7	0	0	0	0%
+Clarion	Pennsylvania	6	1	0	0	0%
+Somerset	Pennsylvania	6	2	0	0	0%
+Susquehanna	Pennsylvania	6	0	0	0	0%
+Union	Pennsylvania	6	0	0	0	0%
+Perry	Pennsylvania	5	0	1	0	20%
+Blair	Pennsylvania	5	0	0	0	0%
+Venango	Pennsylvania	5	2	0	0	0%
+Wyoming	Pennsylvania	5	0	0	0	0%
+Bedford	Pennsylvania	4	0	0	0	0%
+Huntingdon	Pennsylvania	4	0	0	0	0%
+Forest	Pennsylvania	4	1	0	0	0%
+Potter	Pennsylvania	3	0	0	0	0%
+Clinton	Pennsylvania	3	2	0	0	0%
+Cameron	Pennsylvania	1	0	0	0	0%
+Mckean	Pennsylvania	1	0	0	0	0%
+Warren	Pennsylvania	1	0	0	0	0%
+Sullivan	Pennsylvania	1	0	0	0	0%
+Fulton	Pennsylvania	1	0	0	0	0%
+Cook	Illinois	8,728	694	209	23	2.4%
+Lake	Illinois	815	73	15	2	1.8%
+DuPage	Illinois	715	59	22	0	3.1%
+Will	Illinois	697	49	19	4	2.7%
+Kane	Illinois	234	14	15	0	6.4%
+McHenry	Illinois	144	11	3	0	2.1%
+St. Clair	Illinois	92	6	2	0	2.2%
+Kankakee	Illinois	85	9	4	0	4.7%
+Unassigned	Illinois	72	10	1	1	1.4%
+Champaign	Illinois	62	6	0	0	0%
+Kendall	Illinois	55	6	2	0	3.6%
+Madison	Illinois	52	4	0	0	0%
+Winnebago	Illinois	49	7	1	0	2%
+Rock Island	Illinois	47	7	0	0	0%
+McLean	Illinois	46	0	2	0	4.3%
+Sangamon	Illinois	31	2	2	0	6.5%
+Randolph	Illinois	27	3	0	0	0%
+Christian	Illinois	22	2	2	0	9.1%
+DeKalb	Illinois	22	0	1	1	4.5%
+Whiteside	Illinois	18	0	1	0	5.6%
+Jackson	Illinois	14	2	1	0	7.1%
+Tazewell	Illinois	14	1	0	0	0%
+Peoria	Illinois	12	1	1	0	8.3%
+La Salle	Illinois	11	3	1	0	9.1%
+Clinton	Illinois	11	1	0	0	0%
+Monroe	Illinois	11	1	0	0	0%
+Douglas	Illinois	10	1	0	0	0%
+Henry	Illinois	10	2	0	0	0%
+Grundy	Illinois	9	0	0	0	0%
+Livingston	Illinois	9	2	0	0	0%
+Macon	Illinois	9	3	0	0	0%
+Adams	Illinois	8	5	0	0	0%
+Morgan	Illinois	7	1	1	0	14.3%
+Ogle	Illinois	7	2	0	0	0%
+Macoupin	Illinois	7	2	0	0	0%
+Iroquois	Illinois	6	1	0	0	0%
+Jo Daviess	Illinois	6	1	0	0	0%
+Woodford	Illinois	6	0	0	0	0%
+Crawford	Illinois	5	2	0	0	0%
+Stephenson	Illinois	5	2	0	0	0%
+Vermilion	Illinois	5	0	0	0	0%
+Carroll	Illinois	4	0	1	0	25%
+Jasper	Illinois	4	1	0	0	0%
+Boone	Illinois	4	1	0	0	0%
+Montgomery	Illinois	3	0	1	0	33.3%
+Bond	Illinois	3	0	0	0	0%
+Bureau	Illinois	3	0	0	0	0%
+Fayette	Illinois	3	1	0	0	0%
+Marion	Illinois	3	0	0	0	0%
+Williamson	Illinois	3	0	0	0	0%
+Piatt	Illinois	3	2	0	0	0%
+De Witt	Illinois	3	1	0	0	0%
+Jersey	Illinois	3	1	0	0	0%
+Clark	Illinois	2	0	0	0	0%
+Franklin	Illinois	2	1	0	0	0%
+Massac	Illinois	2	0	0	0	0%
+Menard	Illinois	2	1	0	0	0%
+Washington	Illinois	2	1	0	0	0%
+Mercer	Illinois	2	0	0	0	0%
+Lee	Illinois	2	0	0	0	0%
+Cumberland	Illinois	1	0	0	0	0%
+Ford	Illinois	1	0	0	0	0%
+Knox	Illinois	1	0	0	0	0%
+Marshall	Illinois	1	0	0	0	0%
+Saline	Illinois	1	0	0	0	0%
+Logan	Illinois	1	0	0	0	0%
+Moultrie	Illinois	1	0	0	0	0%
+Effingham	Illinois	1	0	0	0	0%
+Mason	Illinois	1	0	0	0	0%
+Pike	Illinois	1	0	0	0	0%
+Jefferson	Illinois	1	0	0	0	0%
+Calhoun	Illinois	1	0	0	0	0%
+Gallatin	Illinois	1	0	0	0	0%
+Wabash	Illinois	1	1	0	0	0%
+King	Washington	3,331	164	222	14	6.7%
+Snohomish	Washington	1,603	44	58	10	3.6%
+Pierce	Washington	717	29	12	2	1.7%
+Unassigned	Washington	648	0	0	0	0%
+Yakima	Washington	363	37	12	0	3.3%
+Whatcom	Washington	228	4	19	4	8.3%
+Spokane	Washington	222	3	12	1	5.4%
+Benton	Washington	175	9	17	4	9.7%
+Clark	Washington	168	23	11	3	6.5%
+Skagit	Washington	161	0	4	0	2.5%
+Island	Washington	142	1	5	0	3.5%
+Kitsap	Washington	111	7	1	1	0.9%
+Grant	Washington	88	6	2	0	2.3%
+Thurston	Washington	67	0	1	0	1.5%
+Franklin	Washington	64	5	2	0	3.1%
+Chelan	Washington	29	0	3	0	10.3%
+Adams	Washington	26	0	0	0	0%
+Jefferson	Washington	22	0	0	0	0%
+Cowlitz	Washington	18	0	0	0	0%
+Lewis	Washington	16	0	1	1	6.3%
+Mason	Washington	15	1	0	0	0%
+Walla Walla	Washington	12	0	0	0	0%
+Kittitas	Washington	12	1	0	0	0%
+Whitman	Washington	12	1	0	0	0%
+Klickitat	Washington	11	0	1	0	9.1%
+Douglas	Washington	10	0	0	0	0%
+Okanogan	Washington	9	0	0	0	0%
+San Juan	Washington	9	0	0	0	0%
+Clallam	Washington	8	0	0	0	0%
+Grays Harbor	Washington	6	0	0	0	0%
+Stevens	Washington	5	0	0	0	0%
+Asotin	Washington	3	0	0	0	0%
+Skamania	Washington	2	0	0	0	0%
+Wahkiakum	Washington	2	0	0	0	0%
+Lincoln	Washington	1	0	0	0	0%
+Columbia	Washington	1	0	0	0	0%
+Ferry	Washington	1	0	0	0	0%
+Pend Oreille	Washington	1	0	0	0	0%
+Dallas	Texas	1,155	43	18	0	1.6%
+Harris--Houston	Texas	1,145	402	10	0	0.9%
+Harris--Non Houston	Texas	664	12	12	2	1.8%
+Travis	Texas	502	18	6	0	1.2%
+Tarrant	Texas	452	34	13	2	2.9%
+Bexar	Texas	410	0	12	0	2.9%
+Denton	Texas	337	33	7	0	2.1%
+Fort Bend	Texas	318	38	6	0	1.9%
+Collin	Texas	306	19	4	1	1.3%
+Galveston	Texas	256	16	1	0	0.4%
+Lubbock	Texas	180	26	6	1	3.3%
+Brazoria	Texas	167	23	1	0	0.6%
+Montgomery	Texas	161	12	3	0	1.9%
+El Paso	Texas	125	10	0	0	0%
+Webb	Texas	122	16	6	0	4.9%
+Hidalgo	Texas	99	0	0	0	0%
+Brazos	Texas	94	0	6	0	6.4%
+Cameron	Texas	87	10	0	0	0%
+Williamson	Texas	81	4	3	1	3.7%
+Smith	Texas	75	13	2	0	2.7%
+Bell	Texas	68	10	2	1	2.9%
+Jefferson	Texas	59	1	2	0	3.4%
+Hays	Texas	59	5	0	0	0%
+Nueces	Texas	59	6	0	0	0%
+McLennan	Texas	53	2	1	0	1.9%
+Wichita	Texas	47	0	0	0	0%
+Matagorda	Texas	41	0	3	0	7.3%
+Potter	Texas	41	1	1	0	2.4%
+Randall	Texas	36	2	1	0	2.8%
+Victoria	Texas	35	3	0	0	0%
+Taylor	Texas	31	0	1	0	3.2%
+Ellis	Texas	29	0	2	0	6.9%
+Guadalupe	Texas	28	0	0	0	0%
+Hardin	Texas	26	0	1	0	3.8%
+Ector	Texas	26	0	0	0	0%
+Midland	Texas	24	0	1	0	4.2%
+Tom Green	Texas	24	3	0	0	0%
+Gregg	Texas	23	7	0	0	0%
+Comal	Texas	22	1	2	0	9.1%
+Orange	Texas	22	0	0	0	0%
+Johnson	Texas	21	0	1	0	4.8%
+Nacogdoches	Texas	21	3	2	0	9.5%
+Washington	Texas	19	0	1	0	5.3%
+Bowie	Texas	14	0	1	0	7.1%
+Angelina	Texas	14	4	0	0	0%
+Grayson	Texas	13	1	0	0	0%
+Rusk	Texas	13	1	0	0	0%
+Wharton	Texas	13	0	0	0	0%
+Calhoun	Texas	12	1	0	0	0%
+Shelby	Texas	12	0	0	0	0%
+Harrison	Texas	11	5	1	0	9.1%
+Castro	Texas	11	0	1	0	9.1%
+Bastrop	Texas	11	1	0	0	0%
+Chambers	Texas	11	0	0	0	0%
+Erath	Texas	10	0	1	0	10%
+Hockley	Texas	10	0	1	0	10%
+Rockwall	Texas	10	0	0	0	0%
+Walker	Texas	10	0	0	0	0%
+Hood	Texas	9	0	1	0	11.1%
+Fayette	Texas	9	0	0	0	0%
+Kaufman	Texas	9	0	0	0	0%
+Kendall	Texas	9	0	0	0	0%
+Waller	Texas	9	1	0	0	0%
+Gray	Texas	9	4	0	0	0%
+Moore	Texas	8	2	0	0	0%
+Polk	Texas	8	1	0	0	0%
+Van Zandt	Texas	7	2	1	0	14.3%
+Dawson	Texas	7	0	0	0	0%
+Deaf Smith	Texas	7	2	0	0	0%
+DeWitt	Texas	7	0	0	0	0%
+Donley	Texas	7	0	0	0	0%
+El Paso--Fort Bliss	Texas	7	0	0	0	0%
+Hale	Texas	7	0	0	0	0%
+Starr	Texas	7	1	0	0	0%
+Brown	Texas	6	0	0	0	0%
+Andrews	Texas	6	0	0	0	0%
+Cherokee	Texas	6	0	0	0	0%
+Henderson	Texas	6	4	0	0	0%
+Lamar	Texas	6	1	0	0	0%
+Liberty	Texas	6	0	0	0	0%
+Parker	Texas	6	0	0	0	0%
+Wilson	Texas	6	0	0	0	0%
+Willacy	Texas	5	0	1	0	20%
+Val Verde	Texas	5	0	0	0	0%
+Austin	Texas	5	0	0	0	0%
+Coryell	Texas	5	0	0	0	0%
+Hill	Texas	5	0	0	0	0%
+Maverick	Texas	5	1	0	0	0%
+Upshur	Texas	5	2	0	0	0%
+Uvalde	Texas	5	1	0	0	0%
+Panola	Texas	4	0	1	0	25%
+San Augustine	Texas	4	0	1	0	25%
+Navarro	Texas	4	0	1	0	25%
+Burnet	Texas	4	0	0	0	0%
+Caldwell	Texas	4	1	0	0	0%
+Hopkins	Texas	4	0	0	0	0%
+Medina	Texas	4	0	0	0	0%
+Terry	Texas	4	0	0	0	0%
+Oldham	Texas	3	1	1	0	33.3%
+Limestone	Texas	3	0	1	0	33.3%
+Jasper	Texas	3	0	1	1	33.3%
+Atascosa	Texas	3	1	0	0	0%
+Cass	Texas	3	0	0	0	0%
+Eastland	Texas	3	0	0	0	0%
+Gillespie	Texas	3	1	0	0	0%
+Grimes	Texas	3	0	0	0	0%
+Jackson	Texas	3	0	0	0	0%
+Live Oak	Texas	3	0	0	0	0%
+Lynn	Texas	3	0	0	0	0%
+Milam	Texas	3	0	0	0	0%
+Wise	Texas	3	0	0	0	0%
+Wood	Texas	3	0	0	0	0%
+Young	Texas	3	0	0	0	0%
+Goliad	Texas	3	2	0	0	0%
+Blanco	Texas	2	0	0	0	0%
+Burleson	Texas	2	0	0	0	0%
+Colorado	Texas	2	0	0	0	0%
+Comanche	Texas	2	0	0	0	0%
+Crane	Texas	2	0	0	0	0%
+Fannin	Texas	2	0	0	0	0%
+Karnes	Texas	2	0	0	0	0%
+Kerr	Texas	2	0	0	0	0%
+Kleberg	Texas	2	0	0	0	0%
+Lavaca	Texas	2	0	0	0	0%
+Leon	Texas	2	0	0	0	0%
+Llano	Texas	2	0	0	0	0%
+Martin	Texas	2	1	0	0	0%
+Robertson	Texas	2	0	0	0	0%
+San Patricio	Texas	2	0	0	0	0%
+Swisher	Texas	2	1	0	0	0%
+Tyler	Texas	2	0	0	0	0%
+Jim Wells	Texas	2	0	0	0	0%
+Lee	Texas	2	0	0	0	0%
+Titus	Texas	2	1	0	0	0%
+Trinity	Texas	2	0	0	0	0%
+Lampasas	Texas	2	1	0	0	0%
+Hutchinson	Texas	2	0	0	0	0%
+Anderson	Texas	1	0	0	0	0%
+Aransas	Texas	1	0	0	0	0%
+Camp	Texas	1	0	0	0	0%
+Clay	Texas	1	0	0	0	0%
+Falls	Texas	1	0	0	0	0%
+Franklin	Texas	1	0	0	0	0%
+Gaines	Texas	1	0	0	0	0%
+Gonzales	Texas	1	0	0	0	0%
+Hunt	Texas	1	0	0	0	0%
+Lamb	Texas	1	0	0	0	0%
+Montague	Texas	1	0	0	0	0%
+Morris	Texas	1	0	0	0	0%
+Newton	Texas	1	0	0	0	0%
+San Jacinto	Texas	1	0	0	0	0%
+Palo Pinto	Texas	1	0	0	0	0%
+Hemphill	Texas	1	0	0	0	0%
+Reeves	Texas	1	0	0	0	0%
+Mason	Texas	1	0	0	0	0%
+Pecos	Texas	1	0	0	0	0%
+Hansford	Texas	1	1	0	0	0%
+Crosby	Texas	1	1	0	0	0%
+Dallam	Texas	1	1	0	0	0%
+Zapata	Texas	1	1	0	0	0%
+Fulton	Georgia	1,027	57	28	0	2.7%
+Dougherty	Georgia	716	28	31	0	4.3%
+DeKalb	Georgia	579	30	10	1	1.7%
+Cobb	Georgia	515	41	25	1	4.9%
+Gwinnett	Georgia	443	33	10	3	2.3%
+Unknown	Georgia	320	37	5	0	1.6%
+Clayton	Georgia	244	6	9	0	3.7%
+Bartow	Georgia	179	19	7	0	3.9%
+Henry	Georgia	178	10	3	0	1.7%
+Carroll	Georgia	163	5	2	0	1.2%
+Lee	Georgia	147	9	9	0	6.1%
+Cherokee	Georgia	133	9	5	0	3.8%
+Hall	Georgia	131	14	0	0	0%
+Chatham	Georgia	104	14	3	0	2.9%
+Douglas	Georgia	102	11	5	0	4.9%
+Sumter	Georgia	87	4	4	0	4.6%
+Floyd	Georgia	84	2	3	0	3.6%
+Forsyth	Georgia	80	7	1	0	1.3%
+Rockdale	Georgia	80	3	2	0	2.5%
+Early	Georgia	76	6	1	0	1.3%
+Coweta	Georgia	76	9	2	0	2.6%
+Fayette	Georgia	74	7	4	0	5.4%
+Clarke	Georgia	69	7	8	0	11.6%
+Terrell	Georgia	65	7	3	1	4.6%
+Houston	Georgia	64	2	6	0	9.4%
+Newton	Georgia	62	7	2	0	3.2%
+Mitchell	Georgia	56	0	1	0	1.8%
+Richmond	Georgia	56	5	1	0	1.8%
+Paulding	Georgia	54	3	0	0	0%
+Colquitt	Georgia	53	2	3	0	5.7%
+Crisp	Georgia	43	15	0	0	0%
+Tift	Georgia	42	8	0	0	0%
+Spalding	Georgia	41	15	2	0	4.9%
+Lowndes	Georgia	40	3	1	0	2.5%
+Bibb	Georgia	40	1	1	0	2.5%
+Columbia	Georgia	40	4	0	0	0%
+Muscogee	Georgia	40	3	0	0	0%
+Worth	Georgia	39	2	2	0	5.1%
+Troup	Georgia	37	3	1	0	2.7%
+Glynn	Georgia	29	0	0	0	0%
+Thomas	Georgia	28	0	0	0	0%
+Barrow	Georgia	27	2	2	0	7.4%
+Gordon	Georgia	24	1	2	0	8.3%
+Oconee	Georgia	24	0	0	0	0%
+Randolph	Georgia	24	6	0	0	0%
+Walton	Georgia	23	2	2	0	8.7%
+Ware	Georgia	22	4	3	0	13.6%
+Upson	Georgia	22	9	0	0	0%
+Bryan	Georgia	21	4	2	1	9.5%
+Pierce	Georgia	21	5	0	0	0%
+Decatur	Georgia	20	3	0	0	0%
+Polk	Georgia	20	2	0	0	0%
+Calhoun	Georgia	19	2	1	0	5.3%
+Dooly	Georgia	19	4	1	0	5.3%
+Dawson	Georgia	19	3	0	0	0%
+Whitfield	Georgia	17	1	1	0	5.9%
+Butts	Georgia	17	5	0	0	0%
+Jackson	Georgia	17	2	0	0	0%
+Laurens	Georgia	16	1	0	0	0%
+Peach	Georgia	15	2	2	1	13.3%
+Baldwin	Georgia	15	0	1	0	6.7%
+Coffee	Georgia	15	0	0	0	0%
+Greene	Georgia	15	3	0	0	0%
+Lamar	Georgia	14	7	0	0	0%
+Miller	Georgia	14	0	0	0	0%
+Turner	Georgia	14	2	0	0	0%
+Effingham	Georgia	13	1	1	0	7.7%
+Liberty	Georgia	13	0	0	0	0%
+Meriwether	Georgia	13	2	0	0	0%
+Monroe	Georgia	10	1	1	0	10%
+Burke	Georgia	10	1	0	0	0%
+Haralson	Georgia	10	0	0	0	0%
+Harris	Georgia	10	3	0	0	0%
+Murray	Georgia	10	1	0	0	0%
+Pickens	Georgia	9	0	2	1	22.2%
+Camden	Georgia	9	0	0	0	0%
+Fannin	Georgia	9	1	0	0	0%
+Lumpkin	Georgia	9	0	0	0	0%
+Pike	Georgia	9	4	0	0	0%
+Seminole	Georgia	9	0	0	0	0%
+Mcduffie	Georgia	8	2	1	0	12.5%
+Bulloch	Georgia	8	3	0	0	0%
+Dodge	Georgia	8	2	0	0	0%
+Stephens	Georgia	8	2	0	0	0%
+Madison	Georgia	7	0	1	0	14.3%
+Toombs	Georgia	7	2	1	0	14.3%
+Bacon	Georgia	7	0	0	0	0%
+Clay	Georgia	7	0	0	0	0%
+Jones	Georgia	7	1	0	0	0%
+Pulaski	Georgia	7	1	0	0	0%
+Appling	Georgia	6	1	0	0	0%
+Brooks	Georgia	6	0	0	0	0%
+Catoosa	Georgia	6	0	0	0	0%
+Irwin	Georgia	6	0	0	0	0%
+Schley	Georgia	6	0	0	0	0%
+Washington	Georgia	6	0	0	0	0%
+Baker	Georgia	5	0	1	0	20%
+Ben Hill	Georgia	5	1	0	0	0%
+Franklin	Georgia	5	0	0	0	0%
+Lincoln	Georgia	5	0	0	0	0%
+Morgan	Georgia	5	3	0	0	0%
+Talbot	Georgia	5	1	0	0	0%
+Warren	Georgia	5	0	0	0	0%
+Grady	Georgia	4	1	0	0	0%
+Jenkins	Georgia	4	2	0	0	0%
+Macon	Georgia	4	0	0	0	0%
+Webster	Georgia	4	2	0	0	0%
+White	Georgia	4	0	0	0	0%
+Wilkes	Georgia	4	1	0	0	0%
+Lanier	Georgia	4	3	0	0	0%
+Telfair	Georgia	4	0	0	0	0%
+Taylor	Georgia	3	1	1	1	33.3%
+Banks	Georgia	3	0	0	0	0%
+Berrien	Georgia	3	0	0	0	0%
+Chattooga	Georgia	3	0	0	0	0%
+Hart	Georgia	3	0	0	0	0%
+Jasper	Georgia	3	0	0	0	0%
+Jefferson	Georgia	3	0	0	0	0%
+Johnson	Georgia	3	0	0	0	0%
+Putnam	Georgia	3	1	0	0	0%
+Rabun	Georgia	3	0	0	0	0%
+Stewart	Georgia	3	2	0	0	0%
+Tattnall	Georgia	3	0	0	0	0%
+Walker	Georgia	3	0	0	0	0%
+Wilkinson	Georgia	3	1	0	0	0%
+Heard	Georgia	2	0	1	0	50%
+Candler	Georgia	2	0	0	0	0%
+Charlton	Georgia	2	0	0	0	0%
+Chattahoochee	Georgia	2	0	0	0	0%
+Clinch	Georgia	2	0	0	0	0%
+Habersham	Georgia	2	0	0	0	0%
+Mcintosh	Georgia	2	0	0	0	0%
+Screven	Georgia	2	0	0	0	0%
+Twiggs	Georgia	2	0	0	0	0%
+Wilcox	Georgia	2	1	0	0	0%
+Elbert	Georgia	2	1	0	0	0%
+Marion	Georgia	2	0	0	0	0%
+Wayne	Georgia	2	1	0	0	0%
+Brantley	Georgia	2	2	0	0	0%
+Oglethorpe	Georgia	1	0	1	0	100%
+Dade	Georgia	1	0	1	0	100%
+Bleckley	Georgia	1	0	0	0	0%
+Cook	Georgia	1	0	0	0	0%
+Emanuel	Georgia	1	0	0	0	0%
+Gilmer	Georgia	1	0	0	0	0%
+Jeff Davis	Georgia	1	1	0	0	0%
+Long	Georgia	1	0	0	0	0%
+Union	Georgia	1	0	0	0	0%
+Wheeler	Georgia	1	0	0	0	0%
+Quitman	Georgia	1	0	0	0	0%
+Towns	Georgia	1	0	0	0	0%
+Crawford	Georgia	1	0	0	0	0%
+Treutlen	Georgia	1	1	0	0	0%
+Chambers	Georgia	0	0	0	0	0%
+Fairfield	Connecticut	3,719	669	101	5	2.7%
+New Haven	Connecticut	1,468	306	41	5	2.8%
+Hartford	Connecticut	882	131	31	2	3.5%
+Unassigned	Connecticut	264	42	0	0	0%
+Litchfield	Connecticut	230	33	8	2	3.5%
+Middlesex	Connecticut	135	25	7	2	5.2%
+Tolland	Connecticut	103	9	13	2	12.6%
+New London	Connecticut	65	8	4	0	6.2%
+Windham	Connecticut	40	8	1	0	2.5%
+Denver	Colorado 	847	22	15	0	1.8%
+Arapahoe	Colorado 	652	44	15	2	2.3%
+Jefferson	Colorado 	540	21	18	1	3.3%
+Weld	Colorado 	504	34	26	2	5.2%
+El Paso	Colorado 	441	6	28	3	6.3%
+Adams	Colorado 	367	13	12	2	3.3%
+Eagle	Colorado 	355	16	5	0	1.4%
+Unassigned	Colorado 	276	25	0	0	0%
+Douglas	Colorado 	227	4	3	0	1.3%
+Boulder	Colorado 	189	12	3	0	1.6%
+Larimer	Colorado 	158	5	8	0	5.1%
+Gunnison	Colorado 	95	2	1	0	1.1%
+Summit	Colorado 	58	4	0	0	0%
+Broomfield	Colorado 	50	0	2	0	4%
+Garfield	Colorado 	47	1	1	0	2.1%
+Pueblo	Colorado 	42	2	2	0	4.8%
+Pitkin	Colorado 	39	1	2	0	5.1%
+Montrose	Colorado 	34	2	2	1	5.9%
+La Plata	Colorado 	32	3	0	0	0%
+Routt	Colorado 	29	0	0	0	0%
+Mesa	Colorado 	25	5	0	0	0%
+Chaffee	Colorado 	22	0	2	0	9.1%
+Morgan	Colorado 	19	2	0	0	0%
+Teller	Colorado 	11	0	1	0	9.1%
+Logan	Colorado 	11	2	0	0	0%
+San Miguel	Colorado 	10	0	0	0	0%
+Elbert	Colorado 	9	0	1	0	11.1%
+Baca	Colorado 	9	0	0	0	0%
+Montezuma	Colorado 	8	0	1	0	12.5%
+Archuleta	Colorado 	6	5	0	0	0%
+Clear Creek	Colorado 	6	0	0	0	0%
+Delta	Colorado 	5	1	0	0	0%
+Kit Carson	Colorado 	5	0	0	0	0%
+Park	Colorado 	5	0	0	0	0%
+Rio Grande	Colorado 	5	0	0	0	0%
+Alamosa	Colorado 	4	0	0	0	0%
+Grand	Colorado 	4	0	0	0	0%
+Otero	Colorado 	4	1	0	0	0%
+Costilla	Colorado 	3	0	0	0	0%
+Fremont	Colorado 	3	0	0	0	0%
+Lake	Colorado 	3	0	0	0	0%
+Moffat	Colorado 	3	0	0	0	0%
+Phillips	Colorado 	3	0	0	0	0%
+Saguache	Colorado 	3	0	0	0	0%
+Mineral	Colorado 	2	0	0	0	0%
+Yuma	Colorado 	2	0	0	0	0%
+Custer	Colorado 	2	0	0	0	0%
+Ouray	Colorado 	2	0	0	0	0%
+Crowley	Colorado 	1	0	1	0	100%
+Hinsdale	Colorado 	1	0	0	0	0%
+Huerfano	Colorado 	1	0	0	0	0%
+Lincoln	Colorado 	1	0	0	0	0%
+Washington	Colorado 	1	0	0	0	0%
+Las Animas	Colorado 	1	0	0	0	0%
+Rio Blanco	Colorado 	1	0	0	0	0%
+Out of state	Colorado 	0	0	1	0	0%
+Marion	Indiana	1,956	196	37	0	1.9%
+Lake	Indiana	369	34	8	0	2.2%
+Hamilton	Indiana	335	35	5	0	1.5%
+Hendricks	Indiana	196	19	4	0	2%
+Johnson	Indiana	195	28	6	0	3.1%
+St. Joseph	Indiana	112	10	1	0	0.9%
+Madison	Indiana	101	15	9	0	8.9%
+Decatur	Indiana	90	10	4	0	4.4%
+Allen	Indiana	87	11	6	2	6.9%
+Porter	Indiana	79	20	0	0	0%
+Morgan	Indiana	76	11	1	0	1.3%
+Hancock	Indiana	72	11	2	0	2.8%
+Clark	Indiana	71	5	4	0	5.6%
+Ripley	Indiana	70	10	2	0	2.9%
+Boone	Indiana	64	7	1	0	1.6%
+Franklin	Indiana	55	2	6	0	10.9%
+Bartholomew	Indiana	54	0	0	0	0%
+Floyd	Indiana	50	0	0	0	0%
+Monroe	Indiana	48	0	0	0	0%
+Shelby	Indiana	45	8	0	0	0%
+Delaware	Indiana	40	3	1	0	2.5%
+Vanderburgh	Indiana	40	3	0	0	0%
+Lawrence	Indiana	39	0	5	0	12.8%
+Dearborn	Indiana	38	5	1	0	2.6%
+Jackson	Indiana	37	1	0	0	0%
+Jennings	Indiana	37	2	0	0	0%
+Elkhart	Indiana	36	1	3	0	8.3%
+Tippecanoe	Indiana	34	5	1	0	2.9%
+Harrison	Indiana	33	0	1	0	3%
+Howard	Indiana	32	5	2	0	6.3%
+Vigo	Indiana	25	7	2	0	8%
+Putnam	Indiana	21	4	1	0	4.8%
+La Porte	Indiana	21	0	2	0	9.5%
+Grant	Indiana	20	2	2	0	10%
+Unassigned	Indiana	20	20	12	12	60%
+Warrick	Indiana	19	6	0	0	0%
+Washington	Indiana	18	0	0	0	0%
+Fayette	Indiana	16	0	3	0	18.8%
+Jasper	Indiana	15	3	1	0	6.7%
+Montgomery	Indiana	15	1	0	0	0%
+Owen	Indiana	15	0	0	0	0%
+Kosciusko	Indiana	14	2	0	0	0%
+Henry	Indiana	13	2	0	0	0%
+Rush	Indiana	12	2	1	0	8.3%
+Noble	Indiana	11	0	1	0	9.1%
+Switzerland	Indiana	11	2	0	0	0%
+Greene	Indiana	10	0	0	0	0%
+Wayne	Indiana	10	2	0	0	0%
+Orange	Indiana	9	2	2	0	22.2%
+Scott	Indiana	8	0	1	0	12.5%
+Whitley	Indiana	8	2	1	0	12.5%
+Knox	Indiana	8	1	0	0	0%
+Marshall	Indiana	8	2	0	0	0%
+Steuben	Indiana	8	2	0	0	0%
+Dubois	Indiana	7	1	0	0	0%
+Miami	Indiana	7	0	0	0	0%
+Jefferson	Indiana	6	1	0	0	0%
+LaGrange	Indiana	6	2	0	0	0%
+Tipton	Indiana	6	0	0	0	0%
+Randolph	Indiana	5	0	1	0	20%
+Brown	Indiana	5	0	0	0	0%
+Crawford	Indiana	5	0	0	0	0%
+Posey	Indiana	5	0	0	0	0%
+Parke	Indiana	5	3	0	0	0%
+Huntington	Indiana	4	0	1	0	25%
+Cass	Indiana	4	0	0	0	0%
+Clay	Indiana	4	0	0	0	0%
+Clinton	Indiana	4	0	0	0	0%
+De Kalb	Indiana	4	0	0	0	0%
+Gibson	Indiana	4	0	0	0	0%
+Newton	Indiana	4	0	0	0	0%
+Starke	Indiana	4	1	0	0	0%
+Blackford	Indiana	4	1	0	0	0%
+Carroll	Indiana	3	0	0	0	0%
+Fulton	Indiana	3	1	0	0	0%
+Jay	Indiana	3	0	0	0	0%
+Sullivan	Indiana	3	0	0	0	0%
+Wabash	Indiana	3	2	0	0	0%
+White	Indiana	3	0	0	0	0%
+Union	Indiana	3	0	0	0	0%
+Warren	Indiana	2	0	1	0	50%
+Fountain	Indiana	2	0	1	0	50%
+Adams	Indiana	2	0	0	0	0%
+Wells	Indiana	2	0	0	0	0%
+ Martin	Indiana	2	1	0	0	0%
+Daviess	Indiana	2	0	0	0	0%
+Vermillion	Indiana	2	0	0	0	0%
+Ohio	Indiana	1	0	0	0	0%
+Spencer	Indiana	1	0	0	0	0%
+Benton	Indiana	0	0	0	0	0%
+Cuyahoga	Ohio	871	45	15	1	1.7%
+Franklin	Ohio	644	47	9	1	1.4%
+Hamilton	Ohio	394	75	9	6	2.3%
+Lucas	Ohio	321	19	12	4	3.7%
+Mahoning	Ohio	272	11	17	2	6.3%
+Summit	Ohio	189	5	10	1	5.3%
+Lorain	Ohio	117	7	3	0	2.6%
+Stark	Ohio	109	14	7	2	6.4%
+Montgomery	Ohio	109	25	2	0	1.8%
+Trumbull	Ohio	102	13	8	1	7.8%
+Portage	Ohio	94	10	5	1	5.3%
+Miami	Ohio	90	14	10	0	11.1%
+Lake	Ohio	87	8	3	0	3.4%
+Medina	Ohio	83	5	3	1	3.6%
+Delaware	Ohio	77	7	1	0	1.3%
+Butler	Ohio	75	7	2	0	2.7%
+Licking	Ohio	57	2	2	0	3.5%
+Fairfield	Ohio	54	8	0	0	0%
+Columbiana	Ohio	53	11	5	0	9.4%
+Geauga	Ohio	40	2	0	0	0%
+Warren	Ohio	37	1	0	0	0%
+Wood	Ohio	34	5	0	0	0%
+Darke	Ohio	32	0	6	2	18.8%
+Pickaway	Ohio	29	0	0	0	0%
+Clermont	Ohio	27	6	1	0	3.7%
+Wayne	Ohio	26	0	0	0	0%
+Marion	Ohio	25	6	0	0	0%
+Tuscarawas	Ohio	23	3	0	0	0%
+Belmont	Ohio	22	2	1	1	4.5%
+Allen	Ohio	19	1	0	0	0%
+Richland	Ohio	19	2	0	0	0%
+Madison	Ohio	17	0	2	0	11.8%
+Shelby	Ohio	17	5	0	0	0%
+Greene	Ohio	15	2	1	0	6.7%
+Ashtabula	Ohio	15	3	0	0	0%
+Jefferson	Ohio	15	1	0	0	0%
+Washington	Ohio	15	7	0	0	0%
+Hancock	Ohio	14	3	0	0	0%
+Erie	Ohio	10	2	1	0	10%
+Clark	Ohio	10	2	0	0	0%
+Coshocton	Ohio	10	1	0	0	0%
+Lawrence	Ohio	10	2	0	0	0%
+Huron	Ohio	9	3	1	0	11.1%
+Carroll	Ohio	9	1	0	0	0%
+Crawford	Ohio	9	0	0	0	0%
+Mercer	Ohio	8	1	1	0	12.5%
+Auglaize	Ohio	8	2	0	0	0%
+Clinton	Ohio	8	0	0	0	0%
+Defiance	Ohio	8	1	0	0	0%
+Union	Ohio	8	0	0	0	0%
+Knox	Ohio	7	0	1	0	14.3%
+Seneca	Ohio	6	0	1	0	16.7%
+Highland	Ohio	6	2	0	0	0%
+Ross	Ohio	6	2	0	0	0%
+Champaign	Ohio	5	0	0	0	0%
+Fulton	Ohio	5	0	0	0	0%
+Logan	Ohio	5	0	0	0	0%
+Morrow	Ohio	5	0	0	0	0%
+Muskingum	Ohio	5	1	0	0	0%
+Ottawa	Ohio	5	0	0	0	0%
+Preble	Ohio	5	0	0	0	0%
+Sandusky	Ohio	5	0	0	0	0%
+Wyandot	Ohio	5	0	0	0	0%
+Gallia	Ohio	4	0	1	0	25%
+Perry	Ohio	4	1	0	0	0%
+Athens	Ohio	3	0	1	0	33.3%
+Brown	Ohio	3	0	1	0	33.3%
+Ashland	Ohio	3	0	0	0	0%
+Fayette	Ohio	2	0	0	0	0%
+Holmes	Ohio	2	1	0	0	0%
+Van Wert	Ohio	2	0	0	0	0%
+Hardin	Ohio	2	1	0	0	0%
+Adam	Ohio	2	0	0	0	0%
+Monroe	Ohio	2	0	0	0	0%
+Pike	Ohio	1	0	0	0	0%
+Guernsey	Ohio	1	0	0	0	0%
+Williams	Ohio	1	0	0	0	0%
+Scioto	Ohio	1	1	0	0	0%
+Putnam	Ohio	1	1	0	0	0%
+Paulding	Ohio	1	1	0	0	0%
+Morgan	Ohio	1	1	0	0	0%
+Guesnsey	Ohio	1	1	0	0	0%
+Unassigned	Ohio	0	0	0	0	0%
+Prince George\'s	Maryland	916	131	23	7	2.5%
+Montgomery	Maryland	793	100	19	6	2.4%
+Baltimore	Maryland	648	58	11	5	1.7%
+Baltimore City	Maryland	435	41	8	1	1.8%
+Anne Arundel	Maryland	343	24	8	2	2.3%
+Howard	Maryland	214	15	3	0	1.4%
+Carroll	Maryland	150	8	10	2	6.7%
+Frederick	Maryland	138	18	4	1	2.9%
+Charles	Maryland	129	18	2	0	1.6%
+Harford	Maryland	55	3	0	0	0%
+St. Mary\'s	Maryland	41	1	0	0	0%
+Calvert	Maryland	40	1	1	0	2.5%
+Cecil	Maryland	37	1	1	0	2.7%
+Washington	Maryland	37	3	0	0	0%
+Queen Anne\'s	Maryland	15	2	0	0	0%
+Wicomico	Maryland	11	0	1	0	9.1%
+Worcester	Maryland	10	1	0	0	0%
+Talbot	Maryland	8	1	0	0	0%
+Caroline	Maryland	6	2	0	0	0%
+Allegany	Maryland	6	0	0	0	0%
+Kent	Maryland	5	0	0	0	0%
+Somerset	Maryland	4	0	0	0	0%
+Garrett	Maryland	3	0	0	0	0%
+Dorchester	Maryland	1	0	0	0	0%
+Unassigned	Maryland	0	0	0	0	0%
+Davidson	Tennessee	819	18	7	1	0.9%
+Shelby	Tennessee	766	30	13	2	1.7%
+Sumner	Tennessee	335	14	15	5	4.5%
+Out-of-state	Tennessee	290	25	1	0	0.3%
+Williamson	Tennessee	260	2	2	0	0.8%
+Rutherford	Tennessee	161	14	3	0	1.9%
+Knox	Tennessee	119	4	3	2	2.5%
+Wilson	Tennessee	97	4	0	0	0%
+Hamilton	Tennessee	83	9	9	1	10.8%
+Unassigned	Tennessee	69	0	0	0	0%
+Robertson	Tennessee	60	1	0	0	0%
+Putnam	Tennessee	55	3	0	0	0%
+Montgomery	Tennessee	54	3	1	0	1.9%
+Blount	Tennessee	38	2	2	2	5.3%
+Tipton	Tennessee	36	3	0	0	0%
+Cumberland	Tennessee	26	0	0	0	0%
+Sullivan	Tennessee	25	4	1	0	4%
+Washington	Tennessee	24	1	2	0	8.3%
+Dickson	Tennessee	24	1	0	0	0%
+Maury	Tennessee	24	3	0	0	0%
+Bradley	Tennessee	23	2	0	0	0%
+Madison	Tennessee	22	3	0	0	0%
+Fayette	Tennessee	21	1	0	0	0%
+Marion	Tennessee	20	4	1	0	5%
+Greene	Tennessee	17	0	1	0	5.9%
+Sevier	Tennessee	16	2	0	0	0%
+Grundy	Tennessee	15	3	0	0	0%
+Franklin	Tennessee	14	2	1	0	7.1%
+Hawkins	Tennessee	14	4	1	0	7.1%
+Cheatham	Tennessee	13	0	0	0	0%
+Loudon	Tennessee	13	0	0	0	0%
+Gibson	Tennessee	12	1	0	0	0%
+Trousdale	Tennessee	11	3	1	0	9.1%
+Macon	Tennessee	11	2	0	0	0%
+Anderson	Tennessee	10	0	0	0	0%
+Dyer	Tennessee	9	0	0	0	0%
+Marshall	Tennessee	9	3	0	0	0%
+Bedford	Tennessee	8	0	0	0	0%
+Carroll	Tennessee	8	1	0	0	0%
+Cannon	Tennessee	7	1	0	0	0%
+Coffee	Tennessee	7	2	0	0	0%
+Dekalb	Tennessee	7	0	0	0	0%
+Jefferson	Tennessee	7	1	0	0	0%
+Chester	Tennessee	6	0	0	0	0%
+Hardeman	Tennessee	6	0	0	0	0%
+Monroe	Tennessee	6	0	0	0	0%
+Campbell	Tennessee	5	0	0	0	0%
+Haywood	Tennessee	5	2	0	0	0%
+Henry	Tennessee	5	1	0	0	0%
+Lauderdale	Tennessee	5	3	0	0	0%
+Lincoln	Tennessee	5	0	0	0	0%
+Morgan	Tennessee	5	1	0	0	0%
+Roane	Tennessee	5	0	0	0	0%
+Weakley	Tennessee	5	0	0	0	0%
+Benton	Tennessee	4	0	0	0	0%
+Hamblen	Tennessee	4	0	0	0	0%
+Lawrence	Tennessee	4	1	0	0	0%
+McNairy	Tennessee	4	1	0	0	0%
+Overton	Tennessee	4	1	0	0	0%
+Bledsoe	Tennessee	3	0	0	0	0%
+Carter	Tennessee	3	0	0	0	0%
+Giles	Tennessee	3	0	0	0	0%
+Grainger	Tennessee	3	0	0	0	0%
+Humphreys	Tennessee	3	0	0	0	0%
+McMinn	Tennessee	3	0	0	0	0%
+Perry	Tennessee	3	0	0	0	0%
+Scott	Tennessee	3	0	0	0	0%
+Smith	Tennessee	3	0	0	0	0%
+Polk	Tennessee	3	0	0	0	0%
+Jackson	Tennessee	3	0	0	0	0%
+Obion	Tennessee	2	0	1	0	50%
+Claiborne	Tennessee	2	0	0	0	0%
+Fentress	Tennessee	2	0	0	0	0%
+Hardin	Tennessee	2	0	0	0	0%
+Hickman	Tennessee	2	0	0	0	0%
+Houston	Tennessee	2	0	0	0	0%
+Johnson	Tennessee	2	0	0	0	0%
+Lewis	Tennessee	2	0	0	0	0%
+Meigs	Tennessee	2	0	0	0	0%
+Sequatchie	Tennessee	2	0	0	0	0%
+Wayne	Tennessee	2	0	0	0	0%
+White	Tennessee	2	0	0	0	0%
+Stewart	Tennessee	2	0	0	0	0%
+Clay	Tennessee	1	0	0	0	0%
+Cocke	Tennessee	1	0	0	0	0%
+Unicoi	Tennessee	1	0	0	0	0%
+Union	Tennessee	1	0	0	0	0%
+Warren	Tennessee	1	0	0	0	0%
+Henderson	Tennessee	1	0	0	0	0%
+Decatur	Tennessee	0	0	0	0	0%
+Rhea	Tennessee	0	0	0	0	0%
+Crockett	Tennessee	0	0	0	0	0%
+Hancock	Tennessee	0	0	0	0	0%
+Lake	Tennessee	0	0	0	0	0%
+Moore	Tennessee	0	0	0	0	0%
+Van Buren	Tennessee	0	0	0	0	0%
+Pickett	Tennessee	0	0	0	0	0%
+Mecklenburg	North Carolina	741	77	7	1	0.9%
+Wake	North Carolina	314	6	0	0	0%
+Durham	North Carolina	191	3	1	0	0.5%
+Guilford	North Carolina	104	8	5	0	4.8%
+Forsyth	North Carolina	99	10	2	0	2%
+Cabarrus	North Carolina	76	7	1	0	1.3%
+Granville	North Carolina	76	39	0	0	0%
+Union	North Carolina	75	3	0	0	0%
+Orange	North Carolina	67	15	0	0	0%
+Davidson	North Carolina	63	6	1	1	1.6%
+Gaston	North Carolina	58	6	1	0	1.7%
+Iredell	North Carolina	52	8	0	0	0%
+Rowan	North Carolina	51	5	1	0	2%
+Henderson	North Carolina	51	1	2	0	3.9%
+Cumberland	North Carolina	48	0	0	0	0%
+New Hanover	North Carolina	47	0	0	0	0%
+Northampton	North Carolina	46	2	1	0	2.2%
+Johnston	North Carolina	37	4	3	0	8.1%
+Pitt	North Carolina	36	0	0	0	0%
+Buncombe	North Carolina	33	2	1	0	3%
+Randolph	North Carolina	33	4	1	0	3%
+Harnett	North Carolina	31	6	2	0	6.5%
+Wilson	North Carolina	29	0	1	0	3.4%
+Burke	North Carolina	28	5	1	0	3.6%
+Brunswick	North Carolina	26	2	1	0	3.8%
+Catawba	North Carolina	25	1	1	0	4%
+Carteret	North Carolina	25	9	1	1	4%
+Wayne	North Carolina	23	8	0	0	0%
+Onslow	North Carolina	21	0	1	0	4.8%
+Chatham	North Carolina	21	0	0	0	0%
+Nash	North Carolina	21	0	0	0	0%
+Rutherford	North Carolina	21	6	0	0	0%
+Davie	North Carolina	20	4	2	0	10%
+Alamance	North Carolina	20	1	0	0	0%
+Craven	North Carolina	18	3	0	0	0%
+Cleveland	North Carolina	18	2	0	0	0%
+Franklin	North Carolina	15	1	0	0	0%
+Moore	North Carolina	14	0	2	1	14.3%
+Cherokee	North Carolina	12	0	1	0	8.3%
+Columbus	North Carolina	12	3	0	0	0%
+Vance	North Carolina	12	0	0	0	0%
+Caldwell	North Carolina	11	0	0	0	0%
+Hoke	North Carolina	11	1	0	0	0%
+Montgomery	North Carolina	10	0	1	0	10%
+Greene	North Carolina	10	4	0	0	0%
+Halifax	North Carolina	10	0	0	0	0%
+McDowell	North Carolina	10	0	0	0	0%
+Beaufort	North Carolina	9	0	0	0	0%
+Lincoln	North Carolina	9	0	0	0	0%
+Yadkin	North Carolina	9	0	0	0	0%
+Lenoir	North Carolina	8	1	0	0	0%
+Pasquotank	North Carolina	8	0	0	0	0%
+Polk	North Carolina	8	2	0	0	0%
+Stanly	North Carolina	8	1	0	0	0%
+Stokes	North Carolina	8	1	0	0	0%
+Watauga	North Carolina	8	0	0	0	0%
+Bertie	North Carolina	7	0	1	0	14.3%
+Rockingham	North Carolina	6	0	1	0	16.7%
+Dare	North Carolina	6	0	0	0	0%
+Person	North Carolina	6	0	0	0	0%
+Washington	North Carolina	6	2	0	0	0%
+Sampson	North Carolina	5	2	0	0	0%
+Anson	North Carolina	5	0	0	0	0%
+Duplin	North Carolina	5	0	0	0	0%
+Edgecombe	North Carolina	5	0	0	0	0%
+Robeson	North Carolina	5	0	0	0	0%
+Transylvania	North Carolina	5	0	0	0	0%
+Wilkes	North Carolina	4	0	1	0	25%
+Hertford	North Carolina	4	0	1	0	25%
+Martin	North Carolina	3	0	0	0	0%
+Clay	North Carolina	3	0	0	0	0%
+Lee	North Carolina	3	0	0	0	0%
+Pamlico	North Carolina	3	0	0	0	0%
+Surry	North Carolina	3	0	0	0	0%
+Haywood	North Carolina	3	0	0	0	0%
+Warren	North Carolina	3	1	0	0	0%
+Alexander	North Carolina	2	0	0	0	0%
+Alleghany	North Carolina	2	0	0	0	0%
+Caswell	North Carolina	2	0	0	0	0%
+Currituck	North Carolina	2	0	0	0	0%
+Jackson	North Carolina	2	0	0	0	0%
+Mitchell	North Carolina	2	0	0	0	0%
+Perquimans	North Carolina	2	0	0	0	0%
+Scotland	North Carolina	2	0	0	0	0%
+Pender	North Carolina	2	1	0	0	0%
+Chowan	North Carolina	1	0	0	0	0%
+Gates	North Carolina	1	0	0	0	0%
+Macon	North Carolina	1	0	0	0	0%
+Bladen	North Carolina	1	0	0	0	0%
+Ashe	North Carolina	1	0	0	0	0%
+Swain	North Carolina	1	0	0	0	0%
+Richmond	North Carolina	1	1	0	0	0%
+Fairfax	Virginia	488	62	2	0	0.4%
+Henrico	Virginia	207	13	2	0	1%
+Arlington	Virginia	203	22	2	0	1%
+Prince William	Virginia	193	18	1	0	0.5%
+Loudoun	Virginia	188	21	1	0	0.5%
+Virginia Beach	Virginia	178	8	1	0	0.6%
+James City	Virginia	118	1	2	0	1.7%
+Chesterfield	Virginia	108	0	0	0	0%
+Richmond City	Virginia	105	6	0	0	0%
+Alexandria	Virginia	93	19	0	0	0%
+Chesapeake	Virginia	77	5	0	0	0%
+Norfolk	Virginia	60	1	0	0	0%
+Newport News	Virginia	54	3	1	0	1.9%
+Stafford	Virginia	43	2	0	0	0%
+Hampton	Virginia	41	1	1	0	2.4%
+Albemarle	Virginia	34	2	0	0	0%
+Frederick	Virginia	31	4	0	0	0%
+Suffolk	Virginia	28	6	0	0	0%
+Harrisonburg	Virginia	27	2	0	0	0%
+Portsmouth	Virginia	27	1	0	0	0%
+Spotsylvania	Virginia	26	2	0	0	0%
+Charlottesville	Virginia	22	0	1	0	4.5%
+Isle of Wight	Virginia	22	4	0	0	0%
+York	Virginia	21	1	1	0	4.8%
+Prince George	Virginia	18	0	0	0	0%
+Goochland	Virginia	17	2	0	0	0%
+Manassas City	Virginia	17	3	0	0	0%
+Botetourt	Virginia	15	0	0	0	0%
+Rockingham	Virginia	15	0	0	0	0%
+Louisa	Virginia	14	0	0	0	0%
+Williamsburg	Virginia	13	1	1	0	7.7%
+Danville	Virginia	13	1	0	0	0%
+Hanover	Virginia	13	1	0	0	0%
+Shenandoah	Virginia	13	1	0	0	0%
+Winchester	Virginia	13	2	0	0	0%
+Gloucester	Virginia	12	2	0	0	0%
+Mecklenburg	Virginia	12	0	0	0	0%
+New Kent	Virginia	12	3	0	0	0%
+Accomack	Virginia	11	0	0	0	0%
+Fauquier	Virginia	11	1	0	0	0%
+Lynchburg	Virginia	11	1	0	0	0%
+Roanoke City	Virginia	11	1	0	0	0%
+Franklin	Virginia	10	0	0	0	0%
+Hopewell	Virginia	10	0	0	0	0%
+King George	Virginia	10	2	0	0	0%
+Petersburg	Virginia	10	0	0	0	0%
+Augusta	Virginia	9	1	0	0	0%
+Fluvanna	Virginia	9	2	0	0	0%
+Culpeper	Virginia	8	0	0	0	0%
+Fredericksburg	Virginia	7	0	0	0	0%
+Montgomery	Virginia	7	1	0	0	0%
+Amelia	Virginia	6	0	0	0	0%
+Amherst	Virginia	6	0	0	0	0%
+Bedford	Virginia	5	1	0	0	0%
+Orange	Virginia	5	0	0	0	0%
+Roanoke	Virginia	5	0	0	0	0%
+Southampton	Virginia	5	0	0	0	0%
+Warren	Virginia	5	1	0	0	0%
+Washington	Virginia	5	0	0	0	0%
+Buckingham	Virginia	4	0	0	0	0%
+Charles City	Virginia	4	0	0	0	0%
+Franklin City	Virginia	4	0	0	0	0%
+Greene	Virginia	4	1	0	0	0%
+Greensville	Virginia	4	0	0	0	0%
+Madison	Virginia	4	1	0	0	0%
+Manassas Park	Virginia	4	2	0	0	0%
+Powhatan	Virginia	4	0	0	0	0%
+Sussex	Virginia	4	0	0	0	0%
+Buena Vista City	Virginia	4	0	0	0	0%
+Henry	Virginia	3	0	0	0	0%
+Northumberland	Virginia	3	0	0	0	0%
+Pittsylvania	Virginia	3	1	0	0	0%
+Poquoson	Virginia	3	0	0	0	0%
+Prince Edward	Virginia	3	0	0	0	0%
+Rockbridge	Virginia	3	0	0	0	0%
+Surry	Virginia	3	0	0	0	0%
+Tazewell	Virginia	3	1	0	0	0%
+Waynesboro	Virginia	3	1	0	0	0%
+Wythe	Virginia	3	1	0	0	0%
+Lexington	Virginia	3	0	0	0	0%
+Westmoreland	Virginia	3	1	0	0	0%
+Alleghany	Virginia	2	0	0	0	0%
+Campbell	Virginia	2	0	0	0	0%
+Halifax	Virginia	2	0	0	0	0%
+King William	Virginia	2	0	0	0	0%
+Lee	Virginia	2	0	0	0	0%
+Mathews	Virginia	2	0	0	0	0%
+Nelson	Virginia	2	0	0	0	0%
+Northampton	Virginia	2	0	0	0	0%
+Page	Virginia	2	0	0	0	0%
+Smyth	Virginia	2	0	0	0	0%
+Cumberland	Virginia	2	0	0	0	0%
+Emporia	Virginia	2	0	0	0	0%
+Clarke	Virginia	2	0	0	0	0%
+Bristol	Virginia	1	0	0	0	0%
+Brunswick	Virginia	1	0	0	0	0%
+Carroll	Virginia	1	0	0	0	0%
+Covington	Virginia	1	0	0	0	0%
+Galax	Virginia	1	0	0	0	0%
+King and Queen	Virginia	1	0	0	0	0%
+Lancaster	Virginia	1	0	0	0	0%
+Nottoway	Virginia	1	0	0	0	0%
+Radford	Virginia	1	0	0	0	0%
+Salem	Virginia	1	0	0	0	0%
+Caroline	Virginia	1	0	0	0	0%
+Pulaski	Virginia	1	0	0	0	0%
+Wise	Virginia	1	0	0	0	0%
+Richmond	Virginia	1	0	0	0	0%
+Charlotte	Virginia	1	0	0	0	0%
+Staunton	Virginia	1	0	0	0	0%
+Appomattox	Virginia	1	1	0	0	0%
+Giles	Virginia	1	1	0	0	0%
+Russell	Virginia	1	1	0	0	0%
+Unassigned	Virginia	0	0	50	12	0%
+Scott	Virginia	0	0	0	0	0%
+Fairfax City	Virginia	0	0	0	0	0%
+Bath	Virginia	0	0	0	0	0%
+Bland	Virginia	0	0	0	0	0%
+Buchanan	Virginia	0	0	0	0	0%
+Colonial Heights	Virginia	0	0	0	0	0%
+Dickenson	Virginia	0	0	0	0	0%
+Dinwiddie	Virginia	0	0	0	0	0%
+Essex	Virginia	0	0	0	0	0%
+Falls Church	Virginia	0	0	0	0	0%
+Rappahannock	Virginia	0	0	0	0	0%
+Floyd	Virginia	0	0	0	0	0%
+Grayson	Virginia	0	0	0	0	0%
+Highland	Virginia	0	0	0	0	0%
+Lunenburg	Virginia	0	0	0	0	0%
+Martinsville	Virginia	0	0	0	0	0%
+Middlesex	Virginia	0	0	0	0	0%
+Norton	Virginia	0	0	0	0	0%
+Patrick	Virginia	0	0	0	0	0%
+St. Louis	Missouri	1,033	150	13	0	1.3%
+St. Louis City	Missouri	358	1	8	4	2.2%
+Kansas City	Missouri	212	37	5	5	2.4%
+St. Charles	Missouri	188	7	5	0	2.7%
+Jackson	Missouri	155	16	4	3	2.6%
+Jefferson	Missouri	81	10	2	2	2.5%
+Boone	Missouri	76	0	1	0	1.3%
+Greene	Missouri	69	5	7	1	10.1%
+Clay	Missouri	37	4	0	0	0%
+Franklin	Missouri	33	8	3	3	9.1%
+Johnson	Missouri	32	3	0	0	0%
+Cole	Missouri	31	1	1	1	3.2%
+Lafayette	Missouri	28	1	1	0	3.6%
+Perry	Missouri	28	3	0	0	0%
+Cass	Missouri	26	3	1	0	3.8%
+Camden	Missouri	24	0	1	0	4.2%
+Cape Girardeau	Missouri	20	3	0	0	0%
+Callaway	Missouri	19	0	1	1	5.3%
+Lincoln	Missouri	18	1	0	0	0%
+Platte	Missouri	17	2	0	0	0%
+Christian	Missouri	17	1	0	0	0%
+St. Francois	Missouri	17	2	0	0	0%
+Buchanan	Missouri	11	3	0	0	0%
+Jasper	Missouri	11	2	0	0	0%
+Pulaski	Missouri	11	1	0	0	0%
+Adair	Missouri	10	0	0	0	0%
+Scott	Missouri	10	3	0	0	0%
+Warren	Missouri	9	0	0	0	0%
+Clinton	Missouri	8	1	0	0	0%
+Dunklin	Missouri	8	1	0	0	0%
+Randolph	Missouri	7	0	0	0	0%
+Stoddard	Missouri	7	0	0	0	0%
+Taney	Missouri	7	2	0	0	0%
+Wright	Missouri	7	0	0	0	0%
+Newton	Missouri	6	0	0	0	0%
+Ste. Genevieve	Missouri	6	0	0	0	0%
+Montgomery	Missouri	5	1	0	0	0%
+Cedar	Missouri	4	0	0	0	0%
+Chariton	Missouri	4	0	0	0	0%
+Moniteau	Missouri	4	0	0	0	0%
+Ray	Missouri	4	0	0	0	0%
+Carter	Missouri	3	0	1	0	33.3%
+Bates	Missouri	3	0	0	0	0%
+Benton	Missouri	3	0	0	0	0%
+Crawford	Missouri	3	0	0	0	0%
+Harrison	Missouri	3	1	0	0	0%
+McDonald	Missouri	3	0	0	0	0%
+Osage	Missouri	3	0	0	0	0%
+Pemiscot	Missouri	3	0	0	0	0%
+Stone	Missouri	3	0	0	0	0%
+Webster	Missouri	3	0	0	0	0%
+Saline	Missouri	3	0	0	0	0%
+Henry	Missouri	2	0	1	0	50%
+Butler	Missouri	2	0	0	0	0%
+Cooper	Missouri	2	0	0	0	0%
+Gasconade	Missouri	2	0	0	0	0%
+Joplin	Missouri	2	0	0	0	0%
+Macon	Missouri	2	0	0	0	0%
+Maries	Missouri	2	0	0	0	0%
+Pettis	Missouri	2	0	0	0	0%
+Pike	Missouri	2	0	0	0	0%
+Reynolds	Missouri	2	0	0	0	0%
+Ripley	Missouri	2	0	0	0	0%
+New Madrid	Missouri	2	1	0	0	0%
+Nodaway	Missouri	2	0	0	0	0%
+Linn	Missouri	2	2	0	0	0%
+Unassigned	Missouri	1	0	1	1	100%
+Atchison	Missouri	1	0	0	0	0%
+Barry	Missouri	1	0	0	0	0%
+Bollinger	Missouri	1	0	0	0	0%
+Caldwell	Missouri	1	0	0	0	0%
+DeKalb	Missouri	1	0	0	0	0%
+Livingston	Missouri	1	0	0	0	0%
+Morgan	Missouri	1	0	0	0	0%
+Ralls	Missouri	1	0	0	0	0%
+Shelby	Missouri	1	0	0	0	0%
+Howell	Missouri	1	0	0	0	0%
+Clark	Missouri	1	0	0	0	0%
+Worth	Missouri	1	0	0	0	0%
+Phelps	Missouri	1	0	0	0	0%
+Gentry	Missouri	1	0	0	0	0%
+Madison	Missouri	1	1	0	0	0%
+Dallas	Missouri	1	1	0	0	0%
+Texas	Missouri	0	0	0	0	0%
+Milwaukee	Wisconsin	1,304	114	45	6	3.5%
+Dane	Wisconsin	287	7	11	2	3.8%
+Waukesha	Wisconsin	160	6	4	0	2.5%
+Kenosha	Wisconsin	109	11	1	0	0.9%
+Ozaukee	Wisconsin	62	6	6	0	9.7%
+Washington	Wisconsin	57	0	3	0	5.3%
+Racine	Wisconsin	57	3	2	1	3.5%
+Fond du Lac	Wisconsin	43	0	2	0	4.7%
+Brown	Wisconsin	39	10	0	0	0%
+Rock	Wisconsin	34	6	2	0	5.9%
+Sheboygan	Wisconsin	26	5	2	0	7.7%
+Winnebago	Wisconsin	24	4	1	1	4.2%
+Outagamie	Wisconsin	22	1	1	0	4.5%
+La Crosse	Wisconsin	22	1	0	0	0%
+Columbia	Wisconsin	21	2	0	0	0%
+Eau Claire	Wisconsin	21	0	0	0	0%
+Walworth	Wisconsin	20	0	0	0	0%
+Sauk	Wisconsin	18	0	2	0	11.1%
+Chippewa	Wisconsin	16	0	0	0	0%
+Dodge	Wisconsin	15	1	0	0	0%
+Jefferson	Wisconsin	14	0	0	0	0%
+Marathon	Wisconsin	12	0	0	0	0%
+Green	Wisconsin	9	0	0	0	0%
+Clark	Wisconsin	7	1	0	0	0%
+Douglas	Wisconsin	7	0	0	0	0%
+Monroe	Wisconsin	7	1	0	0	0%
+Pierce	Wisconsin	7	0	0	0	0%
+St. Croix	Wisconsin	7	0	0	0	0%
+Dunn	Wisconsin	5	0	0	0	0%
+Juneau	Wisconsin	5	0	0	0	0%
+Calumet	Wisconsin	4	0	0	0	0%
+Door	Wisconsin	4	0	0	0	0%
+Jackson	Wisconsin	4	1	0	0	0%
+Unassigned	Wisconsin	4	4	0	0	0%
+Vilas	Wisconsin	4	0	0	0	0%
+Barron	Wisconsin	4	0	0	0	0%
+Bayfield	Wisconsin	3	0	0	0	0%
+Grant	Wisconsin	3	1	0	0	0%
+Iowa	Wisconsin	3	0	0	0	0%
+Marinette	Wisconsin	3	1	0	0	0%
+Oneida	Wisconsin	3	0	0	0	0%
+Portage	Wisconsin	3	0	0	0	0%
+Richland	Wisconsin	3	0	0	0	0%
+Rusk	Wisconsin	3	0	0	0	0%
+Manitowoc	Wisconsin	3	0	0	0	0%
+Waupaca	Wisconsin	2	0	1	0	50%
+Buffalo	Wisconsin	2	0	1	0	50%
+Crawford	Wisconsin	2	0	0	0	0%
+Marquette	Wisconsin	2	0	0	0	0%
+Wood	Wisconsin	2	0	0	0	0%
+Adams	Wisconsin	2	1	0	0	0%
+Shawano	Wisconsin	2	1	0	0	0%
+Florence	Wisconsin	2	1	0	0	0%
+Iron	Wisconsin	1	0	1	0	100%
+Ashland	Wisconsin	1	0	0	0	0%
+Oconto	Wisconsin	1	0	0	0	0%
+Menominee	Wisconsin	1	0	0	0	0%
+Trempealeau	Wisconsin	1	0	0	0	0%
+Waushara	Wisconsin	1	1	0	0	0%
+Kewaunee	Wisconsin	1	1	0	0	0%
+Pepin	Wisconsin	0	0	0	0	0%
+Maricopa	Arizona	1,433	107	31	0	2.2%
+Pima	Arizona	415	43	13	0	3.1%
+Navajo	Arizona	210	15	1	0	0.5%
+Coconino	Arizona	163	8	10	0	6.1%
+Pinal	Arizona	106	3	0	0	0%
+Yavapai	Arizona	49	4	0	0	0%
+Apache	Arizona	25	2	0	0	0%
+Mohave	Arizona	20	4	0	0	0%
+Yuma	Arizona	13	0	0	0	0%
+Cochise	Arizona	9	1	0	0	0%
+Santa Cruz	Arizona	4	0	0	0	0%
+Gila	Arizona	3	0	0	0	0%
+La Paz	Arizona	3	0	0	0	0%
+Graham	Arizona	2	0	0	0	0%
+Greenlee	Arizona	1	0	0	0	0%
+Unassigned	Arizona	0	0	10	0	0%
+Richland	South Carolina	311	13	7	1	2.3%
+Charleston	South Carolina	300	26	1	0	0.3%
+Greenville	South Carolina	204	18	2	0	1%
+Beaufort	South Carolina	163	7	4	0	2.5%
+Kershaw	South Carolina	152	4	2	0	1.3%
+Lexington	South Carolina	124	7	3	0	2.4%
+York	South Carolina	95	10	2	0	2.1%
+Sumter	South Carolina	90	10	3	0	3.3%
+Spartanburg	South Carolina	88	13	1	1	1.1%
+Horry	South Carolina	76	12	6	1	7.9%
+Anderson	South Carolina	72	3	4	1	5.6%
+Clarendon	South Carolina	58	4	2	1	3.4%
+Berkeley	South Carolina	52	6	0	0	0%
+Dorchester	South Carolina	52	8	0	0	0%
+Lancaster	South Carolina	43	2	0	0	0%
+Florence	South Carolina	39	3	5	0	12.8%
+Orangeburg	South Carolina	28	1	0	0	0%
+Aiken	South Carolina	27	0	1	0	3.7%
+Darlington	South Carolina	27	8	0	0	0%
+Georgetown	South Carolina	21	3	1	0	4.8%
+Pickens	South Carolina	20	2	0	0	0%
+Lee	South Carolina	18	1	2	0	11.1%
+Fairfield	South Carolina	16	2	0	0	0%
+Chesterfield	South Carolina	15	2	0	0	0%
+Chester	South Carolina	14	2	0	0	0%
+Union	South Carolina	12	1	0	0	0%
+Greenwood	South Carolina	11	1	0	0	0%
+Jasper	South Carolina	11	2	0	0	0%
+Williamsburg	South Carolina	11	1	0	0	0%
+Colleton	South Carolina	10	2	0	0	0%
+Oconee	South Carolina	8	0	0	0	0%
+Newberry	South Carolina	7	0	0	0	0%
+Abbeville	South Carolina	6	0	0	0	0%
+Edgefield	South Carolina	6	0	0	0	0%
+Laurens	South Carolina	6	0	0	0	0%
+Marlboro	South Carolina	6	3	0	0	0%
+Calhoun	South Carolina	5	0	1	0	20%
+Bamberg	South Carolina	5	0	0	0	0%
+Marion	South Carolina	4	2	1	0	25%
+Saluda	South Carolina	4	0	0	0	0%
+Cherokee	South Carolina	4	2	0	0	0%
+Barnwell	South Carolina	3	0	0	0	0%
+Hampton	South Carolina	3	1	0	0	0%
+Allendale	South Carolina	2	0	0	0	0%
+McCormick	South Carolina	2	1	0	0	0%
+Dillon	South Carolina	1	0	0	0	0%
+Clark	Nevada	1,608	89	41	0	2.5%
+Washoe	Nevada	264	0	4	0	1.5%
+Unassigned	Nevada	33	27	0	0	0%
+Carson City	Nevada	11	1	0	0	0%
+Humboldt	Nevada	11	0	0	0	0%
+Elko	Nevada	8	0	1	0	12.5%
+Douglas	Nevada	7	0	0	0	0%
+Nye	Nevada	7	0	0	0	0%
+Lyon	Nevada	3	0	0	0	0%
+White Pine	Nevada	1	0	0	0	0%
+Jefferson	Alabama	423	5	10	1	2.4%
+Shelby	Alabama	147	2	5	0	3.4%
+Mobile	Alabama	143	16	6	0	4.2%
+Madison	Alabama	141	4	2	1	1.4%
+Lee	Alabama	113	3	3	0	2.7%
+Chambers	Alabama	94	4	7	1	7.4%
+Tuscaloosa	Alabama	73	13	0	0	0%
+Montgomery	Alabama	71	0	1	0	1.4%
+Walker	Alabama	54	5	0	0	0%
+Etowah	Alabama	41	5	3	0	7.3%
+Baldwin	Alabama	38	4	1	0	2.6%
+Calhoun	Alabama	34	10	0	0	0%
+Marshall	Alabama	33	7	1	1	3%
+Limestone	Alabama	33	1	0	0	0%
+St. Clair	Alabama	31	3	0	0	0%
+Tallapoosa	Alabama	30	0	1	0	3.3%
+Morgan	Alabama	29	2	0	0	0%
+Houston	Alabama	22	2	1	0	4.5%
+Cullman	Alabama	20	5	1	0	5%
+Talladega	Alabama	20	0	0	0	0%
+Marion	Alabama	19	0	2	0	10.5%
+Chilton	Alabama	19	1	0	0	0%
+Elmore	Alabama	19	0	0	0	0%
+Jackson	Alabama	17	3	1	0	5.9%
+Lauderdale	Alabama	16	0	2	0	12.5%
+DeKalb	Alabama	14	0	0	0	0%
+Pike	Alabama	14	0	0	0	0%
+Marengo	Alabama	13	0	0	0	0%
+Randolph	Alabama	12	1	1	0	8.3%
+Autauga	Alabama	12	0	0	0	0%
+Pickens	Alabama	12	0	0	0	0%
+Wilcox	Alabama	12	0	0	0	0%
+Blount	Alabama	10	0	0	0	0%
+Russell	Alabama	10	0	0	0	0%
+Clarke	Alabama	9	0	0	0	0%
+Clay	Alabama	9	0	0	0	0%
+Cleburne	Alabama	9	2	0	0	0%
+Coosa	Alabama	8	1	0	0	0%
+Greene	Alabama	8	2	0	0	0%
+Lawrence	Alabama	8	2	0	0	0%
+Sumter	Alabama	8	1	0	0	0%
+Coffee	Alabama	8	1	0	0	0%
+Bibb	Alabama	7	0	0	0	0%
+Dallas	Alabama	7	0	0	0	0%
+Cherokee	Alabama	6	0	0	0	0%
+Colbert	Alabama	6	0	0	0	0%
+Franklin	Alabama	6	0	0	0	0%
+Lowndes	Alabama	6	0	0	0	0%
+Washington	Alabama	5	0	1	0	20%
+Choctaw	Alabama	5	0	0	0	0%
+Lamar	Alabama	5	2	0	0	0%
+Macon	Alabama	5	0	0	0	0%
+Monroe	Alabama	5	0	0	0	0%
+Covington	Alabama	4	0	0	0	0%
+Dale	Alabama	4	2	0	0	0%
+Hale	Alabama	4	1	0	0	0%
+Henry	Alabama	4	1	0	0	0%
+Escambia	Alabama	3	0	0	0	0%
+Winston	Alabama	3	0	0	0	0%
+Bullock	Alabama	2	0	0	0	0%
+Conecuh	Alabama	2	0	0	0	0%
+Crenshaw	Alabama	2	0	0	0	0%
+Barbour	Alabama	2	0	0	0	0%
+Butler	Alabama	1	0	0	0	0%
+Fayette	Alabama	1	0	0	0	0%
+Perry	Alabama	1	0	0	0	0%
+Hinds	Mississippi	158	0	0	0	0%
+DeSoto	Mississippi	136	0	1	0	0.7%
+Jackson	Mississippi	98	0	5	0	5.1%
+Harrison	Mississippi	79	0	3	0	3.8%
+Rankin	Mississippi	74	0	1	0	1.4%
+Madison	Mississippi	74	0	2	0	2.7%
+Lauderdale	Mississippi	70	0	2	0	2.9%
+Pearl River	Mississippi	52	0	2	0	3.8%
+Bolivar	Mississippi	51	0	2	0	3.9%
+Forrest	Mississippi	46	0	1	0	2.2%
+Washington	Mississippi	38	0	0	0	0%
+Tippah	Mississippi	36	0	3	0	8.3%
+Yazoo	Mississippi	32	0	1	0	3.1%
+Hancock	Mississippi	30	0	1	0	3.3%
+Wilkinson	Mississippi	30	0	3	0	10%
+Lee	Mississippi	30	0	2	0	6.7%
+Coahoma	Mississippi	29	0	1	0	3.4%
+Pike	Mississippi	28	0	0	0	0%
+Oktibbeha	Mississippi	27	0	0	0	0%
+Holmes	Mississippi	23	0	2	0	8.7%
+Leflore	Mississippi	23	0	4	0	17.4%
+Marshall	Mississippi	23	0	1	0	4.3%
+Scott	Mississippi	23	0	0	0	0%
+Lafayette	Mississippi	22	0	1	0	4.5%
+Sunflower	Mississippi	19	0	1	0	5.3%
+Adams	Mississippi	19	0	0	0	0%
+Tunica	Mississippi	18	0	1	0	5.6%
+Lincoln	Mississippi	18	0	0	0	0%
+Panola	Mississippi	17	0	1	0	5.9%
+Monroe	Mississippi	16	0	1	0	6.3%
+Copiah	Mississippi	16	0	0	0	0%
+Tate	Mississippi	16	0	0	0	0%
+Chickasaw	Mississippi	15	0	2	0	13.3%
+Attala	Mississippi	15	0	0	0	0%
+Lamar	Mississippi	15	0	0	0	0%
+Lowndes	Mississippi	15	0	0	0	0%
+Winston	Mississippi	15	0	0	0	0%
+Perry	Mississippi	14	0	1	0	7.1%
+Jones	Mississippi	13	0	0	0	0%
+Webster	Mississippi	12	0	1	0	8.3%
+Pontotoc	Mississippi	12	0	1	0	8.3%
+Walthall	Mississippi	12	0	0	0	0%
+Montgomery	Mississippi	11	0	1	0	9.1%
+Leake	Mississippi	11	0	0	0	0%
+Neshoba	Mississippi	11	0	0	0	0%
+Smith	Mississippi	11	0	0	0	0%
+Yalobusha	Mississippi	11	0	0	0	0%
+Prentiss	Mississippi	10	0	0	0	0%
+Calhoun	Mississippi	9	0	0	0	0%
+Clay	Mississippi	9	0	0	0	0%
+Choctaw	Mississippi	8	0	1	0	12.5%
+Clarke	Mississippi	8	0	0	0	0%
+Marion	Mississippi	8	0	0	0	0%
+Grenada	Mississippi	7	0	0	0	0%
+Newton	Mississippi	7	0	0	0	0%
+Quitman	Mississippi	7	0	0	0	0%
+Amite	Mississippi	6	0	1	0	16.7%
+Alcorn	Mississippi	6	0	0	0	0%
+Carroll	Mississippi	6	0	0	0	0%
+Covington	Mississippi	6	0	0	0	0%
+Kemper	Mississippi	6	0	0	0	0%
+Simpson	Mississippi	6	0	0	0	0%
+Union	Mississippi	6	0	0	0	0%
+Benton	Mississippi	5	0	0	0	0%
+Franklin	Mississippi	5	0	0	0	0%
+George	Mississippi	5	0	0	0	0%
+Lawrence	Mississippi	5	0	0	0	0%
+Noxubee	Mississippi	5	0	0	0	0%
+Warren	Mississippi	5	0	0	0	0%
+Wayne	Mississippi	5	0	0	0	0%
+Humphreys	Mississippi	4	0	1	0	25%
+Itawamba	Mississippi	4	0	0	0	0%
+Jasper	Mississippi	3	0	0	0	0%
+Jefferson	Mississippi	3	0	0	0	0%
+Sharkey	Mississippi	3	0	0	0	0%
+Tallahatchie	Mississippi	3	0	0	0	0%
+Claiborne	Mississippi	1	0	0	0	0%
+Tishomingo	Mississippi	1	0	0	0	0%
+Stone	Mississippi	1	0	0	0	0%
+Greene	Mississippi	1	0	0	0	0%
+Salt Lake	Utah	777	36	7	3	0.9%
+Summit	Utah	260	4	0	0	0%
+Utah	Utah	223	7	2	2	0.9%
+Davis	Utah	154	12	2	0	1.3%
+Wasatch	Utah	79	1	0	0	0%
+Weber-Morgan	Utah	71	4	1	0	1.4%
+Washington	Utah	26	4	1	0	3.8%
+Cache	Utah	22	3	0	0	0%
+Tooele	Utah	22	3	0	0	0%
+Iron	Utah	13	1	0	0	0%
+Box Elder	Utah	11	1	0	0	0%
+Central Utah	Utah	5	0	0	0	0%
+San Juan	Utah	5	0	0	0	0%
+Kane	Utah	2	1	0	0	0%
+Uintah	Utah	2	1	0	0	0%
+Emery	Utah	2	1	0	0	0%
+Duchesne	Utah	1	0	0	0	0%
+Garfield	Utah	1	0	0	0	0%
+Grand	Utah	1	0	0	0	0%
+Carbon	Utah	1	0	0	0	0%
+Unassigned Southwest	Utah	0	0	0	0	0%
+Oklahoma	Oklahoma	279	14	11	1	3.9%
+Tulsa	Oklahoma	249	9	8	0	3.2%
+Cleveland	Oklahoma	180	9	11	0	6.1%
+Wagoner	Oklahoma	49	2	2	0	4.1%
+Creek	Oklahoma	45	1	1	0	2.2%
+Comanche	Oklahoma	41	2	0	0	0%
+Washington	Oklahoma	39	4	1	0	2.6%
+Canadian	Oklahoma	35	2	1	0	2.9%
+Osage	Oklahoma	31	4	3	1	9.7%
+Kay	Oklahoma	30	0	1	0	3.3%
+Greer	Oklahoma	26	1	3	2	11.5%
+Pawnee	Oklahoma	22	0	1	0	4.5%
+Payne	Oklahoma	21	1	0	0	0%
+Muskogee	Oklahoma	20	0	2	0	10%
+Adair	Oklahoma	20	2	0	0	0%
+Rogers	Oklahoma	15	2	0	0	0%
+Cherokee	Oklahoma	14	2	0	0	0%
+Pottawatomie	Oklahoma	13	1	1	1	7.7%
+Delaware	Oklahoma	13	1	0	0	0%
+McClain	Oklahoma	12	0	0	0	0%
+Ottawa	Oklahoma	12	1	0	0	0%
+Stephens	Oklahoma	11	2	1	0	9.1%
+Okmulgee	Oklahoma	11	0	0	0	0%
+Mayes	Oklahoma	10	1	1	0	10%
+Garvin	Oklahoma	10	1	0	0	0%
+Lincoln	Oklahoma	9	2	0	0	0%
+Nowata	Oklahoma	9	0	0	0	0%
+Grady	Oklahoma	8	1	0	0	0%
+Pontotoc	Oklahoma	8	1	0	0	0%
+Sequoyah	Oklahoma	7	3	1	0	14.3%
+Logan	Oklahoma	6	0	0	0	0%
+Noble	Oklahoma	6	0	0	0	0%
+Pittsburg	Oklahoma	6	0	0	0	0%
+Caddo	Oklahoma	5	1	0	0	0%
+Craig	Oklahoma	5	2	0	0	0%
+Custer	Oklahoma	5	0	0	0	0%
+Garfield	Oklahoma	5	0	0	0	0%
+Latimer	Oklahoma	4	0	1	0	25%
+Cotton	Oklahoma	4	0	0	0	0%
+Jackson	Oklahoma	4	0	0	0	0%
+Seminole	Oklahoma	3	1	1	0	33.3%
+Bryan	Oklahoma	3	0	0	0	0%
+Texas	Oklahoma	3	1	0	0	0%
+Kingfisher	Oklahoma	3	0	0	0	0%
+Choctaw	Oklahoma	2	0	0	0	0%
+Love	Oklahoma	2	0	0	0	0%
+Out-of-State	Oklahoma	2	0	0	0	0%
+Beckham	Oklahoma	1	0	0	0	0%
+Carter	Oklahoma	1	0	0	0	0%
+Le Flore	Oklahoma	1	0	0	0	0%
+Atoka	Oklahoma	1	0	0	0	0%
+Woodward	Oklahoma	1	0	0	0	0%
+Kiowa	Oklahoma	1	0	0	0	0%
+Grant	Oklahoma	1	0	0	0	0%
+Major	Oklahoma	1	0	0	0	0%
+McCurtain	Oklahoma	1	0	0	0	0%
+Tillman	Oklahoma	1	0	0	0	0%
+McIntosh	Oklahoma	1	0	0	0	0%
+Jefferson	Oklahoma	1	1	0	0	0%
+Unassigned	Oklahoma	0	0	0	0	0%
+Washita	Oklahoma	0	0	0	0	0%
+Washington	Oregon	271	12	5	1	1.8%
+Multnomah	Oregon	243	10	7	0	2.9%
+Marion	Oregon	209	11	6	1	2.9%
+Clackamas	Oregon	90	6	3	0	3.3%
+Linn	Oregon	44	1	2	0	4.5%
+Deschutes	Oregon	40	1	0	0	0%
+Jackson	Oregon	39	6	0	0	0%
+Lane	Oregon	29	2	1	0	3.4%
+Polk	Oregon	26	2	1	0	3.8%
+Yamhill	Oregon	25	0	3	0	12%
+Benton	Oregon	21	2	1	0	4.8%
+Klamath	Oregon	18	3	0	0	0%
+Josephine	Oregon	16	3	0	0	0%
+Douglas	Oregon	12	1	0	0	0%
+Columbia	Oregon	8	2	0	0	0%
+Umatilla	Oregon	8	1	0	0	0%
+Wasco	Oregon	7	0	0	0	0%
+Clatsop	Oregon	4	0	0	0	0%
+Lincoln	Oregon	4	0	0	0	0%
+Tillamook	Oregon	3	0	0	0	0%
+Union	Oregon	3	0	0	0	0%
+Hood River	Oregon	2	0	0	0	0%
+Malheur	Oregon	2	0	0	0	0%
+Morrow	Oregon	2	0	0	0	0%
+Curry	Oregon	2	2	0	0	0%
+Grant	Oregon	1	0	0	0	0%
+Wallowa	Oregon	1	0	0	0	0%
+Crook	Oregon	1	0	0	0	0%
+Sherman	Oregon	1	0	0	0	0%
+Blaine	Idaho	410	0	2	0	0.5%
+Ada	Idaho	402	0	3	0	0.7%
+Canyon	Idaho	101	0	1	0	1%
+Kootenai	Idaho	42	0	0	0	0%
+Twin Falls	Idaho	37	0	1	0	2.7%
+Nez Perce	Idaho	13	0	2	0	15.4%
+Jerome	Idaho	13	0	0	0	0%
+Elmore	Idaho	11	0	0	0	0%
+Lincoln	Idaho	9	0	0	0	0%
+Gem	Idaho	7	0	0	0	0%
+Bonneville	Idaho	6	0	0	0	0%
+Payette	Idaho	6	0	0	0	0%
+Bannock	Idaho	5	0	0	0	0%
+Cassia	Idaho	4	0	1	0	25%
+Jefferson	Idaho	4	0	0	0	0%
+Madison	Idaho	4	0	0	0	0%
+Teton	Idaho	4	0	0	0	0%
+Minidoka	Idaho	3	0	0	0	0%
+Bingham	Idaho	2	0	0	0	0%
+Bonner	Idaho	2	0	0	0	0%
+Custer	Idaho	2	0	0	0	0%
+Idaho	Idaho	2	0	0	0	0%
+Owyhee	Idaho	2	0	0	0	0%
+Valley	Idaho	2	0	0	0	0%
+Adams	Idaho	1	0	0	0	0%
+Camas	Idaho	1	0	0	0	0%
+Fremont	Idaho	1	0	0	0	0%
+Gooding	Idaho	1	0	0	0	0%
+Latah	Idaho	1	0	0	0	0%
+Lewis	Idaho	1	0	0	0	0%
+Washington	Idaho	1	0	0	0	0%
+Caribou	Idaho	1	0	0	0	0%
+Unassigned	Idaho	0	0	0	0	0%
+District of Columbia	Washington, D.C.	1,097	95	24	2	2.2%
+Providence	Rhode Island	538	0	3	0	0.6%
+Unassigned	Rhode Island	332	160	24	2	7.2%
+Kent	Rhode Island	92	0	0	0	0%
+Washington	Rhode Island	53	0	0	0	0%
+Newport	Rhode Island	42	0	0	0	0%
+Bristol	Rhode Island	25	0	0	0	0%
+Jefferson	Kentucky	319	15	22	5	6.9%
+Fayette	Kentucky	123	1	8	1	6.5%
+Unassigned	Kentucky	58	24	0	0	0%
+Daviess	Kentucky	38	0	1	0	2.6%
+Hopkins	Kentucky	36	2	4	0	11.1%
+Kenton	Kentucky	36	3	8	5	22.2%
+Christian	Kentucky	32	2	0	0	0%
+Boone	Kentucky	21	9	1	0	4.8%
+Warren	Kentucky	21	0	0	0	0%
+Jessamine	Kentucky	16	0	0	0	0%
+Boyd	Kentucky	15	2	2	1	13.3%
+Scott	Kentucky	14	0	0	0	0%
+Simpson	Kentucky	13	0	1	0	7.7%
+Campbell	Kentucky	13	1	3	2	23.1%
+Pulaski	Kentucky	13	0	1	0	7.7%
+McCracken	Kentucky	13	0	1	1	7.7%
+Madison	Kentucky	12	1	1	0	8.3%
+Harrison	Kentucky	12	0	0	0	0%
+Bullitt	Kentucky	11	0	2	0	18.2%
+Clark	Kentucky	11	0	0	0	0%
+Hardin	Kentucky	9	0	0	0	0%
+Woodford	Kentucky	8	0	1	0	12.5%
+Oldham	Kentucky	8	1	0	0	0%
+Shelby	Kentucky	8	1	0	0	0%
+Boyle	Kentucky	7	0	0	0	0%
+Franklin	Kentucky	7	0	0	0	0%
+Montgomery	Kentucky	6	1	0	0	0%
+Henderson	Kentucky	6	0	0	0	0%
+Calloway	Kentucky	5	0	0	0	0%
+Edmonson	Kentucky	5	0	0	0	0%
+Marshall	Kentucky	5	2	0	0	0%
+Bourbon	Kentucky	4	0	1	0	25%
+Logan	Kentucky	4	0	0	0	0%
+Lyon	Kentucky	4	0	0	0	0%
+Mercer	Kentucky	4	0	0	0	0%
+Nelson	Kentucky	4	0	0	0	0%
+Rockcastle	Kentucky	4	2	0	0	0%
+Wayne	Kentucky	4	0	0	0	0%
+Anderson	Kentucky	3	0	1	0	33.3%
+Larue	Kentucky	3	0	0	0	0%
+Marion	Kentucky	3	0	0	0	0%
+Menifee	Kentucky	3	0	0	0	0%
+Webster	Kentucky	3	0	0	0	0%
+Adair	Kentucky	3	0	0	0	0%
+Perry	Kentucky	3	0	0	0	0%
+Grant	Kentucky	2	0	1	0	50%
+Allen	Kentucky	2	0	0	0	0%
+Breckinridge	Kentucky	2	0	0	0	0%
+Carroll	Kentucky	2	0	0	0	0%
+Grayson	Kentucky	2	0	0	0	0%
+Laurel	Kentucky	2	0	0	0	0%
+Lewis	Kentucky	2	0	0	0	0%
+Mason	Kentucky	2	0	0	0	0%
+Pendleton	Kentucky	2	0	0	0	0%
+Spencer	Kentucky	2	0	0	0	0%
+Taylor	Kentucky	2	0	0	0	0%
+Union	Kentucky	2	0	0	0	0%
+Washington	Kentucky	2	0	0	0	0%
+Caldwell	Kentucky	2	0	0	0	0%
+Crittenden	Kentucky	2	1	0	0	0%
+Graves	Kentucky	2	0	0	0	0%
+Greenup	Kentucky	2	1	0	0	0%
+Henry	Kentucky	2	0	0	0	0%
+Meade	Kentucky	2	0	0	0	0%
+McLean	Kentucky	1	0	1	0	100%
+Powell	Kentucky	1	0	0	0	0%
+Barren	Kentucky	1	1	0	0	0%
+Bracken	Kentucky	1	0	0	0	0%
+Breathitt	Kentucky	1	0	0	0	0%
+Butler	Kentucky	1	0	0	0	0%
+Hancock	Kentucky	1	0	0	0	0%
+Lawrence	Kentucky	1	0	0	0	0%
+Martin	Kentucky	1	0	0	0	0%
+McCreary	Kentucky	1	0	0	0	0%
+Nicholas	Kentucky	1	0	0	0	0%
+Carter	Kentucky	1	0	0	0	0%
+Cumberland	Kentucky	1	0	0	0	0%
+Johnson	Kentucky	1	0	0	0	0%
+Pike	Kentucky	1	0	0	0	0%
+Clinton	Kentucky	1	0	0	0	0%
+Bath	Kentucky	1	0	0	0	0%
+Russell	Kentucky	1	0	0	0	0%
+Ohio	Kentucky	1	0	0	0	0%
+Leslie	Kentucky	1	1	0	0	0%
+Muhlenberg	Kentucky	0	0	0	0	0%
+Hennepin	Minnesota	280	13	14	0	5%
+Ramsey	Minnesota	96	5	3	1	3.1%
+Olmsted	Minnesota	96	1	2	0	2.1%
+Dakota	Minnesota	67	4	2	0	3%
+Washington	Minnesota	65	3	1	0	1.5%
+Anoka	Minnesota	40	4	0	0	0%
+Martin	Minnesota	33	1	4	1	12.1%
+Le Sueur	Minnesota	20	0	0	0	0%
+Clay	Minnesota	19	6	0	0	0%
+Mower	Minnesota	17	0	0	0	0%
+Blue earth	Minnesota	16	1	0	0	0%
+St. Louis	Minnesota	16	1	0	0	0%
+Scott	Minnesota	15	2	1	0	6.7%
+Winona	Minnesota	14	0	2	0	14.3%
+Freeborn	Minnesota	11	1	0	0	0%
+Carlton	Minnesota	10	2	0	0	0%
+Carver	Minnesota	10	0	0	0	0%
+Dodge	Minnesota	10	0	0	0	0%
+Filmore	Minnesota	10	0	0	0	0%
+Goodhue	Minnesota	10	0	0	0	0%
+Sherburne	Minnesota	10	0	0	0	0%
+Wright	Minnesota	9	0	0	0	0%
+Steele	Minnesota	8	0	0	0	0%
+Unassigned	Minnesota	6	0	0	0	0%
+Beltrami	Minnesota	6	0	0	0	0%
+Crow Wing	Minnesota	6	0	0	0	0%
+Stearns	Minnesota	6	0	0	0	0%
+Wabasha	Minnesota	6	0	0	0	0%
+Chisago	Minnesota	5	1	1	0	20%
+Brown	Minnesota	5	2	0	0	0%
+Cottonwood	Minnesota	5	0	0	0	0%
+Isanti	Minnesota	4	0	0	0	0%
+Lyon	Minnesota	4	1	0	0	0%
+Nicollet	Minnesota	4	0	0	0	0%
+Rice	Minnesota	4	0	0	0	0%
+Watonwan	Minnesota	4	0	0	0	0%
+Faribault	Minnesota	3	0	0	0	0%
+Waseca	Minnesota	3	0	0	0	0%
+Clearwater	Minnesota	2	0	0	0	0%
+Itasca	Minnesota	2	0	0	0	0%
+Kandiyohi	Minnesota	2	0	0	0	0%
+Lincoln	Minnesota	2	1	0	0	0%
+Otter Tail	Minnesota	2	1	0	0	0%
+Renville	Minnesota	2	0	0	0	0%
+Traverse	Minnesota	2	0	0	0	0%
+Wilkin	Minnesota	2	0	0	0	0%
+Benton	Minnesota	1	0	0	0	0%
+Big Stone	Minnesota	1	0	0	0	0%
+Cass	Minnesota	1	0	0	0	0%
+Douglas	Minnesota	1	0	0	0	0%
+Jackson	Minnesota	1	0	0	0	0%
+Lac Qui Parle	Minnesota	1	0	0	0	0%
+Mahnomen	Minnesota	1	0	0	0	0%
+Meeker	Minnesota	1	0	0	0	0%
+Sibley	Minnesota	1	0	0	0	0%
+Yellow Medicine	Minnesota	1	0	0	0	0%
+Koochiching	Minnesota	1	0	0	0	0%
+McLeod	Minnesota	1	0	0	0	0%
+Polk	Minnesota	1	0	0	0	0%
+Houston	Minnesota	1	0	0	0	0%
+Pipestone	Minnesota	1	0	0	0	0%
+Murray	Minnesota	1	1	0	0	0%
+Redwood	Minnesota	1	1	0	0	0%
+Linn	Iowa	176	15	7	1	4%
+Polk	Iowa	125	3	4	0	3.2%
+Johnson	Iowa	118	12	1	0	0.8%
+Washington	Iowa	52	3	3	0	5.8%
+Scott	Iowa	52	11	1	0	1.9%
+Muscatine	Iowa	41	8	1	0	2.4%
+Tama	Iowa	35	5	2	2	5.7%
+Dallas	Iowa	35	0	0	0	0%
+Dubuque	Iowa	25	1	1	0	4%
+Allamakee	Iowa	18	1	1	0	5.6%
+Clinton	Iowa	17	1	0	0	0%
+Cedar	Iowa	13	1	0	0	0%
+Black Hawk	Iowa	12	0	0	0	0%
+Cerro Gordo	Iowa	12	2	0	0	0%
+Marshall	Iowa	12	2	0	0	0%
+Warren	Iowa	11	1	0	0	0%
+Benton	Iowa	10	1	0	0	0%
+Harrison	Iowa	10	0	0	0	0%
+Henry	Iowa	9	1	1	0	11.1%
+Woodbury	Iowa	8	0	0	0	0%
+Jasper	Iowa	8	0	0	0	0%
+Pottawattamie	Iowa	8	1	0	0	0%
+Sioux	Iowa	7	0	0	0	0%
+Louisa	Iowa	7	1	0	0	0%
+Poweshiek	Iowa	6	0	1	0	16.7%
+Iowa	Iowa	6	0	0	0	0%
+Jones	Iowa	6	0	0	0	0%
+Monona	Iowa	6	0	0	0	0%
+Shelby	Iowa	6	0	0	0	0%
+Van Buren	Iowa	6	0	0	0	0%
+Buchanan	Iowa	5	0	0	0	0%
+Crawford	Iowa	5	1	0	0	0%
+Story	Iowa	5	0	0	0	0%
+Clayton	Iowa	4	0	0	0	0%
+Jackson	Iowa	4	1	0	0	0%
+Winneshiek	Iowa	4	0	0	0	0%
+Plymouth	Iowa	4	0	0	0	0%
+Boone	Iowa	3	0	0	0	0%
+Fayette	Iowa	3	0	0	0	0%
+Hancock	Iowa	3	0	0	0	0%
+Mahaska	Iowa	3	0	0	0	0%
+O\'Brien	Iowa	3	0	0	0	0%
+Page	Iowa	3	1	0	0	0%
+Jefferson	Iowa	3	0	0	0	0%
+Clay	Iowa	2	0	0	0	0%
+Keokuk	Iowa	2	0	0	0	0%
+Mitchell	Iowa	2	0	0	0	0%
+Wapello	Iowa	2	1	0	0	0%
+Bremer	Iowa	2	0	0	0	0%
+Lyon	Iowa	2	0	0	0	0%
+Appanoose	Iowa	1	0	2	0	200%
+Adair	Iowa	1	0	0	0	0%
+Audubon	Iowa	1	0	0	0	0%
+Butler	Iowa	1	0	0	0	0%
+Carroll	Iowa	1	0	0	0	0%
+Des Moines	Iowa	1	0	0	0	0%
+Dickinson	Iowa	1	0	0	0	0%
+Guthrie	Iowa	1	0	0	0	0%
+Hardin	Iowa	1	0	0	0	0%
+Kossuth	Iowa	1	0	0	0	0%
+Madison	Iowa	1	0	0	0	0%
+Montgomery	Iowa	1	0	0	0	0%
+Taylor	Iowa	1	0	0	0	0%
+Webster	Iowa	1	0	0	0	0%
+Wright	Iowa	1	0	0	0	0%
+Mills	Iowa	1	0	0	0	0%
+Howard	Iowa	1	0	0	0	0%
+Grundy	Iowa	1	0	0	0	0%
+Lee	Iowa	1	0	0	0	0%
+Clarke	Iowa	1	0	0	0	0%
+Hamilton	Iowa	1	0	0	0	0%
+Marion	Iowa	1	0	0	0	0%
+Chickasaw	Iowa	1	1	0	0	0%
+Franklin	Iowa	1	1	0	0	0%
+Winnebago	Iowa	1	1	0	0	0%
+Unassigned	Iowa	0	0	0	0	0%
+Delaware	Iowa	0	0	0	0	0%
+Pulaski	Arkansas	161	0	2	0	1.2%
+Unassigned	Arkansas	67	22	10	0	14.9%
+Cleburne	Arkansas	65	0	2	0	3.1%
+Jefferson	Arkansas	62	0	0	0	0%
+Crittenden	Arkansas	53	0	0	0	0%
+Faulkner	Arkansas	47	0	1	0	2.1%
+Benton	Arkansas	42	0	0	0	0%
+Garland	Arkansas	41	0	0	0	0%
+Saline	Arkansas	29	0	0	0	0%
+Washington	Arkansas	29	0	0	0	0%
+Clark	Arkansas	27	0	0	0	0%
+White	Arkansas	25	0	0	0	0%
+Van Buren	Arkansas	21	0	0	0	0%
+Craighead	Arkansas	20	0	0	0	0%
+Lonoke	Arkansas	17	0	0	0	0%
+Pope	Arkansas	13	0	0	0	0%
+Union	Arkansas	12	0	0	0	0%
+St. Francis	Arkansas	11	0	0	0	0%
+Johnson	Arkansas	8	0	0	0	0%
+Miller	Arkansas	8	0	0	0	0%
+Sebastian	Arkansas	8	0	0	0	0%
+Cleveland	Arkansas	7	0	0	0	0%
+Hot Spring	Arkansas	7	0	0	0	0%
+Lincoln	Arkansas	7	0	0	0	0%
+Sevier	Arkansas	6	0	0	0	0%
+Cross	Arkansas	5	0	0	0	0%
+Desha	Arkansas	5	0	0	0	0%
+Drew	Arkansas	5	0	0	0	0%
+Howard	Arkansas	5	0	0	0	0%
+Independence	Arkansas	5	0	0	0	0%
+Poinsett	Arkansas	5	0	0	0	0%
+Polk	Arkansas	5	0	0	0	0%
+Searcy	Arkansas	5	0	0	0	0%
+Stone	Arkansas	5	0	0	0	0%
+Bradley	Arkansas	4	0	0	0	0%
+Grant	Arkansas	3	0	0	0	0%
+Chicot	Arkansas	2	0	0	0	0%
+Conway	Arkansas	1	0	1	0	100%
+Arkansas	Arkansas	1	0	0	0	0%
+Ashley	Arkansas	1	0	0	0	0%
+Baxter	Arkansas	1	0	0	0	0%
+Boone	Arkansas	1	0	0	0	0%
+Carroll	Arkansas	1	0	0	0	0%
+Columbia	Arkansas	1	0	0	0	0%
+Crawford	Arkansas	1	0	0	0	0%
+Greene	Arkansas	1	0	0	0	0%
+Hempstead	Arkansas	1	0	0	0	0%
+Lawrence	Arkansas	1	0	0	0	0%
+Lee	Arkansas	1	0	0	0	0%
+Nevada	Arkansas	1	0	0	0	0%
+Newton	Arkansas	1	0	0	0	0%
+Perry	Arkansas	1	0	0	0	0%
+Pike	Arkansas	1	0	0	0	0%
+Randolph	Arkansas	1	0	0	0	0%
+Scott	Arkansas	1	0	0	0	0%
+Woodruff	Arkansas	1	0	0	0	0%
+Mississippi	Arkansas	1	0	0	0	0%
+Monroe	Arkansas	1	0	0	0	0%
+Lafayette	Arkansas	1	0	0	0	0%
+Ouachita	Arkansas	1	0	0	0	0%
+Prairie	Arkansas	1	0	0	0	0%
+Sharp	Arkansas	1	0	0	0	0%
+Yell	Arkansas	1	0	0	0	0%
+Phillips	Arkansas	1	0	0	0	0%
+Dallas	Arkansas	1	0	0	0	0%
+Johnson	Kansas	212	20	9	2	4.2%
+Wyandotte	Kansas	186	28	6	0	3.2%
+Sedgwick	Kansas	124	16	1	0	0.8%
+Shawnee	Kansas	40	2	2	0	5%
+Leavenworth	Kansas	40	4	0	0	0%
+Douglas	Kansas	36	3	0	0	0%
+Coffey	Kansas	29	5	1	0	3.4%
+Lyon	Kansas	23	0	0	0	0%
+Riley	Kansas	14	1	0	0	0%
+Finney	Kansas	10	0	0	0	0%
+Franklin	Kansas	10	1	0	0	0%
+Reno	Kansas	10	0	0	0	0%
+McPherson	Kansas	9	0	0	0	0%
+Montgomery	Kansas	9	3	0	0	0%
+Butler	Kansas	8	0	0	0	0%
+Saline	Kansas	7	2	0	0	0%
+Bourbon	Kansas	6	2	0	0	0%
+Cherokee	Kansas	5	0	0	0	0%
+Labette	Kansas	5	1	0	0	0%
+Linn	Kansas	5	0	0	0	0%
+Crawford	Kansas	4	0	1	0	25%
+Barton	Kansas	3	0	0	0	0%
+Chautauqua	Kansas	3	0	0	0	0%
+Harvey	Kansas	3	1	0	0	0%
+Jefferson	Kansas	3	1	0	0	0%
+Osage	Kansas	3	0	0	0	0%
+Ottawa	Kansas	3	0	0	0	0%
+Pottawatomie	Kansas	3	1	0	0	0%
+Woodson	Kansas	3	0	0	0	0%
+Marion	Kansas	3	1	0	0	0%
+Atchison	Kansas	2	0	0	0	0%
+Mitchell	Kansas	2	0	0	0	0%
+Morris	Kansas	2	0	0	0	0%
+Sumner	Kansas	2	0	0	0	0%
+Osborne	Kansas	2	0	0	0	0%
+Miami	Kansas	2	0	0	0	0%
+Geary	Kansas	2	0	0	0	0%
+Clay	Kansas	1	0	0	0	0%
+Doniphan	Kansas	1	0	0	0	0%
+Ford	Kansas	1	0	0	0	0%
+Gove	Kansas	1	0	0	0	0%
+Jackson	Kansas	1	0	0	0	0%
+Neosho	Kansas	1	0	0	0	0%
+Pratt	Kansas	1	0	0	0	0%
+Stafford	Kansas	1	0	0	0	0%
+Stevens	Kansas	1	0	0	0	0%
+Cloud	Kansas	1	0	0	0	0%
+Cowley	Kansas	1	0	0	0	0%
+Greenwood	Kansas	1	0	0	0	0%
+Jewell	Kansas	1	0	0	0	0%
+Wabaunsee	Kansas	1	0	0	0	0%
+Republic	Kansas	1	0	0	0	0%
+Morton	Kansas	1	1	0	0	0%
+Unknown	Kansas	0	0	5	1	0%
+Anderson	Kansas	0	0	0	0	0%
+New Castle	Delaware	496	60	9	0	1.8%
+Sussex	Delaware	159	8	3	0	1.9%
+Kent	Delaware	128	42	3	1	2.3%
+Unassigned	Delaware	0	0	0	0	0%
+Rockingham	New Hampshire	246	16	1	0	0.4%
+Hillsborough-Manchester	New Hampshire	116	15	0	0	0%
+Hillsborough-other	New Hampshire	87	5	2	0	2.3%
+Hillsborough-Nashua	New Hampshire	69	3	0	0	0%
+Merrimack	New Hampshire	52	7	0	0	0%
+Strafford	New Hampshire	46	2	0	0	0%
+Grafton	New Hampshire	41	0	0	0	0%
+Carroll	New Hampshire	19	0	0	0	0%
+Belknap	New Hampshire	18	1	0	0	0%
+Cheshire	New Hampshire	13	2	0	0	0%
+Sullivan	New Hampshire	6	0	0	0	0%
+Unassigned	New Hampshire	1	0	6	0	600%
+Coos	New Hampshire	1	0	0	0	0%
+Bernalillo	New Mexico	262	16	7	0	2.7%
+Sandoval	New Mexico	114	11	2	0	1.8%
+San Juan	New Mexico	83	25	0	0	0%
+Santa Fe	New Mexico	64	2	0	0	0%
+McKinley	New Mexico	44	4	2	0	4.5%
+Dona Ana	New Mexico	30	1	0	0	0%
+Chaves	New Mexico	14	1	0	0	0%
+Cibola	New Mexico	14	0	0	0	0%
+Taos	New Mexico	13	0	0	0	0%
+Valencia	New Mexico	7	0	0	0	0%
+Curry	New Mexico	6	0	0	0	0%
+Rio Arriba	New Mexico	6	0	0	0	0%
+Torrance	New Mexico	6	0	0	0	0%
+Socorro	New Mexico	5	0	0	0	0%
+Eddy	New Mexico	4	0	1	0	25%
+Grant	New Mexico	3	2	0	0	0%
+Otero	New Mexico	3	0	0	0	0%
+Lea	New Mexico	2	0	0	0	0%
+Los Alamos	New Mexico	2	0	0	0	0%
+Roosevelt	New Mexico	1	0	0	0	0%
+San Miguel	New Mexico	1	0	0	0	0%
+Catron	New Mexico	1	0	0	0	0%
+Lincoln	New Mexico	1	0	0	0	0%
+Unassigned	New Mexico	0	0	0	0	0%
+Chittenden	Vermont	285	14	4	0	1.4%
+Addison	Vermont	40	0	0	0	0%
+Windham	Vermont	35	4	0	0	0%
+Franklin	Vermont	29	2	0	0	0%
+Rutland	Vermont	28	1	0	0	0%
+Bennington	Vermont	25	1	0	0	0%
+Windsor	Vermont	22	0	1	0	4.5%
+Washington	Vermont	22	0	0	0	0%
+Unassigned	Vermont	21	8	18	1	85.7%
+Lamoille	Vermont	18	1	0	0	0%
+Orleans	Vermont	8	0	0	0	0%
+Caledonia	Vermont	6	0	0	0	0%
+Orange	Vermont	4	0	0	0	0%
+Puerto Rico	Puerto Rico	513	38	21	1	4.1%
+Cumberland	Maine	249	11	5	0	2%
+York	Maine	108	7	1	0	0.9%
+Penobscot	Maine	25	3	0	0	0%
+Kennebec	Maine	23	1	1	0	4.3%
+Androscoggin	Maine	23	3	0	0	0%
+Sagadahoc	Maine	13	0	0	0	0%
+Unassigned	Maine	11	0	3	0	27.3%
+Oxford	Maine	11	0	0	0	0%
+Knox	Maine	9	0	0	0	0%
+Lincoln	Maine	9	1	0	0	0%
+Franklin	Maine	5	1	0	0	0%
+Waldo	Maine	5	2	0	0	0%
+Somerset	Maine	4	0	0	0	0%
+Hancock	Maine	2	0	0	0	0%
+Aroostook	Maine	1	0	0	0	0%
+Washington	Maine	1	0	0	0	0%
+Douglas	Nebraska	159	14	4	1	2.5%
+Hall	Nebraska	55	10	1	0	1.8%
+Lancaster	Nebraska	32	14	0	0	0%
+Sarpy	Nebraska	28	0	0	0	0%
+Washington	Nebraska	19	0	0	0	0%
+Buffalo	Nebraska	18	1	1	0	5.6%
+Lincoln	Nebraska	16	1	1	0	6.3%
+Adams	Nebraska	13	0	0	0	0%
+Gage	Nebraska	9	0	1	0	11.1%
+Kimball	Nebraska	9	4	0	0	0%
+Dodge	Nebraska	7	0	0	0	0%
+Scotts Bluff	Nebraska	6	3	0	0	0%
+Hamilton	Nebraska	6	0	0	0	0%
+Madison	Nebraska	5	0	1	0	20%
+Platte	Nebraska	5	0	0	0	0%
+Saunders	Nebraska	4	0	0	0	0%
+Cass	Nebraska	2	0	0	0	0%
+Cuming	Nebraska	2	0	0	0	0%
+Kearney	Nebraska	2	0	0	0	0%
+Knox	Nebraska	2	0	0	0	0%
+Colfax	Nebraska	2	0	0	0	0%
+Merrick	Nebraska	2	0	0	0	0%
+Antelope	Nebraska	1	0	0	0	0%
+Dawson	Nebraska	1	0	0	0	0%
+Gosper	Nebraska	1	0	0	0	0%
+Nemaha	Nebraska	1	0	0	0	0%
+Unassigned	Nebraska	1	0	0	0	0%
+York	Nebraska	1	0	0	0	0%
+Otoe	Nebraska	1	0	0	0	0%
+Cherry	Nebraska	1	0	0	0	0%
+Seward	Nebraska	1	0	0	0	0%
+Phelps	Nebraska	1	0	0	0	0%
+Logan	Nebraska	1	0	0	0	0%
+Cheyenne	Nebraska	1	1	0	0	0%
+Custer	Nebraska	1	1	0	0	0%
+Stanton	Nebraska	1	1	0	0	0%
+Honolulu	Hawaii	292	11	4	0	1.4%
+Maui	Hawaii	44	1	1	1	2.3%
+Hawaii	Hawaii	23	1	0	0	0%
+Kauai	Hawaii	17	1	0	0	0%
+Unassigned	Hawaii	9	2	0	0	0%
+Residents diagnosed Outside of HI	Hawaii	2	0	0	0	0%
+Navajo, AZ	Navajo Nation	149	0	0	0	0%
+Coconino, AZ	Navajo Nation	94	0	0	0	0%
+San Juan, NM	Navajo Nation	45	0	0	0	0%
+Apache, AZ	Navajo Nation	33	0	0	0	0%
+McKinley, NM	Navajo Nation	17	0	0	0	0%
+Cibola, NM	Navajo Nation	7	0	0	0	0%
+San Juan, UT	Navajo Nation	7	0	0	0	0%
+Socorro, NM	Navajo Nation	2	0	0	0	0%
+Unassigned	Navajo Nation	0	0	14	0	0%
+Kanawha	West Virginia	56	5	0	0	0%
+Berkeley	West Virginia	54	0	0	0	0%
+Monongalia	West Virginia	53	4	1	0	1.9%
+Harrison	West Virginia	25	1	1	1	4%
+Jefferson	West Virginia	22	1	0	0	0%
+Marion	West Virginia	17	3	1	0	5.9%
+Jackson	West Virginia	16	2	1	0	6.3%
+Ohio	West Virginia	15	0	0	0	0%
+Wood	West Virginia	11	1	0	0	0%
+Putnam	West Virginia	8	2	0	0	0%
+Cabell	West Virginia	7	2	0	0	0%
+Hancock	West Virginia	6	0	0	0	0%
+Logan	West Virginia	6	1	0	0	0%
+Marshall	West Virginia	5	0	0	0	0%
+Mason	West Virginia	4	0	0	0	0%
+Mercer	West Virginia	4	1	0	0	0%
+Preston	West Virginia	4	0	0	0	0%
+Raleigh	West Virginia	4	0	0	0	0%
+Greenbrier	West Virginia	3	0	0	0	0%
+Morgan	West Virginia	3	0	0	0	0%
+Randolph	West Virginia	3	0	0	0	0%
+Tucker	West Virginia	3	0	0	0	0%
+Barbour	West Virginia	2	0	0	0	0%
+Hardy	West Virginia	2	0	0	0	0%
+Roane	West Virginia	2	0	0	0	0%
+Wetzel	West Virginia	2	0	0	0	0%
+Mineral	West Virginia	2	0	0	0	0%
+Pleasants	West Virginia	1	0	0	0	0%
+Upshur	West Virginia	1	0	0	0	0%
+Wirt	West Virginia	1	0	0	0	0%
+Pendleton	West Virginia	1	0	0	0	0%
+Lewis	West Virginia	1	1	0	0	0%
+Taylor	West Virginia	1	1	0	0	0%
+Gallatin	Montana	118	3	0	0	0%
+Yellowstone	Montana	47	7	0	0	0%
+Flathead	Montana	31	6	0	0	0%
+Missoula	Montana	24	3	1	0	4.2%
+Toole	Montana	15	0	3	0	20%
+Lewis and Clark	Montana	15	1	0	0	0%
+Cascade	Montana	11	0	0	0	0%
+Silver Bow	Montana	11	0	0	0	0%
+Madison	Montana	9	0	1	0	11.1%
+Lincoln	Montana	7	0	1	0	14.3%
+Park	Montana	6	0	0	0	0%
+Lake	Montana	5	1	0	0	0%
+Broadwater	Montana	4	0	0	0	0%
+Deer Lodge	Montana	3	0	0	0	0%
+Jefferson	Montana	2	0	0	0	0%
+Ravalli	Montana	2	0	0	0	0%
+Carbon	Montana	2	1	0	0	0%
+Hill	Montana	1	0	0	0	0%
+Liberty	Montana	1	0	0	0	0%
+Meagher	Montana	1	0	0	0	0%
+Musselshell	Montana	1	0	0	0	0%
+Roosevelt	Montana	1	0	0	0	0%
+Glacier	Montana	1	0	0	0	0%
+Beaverhead	Montana	1	0	0	0	0%
+Unassigned	Montana	0	0	0	0	0%
+Minnehaha	South Dakota	140	36	1	1	0.7%
+Lincoln	South Dakota	24	1	0	0	0%
+Beadle	South Dakota	21	0	2	1	9.5%
+Yankton	South Dakota	18	4	0	0	0%
+Brown	South Dakota	13	4	0	0	0%
+Codington	South Dakota	11	1	0	0	0%
+Lawrence	South Dakota	9	0	0	0	0%
+Pennington	South Dakota	6	0	1	0	16.7%
+Brookings	South Dakota	4	1	0	0	0%
+Turner	South Dakota	4	0	0	0	0%
+Roberts	South Dakota	4	0	0	0	0%
+Clay	South Dakota	3	0	0	0	0%
+Davison	South Dakota	3	0	0	0	0%
+Hughes	South Dakota	3	0	0	0	0%
+Union	South Dakota	3	0	0	0	0%
+Spink	South Dakota	3	0	0	0	0%
+Bon Homme	South Dakota	2	1	0	0	0%
+Charles Mix	South Dakota	2	0	0	0	0%
+Hutchinson	South Dakota	2	0	0	0	0%
+McCook	South Dakota	2	0	0	0	0%
+Aurora	South Dakota	1	0	0	0	0%
+Clark	South Dakota	1	0	0	0	0%
+Fall River	South Dakota	1	0	0	0	0%
+Faulk	South Dakota	1	0	0	0	0%
+Lyman	South Dakota	1	0	0	0	0%
+Marshall	South Dakota	1	0	0	0	0%
+Meade	South Dakota	1	0	0	0	0%
+Deuel	South Dakota	1	0	0	0	0%
+Hamlin	South Dakota	1	0	0	0	0%
+Todd	South Dakota	1	0	0	0	0%
+Lake	South Dakota	1	0	0	0	0%
+Unassigned	South Dakota	0	0	0	0	0%
+Butte	South Dakota	0	0	0	0	0%
+Kingsbury	South Dakota	0	0	0	0	0%
+Cass	North Dakota	65	11	1	0	1.5%
+Burleigh	North Dakota	38	1	0	0	0%
+Stark	North Dakota	25	0	0	0	0%
+Mountrail	North Dakota	19	0	0	0	0%
+Morton	North Dakota	17	1	1	0	5.9%
+Ward	North Dakota	16	2	0	0	0%
+Grand Forks	North Dakota	11	0	0	0	0%
+Williams	North Dakota	5	0	0	0	0%
+McKenzie	North Dakota	3	0	0	0	0%
+Ramsey	North Dakota	3	0	0	0	0%
+Walsh	North Dakota	3	2	0	0	0%
+Barnes	North Dakota	2	0	0	0	0%
+Burke	North Dakota	2	0	0	0	0%
+McLean	North Dakota	2	0	0	0	0%
+Pierce	North Dakota	2	0	0	0	0%
+Slope	North Dakota	2	1	0	0	0%
+McHenry	North Dakota	1	0	1	0	100%
+Divide	North Dakota	1	0	0	0	0%
+Dunn	North Dakota	1	0	0	0	0%
+Foster	North Dakota	1	0	0	0	0%
+Grant	North Dakota	1	0	0	0	0%
+McIntosh	North Dakota	1	0	0	0	0%
+Oliver	North Dakota	1	0	0	0	0%
+Sioux	North Dakota	1	0	0	0	0%
+Eddy	North Dakota	1	0	0	0	0%
+Emmons	North Dakota	1	0	0	0	0%
+Unassigned	North Dakota	0	0	0	0	0%
+Mercer	North Dakota	0	0	0	0	0%
+Rolette	North Dakota	0	0	0	0	0%
+Laramie	Wyoming	45	1	0	0	0%
+Teton	Wyoming	40	0	0	0	0%
+Fremont	Wyoming	38	1	0	0	0%
+Natrona	Wyoming	26	3	0	0	0%
+Sheridan	Wyoming	12	0	0	0	0%
+Campbell	Wyoming	9	3	0	0	0%
+Johnson	Wyoming	8	0	0	0	0%
+Sweetwater	Wyoming	5	0	0	0	0%
+Albany	Wyoming	4	0	0	0	0%
+Carbon	Wyoming	4	0	0	0	0%
+Converse	Wyoming	4	1	0	0	0%
+Washakie	Wyoming	4	0	0	0	0%
+Lincoln	Wyoming	4	1	0	0	0%
+Goshen	Wyoming	3	1	0	0	0%
+Uinta	Wyoming	3	1	0	0	0%
+Park	Wyoming	1	0	0	0	0%
+Sublette	Wyoming	1	0	0	0	0%
+Crook	Wyoming	1	0	0	0	0%
+unassigned	Wyoming	0	0	0	0	0%
+Anchorage	Alaska	88	3	1	0	1.1%
+Juneau	Alaska	14	0	0	0	0%
+Ketchikan Gateway	Alaska	14	0	0	0	0%
+Kenai Peninsula	Alaska	13	1	0	0	0%
+Matanuska-Susitna	Alaska	4	0	0	0	0%
+Petersburg	Alaska	2	1	0	0	0%
+Yukon-Koyukuk	Alaska	1	0	0	0	0%
+Southeast Fairbanks	Alaska	1	0	0	0	0%
+Unassigned	Alaska	0	0	5	0	0%
+Fairbanks North Star	Alaska	0	0	0	0	0%
+Guam	Guam	113	1	4	0	3.5%
+Unassigned	Grand Princess	95	0	0	0	0%
+Solano	Grand Princess	7	0	0	0	0%
+San Diego	Grand Princess	1	0	0	0	0%
+Grand Princess	Grand Princess	0	0	3	0	0%
+Unassigned	Diamond Princess	44	0	0	0	0%
+Riverside	Diamond Princess	2	0	0	0	0%
+Sonoma	Diamond Princess	2	0	0	0	0%
+San Diego	Diamond Princess	1	0	0	0	0%
+St. Thomas	US Virgin Islands	29	1	0	0	0%
+St. Croix	US Virgin Islands	12	0	0	0	0%
+St. John	US Virgin Islands	2	0	0	0	0%
+Unassigned	US Virgin Islands	0	0	1	0	0%
+Saipan	Northern Mariana Islands	6	0	1	0	16.7%
+Unassigned	Northern Mariana Islands	2	0	0	0	0%
+Unassigned	Wuhan Evacuee	4	0	0	0	0%
