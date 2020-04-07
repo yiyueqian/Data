@@ -1,85 +1,85 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
-New York	New York	72,181	0	3,485	0	4.8%
-Nassau	New York	15,616	0	381	0	2.4%
+New York	New York	76,876	4,695	4,009	524	5.2%
+Nassau	New York	16,610	994	381	0	2.3%
+Suffolk	New York	14,517	332	199	0	1.4%
 Westchester	New York	14,294	0	211	0	1.5%
-Suffolk	New York	14,185	0	199	0	1.4%
-Unassigned	New York	7,006	7,006	881	731	12.6%
-Rockland	New York	5,703	0	119	0	2.1%
-Orange	New York	3,533	0	76	0	2.2%
-Dutchess	New York	1,189	0	9	0	0.8%
+Rockland	New York	5,990	287	119	0	2%
+Orange	New York	3,599	66	76	0	2.1%
+Dutchess	New York	1,249	60	9	0	0.7%
 Erie	New York	1,163	0	30	0	2.6%
-Monroe	New York	574	0	26	0	4.5%
-Ulster	New York	382	0	4	0	1%
+Monroe	New York	596	22	26	0	4.4%
+Ulster	New York	398	16	4	0	1%
 Onondaga	New York	377	0	5	0	1.3%
-Putnam	New York	345	0	7	0	2%
-Albany	New York	319	0	8	0	2.5%
-Sullivan	New York	253	0	6	0	2.4%
-Saratoga	New York	153	0	4	0	2.6%
-Schenectady	New York	138	0	7	0	5.1%
-Niagara	New York	120	0	0	0	0%
+Putnam	New York	366	21	7	0	1.9%
+Albany	New York	333	14	8	0	2.4%
+Sullivan	New York	270	17	6	0	2.2%
+Saratoga	New York	155	2	4	0	2.6%
+Schenectady	New York	145	7	7	0	4.8%
+Niagara	New York	126	6	0	0	0%
+Oneida	New York	118	18	2	0	1.7%
 Tompkins	New York	102	0	0	0	0%
-Oneida	New York	100	0	2	0	2%
 Madison	New York	92	0	2	0	2.2%
-Broome	New York	76	0	5	0	6.6%
+Broome	New York	86	10	5	0	5.8%
 Steuben	New York	75	0	4	0	5.3%
 Rensselaer	New York	74	0	2	0	2.7%
 Columbia	New York	70	0	3	0	4.3%
 St. Lawrence	New York	61	0	0	0	0%
-Chemung	New York	47	0	0	0	0%
-Chenango	New York	46	0	0	0	0%
-Clinton	New York	36	0	0	0	0%
+Chenango	New York	51	5	0	0	0%
+Chemung	New York	49	2	0	0	0%
+Jefferson	New York	39	6	0	0	0%
+Clinton	New York	37	1	0	0	0%
+Delaware	New York	36	7	1	0	2.8%
+Wayne	New York	35	1	0	0	0%
+Otsego	New York	34	5	1	0	2.9%
 Oswego	New York	34	0	0	0	0%
-Wayne	New York	34	0	0	0	0%
-Jefferson	New York	33	0	0	0	0%
-Ontario	New York	32	0	0	0	0%
-Otsego	New York	29	0	1	0	3.4%
-Delaware	New York	29	0	1	0	3.4%
-Warren	New York	26	0	0	0	0%
-Herkimer	New York	25	0	3	0	12%
+Genesee	New York	33	10	1	0	3%
+Ontario	New York	33	1	0	0	0%
+Warren	New York	31	5	0	0	0%
+Herkimer	New York	27	2	3	0	11.1%
 Livingston	New York	24	0	1	0	4.2%
 Greene	New York	24	0	0	0	0%
 Wyoming	New York	23	0	1	0	4.3%
-Genesee	New York	23	0	1	0	4.3%
 Washington	New York	19	0	1	0	5.3%
 Chautauqua	New York	18	0	2	0	11.1%
+Montgomery	New York	18	3	1	0	5.6%
 Allegany	New York	17	0	1	0	5.9%
-Montgomery	New York	15	0	1	0	6.7%
-Cortland	New York	14	0	0	0	0%
-Orleans	New York	13	0	0	0	0%
-Cattaraugus	New York	12	0	0	0	0%
-Cayuga	New York	11	0	0	0	0%
-Fulton	New York	11	0	0	0	0%
-Schoharie	New York	11	0	0	0	0%
+Cortland	New York	16	2	0	0	0%
+Orleans	New York	15	2	0	0	0%
+Cayuga	New York	14	3	0	0	0%
+Cattaraugus	New York	13	1	0	0	0%
+Fulton	New York	13	2	0	0	0%
+Schoharie	New York	12	1	0	0	0%
 Franklin	New York	10	0	0	0	0%
+Seneca	New York	10	1	0	0	0%
 Essex	New York	9	0	0	0	0%
-Seneca	New York	9	0	0	0	0%
 Tioga	New York	8	0	0	0	0%
 Lewis	New York	6	0	0	0	0%
 Schuyler	New York	4	0	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Bergen	New Jersey	6,862	0	200	0	2.9%
-Essex	New Jersey	4,493	0	186	0	4.1%
-Hudson	New Jersey	4,395	0	92	0	2.1%
-Passaic	New Jersey	3,756	0	53	0	1.4%
-Union	New Jersey	3,685	0	78	0	2.1%
-Unassigned	New Jersey	3,521	0	14	0	0.4%
-Middlesex	New Jersey	3,263	0	87	0	2.7%
-Monmouth	New Jersey	2,545	0	62	0	2.4%
-Ocean	New Jersey	2,374	0	71	0	3%
-Morris	New Jersey	1,956	0	60	0	3.1%
-Somerset	New Jersey	902	0	31	0	3.4%
-Mercer	New Jersey	740	0	19	0	2.6%
-Burlington	New Jersey	646	0	11	0	1.7%
-Camden	New Jersey	645	0	8	0	1.2%
-Sussex	New Jersey	292	0	11	0	3.8%
-Gloucester	New Jersey	279	0	3	0	1.1%
-Warren	New Jersey	215	0	7	0	3.3%
-Hunterdon	New Jersey	211	0	2	0	0.9%
-Atlantic	New Jersey	132	0	1	0	0.8%
-Cape May	New Jersey	85	0	3	0	3.5%
-Cumberland	New Jersey	64	0	2	0	3.1%
-Salem	New Jersey	29	0	2	0	6.9%
+Unassigned	New York	0	0	357	207	0%
+Bergen	New Jersey	7,533	671	263	60	3.5%
+Essex	New Jersey	5,078	585	232	40	4.6%
+Hudson	New Jersey	4,949	554	103	11	2.1%
+Union	New Jersey	4,368	683	95	17	2.2%
+Passaic	New Jersey	4,104	348	62	9	1.5%
+Middlesex	New Jersey	3,717	454	100	13	2.7%
+Monmouth	New Jersey	2,770	225	71	9	2.6%
+Ocean	New Jersey	2,641	267	85	14	3.2%
+Morris	New Jersey	2,239	283	87	27	3.9%
+Unassigned	New Jersey	2,207	0	5	0	0.2%
+Somerset	New Jersey	1,033	131	40	9	3.9%
+Mercer	New Jersey	837	97	24	5	2.9%
+Camden	New Jersey	736	91	12	4	1.6%
+Burlington	New Jersey	733	87	13	2	1.8%
+Sussex	New Jersey	331	39	15	4	4.5%
+Gloucester	New Jersey	311	32	5	2	1.6%
+Warren	New Jersey	255	40	7	0	2.7%
+Hunterdon	New Jersey	234	23	2	0	0.9%
+Atlantic	New Jersey	144	12	4	3	2.8%
+Cape May	New Jersey	94	9	2	0	2.1%
+Cumberland	New Jersey	71	7	2	0	2.8%
+Salem	New Jersey	31	2	3	1	9.7%
 Wayne--Detroit	Michigan	5,023	0	193	0	3.8%
 Oakland	Michigan	3,380	0	185	0	5.5%
 Wayne	Michigan	3,247	0	153	0	4.7%
@@ -1018,13 +1018,13 @@ Franklin	Ohio	703	59	12	3	1.7%
 Hamilton	Ohio	411	17	12	3	2.9%
 Lucas	Ohio	347	26	16	4	4.6%
 Mahoning	Ohio	300	28	19	2	6.3%
-Summit	Ohio	189	0	12	2	6.3%
+Summit	Ohio	199	10	12	2	6%
+Montgomery	Ohio	132	23	2	0	1.5%
 Lorain	Ohio	116	0	3	0	2.6%
-Stark	Ohio	109	0	7	0	6.4%
-Montgomery	Ohio	109	0	2	0	1.8%
-Trumbull	Ohio	102	0	8	0	7.8%
+Stark	Ohio	110	1	7	0	6.4%
+Trumbull	Ohio	110	8	8	0	7.3%
 Miami	Ohio	101	11	12	2	11.9%
-Portage	Ohio	94	0	7	2	7.4%
+Portage	Ohio	101	7	7	2	6.9%
 Lake	Ohio	92	5	4	1	4.3%
 Butler	Ohio	92	17	2	0	2.2%
 Medina	Ohio	88	5	3	0	3.4%
@@ -1032,25 +1032,25 @@ Delaware	Ohio	77	0	1	0	1.3%
 Licking	Ohio	61	4	3	1	4.9%
 Columbiana	Ohio	59	6	5	0	8.5%
 Fairfield	Ohio	59	5	0	0	0%
+Warren	Ohio	45	8	0	0	0%
 Geauga	Ohio	41	1	0	0	0%
-Warren	Ohio	37	0	0	0	0%
+Wood	Ohio	38	4	0	0	0%
 Darke	Ohio	34	2	6	0	17.6%
-Wood	Ohio	34	0	0	0	0%
-Pickaway	Ohio	29	0	0	0	0%
+Pickaway	Ohio	31	2	0	0	0%
+Wayne	Ohio	29	3	0	0	0%
 Marion	Ohio	28	3	0	0	0%
-Wayne	Ohio	26	0	0	0	0%
+Washington	Ohio	27	12	0	0	0%
 Belmont	Ohio	25	3	1	0	4%
 Tuscarawas	Ohio	23	0	0	0	0%
 Clermont	Ohio	22	0	1	0	4.5%
 Allen	Ohio	22	3	1	1	4.5%
 Greene	Ohio	20	5	1	0	5%
-Richland	Ohio	19	0	0	0	0%
+Richland	Ohio	20	1	0	0	0%
 Madison	Ohio	18	1	2	0	11.1%
 Ashtabula	Ohio	18	3	0	0	0%
-Shelby	Ohio	17	0	0	0	0%
+Shelby	Ohio	18	1	0	0	0%
 Hancock	Ohio	15	1	0	0	0%
 Jefferson	Ohio	15	0	0	0	0%
-Washington	Ohio	15	0	0	0	0%
 Clark	Ohio	11	1	0	0	0%
 Erie	Ohio	10	0	1	0	10%
 Huron	Ohio	10	1	1	0	10%
@@ -1060,20 +1060,20 @@ Clinton	Ohio	9	1	0	0	0%
 Crawford	Ohio	9	0	0	0	0%
 Defiance	Ohio	9	1	0	0	0%
 Lawrence	Ohio	9	0	0	0	0%
+Ross	Ohio	9	3	0	0	0%
 Mercer	Ohio	8	0	1	0	12.5%
 Auglaize	Ohio	8	0	0	0	0%
 Union	Ohio	8	0	0	0	0%
 Knox	Ohio	7	0	1	0	14.3%
+Preble	Ohio	7	2	0	0	0%
 Seneca	Ohio	6	0	1	0	16.7%
 Highland	Ohio	6	0	0	0	0%
-Ross	Ohio	6	0	0	0	0%
+Morrow	Ohio	6	1	0	0	0%
+Muskingum	Ohio	6	1	0	0	0%
 Champaign	Ohio	5	0	0	0	0%
 Fulton	Ohio	5	0	0	0	0%
 Logan	Ohio	5	0	0	0	0%
-Morrow	Ohio	5	0	0	0	0%
-Muskingum	Ohio	5	0	0	0	0%
 Ottawa	Ohio	5	0	0	0	0%
-Preble	Ohio	5	0	0	0	0%
 Sandusky	Ohio	5	0	0	0	0%
 Wyandot	Ohio	5	0	0	0	0%
 Gallia	Ohio	4	0	1	0	25%
@@ -1091,11 +1091,11 @@ Pike	Ohio	1	0	0	0	0%
 Guernsey	Ohio	1	0	0	0	0%
 Williams	Ohio	1	0	0	0	0%
 Scioto	Ohio	1	0	0	0	0%
-Putnam	Ohio	1	0	0	0	0%
 Paulding	Ohio	1	0	0	0	0%
 Morgan	Ohio	1	0	0	0	0%
 Meigs	Ohio	1	1	0	0	0%
 Unassigned	Ohio	0	0	0	0	0%
+Putnam	Ohio	0	0	0	0	0%
 Prince George\'s	Maryland	1,020	104	26	3	2.5%
 Montgomery	Maryland	871	78	21	2	2.4%
 Baltimore	Maryland	652	4	11	0	1.7%
@@ -1652,56 +1652,46 @@ Hampton	South Carolina	3	0	0	0	0%
 Allendale	South Carolina	2	0	0	0	0%
 McCormick	South Carolina	2	0	0	0	0%
 Dillon	South Carolina	1	0	0	0	0%
-Clark	Nevada	1,734	126	54	13	3.1%
-Washoe	Nevada	281	0	4	0	1.4%
-Unassigned	Nevada	33	0	12	0	36.4%
-Carson City	Nevada	11	0	0	0	0%
-Humboldt	Nevada	11	0	0	0	0%
-Elko	Nevada	8	0	1	0	12.5%
-Douglas	Nevada	7	0	0	0	0%
-Nye	Nevada	7	0	0	0	0%
-Lyon	Nevada	3	0	0	0	0%
-White Pine	Nevada	1	0	0	0	0%
-Jefferson	Alabama	443	5	11	0	2.5%
+Jefferson	Alabama	454	16	11	0	2.4%
 Mobile	Alabama	176	28	6	0	3.4%
-Shelby	Alabama	152	2	5	0	3.3%
-Madison	Alabama	145	4	2	0	1.4%
-Lee	Alabama	120	2	3	0	2.5%
-Chambers	Alabama	98	2	7	0	7.1%
+Shelby	Alabama	154	4	5	0	3.2%
+Madison	Alabama	150	9	2	0	1.3%
+Lee	Alabama	122	4	3	0	2.5%
+Chambers	Alabama	101	5	7	0	6.9%
 Tuscaloosa	Alabama	75	1	0	0	0%
-Montgomery	Alabama	71	0	1	0	1.4%
-Walker	Alabama	54	0	0	0	0%
+Montgomery	Alabama	72	1	1	0	1.4%
+Walker	Alabama	55	1	0	0	0%
+Baldwin	Alabama	42	4	1	0	2.4%
 Etowah	Alabama	42	0	4	1	9.5%
-Baldwin	Alabama	39	1	1	0	2.6%
 Calhoun	Alabama	38	0	0	0	0%
-Marshall	Alabama	34	0	1	0	2.9%
+Marshall	Alabama	36	2	1	0	2.8%
+Tallapoosa	Alabama	34	3	1	0	2.9%
 Limestone	Alabama	33	0	0	0	0%
-Tallapoosa	Alabama	31	0	1	0	3.2%
 Morgan	Alabama	30	0	0	0	0%
 St. Clair	Alabama	30	0	0	0	0%
-Houston	Alabama	24	0	1	0	4.2%
+Houston	Alabama	25	1	1	0	4%
+Elmore	Alabama	21	1	0	0	0%
 Cullman	Alabama	20	0	1	0	5%
+Marion	Alabama	20	1	2	0	10%
 Chilton	Alabama	20	0	0	0	0%
-Elmore	Alabama	20	0	0	0	0%
 Talladega	Alabama	20	0	0	0	0%
-Marion	Alabama	19	0	2	0	10.5%
 Jackson	Alabama	18	1	1	0	5.6%
-Lauderdale	Alabama	16	0	2	0	12.5%
+Lauderdale	Alabama	18	2	2	0	11.1%
+Sumter	Alabama	15	5	0	0	0%
+Marengo	Alabama	14	1	1	1	7.1%
 DeKalb	Alabama	14	0	0	0	0%
+Pickens	Alabama	14	1	0	0	0%
 Pike	Alabama	14	0	0	0	0%
-Marengo	Alabama	13	0	0	0	0%
-Pickens	Alabama	13	0	0	0	0%
+Randolph	Alabama	13	1	2	1	15.4%
 Wilcox	Alabama	13	0	0	0	0%
-Randolph	Alabama	12	0	1	0	8.3%
 Autauga	Alabama	12	0	1	0	8.3%
+Russell	Alabama	12	2	0	0	0%
 Blount	Alabama	10	0	0	0	0%
-Cleburne	Alabama	10	1	0	0	0%
-Russell	Alabama	10	0	0	0	0%
-Sumter	Alabama	10	0	0	0	0%
-Clarke	Alabama	9	0	0	0	0%
+Clarke	Alabama	10	1	0	0	0%
+Greene	Alabama	10	2	0	0	0%
 Clay	Alabama	9	0	0	0	0%
+Cleburne	Alabama	9	0	0	0	0%
 Coosa	Alabama	9	1	0	0	0%
-Greene	Alabama	8	0	0	0	0%
 Lawrence	Alabama	8	0	0	0	0%
 Coffee	Alabama	8	0	0	0	0%
 Colbert	Alabama	7	0	1	0	14.3%
@@ -1712,9 +1702,9 @@ Lowndes	Alabama	7	1	0	0	0%
 Washington	Alabama	6	0	1	0	16.7%
 Cherokee	Alabama	6	0	0	0	0%
 Choctaw	Alabama	6	0	0	0	0%
+Hale	Alabama	6	1	0	0	0%
 Macon	Alabama	5	0	1	0	20%
 Covington	Alabama	5	0	0	0	0%
-Hale	Alabama	5	0	0	0	0%
 Lamar	Alabama	5	0	0	0	0%
 Monroe	Alabama	5	0	0	0	0%
 Dale	Alabama	4	0	0	0	0%
@@ -1728,6 +1718,16 @@ Crenshaw	Alabama	2	0	0	0	0%
 Butler	Alabama	1	0	0	0	0%
 Fayette	Alabama	1	0	0	0	0%
 Perry	Alabama	1	0	0	0	0%
+Clark	Nevada	1,734	126	54	13	3.1%
+Washoe	Nevada	281	0	4	0	1.4%
+Unassigned	Nevada	33	0	12	0	36.4%
+Carson City	Nevada	11	0	0	0	0%
+Humboldt	Nevada	11	0	0	0	0%
+Elko	Nevada	8	0	1	0	12.5%
+Douglas	Nevada	7	0	0	0	0%
+Nye	Nevada	7	0	0	0	0%
+Lyon	Nevada	3	0	0	0	0%
+White Pine	Nevada	1	0	0	0	0%
 Hinds	Mississippi	169	11	0	0	0%
 DeSoto	Mississippi	140	4	1	0	0.7%
 Jackson	Mississippi	108	10	5	0	4.6%
@@ -2417,6 +2417,44 @@ Logan	Nebraska	1	0	0	0	0%
 Cheyenne	Nebraska	1	0	0	0	0%
 Custer	Nebraska	1	0	0	0	0%
 Stanton	Nebraska	1	0	0	0	0%
+Kanawha	West Virginia	61	5	0	0	0%
+Monongalia	West Virginia	60	7	1	0	1.7%
+Berkeley	West Virginia	57	3	0	0	0%
+Jefferson	West Virginia	31	9	0	0	0%
+Marion	West Virginia	25	8	1	0	4%
+Harrison	West Virginia	25	0	1	0	4%
+Jackson	West Virginia	19	3	1	0	5.3%
+Ohio	West Virginia	19	4	0	0	0%
+Wood	West Virginia	13	2	0	0	0%
+Cabell	West Virginia	11	4	0	0	0%
+Putnam	West Virginia	10	2	0	0	0%
+Hancock	West Virginia	7	1	0	0	0%
+Logan	West Virginia	7	1	0	0	0%
+Mason	West Virginia	6	2	0	0	0%
+Preston	West Virginia	6	2	0	0	0%
+Marshall	West Virginia	5	0	0	0	0%
+Mercer	West Virginia	5	1	0	0	0%
+Morgan	West Virginia	4	1	0	0	0%
+Raleigh	West Virginia	4	0	0	0	0%
+Barbour	West Virginia	3	1	0	0	0%
+Greenbrier	West Virginia	3	0	0	0	0%
+Randolph	West Virginia	3	0	0	0	0%
+Tucker	West Virginia	3	0	0	0	0%
+Mineral	West Virginia	3	1	0	0	0%
+Taylor	West Virginia	3	2	0	0	0%
+Hardy	West Virginia	2	0	0	0	0%
+Roane	West Virginia	2	0	0	0	0%
+Wetzel	West Virginia	2	0	0	0	0%
+Nicholas	West Virginia	2	2	0	0	0%
+Pleasants	West Virginia	1	0	0	0	0%
+Upshur	West Virginia	1	0	0	0	0%
+Wirt	West Virginia	1	0	0	0	0%
+Pendleton	West Virginia	1	0	0	0	0%
+Lewis	West Virginia	1	0	0	0	0%
+Brooke	West Virginia	1	1	0	0	0%
+Fayette	West Virginia	1	1	0	0	0%
+Tyler	West Virginia	1	1	0	0	0%
+Wyoming	West Virginia	1	1	0	0	0%
 Honolulu	Hawaii	292	0	4	0	1.4%
 Maui	Hawaii	44	0	1	0	2.3%
 Hawaii	Hawaii	23	0	0	0	0%
@@ -2432,39 +2470,6 @@ Cibola, NM	Navajo Nation	7	0	0	0	0%
 San Juan, UT	Navajo Nation	7	0	0	0	0%
 Socorro, NM	Navajo Nation	2	0	0	0	0%
 Unassigned	Navajo Nation	0	0	14	0	0%
-Kanawha	West Virginia	56	0	0	0	0%
-Berkeley	West Virginia	54	0	0	0	0%
-Monongalia	West Virginia	53	0	1	0	1.9%
-Harrison	West Virginia	25	0	1	0	4%
-Jefferson	West Virginia	22	0	0	0	0%
-Marion	West Virginia	17	0	1	0	5.9%
-Jackson	West Virginia	16	0	1	0	6.3%
-Ohio	West Virginia	15	0	0	0	0%
-Wood	West Virginia	11	0	0	0	0%
-Putnam	West Virginia	8	0	0	0	0%
-Cabell	West Virginia	7	0	0	0	0%
-Hancock	West Virginia	6	0	0	0	0%
-Logan	West Virginia	6	0	0	0	0%
-Marshall	West Virginia	5	0	0	0	0%
-Mason	West Virginia	4	0	0	0	0%
-Mercer	West Virginia	4	0	0	0	0%
-Preston	West Virginia	4	0	0	0	0%
-Raleigh	West Virginia	4	0	0	0	0%
-Greenbrier	West Virginia	3	0	0	0	0%
-Morgan	West Virginia	3	0	0	0	0%
-Randolph	West Virginia	3	0	0	0	0%
-Tucker	West Virginia	3	0	0	0	0%
-Barbour	West Virginia	2	0	0	0	0%
-Hardy	West Virginia	2	0	0	0	0%
-Roane	West Virginia	2	0	0	0	0%
-Wetzel	West Virginia	2	0	0	0	0%
-Mineral	West Virginia	2	0	0	0	0%
-Pleasants	West Virginia	1	0	0	0	0%
-Upshur	West Virginia	1	0	0	0	0%
-Wirt	West Virginia	1	0	0	0	0%
-Pendleton	West Virginia	1	0	0	0	0%
-Lewis	West Virginia	1	0	0	0	0%
-Taylor	West Virginia	1	0	0	0	0%
 Minnehaha	South Dakota	165	25	2	1	1.2%
 Lincoln	South Dakota	27	3	0	0	0%
 Beadle	South Dakota	21	0	2	0	9.5%
