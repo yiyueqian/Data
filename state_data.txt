@@ -1,45 +1,45 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	139,855	8,025	5,489	731	3.9%
+New York	139,875	8,045	5,489	731	3.9%
 New Jersey	44,416	3,326	1,232	230	2.8%
-California	17,334	970	432	35	2.5%
-Michigan	17,221	0	727	0	4.2%
+Michigan	18,970	1,751	845	118	4.5%
+California	17,351	987	432	35	2.5%
 Louisiana	16,284	1,418	582	63	3.6%
 Massachusetts	15,202	1,365	356	96	2.3%
-Pennsylvania	14,852	1,646	240	61	1.6%
-Florida	14,504	875	283	29	2%
-Illinois	12,266	0	308	0	2.5%
-Texas	8,925	770	160	9	1.8%
+Pennsylvania	14,853	1,647	247	68	1.7%
+Florida	14,747	1,118	319	65	2.2%
+Illinois	13,553	1,290	309	1	2.3%
+Texas	8,938	771	160	9	1.8%
 Georgia	8,822	1,264	329	37	3.7%
-Washington	8,494	110	388	5	4.6%
-Connecticut	6,906	0	206	0	3%
+Washington	8,692	308	400	17	4.6%
+Connecticut	7,781	875	277	71	3.6%
 Indiana	5,510	556	173	41	3.1%
-Colorado 	5,183	0	150	0	2.9%
+Colorado 	5,429	251	179	29	3.3%
 Ohio	4,782	338	167	25	3.5%
 Maryland	4,371	326	103	12	2.4%
 Tennessee	4,139	337	72	7	1.7%
 Virginia	3,335	457	66	0	2%
-North Carolina	3,270	216	53	3	1.6%
-Missouri	2,884	16	65	0	2.3%
+North Carolina	3,299	245	54	4	1.6%
+Missouri	3,130	263	77	12	2.5%
 Wisconsin	2,578	69	92	7	3.6%
 Arizona	2,575	119	73	8	2.8%
 South Carolina	2,417	187	51	3	2.1%
-Alabama	2,110	105	56	3	2.7%
-Nevada	2,096	126	71	13	3.4%
+Alabama	2,169	165	64	11	3%
+Nevada	2,124	154	72	14	3.4%
 Mississippi	1,915	178	60	9	3.1%
 Utah	1,739	59	13	0	0.7%
 Oklahoma	1,474	146	67	16	4.5%
 Rhode Island	1,229	147	30	3	2.4%
 Washington, D.C.	1,211	114	22	0	1.8%
 Idaho	1,170	0	13	0	1.1%
+Kentucky	1,149	121	65	5	5.7%
 Oregon	1,132	0	29	0	2.6%
 Minnesota	1,069	83	34	4	3.2%
-Kentucky	1,008	0	60	0	6%
-Iowa	946	0	25	0	2.6%
-Arkansas	932	5	16	0	1.7%
+Iowa	1,048	103	26	1	2.5%
+Arkansas	946	19	18	2	1.9%
 Delaware	928	145	16	1	1.7%
-Kansas	904	55	25	0	2.8%
+Kansas	912	63	29	4	3.2%
+New Mexico	794	108	13	1	1.6%
 New Hampshire	715	0	9	0	1.3%
-New Mexico	686	0	12	0	1.7%
 Vermont	575	32	23	0	4%
 Puerto Rico	573	60	23	2	4%
 Maine	519	20	12	2	2.3%
