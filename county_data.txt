@@ -677,7 +677,7 @@ Williamson	Texas	81	0	3	0	3.7%
 Jefferson	Texas	78	19	2	0	2.6%
 Smith	Texas	75	0	2	0	2.7%
 Bell	Texas	68	0	2	0	2.9%
-Hays	Texas	59	0	0	0	0%
+Hays	Texas	61	2	0	0	0%
 Nueces	Texas	59	0	0	0	0%
 McLennan	Texas	56	3	1	0	1.8%
 Victoria	Texas	50	15	0	0	0%
@@ -691,11 +691,11 @@ Taylor	Texas	31	0	1	0	3.2%
 Ector	Texas	30	4	1	0	3.3%
 Hardin	Texas	28	2	1	0	3.6%
 Midland	Texas	27	3	1	0	3.7%
+Comal	Texas	27	5	2	0	7.4%
 Orange	Texas	26	4	0	0	0%
 Johnson	Texas	24	3	1	0	4.2%
 Tom Green	Texas	24	0	0	0	0%
 Gregg	Texas	23	0	0	0	0%
-Comal	Texas	22	0	2	0	9.1%
 Nacogdoches	Texas	21	0	2	0	9.5%
 Washington	Texas	21	2	1	0	4.8%
 Bowie	Texas	17	3	1	0	5.9%
@@ -824,7 +824,7 @@ Snohomish	Washington	1,603	0	58	0	3.6%
 Pierce	Washington	717	0	12	0	1.7%
 Unassigned	Washington	677	0	0	0	0%
 Yakima	Washington	380	0	12	0	3.2%
-Whatcom	Washington	228	0	19	0	8.3%
+Whatcom	Washington	238	10	19	0	8%
 Spokane	Washington	222	0	12	0	5.4%
 Benton	Washington	175	0	17	0	9.7%
 Clark	Washington	168	0	11	0	6.5%

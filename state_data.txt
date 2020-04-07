@@ -9,8 +9,8 @@ Florida	14,504	875	283	29	2%
 Massachusetts	13,837	0	260	0	1.9%
 Illinois	12,266	0	308	0	2.5%
 Georgia	8,822	1,264	329	37	3.7%
-Texas	8,420	265	158	7	1.9%
-Washington	8,384	0	383	0	4.6%
+Texas	8,427	272	158	7	1.9%
+Washington	8,394	10	383	0	4.6%
 Connecticut	6,906	0	206	0	3%
 Indiana	5,507	553	173	41	3.1%
 Colorado 	5,183	0	150	0	2.9%
