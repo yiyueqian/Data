@@ -1,1 +1,60 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
+New York	131,830	0	4,758	0	3.6%
+New Jersey	41,090	0	1,003	0	2.4%
+Michigan	17,221	0	727	0	4.2%
+California	16,363	14	388	0	2.4%
+Louisiana	14,867	0	512	0	3.4%
+Massachusetts	13,837	0	260	0	1.9%
+Florida	13,629	0	254	0	1.9%
+Pennsylvania	13,206	0	179	0	1.4%
+Illinois	12,264	0	308	0	2.5%
+Washington	8,384	0	383	0	4.6%
+Texas	8,157	0	153	0	1.9%
+Georgia	7,558	0	294	0	3.9%
+Connecticut	6,906	0	206	0	3%
+Indiana	5,507	553	173	41	3.1%
+Colorado 	5,183	0	150	0	2.9%
+Ohio	4,453	0	142	0	3.2%
+Maryland	4,371	326	103	12	2.4%
+Tennessee	3,802	0	65	0	1.7%
+North Carolina	3,055	1	50	0	1.6%
+Virginia	2,878	0	66	0	2.3%
+Missouri	2,868	0	65	0	2.3%
+Wisconsin	2,511	0	85	0	3.4%
+Arizona	2,456	0	65	0	2.6%
+South Carolina	2,232	0	48	0	2.2%
+Alabama	2,006	0	53	0	2.6%
+Nevada	1,970	0	58	0	2.9%
+Mississippi	1,738	0	51	0	2.9%
+Utah	1,680	0	13	0	0.8%
+Oklahoma	1,329	0	51	0	3.8%
+Washington, D.C.	1,211	114	22	0	1.8%
+Idaho	1,170	0	13	0	1.1%
+Oregon	1,132	0	29	0	2.6%
+Rhode Island	1,082	0	27	0	2.5%
+Kentucky	1,055	27	60	0	5.7%
+Minnesota	986	0	30	0	3%
+Iowa	946	0	25	0	2.6%
+Arkansas	927	0	16	0	1.7%
+Kansas	864	15	25	0	2.9%
+Delaware	783	0	15	0	1.9%
+New Hampshire	715	0	9	0	1.3%
+New Mexico	686	0	12	0	1.7%
+Puerto Rico	573	60	23	2	4%
+Vermont	543	0	23	0	4.2%
+Maine	499	0	10	0	2%
+Nebraska	417	0	9	0	2.2%
+Hawaii	387	0	5	0	1.3%
+Navajo Nation	354	0	14	0	4%
+West Virginia	345	0	4	0	1.2%
+Montana	319	0	6	0	1.9%
+South Dakota	288	0	4	0	1.4%
+North Dakota	225	0	3	0	1.3%
+Wyoming	212	0	0	0	0%
+Alaska	191	0	6	0	3.1%
+Guam	121	8	4	0	3.3%
+Grand Princess	103	0	3	0	2.9%
+Diamond Princess	49	0	0	0	0%
+US Virgin Islands	43	0	1	0	2.3%
+Northern Mariana Islands	8	0	1	0	12.5%
+Wuhan Evacuee	4	0	0	0	0%
