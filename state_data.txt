@@ -2,13 +2,13 @@ state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rat
 New York	139,876	8,046	5,489	731	3.9%
 New Jersey	44,416	3,326	1,232	230	2.8%
 Michigan	18,970	1,751	845	118	4.5%
-California	17,620	1,257	453	56	2.6%
+California	17,625	1,262	452	56	2.6%
 Louisiana	16,284	1,418	582	63	3.6%
 Massachusetts	15,202	1,365	356	96	2.3%
 Pennsylvania	14,956	1,750	250	71	1.7%
 Florida	14,747	1,118	296	42	2%
 Illinois	13,553	1,290	380	72	2.8%
-Texas	9,187	1,022	175	24	1.9%
+Texas	9,195	1,037	176	25	1.9%
 Georgia	9,156	1,602	348	57	3.8%
 Washington	8,696	312	408	25	4.7%
 Connecticut	7,781	875	277	71	3.6%
@@ -19,10 +19,10 @@ Maryland	4,371	326	103	12	2.4%
 Tennessee	4,139	337	72	7	1.7%
 Virginia	3,335	457	66	0	2%
 North Carolina	3,304	249	55	5	1.7%
-Missouri	3,130	263	77	12	2.5%
+Missouri	3,209	342	86	21	2.7%
 Wisconsin	2,578	69	92	7	3.6%
 Arizona	2,575	119	73	8	2.8%
-US Military	2,449	103	0	0	0%
+US Military	2,449	103	7	0	0.3%
 South Carolina	2,417	187	51	3	2.1%
 Alabama	2,197	194	64	11	2.9%
 Nevada	2,131	161	72	14	3.4%
@@ -37,17 +37,17 @@ Kentucky	1,149	121	65	5	5.7%
 Minnesota	1,069	83	34	4	3.2%
 Iowa	1,048	103	26	1	2.5%
 Arkansas	997	70	18	2	1.8%
+Kansas	928	79	29	4	3.1%
 Delaware	928	145	16	1	1.7%
-Kansas	912	63	29	4	3.2%
 New Mexico	794	108	13	1	1.6%
 New Hampshire	747	32	13	4	1.7%
 Vermont	575	32	23	0	4%
 Puerto Rico	573	60	23	2	4%
 Maine	519	20	12	2	2.3%
 Nebraska	478	61	10	1	2.1%
+Navajo Nation	426	42	17	2	4%
 West Virginia	412	67	4	0	1%
 Hawaii	410	23	5	0	1.2%
-Navajo Nation	384	0	15	0	3.9%
 South Dakota	320	32	6	2	1.9%
 Montana	319	0	6	0	1.9%
 North Dakota	237	12	4	1	1.7%
@@ -56,6 +56,6 @@ Alaska	213	22	6	0	2.8%
 Guam	121	8	4	0	3.3%
 Grand Princess	103	0	3	0	2.9%
 Diamond Princess	49	0	0	0	0%
-US Virgin Islands	43	0	1	0	2.3%
+US Virgin Islands	45	2	1	0	2.2%
 Northern Mariana Islands	8	0	2	1	25%
 Wuhan Evacuee	4	0	0	0	0%
