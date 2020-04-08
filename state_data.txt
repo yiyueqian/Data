@@ -1,15 +1,15 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	149,428	9,042	6,268	779	4.2%
+New York	150,697	10,311	6,268	779	4.2%
 New Jersey	47,437	3,021	1,504	273	3.2%
-Michigan	18,970	0	845	0	4.5%
-California	17,775	150	453	0	2.5%
+Michigan	20,437	1,467	845	0	4.1%
+California	17,803	178	453	0	2.5%
 Louisiana	17,030	746	652	73	3.8%
-Pennsylvania	16,631	1,676	312	62	1.9%
+Pennsylvania	16,631	1,676	317	63	1.9%
 Florida	15,456	709	309	13	2%
 Massachusetts	15,202	0	356	0	2.3%
 Illinois	13,553	0	380	0	2.8%
 Georgia	9,901	761	362	21	3.7%
-Texas	9,569	357	180	4	1.9%
+Texas	9,569	357	181	5	1.9%
 Washington	8,991	5	408	0	4.5%
 Connecticut	7,781	0	277	0	3.6%
 Indiana	5,943	0	203	0	3.4%
@@ -18,14 +18,14 @@ Colorado 	5,429	0	179	0	3.3%
 Ohio	5,148	367	193	26	3.7%
 Tennessee	4,139	0	72	0	1.7%
 North Carolina	3,472	135	63	6	1.8%
-Virginia	3,368	33	66	0	2%
+Virginia	3,384	49	66	0	2%
 Missouri	3,209	0	86	0	2.7%
-US Military	2,928	479	8	1	0.3%
+US Military	3,160	503	8	1	0.3%
 Arizona	2,726	151	80	2	2.9%
 Wisconsin	2,710	132	100	7	3.7%
 South Carolina	2,417	0	51	0	2.1%
 Alabama	2,328	131	66	2	2.8%
-Nevada	2,292	161	72	12	3.1%
+Nevada	2,259	128	72	12	3.2%
 Mississippi	2,003	88	67	9	3.3%
 Utah	1,739	0	13	0	0.7%
 Oklahoma	1,526	53	79	12	5.2%

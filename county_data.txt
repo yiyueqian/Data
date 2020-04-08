@@ -1,25 +1,25 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	81,803	4,927	4,571	562	5.6%
 Nassau	New York	18,548	1,938	500	0	2.7%
+Suffolk	New York	17,008	1,447	323	60	1.9%
 Westchester	New York	15,887	1,083	283	0	1.8%
-Suffolk	New York	15,844	283	263	0	1.7%
 Rockland	New York	6,413	423	135	0	2.1%
 Orange	New York	3,865	36	93	0	2.4%
-Dutchess	New York	1,395	146	9	0	0.6%
-Erie	New York	1,235	0	39	0	3.2%
+Dutchess	New York	1,395	146	10	1	0.7%
+Erie	New York	1,335	100	45	6	3.4%
 Monroe	New York	651	55	31	0	4.8%
 Ulster	New York	422	24	5	0	1.2%
 Putnam	New York	403	1	7	0	1.7%
 Onondaga	New York	397	0	6	0	1.5%
-Albany	New York	342	9	8	0	2.3%
+Albany	New York	342	9	9	1	2.6%
 Sullivan	New York	279	9	7	0	2.5%
 Saratoga	New York	162	7	4	0	2.5%
 Schenectady	New York	149	4	7	0	4.7%
 Niagara	New York	134	8	1	0	0.7%
 Oneida	New York	125	7	2	0	1.6%
 Tompkins	New York	103	0	0	0	0%
-Madison	New York	92	0	2	0	2.2%
-Broome	New York	88	2	6	0	6.8%
+Broome	New York	93	7	6	0	6.5%
+Madison	New York	92	0	3	1	3.3%
 Rensselaer	New York	88	0	3	0	3.4%
 Steuben	New York	82	7	5	0	6.1%
 Columbia	New York	72	0	4	0	5.6%
@@ -57,7 +57,7 @@ Lewis	New York	6	0	0	0	0%
 Schuyler	New York	4	0	0	0	0%
 Hamilton	New York	2	0	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	260	217	0%
+Unassigned	New York	0	0	191	148	0%
 Bergen	New Jersey	7,874	341	314	51	4%
 Essex	New Jersey	5,598	520	276	44	4.9%
 Hudson	New Jersey	5,437	488	122	19	2.2%
@@ -80,67 +80,67 @@ Atlantic	New Jersey	168	24	4	0	2.4%
 Cape May	New Jersey	100	6	3	1	3%
 Cumberland	New Jersey	80	9	2	0	2.5%
 Salem	New Jersey	36	5	3	0	8.3%
-Wayne--Detroit	Michigan	5,476	0	222	0	4.1%
-Oakland	Michigan	3,736	0	205	0	5.5%
-Wayne	Michigan	3,569	0	180	0	5%
-Macomb	Michigan	2,414	0	121	0	5%
-Genesee	Michigan	638	0	33	0	5.2%
-Washtenaw	Michigan	559	0	11	0	2%
-Other	Michigan	243	0	1	0	0.4%
-Ingham	Michigan	189	0	1	0	0.5%
-Kent	Michigan	187	0	6	0	3.2%
+Wayne--Detroit	Michigan	5,824	348	222	0	3.8%
+Oakland	Michigan	4,007	271	205	0	5.1%
+Wayne	Michigan	3,802	233	180	0	4.7%
+Macomb	Michigan	2,626	212	121	0	4.6%
+Genesee	Michigan	713	75	33	0	4.6%
+Washtenaw	Michigan	610	51	11	0	1.8%
+Other	Michigan	287	44	1	0	0.3%
+Kent	Michigan	207	20	6	0	2.9%
+Ingham	Michigan	205	16	1	0	0.5%
+Saginaw	Michigan	186	33	3	0	1.6%
+Livingston	Michigan	174	19	2	0	1.1%
 Unknown	Michigan	166	0	1	0	0.6%
-Livingston	Michigan	155	0	2	0	1.3%
-Saginaw	Michigan	153	0	3	0	2%
-St. Clair	Michigan	129	0	3	0	2.3%
-Monroe	Michigan	129	0	0	0	0%
-Out of State	Michigan	118	0	1	0	0.8%
-Jackson	Michigan	114	0	4	0	3.5%
-Clinton	Michigan	73	0	1	0	1.4%
-Kalamazoo	Michigan	64	0	4	0	6.3%
-Berrien	Michigan	64	0	2	0	3.1%
-Eaton	Michigan	61	0	2	0	3.3%
-Lapeer	Michigan	56	0	3	0	5.4%
-Hillsdale	Michigan	55	0	4	0	7.3%
-Ottawa	Michigan	52	0	0	0	0%
-Calhoun	Michigan	43	0	1	0	2.3%
-Muskegon	Michigan	41	0	4	0	9.8%
-Lenawee	Michigan	32	0	0	0	0%
-Bay	Michigan	31	0	0	0	0%
-Otsego	Michigan	28	0	2	0	7.1%
-Tuscola	Michigan	26	0	2	0	7.7%
-Shiawassee	Michigan	24	0	0	0	0%
+Monroe	Michigan	152	23	0	0	0%
+St. Clair	Michigan	140	11	3	0	2.1%
+Jackson	Michigan	126	12	4	0	3.2%
+Out of State	Michigan	126	8	1	0	0.8%
+Clinton	Michigan	82	9	1	0	1.2%
+Berrien	Michigan	72	8	2	0	2.8%
+Kalamazoo	Michigan	67	3	4	0	6%
+Eaton	Michigan	67	6	2	0	3%
+Lapeer	Michigan	64	8	3	0	4.7%
+Hillsdale	Michigan	62	7	4	0	6.5%
+Ottawa	Michigan	55	3	0	0	0%
+Calhoun	Michigan	51	8	1	0	2%
+Muskegon	Michigan	42	1	4	0	9.5%
+Bay	Michigan	39	8	0	0	0%
+Lenawee	Michigan	36	4	0	0	0%
+Otsego	Michigan	29	1	2	0	6.9%
+Tuscola	Michigan	27	1	2	0	7.4%
+Shiawassee	Michigan	27	3	0	0	0%
+Midland	Michigan	24	2	0	0	0%
 Isabella	Michigan	22	0	2	0	9.1%
-Midland	Michigan	22	0	0	0	0%
+Sanilac	Michigan	22	5	2	0	9.1%
 Marquette	Michigan	19	0	2	0	10.5%
+Van Buren	Michigan	18	1	1	0	5.6%
+Branch	Michigan	18	2	1	0	5.6%
+Montcalm	Michigan	18	2	1	0	5.6%
 Allegan	Michigan	18	0	0	0	0%
-Sanilac	Michigan	17	0	2	0	11.8%
-Van Buren	Michigan	17	0	1	0	5.9%
-Branch	Michigan	16	0	1	0	6.3%
-Montcalm	Michigan	16	0	1	0	6.3%
+St. Joseph	Michigan	16	2	0	0	0%
+Emmet	Michigan	15	1	2	0	13.3%
 Grand Traverse	Michigan	15	0	3	0	20%
-Emmet	Michigan	14	0	2	0	14.3%
-St. Joseph	Michigan	14	0	0	0	0%
+Ionia	Michigan	11	2	1	0	9.1%
 Kalkaska	Michigan	10	0	2	0	20%
 Cheboygan	Michigan	10	0	1	0	10%
 Cass	Michigan	9	0	1	0	11.1%
-Ionia	Michigan	9	0	1	0	11.1%
 Manistee	Michigan	9	0	0	0	0%
 Mecosta	Michigan	8	0	1	0	12.5%
 Charlevoix	Michigan	8	0	0	0	0%
+Delta	Michigan	8	1	0	0	0%
 Barry	Michigan	7	0	0	0	0%
-Delta	Michigan	7	0	0	0	0%
 Wexford	Michigan	7	0	0	0	0%
 Antrim	Michigan	6	0	0	0	0%
 Gratiot	Michigan	6	0	0	0	0%
 Roscommon	Michigan	6	0	0	0	0%
 Crawford	Michigan	5	0	1	0	20%
 Iosco	Michigan	4	0	1	0	25%
+Arenac	Michigan	4	1	0	0	0%
 Gladwin	Michigan	4	0	0	0	0%
 Huron	Michigan	4	0	0	0	0%
+Leelanau	Michigan	4	1	0	0	0%
 Gogebic	Michigan	3	0	1	0	33.3%
-Arenac	Michigan	3	0	0	0	0%
-Leelanau	Michigan	3	0	0	0	0%
 Mackinac	Michigan	3	0	0	0	0%
 Newaygo	Michigan	3	0	0	0	0%
 Oceana	Michigan	3	0	0	0	0%
@@ -152,11 +152,11 @@ Oscoda	Michigan	2	0	0	0	0%
 Missaukee	Michigan	1	0	1	0	100%
 Chippewa	Michigan	1	0	0	0	0%
 Houghton	Michigan	1	0	0	0	0%
+Schoolcraft	Michigan	1	1	0	0	0%
 Luce	Michigan	1	0	0	0	0%
 Presque Isle	Michigan	1	0	0	0	0%
 Mason	Michigan	1	0	0	0	0%
 Unassigned	Michigan	0	0	1	0	0%
-Schoolcraft	Michigan	0	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
 Los Angeles	California	7,025	0	173	0	2.5%
@@ -166,7 +166,7 @@ Riverside	California	1,016	0	28	0	2.8%
 Orange	California	931	0	15	0	1.6%
 San Francisco	California	676	54	10	0	1.5%
 Alameda	California	634	0	15	0	2.4%
-San Mateo	California	589	0	21	0	3.6%
+San Mateo	California	617	28	21	0	3.4%
 San Bernardino	California	547	0	17	0	3.1%
 Sacramento	California	525	0	21	0	4%
 Contra Costa	California	442	0	7	0	1.6%
@@ -287,7 +287,7 @@ Bucks	Pennsylvania	816	0	24	0	2.9%
 Allegheny	Pennsylvania	720	31	10	4	1.4%
 Monroe	Pennsylvania	671	61	17	5	2.5%
 Lancaster	Pennsylvania	561	71	14	0	2.5%
-Berks	Pennsylvania	416	47	7	3	1.7%
+Berks	Pennsylvania	416	47	12	4	2.9%
 Chester	Pennsylvania	373	38	6	0	1.6%
 Lackawanna	Pennsylvania	266	31	12	4	4.5%
 York	Pennsylvania	233	15	2	0	0.9%
@@ -482,11 +482,11 @@ Jasper	Illinois	3	0	0	0	0%
 Lee	Illinois	3	0	0	0	0%
 Mason	Illinois	3	0	0	0	0%
 Jefferson	Illinois	3	0	0	0	0%
+Washington	Illinois	2	0	0	0	0%
 Franklin	Illinois	2	0	0	0	0%
 Massac	Illinois	2	0	0	0	0%
 Menard	Illinois	2	0	0	0	0%
 Saline	Illinois	2	0	0	0	0%
-Washington	Illinois	2	0	0	0	0%
 Logan	Illinois	2	0	0	0	0%
 Mercer	Illinois	2	0	0	0	0%
 Moultrie	Illinois	2	0	0	0	0%
@@ -668,7 +668,7 @@ Travis	Texas	554	0	7	0	1.3%
 Bexar	Texas	503	0	18	0	3.6%
 Fort Bend	Texas	417	99	6	0	1.4%
 Denton	Texas	366	0	7	0	1.9%
-Collin	Texas	343	0	4	0	1.2%
+Collin	Texas	343	0	5	1	1.5%
 Galveston	Texas	272	0	5	0	1.8%
 Montgomery	Texas	197	0	4	0	2%
 Lubbock	Texas	191	0	6	0	3.1%
@@ -1337,14 +1337,14 @@ Chesapeake	Virginia	80	0	0	0	0%
 Norfolk	Virginia	72	0	0	0	0%
 Newport News	Virginia	57	0	1	0	1.8%
 Stafford	Virginia	49	0	0	0	0%
+Frederick	Virginia	46	3	0	0	0%
 Hampton	Virginia	43	0	1	0	2.3%
-Frederick	Virginia	43	0	0	0	0%
-Albemarle	Virginia	38	0	0	0	0%
+Albemarle	Virginia	41	3	0	0	0%
+Harrisonburg	Virginia	36	9	0	0	0%
 Portsmouth	Virginia	36	0	0	0	0%
 Unassigned	Virginia	33	33	42	0	127.3%
 Suffolk	Virginia	30	0	0	0	0%
 Spotsylvania	Virginia	29	0	0	0	0%
-Harrisonburg	Virginia	27	0	0	0	0%
 York	Virginia	25	0	1	0	4%
 Charlottesville	Virginia	23	0	1	0	4.3%
 Isle of Wight	Virginia	23	0	0	0	0%
@@ -1352,37 +1352,36 @@ Goochland	Virginia	22	0	0	0	0%
 Prince George	Virginia	21	0	0	0	0%
 Lynchburg	Virginia	20	0	0	0	0%
 Manassas City	Virginia	20	0	0	0	0%
+Rockingham	Virginia	20	4	0	0	0%
 Hanover	Virginia	19	0	0	0	0%
 Botetourt	Virginia	18	0	0	0	0%
-Fauquier	Virginia	18	0	0	0	0%
+Louisa	Virginia	16	2	0	0	0%
 Montgomery	Virginia	16	0	0	0	0%
-Rockingham	Virginia	16	0	0	0	0%
 Danville	Virginia	15	0	0	0	0%
 Gloucester	Virginia	15	0	0	0	0%
+Winchester	Virginia	15	1	0	0	0%
 Williamsburg	Virginia	14	0	1	0	7.1%
-Louisa	Virginia	14	0	0	0	0%
-Winchester	Virginia	14	0	0	0	0%
+Augusta	Virginia	13	3	0	0	0%
 Hopewell	Virginia	13	0	0	0	0%
 Shenandoah	Virginia	13	0	0	0	0%
+Fluvanna	Virginia	12	3	0	0	0%
 Mecklenburg	Virginia	12	0	0	0	0%
 New Kent	Virginia	12	0	0	0	0%
 Roanoke City	Virginia	12	0	0	0	0%
 Accomack	Virginia	11	0	0	0	0%
 Franklin	Virginia	11	0	0	0	0%
-Augusta	Virginia	10	0	0	0	0%
+Culpeper	Virginia	10	1	0	0	0%
 King George	Virginia	10	0	0	0	0%
 Petersburg	Virginia	10	0	0	0	0%
 Washington	Virginia	10	0	0	0	0%
-Culpeper	Virginia	9	0	0	0	0%
-Fluvanna	Virginia	9	0	0	0	0%
 Amherst	Virginia	8	0	0	0	0%
 Bedford	Virginia	8	0	0	0	0%
 Fredericksburg	Virginia	8	0	0	0	0%
 Roanoke	Virginia	8	0	0	0	0%
+Warren	Virginia	8	2	0	0	0%
 Amelia	Virginia	7	0	0	0	0%
 Orange	Virginia	7	0	0	0	0%
 Buckingham	Virginia	6	0	0	0	0%
-Warren	Virginia	6	0	0	0	0%
 Cumberland	Virginia	6	0	0	0	0%
 Greensville	Virginia	5	0	0	0	0%
 Southampton	Virginia	5	0	0	0	0%
@@ -1399,6 +1398,7 @@ Tazewell	Virginia	4	0	0	0	0%
 Buena Vista City	Virginia	4	0	0	0	0%
 Caroline	Virginia	4	0	0	0	0%
 Campbell	Virginia	3	0	0	0	0%
+Nelson	Virginia	3	1	0	0	0%
 Northumberland	Virginia	3	0	0	0	0%
 Nottoway	Virginia	3	0	0	0	0%
 Page	Virginia	3	0	0	0	0%
@@ -1412,6 +1412,7 @@ Wythe	Virginia	3	0	0	0	0%
 Lexington	Virginia	3	0	0	0	0%
 Westmoreland	Virginia	3	0	0	0	0%
 Wise	Virginia	3	0	0	0	0%
+Clarke	Virginia	3	1	0	0	0%
 Appomattox	Virginia	3	0	0	0	0%
 Alleghany	Virginia	2	0	0	0	0%
 Carroll	Virginia	2	0	0	0	0%
@@ -1419,18 +1420,17 @@ Halifax	Virginia	2	0	0	0	0%
 King William	Virginia	2	0	0	0	0%
 Lee	Virginia	2	0	0	0	0%
 Mathews	Virginia	2	0	0	0	0%
-Nelson	Virginia	2	0	0	0	0%
 Northampton	Virginia	2	0	0	0	0%
 Emporia	Virginia	2	0	0	0	0%
 Pulaski	Virginia	2	0	0	0	0%
 Richmond	Virginia	2	0	0	0	0%
-Clarke	Virginia	2	0	0	0	0%
 Giles	Virginia	2	0	0	0	0%
 Lunenburg	Virginia	2	0	0	0	0%
 Craig	Virginia	2	0	0	0	0%
 Bristol	Virginia	1	0	0	0	0%
 Brunswick	Virginia	1	0	0	0	0%
 Covington	Virginia	1	0	0	0	0%
+Fauquier	Virginia	1	0	0	0	0%
 Galax	Virginia	1	0	0	0	0%
 King and Queen	Virginia	1	0	0	0	0%
 Lancaster	Virginia	1	0	0	0	0%
@@ -1545,7 +1545,8 @@ Oregon	Missouri	1	0	0	0	0%
 Polk	Missouri	1	0	0	0	0%
 Scotland	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
-Unassigned	US Military	2,351	479	5	1	0.2%
+Unassigned	US Military	1,853	433	5	1	0.3%
+Navy	US Military	730	70	0	0	0%
 Air Force	US Military	577	0	1	0	0.2%
 Army	US Military	0	0	2	0	0%
 Maricopa	Arizona	1,559	64	37	0	2.4%
@@ -1741,7 +1742,6 @@ Geneva	Alabama	1	1	0	0	0%
 Perry	Alabama	0	0	0	0	0%
 Clark	Nevada	1,878	144	65	11	3.5%
 Washoe	Nevada	326	17	6	1	1.8%
-Unassigned	Nevada	33	0	0	0	0%
 Humboldt	Nevada	14	0	0	0	0%
 Carson City	Nevada	13	0	0	0	0%
 Elko	Nevada	8	0	1	0	12.5%
@@ -1749,6 +1749,7 @@ Douglas	Nevada	8	0	0	0	0%
 Nye	Nevada	7	0	0	0	0%
 Lyon	Nevada	4	0	0	0	0%
 White Pine	Nevada	1	0	0	0	0%
+Unassigned	Nevada	0	0	0	0	0%
 Hinds	Mississippi	178	9	1	1	0.6%
 DeSoto	Mississippi	144	4	1	0	0.7%
 Jackson	Mississippi	111	3	5	0	4.5%
