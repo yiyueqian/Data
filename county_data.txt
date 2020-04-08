@@ -80,27 +80,27 @@ Atlantic	New Jersey	168	24	4	0	2.4%
 Cape May	New Jersey	100	6	3	1	3%
 Cumberland	New Jersey	80	9	2	0	2.5%
 Salem	New Jersey	36	5	3	0	8.3%
-Wayne--Detroit	Michigan	5,824	348	222	0	3.8%
-Oakland	Michigan	4,007	271	205	0	5.1%
-Wayne	Michigan	3,802	233	180	0	4.7%
-Macomb	Michigan	2,626	212	121	0	4.6%
-Genesee	Michigan	713	75	33	0	4.6%
-Washtenaw	Michigan	610	51	11	0	1.8%
+Wayne--Detroit	Michigan	5,824	348	251	29	4.3%
+Oakland	Michigan	4,007	271	234	29	5.8%
+Wayne	Michigan	3,802	233	195	15	5.1%
+Macomb	Michigan	2,626	212	141	20	5.4%
+Genesee	Michigan	713	75	39	6	5.5%
+Washtenaw	Michigan	610	51	13	2	2.1%
 Other	Michigan	287	44	1	0	0.3%
-Kent	Michigan	207	20	6	0	2.9%
-Ingham	Michigan	205	16	1	0	0.5%
-Saginaw	Michigan	186	33	3	0	1.6%
+Kent	Michigan	207	20	8	2	3.9%
+Ingham	Michigan	205	16	2	1	1%
+Saginaw	Michigan	186	33	6	3	3.2%
 Livingston	Michigan	174	19	2	0	1.1%
-Unknown	Michigan	166	0	1	0	0.6%
 Monroe	Michigan	152	23	0	0	0%
 St. Clair	Michigan	140	11	3	0	2.1%
 Jackson	Michigan	126	12	4	0	3.2%
 Out of State	Michigan	126	8	1	0	0.8%
 Clinton	Michigan	82	9	1	0	1.2%
+Unassigned	Michigan	77	0	2	0	2.6%
 Berrien	Michigan	72	8	2	0	2.8%
-Kalamazoo	Michigan	67	3	4	0	6%
-Eaton	Michigan	67	6	2	0	3%
-Lapeer	Michigan	64	8	3	0	4.7%
+Kalamazoo	Michigan	67	3	6	2	9%
+Eaton	Michigan	67	6	3	1	4.5%
+Lapeer	Michigan	64	8	5	2	7.8%
 Hillsdale	Michigan	62	7	4	0	6.5%
 Ottawa	Michigan	55	3	0	0	0%
 Calhoun	Michigan	51	8	1	0	2%
@@ -110,11 +110,11 @@ Lenawee	Michigan	36	4	0	0	0%
 Otsego	Michigan	29	1	2	0	6.9%
 Tuscola	Michigan	27	1	2	0	7.4%
 Shiawassee	Michigan	27	3	0	0	0%
-Midland	Michigan	24	2	0	0	0%
+Midland	Michigan	24	2	1	1	4.2%
 Isabella	Michigan	22	0	2	0	9.1%
 Sanilac	Michigan	22	5	2	0	9.1%
-Marquette	Michigan	19	0	2	0	10.5%
 Van Buren	Michigan	18	1	1	0	5.6%
+Marquette	Michigan	18	0	2	0	11.1%
 Branch	Michigan	18	2	1	0	5.6%
 Montcalm	Michigan	18	2	1	0	5.6%
 Allegan	Michigan	18	0	0	0	0%
@@ -132,18 +132,18 @@ Delta	Michigan	8	1	0	0	0%
 Barry	Michigan	7	0	0	0	0%
 Wexford	Michigan	7	0	0	0	0%
 Antrim	Michigan	6	0	0	0	0%
-Gratiot	Michigan	6	0	0	0	0%
 Roscommon	Michigan	6	0	0	0	0%
 Crawford	Michigan	5	0	1	0	20%
+Gratiot	Michigan	5	0	0	0	0%
 Iosco	Michigan	4	0	1	0	25%
 Arenac	Michigan	4	1	0	0	0%
 Gladwin	Michigan	4	0	0	0	0%
 Huron	Michigan	4	0	0	0	0%
 Leelanau	Michigan	4	1	0	0	0%
 Gogebic	Michigan	3	0	1	0	33.3%
+Oceana	Michigan	3	0	1	1	33.3%
 Mackinac	Michigan	3	0	0	0	0%
 Newaygo	Michigan	3	0	0	0	0%
-Oceana	Michigan	3	0	0	0	0%
 Ogemaw	Michigan	3	0	0	0	0%
 Osceola	Michigan	3	0	0	0	0%
 Dickinson	Michigan	2	0	1	0	50%
@@ -156,7 +156,6 @@ Schoolcraft	Michigan	1	1	0	0	0%
 Luce	Michigan	1	0	0	0	0%
 Presque Isle	Michigan	1	0	0	0	0%
 Mason	Michigan	1	0	0	0	0%
-Unassigned	Michigan	0	0	1	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
 Los Angeles	California	7,025	0	173	0	2.5%
@@ -279,7 +278,7 @@ West Carroll	Louisiana	1	0	0	0	0%
 Cameron	Louisiana	1	0	0	0	0%
 Philadelphia	Pennsylvania	4,777	505	87	22	1.8%
 Montgomery	Pennsylvania	1,521	162	37	7	2.4%
-Lehigh	Pennsylvania	1,319	173	11	1	0.8%
+Lehigh	Pennsylvania	1,319	173	12	1	0.9%
 Luzerne	Pennsylvania	1,134	152	11	3	1%
 Delaware	Pennsylvania	1,034	136	23	3	2.2%
 Northampton	Pennsylvania	857	83	17	3	2%
@@ -339,7 +338,7 @@ Potter	Pennsylvania	3	0	0	0	0%
 Clinton	Pennsylvania	3	0	0	0	0%
 Elk	Pennsylvania	2	0	0	0	0%
 Cameron	Pennsylvania	1	0	0	0	0%
-Mckean	Pennsylvania	1	0	0	0	0%
+McKean	Pennsylvania	1	0	0	0	0%
 Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Fulton	Pennsylvania	1	0	0	0	0%
@@ -425,84 +424,86 @@ Unassigned	Massachusetts	229	0	11	0	4.8%
 Hampshire	Massachusetts	158	0	3	0	1.9%
 Franklin	Massachusetts	118	0	17	0	14.4%
 Dukes and Nantucket	Massachusetts	18	0	1	0	5.6%
-Cook	Illinois	9,509	0	249	0	2.6%
-Lake	Illinois	923	0	20	0	2.2%
-Will	Illinois	840	0	30	0	3.6%
-DuPage	Illinois	795	0	26	0	3.3%
-Kane	Illinois	255	0	18	0	7.1%
-McHenry	Illinois	156	0	4	0	2.6%
-St. Clair	Illinois	109	0	2	0	1.8%
-Kankakee	Illinois	107	0	5	0	4.7%
-Unassigned	Illinois	65	0	1	0	1.5%
-Champaign	Illinois	65	0	1	0	1.5%
-Madison	Illinois	63	0	1	0	1.6%
-Kendall	Illinois	61	0	2	0	3.3%
-Winnebago	Illinois	59	0	3	0	5.1%
-McLean	Illinois	57	0	2	0	3.5%
-Rock Island	Illinois	54	0	0	0	0%
-Sangamon	Illinois	32	0	2	0	6.3%
-Randolph	Illinois	29	0	0	0	0%
-DeKalb	Illinois	26	0	1	0	3.8%
+Cook	Illinois	10,520	1,011	310	61	2.9%
+Lake	Illinois	1,041	118	23	3	2.2%
+Will	Illinois	914	74	37	7	4%
+DuPage	Illinois	875	80	30	4	3.4%
+Kane	Illinois	296	41	19	1	6.4%
+McHenry	Illinois	180	24	5	1	2.8%
+Kankakee	Illinois	145	38	5	0	3.4%
+St. Clair	Illinois	127	18	3	1	2.4%
+Madison	Illinois	82	19	2	1	2.4%
+Kendall	Illinois	79	18	2	0	2.5%
+Unassigned	Illinois	73	8	1	0	1.4%
+Champaign	Illinois	69	4	1	0	1.4%
+Rock Island	Illinois	67	13	0	0	0%
+McLean	Illinois	65	8	2	0	3.1%
+Winnebago	Illinois	63	4	3	0	4.8%
+Sangamon	Illinois	33	1	2	0	6.1%
+DeKalb	Illinois	32	6	1	0	3.1%
+Randolph	Illinois	31	2	0	0	0%
 Christian	Illinois	23	0	3	0	13%
+Jackson	Illinois	22	2	1	0	4.5%
 Whiteside	Illinois	21	0	1	0	4.8%
-Jackson	Illinois	20	0	1	0	5%
-Tazewell	Illinois	15	0	1	0	6.7%
-Peoria	Illinois	13	0	1	0	7.7%
-Henry	Illinois	13	0	0	0	0%
-La Salle	Illinois	12	0	1	0	8.3%
-Monroe	Illinois	12	0	1	0	8.3%
-Macon	Illinois	12	0	0	0	0%
-Clinton	Illinois	11	0	0	0	0%
+Monroe	Illinois	20	8	1	0	5%
+La Salle	Illinois	17	5	1	0	5.9%
+Tazewell	Illinois	17	2	2	1	11.8%
+Peoria	Illinois	16	3	1	0	6.3%
+Henry	Illinois	16	3	0	0	0%
+Macon	Illinois	13	1	1	1	7.7%
+Clinton	Illinois	13	2	0	0	0%
+Grundy	Illinois	12	2	0	0	0%
+Ogle	Illinois	12	2	0	0	0%
 Douglas	Illinois	10	0	0	0	0%
-Grundy	Illinois	10	0	0	0	0%
 Livingston	Illinois	10	0	0	0	0%
-Ogle	Illinois	10	0	0	0	0%
-Adams	Illinois	9	0	0	0	0%
+Macoupin	Illinois	10	2	0	0	0%
+Williamson	Illinois	9	1	0	0	0%
 Morgan	Illinois	8	0	1	0	12.5%
-Williamson	Illinois	8	0	0	0	0%
-Macoupin	Illinois	8	0	0	0	0%
+Jo Daviess	Illinois	8	2	0	0	0%
+Boone	Illinois	7	1	1	1	14.3%
 Iroquois	Illinois	7	0	0	0	0%
 Woodford	Illinois	7	0	0	0	0%
-Jo Daviess	Illinois	6	0	0	0	0%
 Stephenson	Illinois	6	0	0	0	0%
-Boone	Illinois	6	0	0	0	0%
+Lee	Illinois	6	3	0	0	0%
 Carroll	Illinois	5	0	1	0	20%
-Ford	Illinois	5	0	1	0	20%
 Vermilion	Illinois	5	0	0	0	0%
+Jersey	Illinois	5	1	0	0	0%
+Montgomery	Illinois	4	1	1	0	25%
 Bureau	Illinois	4	0	0	0	0%
-Clark	Illinois	4	0	0	0	0%
 Crawford	Illinois	4	0	0	0	0%
+Fayette	Illinois	4	1	0	0	0%
+Marion	Illinois	4	1	0	0	0%
 Piatt	Illinois	4	0	0	0	0%
-Jersey	Illinois	4	0	0	0	0%
-Montgomery	Illinois	3	0	1	0	33.3%
+Ford	Illinois	3	0	1	0	33.3%
 Bond	Illinois	3	0	0	0	0%
-Fayette	Illinois	3	0	0	0	0%
-Marion	Illinois	3	0	0	0	0%
+Clark	Illinois	3	0	0	0	0%
+Logan	Illinois	3	1	0	0	0%
 Jasper	Illinois	3	0	0	0	0%
-Lee	Illinois	3	0	0	0	0%
 Mason	Illinois	3	0	0	0	0%
 Jefferson	Illinois	3	0	0	0	0%
+Shelby	Illinois	3	1	0	0	0%
 Washington	Illinois	2	0	0	0	0%
 Franklin	Illinois	2	0	0	0	0%
 Massac	Illinois	2	0	0	0	0%
 Menard	Illinois	2	0	0	0	0%
 Saline	Illinois	2	0	0	0	0%
-Logan	Illinois	2	0	0	0	0%
 Mercer	Illinois	2	0	0	0	0%
 Moultrie	Illinois	2	0	0	0	0%
 De Witt	Illinois	2	0	0	0	0%
+Effingham	Illinois	2	1	0	0	0%
 Lawrence	Illinois	2	0	0	0	0%
-Shelby	Illinois	2	0	0	0	0%
+Coles	Illinois	2	1	0	0	0%
+Adams	Illinois	1	0	0	0	0%
 Cumberland	Illinois	1	0	0	0	0%
 Knox	Illinois	1	0	0	0	0%
 Marshall	Illinois	1	0	0	0	0%
-Effingham	Illinois	1	0	0	0	0%
 Pike	Illinois	1	0	0	0	0%
 Calhoun	Illinois	1	0	0	0	0%
 Gallatin	Illinois	1	0	0	0	0%
 Wabash	Illinois	1	0	0	0	0%
-Coles	Illinois	1	0	0	0	0%
 Richland	Illinois	1	0	0	0	0%
+Hancock	Illinois	1	1	0	0	0%
+Stark	Illinois	1	1	0	0	0%
 Fulton	Georgia	1,240	55	41	2	3.3%
 Dougherty	Georgia	986	13	61	9	6.2%
 Unknown	Georgia	857	416	6	0	0.7%
@@ -870,7 +871,7 @@ Pend Oreille	Washington	1	0	0	0	0%
 Fairfield	Connecticut	4,136	0	132	0	3.2%
 New Haven	Connecticut	1,664	0	60	0	3.6%
 Hartford	Connecticut	1,045	0	48	0	4.6%
-Unassigned	Connecticut	292	0	3	0	1%
+Unassigned	Connecticut	292	0	52	49	17.8%
 Litchfield	Connecticut	255	0	9	0	3.5%
 Middlesex	Connecticut	150	0	7	0	4.7%
 Tolland	Connecticut	111	0	13	0	11.7%
@@ -1133,78 +1134,80 @@ Meigs	Ohio	1	0	0	0	0%
 Henry	Ohio	1	1	0	0	0%
 Unassigned	Ohio	0	0	0	0	0%
 Putnam	Ohio	0	0	0	0	0%
-Davidson	Tennessee	888	0	9	0	1%
-Shelby	Tennessee	835	0	15	0	1.8%
-Sumner	Tennessee	361	0	15	0	4.2%
-Out-of-state	Tennessee	290	0	1	0	0.3%
-Williamson	Tennessee	278	0	3	0	1.1%
-Rutherford	Tennessee	178	0	3	0	1.7%
-Knox	Tennessee	143	0	3	0	2.1%
-Wilson	Tennessee	113	0	0	0	0%
+Davidson	Tennessee	946	58	13	4	1.4%
+Shelby	Tennessee	912	77	17	2	1.9%
+Sumner	Tennessee	376	15	18	3	4.8%
+Williamson	Tennessee	287	9	3	0	1%
+Out-of-state	Tennessee	282	0	0	0	0%
+Rutherford	Tennessee	193	15	3	0	1.6%
+Knox	Tennessee	148	5	3	0	2%
+Wilson	Tennessee	117	4	0	0	0%
 Hamilton	Tennessee	95	0	9	0	9.5%
-Montgomery	Tennessee	65	0	2	0	3.1%
-Robertson	Tennessee	65	0	0	0	0%
-Unassigned	Tennessee	59	0	0	0	0%
-Putnam	Tennessee	57	0	0	0	0%
+Putnam	Tennessee	81	24	0	0	0%
+Montgomery	Tennessee	72	7	2	0	2.8%
+Robertson	Tennessee	67	2	0	0	0%
 Madison	Tennessee	43	0	0	0	0%
-Blount	Tennessee	41	0	2	0	4.9%
+Blount	Tennessee	42	1	2	0	4.8%
 Tipton	Tennessee	38	0	0	0	0%
-Cumberland	Tennessee	32	0	0	0	0%
-Washington	Tennessee	27	0	2	0	7.4%
-Dickson	Tennessee	27	0	0	0	0%
-Sullivan	Tennessee	26	0	1	0	3.8%
-Maury	Tennessee	26	0	0	0	0%
-Bradley	Tennessee	25	0	0	0	0%
+Cumberland	Tennessee	33	1	0	0	0%
+Unassigned	Tennessee	31	0	0	0	0%
+Washington	Tennessee	30	3	0	0	0%
+Maury	Tennessee	29	3	0	0	0%
+Bradley	Tennessee	28	3	0	0	0%
+Sullivan	Tennessee	27	1	1	0	3.7%
+Dickson	Tennessee	26	0	0	0	0%
+Fayette	Tennessee	22	1	0	0	0%
 Marion	Tennessee	21	0	1	0	4.8%
-Fayette	Tennessee	21	0	0	0	0%
-Greene	Tennessee	18	0	1	0	5.6%
-Sevier	Tennessee	18	0	0	0	0%
-Hawkins	Tennessee	16	0	1	0	6.3%
+Greene	Tennessee	20	2	1	0	5%
+Sevier	Tennessee	19	1	0	0	0%
+Hawkins	Tennessee	18	2	1	0	5.6%
+Franklin	Tennessee	17	3	1	0	5.9%
+Macon	Tennessee	16	4	1	0	6.3%
 Grundy	Tennessee	16	0	0	0	0%
 Loudon	Tennessee	15	0	0	0	0%
 Trousdale	Tennessee	14	0	1	0	7.1%
-Franklin	Tennessee	14	0	1	0	7.1%
 Cheatham	Tennessee	13	0	0	0	0%
 Gibson	Tennessee	13	0	0	0	0%
-Macon	Tennessee	12	0	1	0	8.3%
-Anderson	Tennessee	11	0	0	0	0%
-Bedford	Tennessee	10	0	0	0	0%
-Dyer	Tennessee	10	0	0	0	0%
-Jefferson	Tennessee	10	0	0	0	0%
+Bedford	Tennessee	12	2	0	0	0%
+Jefferson	Tennessee	12	2	0	0	0%
+Anderson	Tennessee	11	0	1	1	9.1%
+Dyer	Tennessee	11	1	0	0	0%
+Lawrence	Tennessee	10	4	0	0	0%
 Marshall	Tennessee	9	0	0	0	0%
 Carroll	Tennessee	8	0	0	0	0%
 Cannon	Tennessee	7	0	0	0	0%
-Chester	Tennessee	7	0	0	0	0%
 Coffee	Tennessee	7	0	0	0	0%
 Dekalb	Tennessee	7	0	0	0	0%
+Haywood	Tennessee	7	1	0	0	0%
+Lincoln	Tennessee	7	1	0	0	0%
+McNairy	Tennessee	7	2	0	0	0%
 Campbell	Tennessee	6	0	0	0	0%
+Chester	Tennessee	6	0	0	0	0%
 Hardeman	Tennessee	6	0	0	0	0%
-Haywood	Tennessee	6	0	0	0	0%
 Henry	Tennessee	6	0	0	0	0%
-Lawrence	Tennessee	6	0	0	0	0%
-Lincoln	Tennessee	6	0	0	0	0%
+Lauderdale	Tennessee	6	1	0	0	0%
 Monroe	Tennessee	6	0	0	0	0%
-Lauderdale	Tennessee	5	0	0	0	0%
-McNairy	Tennessee	5	0	0	0	0%
 Morgan	Tennessee	5	0	0	0	0%
+Overton	Tennessee	5	1	0	0	0%
 Roane	Tennessee	5	0	0	0	0%
+Scott	Tennessee	5	1	0	0	0%
 Weakley	Tennessee	5	0	0	0	0%
+Obion	Tennessee	4	1	1	0	25%
 Benton	Tennessee	4	0	0	0	0%
 Hamblen	Tennessee	4	0	0	0	0%
 Humphreys	Tennessee	4	0	0	0	0%
-Overton	Tennessee	4	0	0	0	0%
-Scott	Tennessee	4	0	0	0	0%
-Obion	Tennessee	3	0	1	0	33.3%
+Jackson	Tennessee	4	1	0	0	0%
 Bledsoe	Tennessee	3	0	0	0	0%
 Carter	Tennessee	3	0	0	0	0%
 Giles	Tennessee	3	0	0	0	0%
 Grainger	Tennessee	3	0	0	0	0%
 McMinn	Tennessee	3	0	0	0	0%
+Meigs	Tennessee	3	1	0	0	0%
 Perry	Tennessee	3	0	0	0	0%
 Smith	Tennessee	3	0	0	0	0%
 Polk	Tennessee	3	0	0	0	0%
-Jackson	Tennessee	3	0	0	0	0%
 Claiborne	Tennessee	2	0	0	0	0%
+Clay	Tennessee	2	1	0	0	0%
 Cocke	Tennessee	2	0	0	0	0%
 Fentress	Tennessee	2	0	0	0	0%
 Hardin	Tennessee	2	0	0	0	0%
@@ -1212,24 +1215,155 @@ Hickman	Tennessee	2	0	0	0	0%
 Houston	Tennessee	2	0	0	0	0%
 Johnson	Tennessee	2	0	0	0	0%
 Lewis	Tennessee	2	0	0	0	0%
-Meigs	Tennessee	2	0	0	0	0%
-Sequatchie	Tennessee	2	0	0	0	0%
+Union	Tennessee	2	1	0	0	0%
 Warren	Tennessee	2	0	0	0	0%
 Wayne	Tennessee	2	0	0	0	0%
 White	Tennessee	2	0	0	0	0%
 Stewart	Tennessee	2	0	0	0	0%
 Henderson	Tennessee	2	0	0	0	0%
-Clay	Tennessee	1	0	0	0	0%
+Decatur	Tennessee	1	1	0	0	0%
+Sequatchie	Tennessee	1	0	0	0	0%
 Unicoi	Tennessee	1	0	0	0	0%
-Union	Tennessee	1	0	0	0	0%
-Decatur	Tennessee	0	0	0	0	0%
 Rhea	Tennessee	0	0	0	0	0%
 Crockett	Tennessee	0	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
 Lake	Tennessee	0	0	0	0	0%
 Moore	Tennessee	0	0	0	0	0%
 Van Buren	Tennessee	0	0	0	0	0%
-Pickett	Tennessee	0	0	0	0	0%
+Fairfax	Virginia	570	38	9	0	1.6%
+Henrico	Virginia	291	24	2	0	0.7%
+Prince William	Virginia	263	27	1	0	0.4%
+Arlington	Virginia	254	17	2	0	0.8%
+Loudoun	Virginia	238	29	1	0	0.4%
+Virginia Beach	Virginia	207	7	1	0	0.5%
+Chesterfield	Virginia	145	17	0	0	0%
+Alexandria	Virginia	143	17	1	0	0.7%
+James City	Virginia	122	3	2	0	1.6%
+Richmond City	Virginia	119	9	0	0	0%
+Chesapeake	Virginia	99	19	0	0	0%
+Norfolk	Virginia	77	5	0	0	0%
+Newport News	Virginia	60	3	1	0	1.7%
+Hampton	Virginia	53	10	1	0	1.9%
+Stafford	Virginia	48	0	0	0	0%
+Frederick	Virginia	46	3	0	0	0%
+Albemarle	Virginia	41	3	0	0	0%
+Portsmouth	Virginia	41	5	0	0	0%
+Harrisonburg	Virginia	36	9	0	0	0%
+Spotsylvania	Virginia	31	2	0	0	0%
+Suffolk	Virginia	31	1	0	0	0%
+York	Virginia	25	0	1	0	4%
+Goochland	Virginia	24	2	0	0	0%
+Prince George	Virginia	24	3	0	0	0%
+Charlottesville	Virginia	23	0	1	0	4.3%
+Isle of Wight	Virginia	23	0	0	0	0%
+Hanover	Virginia	22	3	0	0	0%
+Lynchburg	Virginia	20	0	0	0	0%
+Manassas City	Virginia	20	0	0	0	0%
+Rockingham	Virginia	20	4	0	0	0%
+Botetourt	Virginia	18	0	0	0	0%
+Fauquier	Virginia	17	0	0	0	0%
+Williamsburg	Virginia	16	2	1	0	6.3%
+Gloucester	Virginia	16	1	0	0	0%
+Louisa	Virginia	16	2	0	0	0%
+Mecklenburg	Virginia	16	4	0	0	0%
+Montgomery	Virginia	16	0	0	0	0%
+Danville	Virginia	15	0	0	0	0%
+Winchester	Virginia	15	1	0	0	0%
+Roanoke City	Virginia	14	5	0	0	0%
+Augusta	Virginia	13	3	0	0	0%
+Hopewell	Virginia	13	0	0	0	0%
+Shenandoah	Virginia	13	0	0	0	0%
+Bedford	Virginia	12	4	0	0	0%
+Fluvanna	Virginia	12	3	0	0	0%
+Franklin	Virginia	12	1	0	0	0%
+Washington	Virginia	12	2	0	0	0%
+Accomack	Virginia	11	0	0	0	0%
+King George	Virginia	11	1	0	0	0%
+New Kent	Virginia	11	0	0	0	0%
+Culpeper	Virginia	10	1	0	0	0%
+Buckingham	Virginia	9	3	0	0	0%
+Petersburg	Virginia	9	0	0	0	0%
+Roanoke	Virginia	9	1	0	0	0%
+Amelia	Virginia	8	1	0	0	0%
+Amherst	Virginia	8	0	0	0	0%
+Fredericksburg	Virginia	8	0	0	0	0%
+Warren	Virginia	8	2	0	0	0%
+Orange	Virginia	7	0	0	0	0%
+Sussex	Virginia	6	1	0	0	0%
+Wythe	Virginia	6	3	0	0	0%
+Cumberland	Virginia	6	0	0	0	0%
+Charles City	Virginia	5	1	0	0	0%
+Franklin City	Virginia	5	1	0	0	0%
+Greensville	Virginia	5	0	0	0	0%
+Madison	Virginia	5	1	0	0	0%
+Manassas Park	Virginia	5	1	0	0	0%
+Smyth	Virginia	5	2	0	0	0%
+Southampton	Virginia	5	0	0	0	0%
+Westmoreland	Virginia	5	2	0	0	0%
+Campbell	Virginia	4	1	0	0	0%
+Greene	Virginia	4	0	0	0	0%
+Henry	Virginia	4	0	0	0	0%
+Poquoson	Virginia	4	0	0	0	0%
+Powhatan	Virginia	4	0	0	0	0%
+Tazewell	Virginia	4	0	0	0	0%
+Buena Vista City	Virginia	4	0	0	0	0%
+Caroline	Virginia	4	0	0	0	0%
+Emporia	Virginia	4	2	0	0	0%
+Wise	Virginia	4	1	0	0	0%
+Lee	Virginia	3	1	0	0	0%
+Nelson	Virginia	3	1	0	0	0%
+Northumberland	Virginia	3	0	0	0	0%
+Nottoway	Virginia	3	0	0	0	0%
+Page	Virginia	3	0	0	0	0%
+Pittsylvania	Virginia	3	0	0	0	0%
+Prince Edward	Virginia	3	0	0	0	0%
+Rockbridge	Virginia	3	0	0	0	0%
+Surry	Virginia	3	0	0	0	0%
+Lexington	Virginia	3	0	0	0	0%
+Clarke	Virginia	3	1	0	0	0%
+Appomattox	Virginia	3	0	0	0	0%
+Alleghany	Virginia	2	0	0	0	0%
+Carroll	Virginia	2	0	0	0	0%
+Halifax	Virginia	2	0	0	0	0%
+King William	Virginia	2	0	0	0	0%
+Mathews	Virginia	2	0	0	0	0%
+Northampton	Virginia	2	0	0	0	0%
+Waynesboro	Virginia	2	0	0	0	0%
+Pulaski	Virginia	2	0	0	0	0%
+Richmond	Virginia	2	0	0	0	0%
+Dinwiddie	Virginia	2	1	0	0	0%
+Giles	Virginia	2	0	0	0	0%
+Lunenburg	Virginia	2	0	0	0	0%
+Craig	Virginia	2	0	0	0	0%
+Bristol	Virginia	1	0	0	0	0%
+Brunswick	Virginia	1	0	0	0	0%
+Covington	Virginia	1	0	0	0	0%
+Galax	Virginia	1	0	0	0	0%
+King and Queen	Virginia	1	0	0	0	0%
+Lancaster	Virginia	1	0	0	0	0%
+Radford	Virginia	1	0	0	0	0%
+Salem	Virginia	1	0	0	0	0%
+Charlotte	Virginia	1	0	0	0	0%
+Staunton	Virginia	1	0	0	0	0%
+Buchanan	Virginia	1	0	0	0	0%
+Colonial Heights	Virginia	1	1	0	0	0%
+Rappahannock	Virginia	1	0	0	0	0%
+Russell	Virginia	1	0	0	0	0%
+Unassigned	Virginia	0	0	42	0	0%
+Scott	Virginia	0	0	0	0	0%
+Fairfax City	Virginia	0	0	0	0	0%
+Bath	Virginia	0	0	0	0	0%
+Bland	Virginia	0	0	0	0	0%
+Dickenson	Virginia	0	0	0	0	0%
+Essex	Virginia	0	0	0	0	0%
+Falls Church	Virginia	0	0	0	0	0%
+Floyd	Virginia	0	0	0	0	0%
+Grayson	Virginia	0	0	0	0	0%
+Highland	Virginia	0	0	0	0	0%
+Martinsville	Virginia	0	0	0	0	0%
+Middlesex	Virginia	0	0	0	0	0%
+Norton	Virginia	0	0	0	0	0%
+Patrick	Virginia	0	0	0	0	0%
 Mecklenburg	North Carolina	830	20	8	0	1%
 Wake	North Carolina	365	14	0	0	0%
 Durham	North Carolina	236	17	1	0	0.4%
@@ -1323,140 +1457,6 @@ Macon	North Carolina	1	0	1	0	100%
 Chowan	North Carolina	1	0	0	0	0%
 Bladen	North Carolina	1	0	0	0	0%
 Swain	North Carolina	1	0	0	0	0%
-Fairfax	Virginia	532	0	9	0	1.7%
-Henrico	Virginia	267	0	2	0	0.7%
-Arlington	Virginia	237	0	2	0	0.8%
-Prince William	Virginia	236	0	1	0	0.4%
-Loudoun	Virginia	209	0	1	0	0.5%
-Virginia Beach	Virginia	200	0	1	0	0.5%
-Chesterfield	Virginia	128	0	0	0	0%
-Alexandria	Virginia	126	0	1	0	0.8%
-James City	Virginia	119	0	2	0	1.7%
-Richmond City	Virginia	110	0	0	0	0%
-Chesapeake	Virginia	80	0	0	0	0%
-Norfolk	Virginia	72	0	0	0	0%
-Newport News	Virginia	57	0	1	0	1.8%
-Stafford	Virginia	49	0	0	0	0%
-Frederick	Virginia	46	3	0	0	0%
-Hampton	Virginia	43	0	1	0	2.3%
-Albemarle	Virginia	41	3	0	0	0%
-Harrisonburg	Virginia	36	9	0	0	0%
-Portsmouth	Virginia	36	0	0	0	0%
-Unassigned	Virginia	33	33	42	0	127.3%
-Suffolk	Virginia	30	0	0	0	0%
-Spotsylvania	Virginia	29	0	0	0	0%
-York	Virginia	25	0	1	0	4%
-Charlottesville	Virginia	23	0	1	0	4.3%
-Isle of Wight	Virginia	23	0	0	0	0%
-Goochland	Virginia	22	0	0	0	0%
-Prince George	Virginia	21	0	0	0	0%
-Lynchburg	Virginia	20	0	0	0	0%
-Manassas City	Virginia	20	0	0	0	0%
-Rockingham	Virginia	20	4	0	0	0%
-Hanover	Virginia	19	0	0	0	0%
-Botetourt	Virginia	18	0	0	0	0%
-Louisa	Virginia	16	2	0	0	0%
-Montgomery	Virginia	16	0	0	0	0%
-Danville	Virginia	15	0	0	0	0%
-Gloucester	Virginia	15	0	0	0	0%
-Winchester	Virginia	15	1	0	0	0%
-Williamsburg	Virginia	14	0	1	0	7.1%
-Augusta	Virginia	13	3	0	0	0%
-Hopewell	Virginia	13	0	0	0	0%
-Shenandoah	Virginia	13	0	0	0	0%
-Fluvanna	Virginia	12	3	0	0	0%
-Mecklenburg	Virginia	12	0	0	0	0%
-New Kent	Virginia	12	0	0	0	0%
-Roanoke City	Virginia	12	0	0	0	0%
-Accomack	Virginia	11	0	0	0	0%
-Franklin	Virginia	11	0	0	0	0%
-Culpeper	Virginia	10	1	0	0	0%
-King George	Virginia	10	0	0	0	0%
-Petersburg	Virginia	10	0	0	0	0%
-Washington	Virginia	10	0	0	0	0%
-Amherst	Virginia	8	0	0	0	0%
-Bedford	Virginia	8	0	0	0	0%
-Fredericksburg	Virginia	8	0	0	0	0%
-Roanoke	Virginia	8	0	0	0	0%
-Warren	Virginia	8	2	0	0	0%
-Amelia	Virginia	7	0	0	0	0%
-Orange	Virginia	7	0	0	0	0%
-Buckingham	Virginia	6	0	0	0	0%
-Cumberland	Virginia	6	0	0	0	0%
-Greensville	Virginia	5	0	0	0	0%
-Southampton	Virginia	5	0	0	0	0%
-Sussex	Virginia	5	0	0	0	0%
-Charles City	Virginia	4	0	0	0	0%
-Franklin City	Virginia	4	0	0	0	0%
-Greene	Virginia	4	0	0	0	0%
-Henry	Virginia	4	0	0	0	0%
-Madison	Virginia	4	0	0	0	0%
-Manassas Park	Virginia	4	0	0	0	0%
-Poquoson	Virginia	4	0	0	0	0%
-Powhatan	Virginia	4	0	0	0	0%
-Tazewell	Virginia	4	0	0	0	0%
-Buena Vista City	Virginia	4	0	0	0	0%
-Caroline	Virginia	4	0	0	0	0%
-Campbell	Virginia	3	0	0	0	0%
-Nelson	Virginia	3	1	0	0	0%
-Northumberland	Virginia	3	0	0	0	0%
-Nottoway	Virginia	3	0	0	0	0%
-Page	Virginia	3	0	0	0	0%
-Pittsylvania	Virginia	3	0	0	0	0%
-Prince Edward	Virginia	3	0	0	0	0%
-Rockbridge	Virginia	3	0	0	0	0%
-Smyth	Virginia	3	0	0	0	0%
-Surry	Virginia	3	0	0	0	0%
-Waynesboro	Virginia	3	0	0	0	0%
-Wythe	Virginia	3	0	0	0	0%
-Lexington	Virginia	3	0	0	0	0%
-Westmoreland	Virginia	3	0	0	0	0%
-Wise	Virginia	3	0	0	0	0%
-Clarke	Virginia	3	1	0	0	0%
-Appomattox	Virginia	3	0	0	0	0%
-Alleghany	Virginia	2	0	0	0	0%
-Carroll	Virginia	2	0	0	0	0%
-Halifax	Virginia	2	0	0	0	0%
-King William	Virginia	2	0	0	0	0%
-Lee	Virginia	2	0	0	0	0%
-Mathews	Virginia	2	0	0	0	0%
-Northampton	Virginia	2	0	0	0	0%
-Emporia	Virginia	2	0	0	0	0%
-Pulaski	Virginia	2	0	0	0	0%
-Richmond	Virginia	2	0	0	0	0%
-Giles	Virginia	2	0	0	0	0%
-Lunenburg	Virginia	2	0	0	0	0%
-Craig	Virginia	2	0	0	0	0%
-Bristol	Virginia	1	0	0	0	0%
-Brunswick	Virginia	1	0	0	0	0%
-Covington	Virginia	1	0	0	0	0%
-Fauquier	Virginia	1	0	0	0	0%
-Galax	Virginia	1	0	0	0	0%
-King and Queen	Virginia	1	0	0	0	0%
-Lancaster	Virginia	1	0	0	0	0%
-Radford	Virginia	1	0	0	0	0%
-Salem	Virginia	1	0	0	0	0%
-Charlotte	Virginia	1	0	0	0	0%
-Staunton	Virginia	1	0	0	0	0%
-Buchanan	Virginia	1	0	0	0	0%
-Dinwiddie	Virginia	1	0	0	0	0%
-Rappahannock	Virginia	1	0	0	0	0%
-Russell	Virginia	1	0	0	0	0%
-Scott	Virginia	0	0	0	0	0%
-Fairfax City	Virginia	0	0	0	0	0%
-Bath	Virginia	0	0	0	0	0%
-Bland	Virginia	0	0	0	0	0%
-Colonial Heights	Virginia	0	0	0	0	0%
-Dickenson	Virginia	0	0	0	0	0%
-Essex	Virginia	0	0	0	0	0%
-Falls Church	Virginia	0	0	0	0	0%
-Floyd	Virginia	0	0	0	0	0%
-Grayson	Virginia	0	0	0	0	0%
-Highland	Virginia	0	0	0	0	0%
-Martinsville	Virginia	0	0	0	0	0%
-Middlesex	Virginia	0	0	0	0	0%
-Norton	Virginia	0	0	0	0	0%
-Patrick	Virginia	0	0	0	0	0%
 St. Louis	Missouri	1,203	0	24	0	2%
 St. Louis City	Missouri	476	0	12	0	2.5%
 St. Charles	Missouri	271	0	9	0	3.3%
@@ -1831,26 +1831,26 @@ Tallahatchie	Mississippi	3	0	0	0	0%
 Tishomingo	Mississippi	1	0	0	0	0%
 Greene	Mississippi	1	0	0	0	0%
 Unassigned	Mississippi	0	0	0	0	0%
-Salt Lake	Utah	807	0	7	0	0.9%
-Summit	Utah	265	0	0	0	0%
-Utah	Utah	236	0	2	0	0.8%
-Davis	Utah	158	0	2	0	1.3%
-Wasatch	Utah	80	0	0	0	0%
-Weber-Morgan	Utah	75	0	1	0	1.3%
+Salt Lake	Utah	858	51	7	0	0.8%
+Summit	Utah	273	8	0	0	0%
+Utah	Utah	267	31	2	0	0.7%
+Davis	Utah	163	5	2	0	1.2%
+Wasatch	Utah	82	2	0	0	0%
+Weber-Morgan	Utah	77	2	1	0	1.3%
+Cache	Utah	28	4	0	0	0%
 Washington	Utah	26	0	1	0	3.8%
-Cache	Utah	24	0	0	0	0%
-Tooele	Utah	22	0	0	0	0%
+Tooele	Utah	23	1	0	0	0%
 Box Elder	Utah	13	0	0	0	0%
 Iron	Utah	13	0	0	0	0%
+San Juan	Utah	6	1	0	0	0%
 Central Utah	Utah	5	0	0	0	0%
-San Juan	Utah	5	0	0	0	0%
+Uintah	Utah	4	2	0	0	0%
+Duchesne	Utah	2	1	0	0	0%
 Kane	Utah	2	0	0	0	0%
-Uintah	Utah	2	0	0	0	0%
 Emery	Utah	2	0	0	0	0%
-Duchesne	Utah	1	0	0	0	0%
+Carbon	Utah	2	1	0	0	0%
 Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
-Carbon	Utah	1	0	0	0	0%
 Unassigned Southwest	Utah	0	0	0	0	0%
 Oklahoma	Oklahoma	317	14	15	4	4.7%
 Tulsa	Oklahoma	293	20	16	2	5.5%
