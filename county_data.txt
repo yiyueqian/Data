@@ -1,29 +1,29 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	87,028	5,225	5,150	579	5.9%
-Nassau	New York	20,140	1,592	566	0	2.8%
+Nassau	New York	20,140	1,592	633	67	3.1%
 Suffolk	New York	18,803	1,795	362	39	1.9%
-Westchester	New York	17,004	1,117	315	0	1.9%
-Rockland	New York	6,665	252	154	0	2.3%
+Westchester	New York	17,004	1,117	359	44	2.1%
+Rockland	New York	6,665	252	172	18	2.6%
 Orange	New York	4,090	15	107	0	2.6%
 Dutchess	New York	1,493	98	10	0	0.7%
 Erie	New York	1,432	87	51	5	3.6%
-Monroe	New York	698	47	34	0	4.9%
-Ulster	New York	462	0	7	0	1.5%
-Putnam	New York	438	11	7	0	1.6%
-Onondaga	New York	422	0	6	0	1.4%
+Monroe	New York	698	47	40	6	5.7%
+Ulster	New York	462	0	8	1	1.7%
+Putnam	New York	456	29	7	0	1.5%
+Onondaga	New York	422	0	7	1	1.7%
 Albany	New York	379	37	11	2	2.9%
 Sullivan	New York	296	0	7	0	2.4%
 Saratoga	New York	172	10	4	0	2.3%
 Schenectady	New York	167	18	7	0	4.2%
-Oneida	New York	158	33	2	0	1.3%
-Niagara	New York	155	0	1	0	0.6%
+Oneida	New York	158	33	3	1	1.9%
+Niagara	New York	155	0	4	3	2.6%
+Tompkins	New York	107	2	0	0	0%
 Broome	New York	105	12	6	0	5.7%
-Tompkins	New York	105	0	0	0	0%
-Madison	New York	92	0	3	0	3.3%
-Steuben	New York	89	2	6	0	6.7%
-Rensselaer	New York	88	0	3	0	3.4%
-St. Lawrence	New York	78	0	0	0	0%
-Columbia	New York	76	0	4	0	5.3%
+Madison	New York	102	10	3	0	2.9%
+Rensselaer	New York	102	14	5	0	4.9%
+Steuben	New York	92	5	6	0	6.5%
+Columbia	New York	83	7	5	1	6%
+St. Lawrence	New York	82	4	0	0	0%
 Chemung	New York	59	4	1	0	1.7%
 Genesee	New York	56	9	1	0	1.8%
 Chenango	New York	55	2	0	0	0%
@@ -33,7 +33,7 @@ Clinton	New York	40	1	0	0	0%
 Warren	New York	40	7	0	0	0%
 Otsego	New York	39	1	1	0	2.6%
 Wayne	New York	39	0	0	0	0%
-Delaware	New York	37	0	1	0	2.7%
+Delaware	New York	37	0	2	1	5.4%
 Oswego	New York	36	2	2	0	5.6%
 Herkimer	New York	32	3	3	0	9.4%
 Greene	New York	31	0	0	0	0%
@@ -42,8 +42,8 @@ Livingston	New York	29	0	2	0	6.9%
 Montgomery	New York	28	10	1	0	3.6%
 Washington	New York	25	5	1	0	4%
 Allegany	New York	22	1	1	0	4.5%
+Chautauqua	New York	22	4	2	0	9.1%
 Orleans	New York	22	6	0	0	0%
-Chautauqua	New York	18	0	2	0	11.1%
 Cattaraugus	New York	17	2	0	0	0%
 Tioga	New York	17	2	0	0	0%
 Cayuga	New York	16	2	1	0	6.3%
@@ -57,7 +57,7 @@ Lewis	New York	6	0	0	0	0%
 Schuyler	New York	4	0	0	0	0%
 Hamilton	New York	3	1	0	0	0%
 Yates	New York	1	0	0	0	0%
-Unassigned	New York	0	0	226	174	0%
+Unassigned	New York	0	0	81	31	0%
 Bergen	New Jersey	8,343	469	345	31	4.1%
 Essex	New Jersey	6,069	471	321	45	5.3%
 Hudson	New Jersey	5,879	442	132	10	2.2%
@@ -158,16 +158,16 @@ Presque Isle	Michigan	1	0	0	0	0%
 Mason	Michigan	1	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
-Los Angeles	California	7,573	14	199	0	2.6%
+Los Angeles	California	7,955	396	223	24	2.8%
 San Diego	California	1,530	0	36	0	2.4%
 Santa Clara	California	1,380	0	46	0	3.3%
-Riverside	California	1,179	0	32	0	2.7%
-Orange	California	1,016	0	17	0	1.7%
+Riverside	California	1,280	101	32	0	2.5%
+Orange	California	1,079	63	17	0	1.6%
 San Francisco	California	724	48	10	0	1.4%
 Alameda	California	674	0	16	0	2.4%
 San Bernardino	California	641	0	20	0	3.1%
 San Mateo	California	633	16	21	0	3.3%
-Sacramento	California	580	0	22	0	3.8%
+Sacramento	California	580	0	33	11	5.7%
 Contra Costa	California	462	0	7	0	1.5%
 Kern	California	303	0	2	0	0.7%
 Ventura	California	263	0	7	0	2.7%
@@ -212,6 +212,20 @@ Del Norte	California	2	0	0	0	0%
 Alpine	California	1	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
 Tehama	California	1	0	0	0	0%
+Middlesex	Massachusetts	4,045	500	80	0	2%
+Suffolk	Massachusetts	4,041	441	48	0	1.2%
+Essex	Massachusetts	2,336	233	50	0	2.1%
+Norfolk	Massachusetts	2,007	229	41	0	2%
+Plymouth	Massachusetts	1,507	180	33	0	2.2%
+Worcester	Massachusetts	1,461	165	29	0	2%
+Hampden	Massachusetts	1,276	195	62	0	4.9%
+Bristol	Massachusetts	994	159	23	0	2.3%
+Barnstable	Massachusetts	444	21	11	0	2.5%
+Berkshire	Massachusetts	304	23	18	0	5.9%
+Unassigned	Massachusetts	203	0	83	70	40.9%
+Hampshire	Massachusetts	177	13	3	0	1.7%
+Franklin	Massachusetts	128	11	21	0	16.4%
+Dukes and Nantucket	Massachusetts	18	1	1	0	5.6%
 Philadelphia	Pennsylvania	5,029	252	87	0	1.7%
 Montgomery	Pennsylvania	1,693	172	37	0	2.2%
 Lehigh	Pennsylvania	1,466	147	13	1	0.9%
@@ -344,20 +358,6 @@ Madison	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 West Carroll	Louisiana	1	0	0	0	0%
 Cameron	Louisiana	1	0	0	0	0%
-Suffolk	Massachusetts	3,600	0	48	0	1.3%
-Middlesex	Massachusetts	3,545	0	80	0	2.3%
-Essex	Massachusetts	2,103	0	50	0	2.4%
-Norfolk	Massachusetts	1,778	0	41	0	2.3%
-Plymouth	Massachusetts	1,327	0	33	0	2.5%
-Worcester	Massachusetts	1,296	0	29	0	2.2%
-Hampden	Massachusetts	1,081	0	62	0	5.7%
-Bristol	Massachusetts	835	0	23	0	2.8%
-Barnstable	Massachusetts	423	0	11	0	2.6%
-Berkshire	Massachusetts	281	0	18	0	6.4%
-Unassigned	Massachusetts	223	0	13	0	5.8%
-Hampshire	Massachusetts	164	0	3	0	1.8%
-Franklin	Massachusetts	117	0	21	0	17.9%
-Dukes and Nantucket	Massachusetts	17	0	1	0	5.9%
 Miami-Dade	Florida	5,745	284	62	13	1.1%
 Broward	Florida	2,454	89	66	6	2.7%
 Palm Beach	Florida	1,260	36	73	4	5.8%
@@ -534,17 +534,17 @@ Victoria	Texas	66	7	0	0	0%
 McLennan	Texas	62	0	1	0	1.6%
 Potter	Texas	58	11	1	0	1.7%
 Randall	Texas	52	12	1	0	1.9%
+Taylor	Texas	51	8	1	0	2%
 Ellis	Texas	50	9	2	0	4%
 Wichita	Texas	50	0	0	0	0%
 Guadalupe	Texas	46	1	0	0	0%
 Matagorda	Texas	44	0	3	0	6.8%
-Taylor	Texas	43	0	1	0	2.3%
 Hardin	Texas	41	0	1	0	2.4%
+Ector	Texas	39	5	1	0	2.6%
 Gregg	Texas	35	3	0	0	0%
 Comal	Texas	34	5	4	1	11.8%
-Ector	Texas	34	0	1	0	2.9%
 Tom Green	Texas	32	7	1	1	3.1%
-Midland	Texas	30	0	1	0	3.3%
+Midland	Texas	31	1	1	0	3.2%
 Orange	Texas	30	1	0	0	0%
 Washington	Texas	28	2	1	0	3.6%
 Johnson	Texas	25	0	1	0	4%
@@ -839,13 +839,22 @@ Long	Georgia	1	0	0	0	0%
 Treutlen	Georgia	1	0	0	0	0%
 Hancock	Georgia	1	0	0	0	0%
 Chambers	Georgia	0	0	0	0	0%
-King	Washington	3,688	0	244	0	6.6%
-Snohomish	Washington	1,695	0	63	0	3.7%
+Fairfield	Connecticut	4,882	465	178	23	3.6%
+New Haven	Connecticut	2,183	238	78	8	3.6%
+Hartford	Connecticut	1,471	181	75	7	5.1%
+Unassigned	Connecticut	392	26	2	0	0.5%
+Litchfield	Connecticut	315	23	13	1	4.1%
+Middlesex	Connecticut	205	31	14	5	6.8%
+Tolland	Connecticut	145	17	13	0	9%
+New London	Connecticut	139	19	6	1	4.3%
+Windham	Connecticut	52	3	1	0	1.9%
+King	Washington	3,886	198	258	14	6.6%
+Snohomish	Washington	1,745	50	64	1	3.7%
+Pierce	Washington	838	43	17	1	2%
 Unassigned	Washington	838	0	0	0	0%
-Pierce	Washington	795	0	16	0	2%
 Yakima	Washington	433	0	18	0	4.2%
+Spokane	Washington	246	7	14	1	5.7%
 Whatcom	Washington	243	2	21	1	8.6%
-Spokane	Washington	239	0	13	0	5.4%
 Benton	Washington	215	25	25	5	11.6%
 Clark	Washington	206	16	14	1	6.8%
 Skagit	Washington	172	0	5	0	2.9%
@@ -857,16 +866,16 @@ Thurston	Washington	77	0	1	0	1.3%
 Chelan	Washington	43	8	3	0	7%
 Adams	Washington	30	0	0	0	0%
 Jefferson	Washington	27	0	0	0	0%
-Cowlitz	Washington	21	0	0	0	0%
+Cowlitz	Washington	23	2	0	0	0%
 Lewis	Washington	17	0	2	0	11.8%
 Walla Walla	Washington	17	0	0	0	0%
 Mason	Washington	17	0	0	0	0%
 Kittitas	Washington	15	0	1	0	6.7%
+Klickitat	Washington	12	1	1	0	8.3%
 Douglas	Washington	12	0	0	0	0%
 Okanogan	Washington	12	0	0	0	0%
 San Juan	Washington	12	0	0	0	0%
 Whitman	Washington	12	0	0	0	0%
-Klickitat	Washington	11	0	1	0	9.1%
 Clallam	Washington	10	0	0	0	0%
 Grays Harbor	Washington	7	0	0	0	0%
 Stevens	Washington	6	0	0	0	0%
@@ -877,15 +886,6 @@ Lincoln	Washington	1	0	0	0	0%
 Columbia	Washington	1	0	0	0	0%
 Ferry	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
-Fairfield	Connecticut	4,417	0	155	0	3.5%
-New Haven	Connecticut	1,945	0	70	0	3.6%
-Hartford	Connecticut	1,290	0	68	0	5.3%
-Unassigned	Connecticut	366	0	2	0	0.5%
-Litchfield	Connecticut	292	0	12	0	4.1%
-Middlesex	Connecticut	174	0	9	0	5.2%
-Tolland	Connecticut	128	0	13	0	10.2%
-New London	Connecticut	120	0	5	0	4.2%
-Windham	Connecticut	49	0	1	0	2%
 Marion	Indiana	2,415	0	81	0	3.4%
 Lake	Indiana	525	0	19	0	3.6%
 Hamilton	Indiana	395	0	16	0	4.1%
@@ -2238,6 +2238,10 @@ Washington	Idaho	1	0	0	0	0%
 Caribou	Idaho	1	0	0	0	0%
 Unassigned	Idaho	0	0	0	0	0%
 Lewis	Idaho	0	0	0	0	0%
+New Castle	Delaware	701	65	9	0	1.3%
+Sussex	Delaware	294	15	3	0	1%
+Kent	Delaware	214	13	4	0	1.9%
+Unassigned	Delaware	0	0	7	4	0%
 Pulaski	Arkansas	210	9	8	1	3.8%
 Jefferson	Arkansas	90	5	1	0	1.1%
 Crittenden	Arkansas	74	9	2	1	2.7%
@@ -2367,10 +2371,6 @@ Barber	Kansas	1	0	0	0	0%
 Scott	Kansas	1	0	0	0	0%
 Unassigned	Kansas	0	0	8	8	0%
 Anderson	Kansas	0	0	0	0	0%
-New Castle	Delaware	636	0	9	0	1.4%
-Sussex	Delaware	279	0	3	0	1.1%
-Kent	Delaware	201	0	4	0	2%
-Unassigned	Delaware	0	0	3	0	0%
 Bernalillo	New Mexico	325	0	11	0	3.4%
 Sandoval	New Mexico	143	0	2	0	1.4%
 San Juan	New Mexico	116	0	0	0	0%
