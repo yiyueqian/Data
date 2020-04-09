@@ -6,7 +6,7 @@ Westchester	New York	15,887	1,083	283	0	1.8%
 Rockland	New York	6,413	423	154	19	2.4%
 Orange	New York	4,075	246	107	14	2.6%
 Dutchess	New York	1,395	146	10	1	0.7%
-Erie	New York	1,335	100	45	6	3.4%
+Erie	New York	1,345	110	46	7	3.4%
 Monroe	New York	651	55	34	3	5.2%
 Ulster	New York	462	64	7	2	1.5%
 Putnam	New York	427	25	7	0	1.6%
@@ -158,7 +158,7 @@ Presque Isle	Michigan	1	0	0	0	0%
 Mason	Michigan	1	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
-Los Angeles	California	7,559	534	198	25	2.6%
+Los Angeles	California	7,559	534	199	26	2.6%
 San Diego	California	1,530	76	36	5	2.4%
 Santa Clara	California	1,380	95	46	3	3.3%
 Riverside	California	1,179	163	32	4	2.7%
@@ -171,9 +171,9 @@ Sacramento	California	580	55	22	1	3.8%
 Contra Costa	California	462	20	7	0	1.5%
 Kern	California	303	36	2	0	0.7%
 Ventura	California	263	20	7	1	2.7%
-San Joaquin	California	237	14	13	0	5.5%
+San Joaquin	California	237	14	14	1	5.9%
 Santa Barbara	California	228	10	2	0	0.9%
-Tulare	California	168	11	7	0	4.2%
+Tulare	California	168	11	9	2	5.4%
 Fresno	California	156	10	3	0	1.9%
 Marin	California	149	1	10	0	6.7%
 Sonoma	California	123	3	1	0	0.8%
@@ -1382,16 +1382,16 @@ Union	North Carolina	91	6	0	0	0%
 Cabarrus	North Carolina	88	2	1	0	1.1%
 Granville	North Carolina	83	3	0	0	0%
 Orange	North Carolina	81	8	0	0	0%
-Davidson	North Carolina	73	2	1	0	1.4%
+Davidson	North Carolina	74	3	1	0	1.4%
 Rowan	North Carolina	69	6	2	0	2.9%
 Cumberland	North Carolina	69	3	1	1	1.4%
 Gaston	North Carolina	65	7	3	1	4.6%
 Iredell	North Carolina	58	3	1	1	1.7%
+Johnston	North Carolina	55	6	4	0	7.3%
 Northampton	North Carolina	55	1	1	0	1.8%
 Pitt	North Carolina	55	6	1	0	1.8%
 Henderson	North Carolina	54	3	3	0	5.6%
 New Hanover	North Carolina	53	1	0	0	0%
-Johnston	North Carolina	51	2	4	0	7.8%
 Moore	North Carolina	51	31	2	0	3.9%
 Wilson	North Carolina	42	4	2	0	4.8%
 Randolph	North Carolina	40	3	2	0	5%
@@ -1429,7 +1429,7 @@ Beaufort	North Carolina	10	0	0	0	0%
 Pasquotank	North Carolina	10	1	0	0	0%
 Surry	North Carolina	10	0	0	0	0%
 Yadkin	North Carolina	9	0	0	0	0%
-Rockingham	North Carolina	8	0	1	0	12.5%
+Rockingham	North Carolina	8	0	2	1	25%
 Sampson	North Carolina	8	3	0	0	0%
 Duplin	North Carolina	8	1	0	0	0%
 Person	North Carolina	8	1	0	0	0%
@@ -1934,6 +1934,7 @@ Bristol	Rhode Island	31	1	0	0	0%
 District of Columbia	Washington, D.C.	1,440	0	27	0	1.9%
 Jefferson	Kentucky	380	61	26	4	6.8%
 Fayette	Kentucky	148	25	8	0	5.4%
+Unassigned	Kentucky	76	0	5	0	6.6%
 Daviess	Kentucky	61	3	1	0	1.6%
 Hopkins	Kentucky	57	21	4	0	7%
 Kenton	Kentucky	54	18	8	0	14.8%
@@ -1995,18 +1996,20 @@ Crittenden	Kentucky	3	1	0	0	0%
 Henry	Kentucky	3	1	0	0	0%
 Perry	Kentucky	3	0	0	0	0%
 Todd	Kentucky	3	3	0	0	0%
+Jackson	Kentucky	3	3	0	0	0%
+McLean	Kentucky	2	1	1	0	50%
+Butler	Kentucky	2	1	0	0	0%
 Carroll	Kentucky	2	0	0	0	0%
 Grayson	Kentucky	2	0	0	0	0%
+Hancock	Kentucky	2	1	0	0	0%
 Lewis	Kentucky	2	0	0	0	0%
 Greenup	Kentucky	2	0	0	0	0%
 Meade	Kentucky	2	0	0	0	0%
-McLean	Kentucky	1	0	1	0	100%
+Monroe	Kentucky	2	2	0	0	0%
 Powell	Kentucky	1	0	0	0	0%
 Barren	Kentucky	1	0	0	0	0%
 Bracken	Kentucky	1	0	0	0	0%
 Breathitt	Kentucky	1	0	0	0	0%
-Butler	Kentucky	1	0	0	0	0%
-Hancock	Kentucky	1	0	0	0	0%
 Lawrence	Kentucky	1	0	0	0	0%
 Martin	Kentucky	1	0	0	0	0%
 Nicholas	Kentucky	1	0	0	0	0%
@@ -2017,7 +2020,11 @@ Pike	Kentucky	1	0	0	0	0%
 Clinton	Kentucky	1	0	0	0	0%
 Bath	Kentucky	1	0	0	0	0%
 Leslie	Kentucky	1	0	0	0	0%
-Unassigned	Kentucky	0	0	5	0	0%
+Ballard	Kentucky	1	1	0	0	0%
+Green	Kentucky	1	1	0	0	0%
+Hart	Kentucky	1	1	0	0	0%
+Letcher	Kentucky	1	1	0	0	0%
+Whitley	Kentucky	1	1	0	0	0%
 Washington	Oregon	295	13	6	0	2%
 Multnomah	Oregon	286	28	10	3	3.5%
 Marion	Oregon	218	3	9	0	4.1%
@@ -2400,8 +2407,8 @@ Puerto Rico	Puerto Rico	620	47	24	1	3.9%
 Chittenden	Vermont	308	0	15	0	4.9%
 Addison	Vermont	47	0	0	0	0%
 Windham	Vermont	38	0	1	1	2.6%
-Unassigned	Vermont	33	30	11	0	33.3%
 Franklin	Vermont	33	0	3	3	9.1%
+Unassigned	Vermont	33	30	0	0	0%
 Rutland	Vermont	31	0	0	0	0%
 Bennington	Vermont	27	0	1	0	3.7%
 Windsor	Vermont	24	0	2	1	8.3%
