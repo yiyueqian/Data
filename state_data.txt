@@ -12,25 +12,25 @@ Texas	11,483	0	223	0	1.9%
 Georgia	10,885	0	412	0	3.8%
 Connecticut	9,784	0	380	0	3.9%
 Washington	9,753	0	457	0	4.7%
+Maryland	6,968	784	171	33	2.5%
 Indiana	6,351	0	245	0	3.9%
 Colorado 	6,202	0	226	0	3.6%
-Maryland	6,185	0	138	0	2.2%
 Ohio	5,512	0	213	0	3.9%
 Tennessee	4,634	0	94	0	2%
-Virginia	4,042	0	109	0	2.7%
-North Carolina	3,849	5	82	0	2.1%
+Virginia	4,509	467	121	12	2.7%
+North Carolina	3,850	6	82	0	2.1%
 Missouri	3,624	0	92	0	2.5%
 US Military	3,132	0	8	0	0.3%
 Arizona	3,018	0	89	0	2.9%
 Wisconsin	2,890	0	111	0	3.8%
-Alabama	2,838	0	78	0	2.7%
+Alabama	2,881	43	79	1	2.7%
 South Carolina	2,793	0	67	0	2.4%
 Nevada	2,456	0	86	1	3.5%
 Mississippi	2,260	0	76	0	3.4%
 Utah	1,977	0	13	0	0.7%
 Rhode Island	1,727	0	43	0	2.5%
 Oklahoma	1,686	0	80	0	4.7%
-Washington, D.C.	1,523	0	32	0	2.1%
+Washington, D.C.	1,660	137	38	6	2.3%
 Kentucky	1,452	0	79	0	5.4%
 Idaho	1,354	0	24	0	1.8%
 Oregon	1,322	0	44	0	3.3%
