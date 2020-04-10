@@ -183,12 +183,12 @@ San Luis Obispo	California	102	0	1	0	1%
 Stanislaus	California	95	0	0	0	0%
 Imperial	California	79	4	3	0	3.8%
 Santa Cruz	California	76	0	1	0	1.3%
+Yolo	California	71	4	3	0	4.2%
 Monterey	California	69	5	2	0	2.9%
-Yolo	California	67	0	2	0	3%
 Humboldt	California	50	0	0	0	0%
 Merced	California	40	0	3	0	7.5%
+San Benito	California	34	1	2	0	5.9%
 Nevada	California	34	0	1	0	2.9%
-San Benito	California	33	0	2	0	6.1%
 El Dorado	California	29	0	0	0	0%
 Madera	California	28	0	2	0	7.1%
 Napa	California	25	0	2	0	8%
@@ -231,8 +231,8 @@ Montgomery	Pennsylvania	1,693	172	37	0	2.2%
 Lehigh	Pennsylvania	1,466	147	13	1	0.9%
 Luzerne	Pennsylvania	1,241	107	12	1	1%
 Delaware	Pennsylvania	1,222	188	26	3	2.1%
+Bucks	Pennsylvania	1,022	91	28	3	2.7%
 Northampton	Pennsylvania	949	92	20	3	2.1%
-Bucks	Pennsylvania	931	0	25	0	2.7%
 Allegheny	Pennsylvania	759	39	12	2	1.6%
 Monroe	Pennsylvania	716	45	19	2	2.7%
 Berks	Pennsylvania	616	200	12	0	1.9%
@@ -513,53 +513,53 @@ Dallas	Texas	1,432	108	22	2	1.5%
 Harris--Non Houston	Texas	1,052	91	20	1	1.9%
 Travis	Texas	642	45	7	0	1.1%
 Tarrant	Texas	637	49	20	1	3.1%
-Bexar	Texas	554	0	20	0	3.6%
+Bexar	Texas	615	61	22	2	3.6%
 Fort Bend	Texas	437	20	7	0	1.6%
 Denton	Texas	426	28	9	2	2.1%
-Collin	Texas	378	0	6	1	1.6%
-Galveston	Texas	287	0	5	0	1.7%
+Collin	Texas	406	28	6	1	1.5%
+Galveston	Texas	308	21	7	2	2.3%
+Lubbock	Texas	234	20	9	2	3.8%
 Montgomery	Texas	231	21	4	0	1.7%
-Lubbock	Texas	214	0	7	0	3.3%
+Brazoria	Texas	199	15	2	1	1%
 El Paso	Texas	192	39	0	0	0%
-Brazoria	Texas	184	0	1	0	0.5%
-Webb	Texas	155	0	6	0	3.9%
-Hidalgo	Texas	139	0	1	0	0.7%
+Webb	Texas	166	11	6	0	3.6%
+Hidalgo	Texas	146	7	1	0	0.7%
 Cameron	Texas	118	10	3	2	2.5%
 Brazos	Texas	114	6	9	1	7.9%
-Williamson	Texas	97	0	4	0	4.1%
+Williamson	Texas	103	6	4	0	3.9%
+Smith	Texas	88	6	2	0	2.3%
 Jefferson	Texas	87	9	5	3	5.7%
 Bell	Texas	84	10	3	1	3.6%
-Smith	Texas	82	0	2	0	2.4%
-Hays	Texas	77	0	0	0	0%
-Nueces	Texas	69	0	0	0	0%
+Hays	Texas	79	2	0	0	0%
+Nueces	Texas	72	3	0	0	0%
 Victoria	Texas	66	7	0	0	0%
 McLennan	Texas	62	0	1	0	1.6%
 Potter	Texas	58	11	1	0	1.7%
+Wichita	Texas	53	3	0	0	0%
 Randall	Texas	52	12	1	0	1.9%
 Taylor	Texas	51	8	1	0	2%
 Ellis	Texas	50	9	2	0	4%
-Wichita	Texas	50	0	0	0	0%
 Guadalupe	Texas	46	1	0	0	0%
-Matagorda	Texas	44	0	3	0	6.8%
+Matagorda	Texas	45	1	3	0	6.7%
 Hardin	Texas	41	0	1	0	2.4%
 Ector	Texas	39	5	1	0	2.6%
-Gregg	Texas	35	3	0	0	0%
+Gregg	Texas	37	5	0	0	0%
 Comal	Texas	34	5	4	1	11.8%
 Tom Green	Texas	32	7	1	1	3.1%
 Midland	Texas	31	1	1	0	3.2%
+Nacogdoches	Texas	31	6	3	1	9.7%
+Washington	Texas	31	5	1	0	3.2%
 Orange	Texas	30	1	0	0	0%
-Washington	Texas	28	2	1	0	3.6%
 Johnson	Texas	25	0	1	0	4%
-Nacogdoches	Texas	25	0	2	0	8%
+Chambers	Texas	24	2	0	0	0%
+Wharton	Texas	24	6	0	0	0%
 Bowie	Texas	23	3	1	0	4.3%
+Bastrop	Texas	23	5	1	0	4.3%
 Shelby	Texas	23	6	0	0	0%
-Chambers	Texas	22	0	0	0	0%
 Kaufman	Texas	19	3	0	0	0%
-Bastrop	Texas	18	0	1	0	5.6%
-Wharton	Texas	18	0	0	0	0%
 Coryell	Texas	17	5	0	0	0%
+Angelina	Texas	16	1	0	0	0%
 Moore	Texas	15	6	0	0	0%
-Angelina	Texas	15	0	0	0	0%
 Grayson	Texas	15	0	0	0	0%
 Hunt	Texas	15	1	0	0	0%
 Liberty	Texas	15	0	0	0	0%
@@ -575,8 +575,10 @@ Waller	Texas	12	1	0	0	0%
 Gray	Texas	12	1	0	0	0%
 Hood	Texas	11	1	1	0	9.1%
 Castro	Texas	11	0	1	0	9.1%
+Van Zandt	Texas	10	3	1	0	10%
 Navarro	Texas	10	6	2	1	20%
 Andrews	Texas	10	0	0	0	0%
+San Augustine	Texas	9	2	1	0	11.1%
 Hale	Texas	9	2	1	1	11.1%
 Medina	Texas	9	2	1	1	11.1%
 Kendall	Texas	9	0	0	0	0%
@@ -585,46 +587,44 @@ Wilson	Texas	9	1	0	0	0%
 Brown	Texas	8	0	0	0	0%
 DeWitt	Texas	8	1	0	0	0%
 Fayette	Texas	8	0	0	0	0%
+Henderson	Texas	8	2	0	0	0%
 Lamar	Texas	8	2	0	0	0%
 Polk	Texas	8	0	0	0	0%
-Van Zandt	Texas	7	0	1	0	14.3%
 Panola	Texas	7	0	1	0	14.3%
-San Augustine	Texas	7	0	1	0	14.3%
 Limestone	Texas	7	1	1	0	14.3%
 Dawson	Texas	7	0	1	1	14.3%
 Val Verde	Texas	7	0	0	0	0%
+Terry	Texas	7	1	0	0	0%
 Austin	Texas	7	0	0	0	0%
 Deaf Smith	Texas	7	0	0	0	0%
 Maverick	Texas	7	0	0	0	0%
 Milam	Texas	7	0	0	0	0%
 San Patricio	Texas	7	0	0	0	0%
 Starr	Texas	7	0	0	0	0%
+Jasper	Texas	6	3	1	0	16.7%
 Cherokee	Texas	6	0	0	0	0%
 Colorado	Texas	6	0	0	0	0%
-Henderson	Texas	6	0	0	0	0%
 Hill	Texas	6	0	0	0	0%
-Terry	Texas	6	0	0	0	0%
 Upshur	Texas	6	0	0	0	0%
 Uvalde	Texas	6	1	0	0	0%
+Titus	Texas	6	2	0	0	0%
 Willacy	Texas	5	0	1	0	20%
 Atascosa	Texas	5	0	0	0	0%
 Burleson	Texas	5	0	0	0	0%
 Burnet	Texas	5	0	0	0	0%
 Caldwell	Texas	5	0	0	0	0%
 Grimes	Texas	5	0	0	0	0%
+Lynn	Texas	5	1	0	0	0%
+Wood	Texas	5	1	0	0	0%
 Blanco	Texas	4	0	0	0	0%
 Cass	Texas	4	0	0	0	0%
 Fannin	Texas	4	0	0	0	0%
 Hopkins	Texas	4	0	0	0	0%
 Jackson	Texas	4	0	0	0	0%
 Lavaca	Texas	4	1	0	0	0%
-Lynn	Texas	4	0	0	0	0%
 Tyler	Texas	4	0	0	0	0%
-Wood	Texas	4	0	0	0	0%
 Palo Pinto	Texas	4	1	0	0	0%
-Titus	Texas	4	0	0	0	0%
 Oldham	Texas	3	0	1	0	33.3%
-Jasper	Texas	3	0	1	0	33.3%
 Camp	Texas	3	0	0	0	0%
 Comanche	Texas	3	0	0	0	0%
 Eastland	Texas	3	0	0	0	0%
@@ -684,6 +684,7 @@ Howard	Texas	1	0	0	0	0%
 Delta	Texas	1	1	0	0	0%
 Jack	Texas	1	1	0	0	0%
 Monitor	Texas	0	0	0	0	0%
+Scurry	Texas	0	0	0	0	0%
 Fulton	Georgia	1,336	75	48	6	3.6%
 Dougherty	Georgia	1,042	41	66	4	6.3%
 Unknown	Georgia	951	69	8	1	0.8%
@@ -1378,53 +1379,53 @@ Highland	Virginia	0	0	0	0	0%
 Martinsville	Virginia	0	0	0	0	0%
 Norton	Virginia	0	0	0	0	0%
 Patrick	Virginia	0	0	0	0	0%
-Mecklenburg	North Carolina	861	13	10	0	1.2%
-Wake	North Carolina	385	17	0	0	0%
-Durham	North Carolina	243	7	1	0	0.4%
+Mecklenburg	North Carolina	869	21	10	0	1.2%
+Wake	North Carolina	388	20	0	0	0%
+Durham	North Carolina	245	9	1	0	0.4%
 Guilford	North Carolina	125	3	8	0	6.4%
 Forsyth	North Carolina	113	5	3	1	2.7%
 Orange	North Carolina	98	17	0	0	0%
-Union	North Carolina	93	2	1	1	1.1%
+Union	North Carolina	96	5	1	1	1%
 Cabarrus	North Carolina	88	0	1	0	1.1%
 Granville	North Carolina	83	0	0	0	0%
 Davidson	North Carolina	78	4	2	1	2.6%
+Johnston	North Carolina	77	22	5	1	6.5%
+Rowan	North Carolina	75	6	2	0	2.7%
+Moore	North Carolina	74	23	2	0	2.7%
+Gaston	North Carolina	73	5	3	0	4.1%
 Cumberland	North Carolina	72	3	1	0	1.4%
-Rowan	North Carolina	71	2	2	0	2.8%
-Gaston	North Carolina	68	0	3	0	4.4%
-Iredell	North Carolina	60	2	1	0	1.7%
-Johnston	North Carolina	57	2	5	1	8.8%
-Moore	North Carolina	57	6	2	0	3.5%
-Pitt	North Carolina	57	2	1	0	1.8%
-Northampton	North Carolina	55	0	1	0	1.8%
-Henderson	North Carolina	55	1	3	0	5.5%
-New Hanover	North Carolina	53	0	0	0	0%
+Iredell	North Carolina	62	4	1	0	1.6%
+Henderson	North Carolina	58	4	3	0	5.2%
+Pitt	North Carolina	58	3	1	0	1.7%
+Northampton	North Carolina	57	2	1	0	1.8%
+New Hanover	North Carolina	54	1	0	0	0%
+Wilson	North Carolina	47	5	3	1	6.4%
 Wayne	North Carolina	47	7	0	0	0%
-Randolph	North Carolina	42	2	2	0	4.8%
-Wilson	North Carolina	42	0	3	1	7.1%
+Randolph	North Carolina	45	5	2	0	4.4%
 Burke	North Carolina	42	8	2	0	4.8%
 Buncombe	North Carolina	37	0	1	0	2.7%
-Harnett	North Carolina	34	0	2	0	5.9%
+Harnett	North Carolina	35	1	2	0	5.7%
 Rutherford	North Carolina	31	6	1	0	3.2%
 Alamance	North Carolina	30	0	0	0	0%
 Catawba	North Carolina	29	1	1	0	3.4%
 Brunswick	North Carolina	29	0	1	0	3.4%
-Nash	North Carolina	27	2	1	0	3.7%
+Onslow	North Carolina	28	3	1	0	3.6%
+Nash	North Carolina	28	3	1	0	3.6%
 Cleveland	North Carolina	27	1	0	0	0%
-Onslow	North Carolina	26	1	1	0	3.8%
 Chatham	North Carolina	26	2	0	0	0%
 Franklin	North Carolina	23	0	1	0	4.3%
+Davie	North Carolina	22	2	2	0	9.1%
 Craven	North Carolina	22	3	1	1	4.5%
-Davie	North Carolina	20	0	2	0	10%
 Carteret	North Carolina	20	1	1	0	5%
 Columbus	North Carolina	20	3	1	0	5%
 Halifax	North Carolina	19	2	0	0	0%
+Edgecombe	North Carolina	18	6	0	0	0%
 Vance	North Carolina	17	0	0	0	0%
-Edgecombe	North Carolina	15	3	0	0	0%
+McDowell	North Carolina	16	3	0	0	0%
 Hoke	North Carolina	15	2	0	0	0%
 Lenoir	North Carolina	14	0	0	0	0%
 Montgomery	North Carolina	13	0	1	0	7.7%
 Dare	North Carolina	13	3	1	1	7.7%
-McDowell	North Carolina	13	0	0	0	0%
 Caldwell	North Carolina	12	1	0	0	0%
 Lincoln	North Carolina	12	1	0	0	0%
 Cherokee	North Carolina	11	1	1	0	9.1%
@@ -1437,9 +1438,9 @@ Greene	North Carolina	10	0	0	0	0%
 Pasquotank	North Carolina	10	0	0	0	0%
 Surry	North Carolina	10	0	0	0	0%
 Washington	North Carolina	10	2	0	0	0%
+Yadkin	North Carolina	10	1	0	0	0%
 Rockingham	North Carolina	9	1	2	0	22.2%
 Anson	North Carolina	9	3	0	0	0%
-Yadkin	North Carolina	9	0	0	0	0%
 Person	North Carolina	8	0	0	0	0%
 Polk	North Carolina	8	0	0	0	0%
 Stokes	North Carolina	8	0	0	0	0%
@@ -1447,19 +1448,20 @@ Watauga	North Carolina	8	0	0	0	0%
 Robeson	North Carolina	7	0	0	0	0%
 Transylvania	North Carolina	6	0	0	0	0%
 Hertford	North Carolina	5	0	1	0	20%
+Richmond	North Carolina	5	3	0	0	0%
 Wilkes	North Carolina	4	0	1	0	25%
 Martin	North Carolina	4	0	0	0	0%
 Clay	North Carolina	4	1	0	0	0%
 Gates	North Carolina	4	1	0	0	0%
 Lee	North Carolina	4	0	0	0	0%
+Pamlico	North Carolina	4	1	0	0	0%
 Scotland	North Carolina	4	1	0	0	0%
+Pender	North Carolina	4	2	0	0	0%
 Haywood	North Carolina	3	0	0	0	0%
 Mitchell	North Carolina	3	0	0	0	0%
 Currituck	North Carolina	3	0	0	0	0%
-Pamlico	North Carolina	3	0	0	0	0%
 Ashe	North Carolina	3	1	0	0	0%
 Warren	North Carolina	3	0	0	0	0%
-Pender	North Carolina	3	1	0	0	0%
 Jones	North Carolina	3	0	0	0	0%
 Macon	North Carolina	2	1	1	0	50%
 Alexander	North Carolina	2	0	0	0	0%
@@ -1468,7 +1470,6 @@ Caswell	North Carolina	2	0	0	0	0%
 Chowan	North Carolina	2	1	0	0	0%
 Jackson	North Carolina	2	0	0	0	0%
 Perquimans	North Carolina	2	0	0	0	0%
-Richmond	North Carolina	2	0	0	0	0%
 Bladen	North Carolina	1	0	0	0	0%
 Swain	North Carolina	1	0	0	0	0%
 St. Louis	Missouri	1,302	0	26	0	2%
@@ -1560,8 +1561,8 @@ Scotland	Missouri	1	0	0	0	0%
 Washington	Missouri	1	0	0	0	0%
 Unassigned	Missouri	0	0	1	0	0%
 Texas	Missouri	0	0	0	0	0%
-Unassigned	US Military	1,781	0	5	0	0.3%
-Navy	US Military	730	0	0	0	0%
+Unassigned	US Military	1,558	0	5	0	0.3%
+Navy	US Military	925	195	0	0	0%
 Air Force	US Military	649	0	1	0	0.2%
 Army	US Military	0	0	2	0	0%
 Maricopa	Arizona	1,689	130	39	0	2.3%
@@ -2373,6 +2374,7 @@ Greenwood	Kansas	1	0	0	0	0%
 Morton	Kansas	1	0	0	0	0%
 Barber	Kansas	1	0	0	0	0%
 Scott	Kansas	1	0	0	0	0%
+Ellis	Kansas	1	1	0	0	0%
 Unassigned	Kansas	0	0	8	8	0%
 Anderson	Kansas	0	0	0	0	0%
 Bernalillo	New Mexico	369	44	12	1	3.3%
@@ -2484,6 +2486,16 @@ Unassigned	Maine	4	0	0	0	0%
 Hancock	Maine	3	0	0	0	0%
 Aroostook	Maine	2	0	0	0	0%
 Washington	Maine	1	0	0	0	0%
+Navajo, AZ	Navajo Nation	222	36	0	0	0%
+Coconino, AZ	Navajo Nation	124	8	0	0	0%
+San Juan, NM	Navajo Nation	79	9	0	0	0%
+Apache, AZ	Navajo Nation	59	9	0	0	0%
+McKinley, NM	Navajo Nation	53	14	0	0	0%
+San Juan, UT	Navajo Nation	10	0	0	0	0%
+Cibola, NM	Navajo Nation	9	0	0	0	0%
+Socorro, NM	Navajo Nation	2	0	0	0	0%
+Unassigned	Navajo Nation	0	0	22	3	0%
+Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Berkeley	West Virginia	82	16	0	0	0%
 Monongalia	West Virginia	76	8	1	0	1.3%
 Kanawha	West Virginia	73	4	0	0	0%
@@ -2571,16 +2583,6 @@ Hawaii	Hawaii	28	2	0	0	0%
 Kauai	Hawaii	18	0	0	0	0%
 Unassigned	Hawaii	3	0	1	1	33.3%
 Residents diagnosed Outside of HI	Hawaii	2	0	0	0	0%
-Navajo, AZ	Navajo Nation	164	0	0	0	0%
-Coconino, AZ	Navajo Nation	102	0	0	0	0%
-San Juan, NM	Navajo Nation	66	0	0	0	0%
-Apache, AZ	Navajo Nation	44	0	0	0	0%
-McKinley, NM	Navajo Nation	32	0	0	0	0%
-Cibola, NM	Navajo Nation	8	0	0	0	0%
-San Juan, UT	Navajo Nation	7	0	0	0	0%
-Socorro, NM	Navajo Nation	2	0	0	0	0%
-Bernalillo, NM	Navajo Nation	1	0	0	0	0%
-Unassigned	Navajo Nation	0	0	17	0	0%
 Gallatin	Montana	128	8	0	0	0%
 Yellowstone	Montana	52	4	0	0	0%
 Flathead	Montana	34	3	0	0	0%
