@@ -4,18 +4,18 @@ New Jersey	54,588	3,561	1,932	225	3.5%
 Michigan	21,504	0	1,076	0	5%
 California	20,345	176	552	7	2.7%
 Pennsylvania	20,051	1,419	418	52	2.1%
-Louisiana	19,251	968	755	53	3.9%
+Louisiana	19,253	970	755	53	3.9%
 Massachusetts	18,941	0	503	0	2.7%
 Florida	17,531	705	390	20	2.2%
 Illinois	16,424	0	529	0	3.2%
-Texas	11,814	331	231	8	2%
+Texas	11,882	399	232	9	2%
 Georgia	11,485	600	416	8	3.6%
 Connecticut	9,784	0	380	0	3.9%
 Washington	9,755	2	457	0	4.7%
 Maryland	6,968	784	171	33	2.5%
 Indiana	6,907	0	300	0	4.3%
 Colorado 	6,202	0	226	0	3.6%
-Ohio	5,512	0	213	0	3.9%
+Ohio	5,878	366	231	18	3.9%
 Tennessee	4,634	0	94	0	2%
 Virginia	4,509	467	121	12	2.7%
 North Carolina	3,963	125	83	1	2.1%
@@ -23,7 +23,7 @@ Missouri	3,624	0	92	0	2.5%
 US Military	3,366	234	13	5	0.4%
 Arizona	3,112	94	97	8	3.1%
 Wisconsin	3,015	126	121	10	4%
-Alabama	2,881	43	79	1	2.7%
+Alabama	2,947	109	80	2	2.7%
 South Carolina	2,793	0	67	0	2.4%
 Nevada	2,722	229	90	5	3.3%
 Mississippi	2,469	209	82	6	3.3%
@@ -53,7 +53,7 @@ Montana	365	11	6	0	1.6%
 North Dakota	278	9	6	1	2.2%
 Wyoming	239	0	0	0	0%
 Alaska	235	0	7	0	3%
-Guam	128	0	4	0	3.1%
+Guam	130	2	4	0	3.1%
 Grand Princess	103	0	3	0	2.9%
 US Virgin Islands	50	0	1	0	2%
 Diamond Princess	49	0	0	0	0%
