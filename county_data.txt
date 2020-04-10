@@ -158,14 +158,14 @@ Presque Isle	Michigan	1	0	0	0	0%
 Mason	Michigan	1	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
-Los Angeles	California	7,955	0	223	0	2.8%
+Los Angeles	California	7,984	29	223	0	2.8%
 San Diego	California	1,628	0	40	0	2.5%
 Santa Clara	California	1,442	0	47	0	3.3%
 Riverside	California	1,280	0	33	0	2.6%
 Orange	California	1,079	0	17	0	1.6%
 San Bernardino	California	729	0	24	0	3.3%
 San Francisco	California	724	0	10	0	1.4%
-Alameda	California	713	0	17	0	2.4%
+Alameda	California	715	2	17	0	2.4%
 San Mateo	California	633	0	21	0	3.3%
 Sacramento	California	613	0	22	0	3.6%
 Contra Costa	California	484	0	8	0	1.7%
@@ -176,25 +176,25 @@ Santa Barbara	California	243	0	2	0	0.8%
 Tulare	California	187	0	10	0	5.3%
 Fresno	California	173	0	3	0	1.7%
 Marin	California	154	0	10	0	6.5%
-Sonoma	California	136	0	1	0	0.7%
+Sonoma	California	142	6	1	0	0.7%
 Placer	California	120	0	4	0	3.3%
 Solano	California	115	0	2	0	1.7%
+San Luis Obispo	California	104	2	1	0	1%
 Stanislaus	California	103	0	0	0	0%
-San Luis Obispo	California	102	0	1	0	1%
 Santa Cruz	California	80	0	1	0	1.3%
 Imperial	California	79	0	3	0	3.8%
 Monterey	California	71	0	3	0	4.2%
 Yolo	California	71	0	3	0	4.2%
+Merced	California	52	12	3	0	5.8%
 Humboldt	California	50	0	0	0	0%
-Merced	California	40	0	3	0	7.5%
 San Benito	California	34	0	2	0	5.9%
 Nevada	California	34	0	1	0	2.9%
 Madera	California	30	0	2	0	6.7%
-El Dorado	California	29	0	0	0	0%
+El Dorado	California	30	1	0	0	0%
 Napa	California	28	0	2	0	7.1%
 Shasta	California	24	0	3	0	12.5%
+Sutter	California	22	2	2	0	9.1%
 Mono	California	20	0	1	0	5%
-Sutter	California	20	0	2	0	10%
 Yuba	California	15	0	0	0	0%
 Butte	California	13	0	0	0	0%
 Inyo	California	11	0	0	0	0%
@@ -1386,7 +1386,7 @@ Guilford	North Carolina	125	0	9	0	7.2%
 Forsyth	North Carolina	113	0	3	0	2.7%
 Orange	North Carolina	98	0	1	0	1%
 Union	North Carolina	96	0	1	0	1%
-Cabarrus	North Carolina	88	0	1	0	1.1%
+Cabarrus	North Carolina	93	5	1	0	1.1%
 Granville	North Carolina	83	0	0	0	0%
 Davidson	North Carolina	78	0	2	0	2.6%
 Johnston	North Carolina	77	0	5	0	6.5%
@@ -1760,7 +1760,7 @@ Dillon	South Carolina	3	0	0	0	0%
 Allendale	South Carolina	2	0	0	0	0%
 Clark	Nevada	2,009	0	71	0	3.5%
 Washoe	Nevada	326	0	8	0	2.5%
-Unassigned	Nevada	57	0	1	0	1.8%
+Unassigned	Nevada	57	0	6	1	10.5%
 Humboldt	Nevada	16	0	0	0	0%
 Carson City	Nevada	14	0	0	0	0%
 Nye	Nevada	10	0	0	0	0%
@@ -1943,7 +1943,7 @@ Marshall	Oklahoma	1	0	0	0	0%
 Unassigned	Oklahoma	0	0	0	0	0%
 District of Columbia	Washington, D.C.	1,523	0	32	0	2.1%
 Jefferson	Kentucky	380	0	26	0	6.8%
-Unassigned	Kentucky	187	0	5	0	2.7%
+Unassigned	Kentucky	187	0	11	0	5.9%
 Fayette	Kentucky	148	0	8	0	5.4%
 Daviess	Kentucky	61	0	1	0	1.6%
 Hopkins	Kentucky	57	0	4	0	7%
