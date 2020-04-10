@@ -1,16 +1,16 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	92,384	5,356	5,820	599	6.3%
 Nassau	New York	21,512	1,372	723	90	3.4%
-Suffolk	New York	18,803	0	362	0	1.9%
+Suffolk	New York	20,320	1,517	414	52	2%
 Westchester	New York	18,077	1,073	389	30	2.2%
-Rockland	New York	7,122	457	172	0	2.4%
+Rockland	New York	7,122	457	200	28	2.8%
 Orange	New York	4,532	223	115	0	2.5%
 Dutchess	New York	1,598	105	10	0	0.6%
-Erie	New York	1,440	0	53	0	3.7%
+Erie	New York	1,498	58	53	0	3.5%
 Monroe	New York	742	44	40	0	5.4%
 Ulster	New York	530	68	8	0	1.5%
 Putnam	New York	487	31	7	0	1.4%
-Onondaga	New York	442	0	7	0	1.6%
+Onondaga	New York	442	0	8	1	1.8%
 Albany	New York	426	47	11	0	2.6%
 Sullivan	New York	318	22	7	0	2.2%
 Schenectady	New York	191	24	7	0	3.7%
@@ -57,7 +57,7 @@ Lewis	New York	6	0	0	0	0%
 Schuyler	New York	5	1	0	0	0%
 Hamilton	New York	3	0	0	0	0%
 Yates	New York	2	1	0	0	0%
-Unassigned	New York	0	0	58	58	0%
+Unassigned	New York	0	0	0	0	0%
 Bergen	New Jersey	8,928	585	390	45	4.4%
 Essex	New Jersey	6,580	511	352	31	5.3%
 Hudson	New Jersey	6,411	532	163	31	2.5%
@@ -80,54 +80,55 @@ Atlantic	New Jersey	211	20	6	2	2.8%
 Cumberland	New Jersey	138	27	3	0	2.2%
 Cape May	New Jersey	116	7	5	2	4.3%
 Salem	New Jersey	46	3	3	0	6.5%
-Wayne--Detroit	Michigan	6,061	0	275	0	4.5%
-Oakland	Michigan	4,247	0	246	0	5.8%
-Wayne	Michigan	4,032	0	229	0	5.7%
-Macomb	Michigan	2,783	0	165	0	5.9%
-Genesee	Michigan	755	0	48	0	6.4%
-Washtenaw	Michigan	637	0	15	0	2.4%
-Other	Michigan	290	0	4	0	1.4%
-Kent	Michigan	233	0	9	0	3.9%
-Ingham	Michigan	222	0	3	0	1.4%
-Saginaw	Michigan	205	0	7	0	3.4%
-Livingston	Michigan	181	0	2	0	1.1%
-Monroe	Michigan	165	0	1	0	0.6%
-St. Clair	Michigan	162	0	4	0	2.5%
-Jackson	Michigan	131	0	4	0	3.1%
-Out of State	Michigan	131	0	1	0	0.8%
-Clinton	Michigan	85	0	1	0	1.2%
-Berrien	Michigan	80	0	2	0	2.5%
-Unassigned	Michigan	78	0	1	0	1.3%
-Lapeer	Michigan	77	0	5	0	6.5%
-Kalamazoo	Michigan	74	0	6	0	8.1%
-Eaton	Michigan	69	0	3	0	4.3%
-Hillsdale	Michigan	64	0	6	0	9.4%
-Ottawa	Michigan	59	0	1	0	1.7%
-Calhoun	Michigan	57	0	1	0	1.8%
-Muskegon	Michigan	53	0	4	0	7.5%
-Bay	Michigan	42	0	0	0	0%
+Wayne--Detroit	Michigan	6,218	157	327	52	5.3%
+Oakland	Michigan	4,511	264	282	36	6.3%
+Wayne	Michigan	4,321	289	282	53	6.5%
+Macomb	Michigan	2,973	190	197	32	6.6%
+Genesee	Michigan	828	73	57	9	6.9%
+Washtenaw	Michigan	659	22	15	0	2.3%
+Michigan Department of Corrections (MDOC)	Michigan	335	45	5	1	1.5%
+Kent	Michigan	250	17	13	4	5.2%
+Saginaw	Michigan	240	35	9	2	3.8%
+Ingham	Michigan	239	17	3	0	1.3%
+Livingston	Michigan	196	15	3	1	1.5%
+St. Clair	Michigan	179	17	4	0	2.2%
+Monroe	Michigan	174	9	4	3	2.3%
+Jackson	Michigan	140	9	4	0	2.9%
+Out of State	Michigan	137	6	1	0	0.7%
+Clinton	Michigan	90	5	3	2	3.3%
+Berrien	Michigan	88	8	2	0	2.3%
+Lapeer	Michigan	87	10	6	1	6.9%
+Unassigned	Michigan	84	6	2	1	2.4%
+Kalamazoo	Michigan	77	3	7	1	9.1%
+Hillsdale	Michigan	70	6	6	0	8.6%
+Eaton	Michigan	69	0	4	1	5.8%
+Calhoun	Michigan	65	8	1	0	1.5%
+Ottawa	Michigan	61	2	1	0	1.6%
+Muskegon	Michigan	57	4	4	0	7%
+Bay	Michigan	48	6	0	0	0%
+Tuscola	Michigan	41	5	5	2	12.2%
 Lenawee	Michigan	39	0	0	0	0%
-Tuscola	Michigan	36	0	3	0	8.3%
-Shiawassee	Michigan	31	0	0	0	0%
+Isabella	Michigan	37	9	2	0	5.4%
+Shiawassee	Michigan	34	3	0	0	0%
 Otsego	Michigan	29	0	2	0	6.9%
-Isabella	Michigan	28	0	2	0	7.1%
 Midland	Michigan	28	0	1	0	3.6%
-Branch	Michigan	24	0	1	0	4.2%
-Sanilac	Michigan	21	0	2	0	9.5%
-Montcalm	Michigan	19	0	1	0	5.3%
-Van Buren	Michigan	18	0	1	0	5.6%
-Marquette	Michigan	18	0	2	0	11.1%
-Allegan	Michigan	18	0	0	0	0%
-St. Joseph	Michigan	18	0	0	0	0%
-Emmet	Michigan	16	0	2	0	12.5%
-Grand Traverse	Michigan	15	0	3	0	20%
-Ionia	Michigan	13	0	1	0	7.7%
-Cass	Michigan	10	0	1	0	10%
+Branch	Michigan	25	1	2	1	8%
+Sanilac	Michigan	23	2	2	0	8.7%
+Marquette	Michigan	21	3	2	0	9.5%
+Van Buren	Michigan	20	2	1	0	5%
+Montcalm	Michigan	20	1	1	0	5%
+St. Joseph	Michigan	20	2	0	0	0%
+Allegan	Michigan	19	1	0	0	0%
+Emmet	Michigan	17	1	2	0	11.8%
+Grand Traverse	Michigan	16	1	3	0	18.8%
+Ionia	Michigan	14	1	2	1	14.3%
+Federal Correctional Institution (FCI)	Michigan	14	14	0	0	0%
+Cass	Michigan	12	2	1	0	8.3%
+Mecosta	Michigan	11	2	1	0	9.1%
 Kalkaska	Michigan	10	0	2	0	20%
 Cheboygan	Michigan	10	0	1	0	10%
-Mecosta	Michigan	9	0	1	0	11.1%
+Charlevoix	Michigan	10	1	0	0	0%
 Delta	Michigan	9	0	1	0	11.1%
-Charlevoix	Michigan	9	0	0	0	0%
 Manistee	Michigan	9	0	0	0	0%
 Roscommon	Michigan	8	0	0	0	0%
 Barry	Michigan	7	0	0	0	0%
@@ -136,26 +137,27 @@ Antrim	Michigan	6	0	0	0	0%
 Gratiot	Michigan	6	0	0	0	0%
 Crawford	Michigan	5	0	1	0	20%
 Huron	Michigan	5	0	0	0	0%
+Gogebic	Michigan	4	1	1	0	25%
 Iosco	Michigan	4	0	1	0	25%
 Arenac	Michigan	4	0	0	0	0%
 Gladwin	Michigan	4	0	0	0	0%
 Leelanau	Michigan	4	0	0	0	0%
 Mackinac	Michigan	4	0	0	0	0%
-Gogebic	Michigan	3	0	1	0	33.3%
+Newaygo	Michigan	4	1	0	0	0%
 Dickinson	Michigan	3	0	1	0	33.3%
 Oceana	Michigan	3	0	1	0	33.3%
-Newaygo	Michigan	3	0	0	0	0%
+Clare	Michigan	3	1	1	1	33.3%
 Ogemaw	Michigan	3	0	0	0	0%
 Osceola	Michigan	3	0	0	0	0%
 Oscoda	Michigan	3	0	0	0	0%
-Clare	Michigan	2	0	0	0	0%
+Presque Isle	Michigan	2	1	0	0	0%
 Missaukee	Michigan	1	0	1	0	100%
-Chippewa	Michigan	1	0	0	0	0%
+Chippewa	Michigan	1	0	1	1	100%
 Houghton	Michigan	1	0	0	0	0%
 Schoolcraft	Michigan	1	0	0	0	0%
 Luce	Michigan	1	0	0	0	0%
-Presque Isle	Michigan	1	0	0	0	0%
 Mason	Michigan	1	0	0	0	0%
+Menominee	Michigan	1	1	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
 Los Angeles	California	7,984	29	225	2	2.8%
@@ -691,7 +693,7 @@ Monitor	Texas	0	0	0	0	0%
 Scurry	Texas	0	0	0	0	0%
 Fulton	Georgia	1,364	28	48	0	3.5%
 Unknown	Georgia	1,246	289	5	0	0.4%
-Dougherty	Georgia	1,062	20	67	1	6.3%
+Dougherty	Georgia	1,062	20	67	0	6.3%
 DeKalb	Georgia	795	29	13	0	1.6%
 Cobb	Georgia	662	9	33	1	5%
 Gwinnett	Georgia	646	28	17	0	2.6%
@@ -884,7 +886,7 @@ Okanogan	Washington	12	0	0	0	0%
 San Juan	Washington	12	0	0	0	0%
 Whitman	Washington	12	0	0	0	0%
 Clallam	Washington	11	0	0	0	0%
-Grays Harbor	Washington	7	0	0	0	0%
+Grays Harbor	Washington	8	1	0	0	0%
 Stevens	Washington	6	0	0	0	0%
 Asotin	Washington	4	0	0	0	0%
 Skamania	Washington	2	0	0	0	0%
@@ -1419,7 +1421,7 @@ Catawba	North Carolina	29	0	1	0	3.4%
 Nash	North Carolina	29	1	1	0	3.4%
 Onslow	North Carolina	28	0	1	0	3.6%
 Chatham	North Carolina	26	0	0	0	0%
-Craven	North Carolina	22	0	1	0	4.5%
+Craven	North Carolina	23	1	1	0	4.3%
 Davie	North Carolina	21	0	2	0	9.5%
 Carteret	North Carolina	20	0	1	0	5%
 Columbus	North Carolina	20	0	1	0	5%
@@ -1856,15 +1858,15 @@ Tallahatchie	Mississippi	3	0	0	0	0%
 Tishomingo	Mississippi	2	0	0	0	0%
 Greene	Mississippi	1	0	0	0	0%
 Unassigned	Mississippi	0	0	0	0	0%
-Salt Lake	Utah	935	0	7	0	0.7%
-Summit	Utah	289	0	0	0	0%
-Utah	Utah	272	0	2	0	0.7%
-Davis	Utah	170	0	2	0	1.2%
-Wasatch	Utah	88	0	0	0	0%
-Weber-Morgan	Utah	85	0	1	0	1.2%
-Washington	Utah	31	0	1	0	3.2%
-Cache	Utah	29	0	0	0	0%
-Tooele	Utah	24	0	0	0	0%
+Salt Lake	Utah	1,011	76	7	0	0.7%
+Summit	Utah	296	7	0	0	0%
+Utah	Utah	283	11	2	0	0.7%
+Davis	Utah	180	10	2	0	1.1%
+Wasatch	Utah	96	8	0	0	0%
+Weber-Morgan	Utah	90	5	1	0	1.1%
+Washington	Utah	35	4	1	0	2.9%
+Cache	Utah	30	1	0	0	0%
+Tooele	Utah	28	4	0	0	0%
 Iron	Utah	13	0	0	0	0%
 Box Elder	Utah	12	0	0	0	0%
 Central Utah	Utah	6	0	0	0	0%
@@ -1876,6 +1878,7 @@ Emery	Utah	2	0	0	0	0%
 Carbon	Utah	2	0	0	0	0%
 Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
+unassigned	Utah	0	0	4	4	0%
 Unassigned Southwest	Utah	0	0	0	0	0%
 Oklahoma	Oklahoma	413	28	17	2	4.1%
 Tulsa	Oklahoma	314	6	16	0	5.1%
@@ -2274,9 +2277,9 @@ White	Arkansas	27	0	0	0	0%
 Van Buren	Arkansas	26	0	1	0	3.8%
 Lonoke	Arkansas	26	0	0	0	0%
 Pope	Arkansas	23	0	0	0	0%
+Unassigned	Arkansas	21	7	0	0	0%
 Miller	Arkansas	20	0	0	0	0%
 Union	Arkansas	16	0	0	0	0%
-Unassigned	Arkansas	14	0	0	0	0%
 Johnson	Arkansas	12	1	0	0	0%
 Lincoln	Arkansas	10	0	0	0	0%
 Lawrence	Arkansas	9	0	1	0	11.1%
