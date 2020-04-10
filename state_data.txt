@@ -2,16 +2,16 @@ state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rat
 New York	161,799	10,721	7,067	799	4.4%
 New Jersey	51,027	3,590	1,709	205	3.3%
 Michigan	21,504	1,159	1,076	118	5%
-California	19,710	679	544	37	2.8%
+California	19,950	919	551	44	2.8%
 Massachusetts	18,941	2,151	503	70	2.7%
-Pennsylvania	18,300	1,554	345	26	1.9%
+Pennsylvania	18,542	1,796	362	43	2%
 Louisiana	18,283	1,253	702	51	3.8%
-Florida	16,364	666	354	31	2.2%
-Illinois	15,079	0	462	0	3.1%
-Texas	11,208	1,134	212	19	1.9%
-Georgia	10,566	360	379	14	3.6%
+Florida	16,826	1,128	371	48	2.2%
+Illinois	16,422	1,343	528	66	3.2%
+Texas	11,259	1,185	215	22	1.9%
+Georgia	10,885	679	412	47	3.8%
 Connecticut	9,784	1,003	380	45	3.9%
-Washington	9,639	362	456	24	4.7%
+Washington	9,753	476	457	25	4.7%
 Indiana	6,351	0	245	0	3.9%
 Colorado 	6,202	547	226	33	3.6%
 Maryland	6,185	656	138	14	2.2%
@@ -22,28 +22,28 @@ North Carolina	3,736	157	76	8	2%
 Missouri	3,432	0	93	0	2.7%
 US Military	3,160	0	8	0	0.3%
 Arizona	3,018	292	89	8	2.9%
-Wisconsin	2,886	74	111	8	3.8%
+Wisconsin	2,890	78	111	8	3.8%
+Alabama	2,838	341	78	11	2.7%
 South Carolina	2,793	241	67	4	2.4%
-Alabama	2,703	204	70	3	2.6%
 Nevada	2,456	138	81	7	3.3%
 Mississippi	2,260	257	76	9	3.4%
 Utah	1,977	130	13	0	0.7%
 Rhode Island	1,727	277	43	8	2.5%
 Oklahoma	1,686	160	80	1	4.7%
 Washington, D.C.	1,523	83	32	5	2.1%
-Kentucky	1,346	0	73	0	5.4%
+Idaho	1,354	122	24	7	1.8%
+Kentucky	1,341	0	73	0	5.4%
 Oregon	1,321	84	44	6	3.3%
 Iowa	1,270	125	29	2	2.3%
 Minnesota	1,242	90	50	11	4%
-Idaho	1,232	0	18	0	1.5%
 Delaware	1,209	93	23	4	1.9%
-Arkansas	1,119	42	21	3	1.9%
+Arkansas	1,146	69	21	3	1.8%
 Kansas	1,116	65	42	8	3.8%
-New Mexico	865	0	16	0	1.8%
+New Mexico	989	124	17	1	1.7%
 New Hampshire	819	31	21	3	2.6%
 Puerto Rico	683	63	33	9	4.8%
 Vermont	628	23	23	0	3.7%
-Nebraska	568	36	14	0	2.5%
+Nebraska	577	45	15	1	2.6%
 Maine	560	23	16	2	2.9%
 West Virginia	524	42	5	1	1%
 South Dakota	447	54	6	0	1.3%
@@ -51,8 +51,8 @@ Hawaii	442	7	6	1	1.4%
 Navajo Nation	426	0	17	0	4%
 Montana	354	22	6	0	1.7%
 North Dakota	269	18	5	1	1.9%
+Wyoming	239	9	0	0	0%
 Alaska	235	9	7	0	3%
-Wyoming	230	0	0	0	0%
 Guam	128	3	4	0	3.1%
 Grand Princess	103	0	3	0	2.9%
 Diamond Princess	49	0	0	0	0%
