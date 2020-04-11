@@ -160,58 +160,58 @@ Mason	Michigan	1	0	0	0	0%
 Menominee	Michigan	1	1	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
-Los Angeles	California	8,443	488	242	19	2.9%
-San Diego	California	1,628	0	40	0	2.5%
+Los Angeles	California	8,453	498	244	21	2.9%
+San Diego	California	1,693	65	44	4	2.6%
 Santa Clara	California	1,484	42	50	3	3.4%
 Riverside	California	1,350	70	39	6	2.9%
 Orange	California	1,138	59	17	0	1.5%
 San Bernardino	California	810	81	25	1	3.1%
 San Francisco	California	797	73	13	3	1.6%
-Alameda	California	766	53	20	3	2.6%
+Alameda	California	768	55	20	3	2.6%
 Sacramento	California	653	40	24	2	3.7%
 San Mateo	California	638	5	21	0	3.3%
 Contra Costa	California	511	27	9	1	1.8%
 Kern	California	371	34	3	0	0.8%
 Ventura	California	298	24	10	3	3.4%
 Santa Barbara	California	260	17	2	0	0.8%
-San Joaquin	California	253	8	14	0	5.5%
+San Joaquin	California	257	12	14	0	5.4%
 Tulare	California	203	16	11	1	5.4%
 Fresno	California	191	18	5	2	2.6%
 Marin	California	154	0	10	0	6.5%
-Sonoma	California	142	6	1	0	0.7%
+Sonoma	California	145	9	2	1	1.4%
 Placer	California	123	3	4	0	3.3%
 Solano	California	121	6	2	0	1.7%
 Stanislaus	California	116	13	1	1	0.9%
 San Luis Obispo	California	107	5	1	0	0.9%
 Santa Cruz	California	80	0	1	0	1.3%
+Monterey	California	79	8	3	0	3.8%
 Imperial	California	79	0	3	0	3.8%
 Yolo	California	75	4	3	0	4%
-Monterey	California	71	0	3	0	4.2%
-Merced	California	52	12	3	0	5.8%
+Merced	California	59	19	3	0	5.1%
 Humboldt	California	50	0	0	0	0%
+Sutter	California	37	17	3	1	8.1%
 San Benito	California	35	1	2	0	5.7%
 Nevada	California	34	0	1	0	2.9%
 Napa	California	32	4	2	0	6.3%
+El Dorado	California	32	3	0	0	0%
 Madera	California	30	0	2	0	6.7%
-El Dorado	California	30	1	0	0	0%
 Shasta	California	24	0	3	0	12.5%
-Sutter	California	22	2	2	0	9.1%
-Mono	California	20	0	1	0	5%
+Mono	California	21	1	1	0	4.8%
 Yuba	California	15	0	1	1	6.7%
 Butte	California	14	1	0	0	0%
 Inyo	California	12	1	0	0	0%
+Kings	California	9	1	0	0	0%
 Calaveras	California	8	0	0	0	0%
-Kings	California	8	0	0	0	0%
 Amador	California	7	0	0	0	0%
 Siskiyou	California	5	1	0	0	0%
 Mendocino	California	4	0	0	0	0%
+Plumas	California	4	1	0	0	0%
 Unassigned	California	4	0	0	0	0%
 Lake	California	4	1	0	0	0%
 Colusa	California	3	0	0	0	0%
 Glenn	California	3	1	0	0	0%
-Plumas	California	3	0	0	0	0%
+Alpine	California	2	1	0	0	0%
 Del Norte	California	2	0	0	0	0%
-Alpine	California	1	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
 Tehama	California	1	0	0	0	0%
 Suffolk	Massachusetts	4,534	493	48	0	1.1%
@@ -527,8 +527,8 @@ Montgomery	Texas	245	14	4	0	1.6%
 El Paso	Texas	225	33	1	1	0.4%
 Brazoria	Texas	216	17	2	0	0.9%
 Hidalgo	Texas	181	35	1	0	0.6%
-Webb	Texas	166	0	6	0	3.6%
-Cameron	Texas	147	29	3	0	2%
+Webb	Texas	171	5	6	0	3.5%
+Cameron	Texas	159	41	3	0	1.9%
 Brazos	Texas	116	2	9	0	7.8%
 Williamson	Texas	110	7	4	0	3.6%
 Jefferson	Texas	94	7	5	0	5.3%
@@ -864,7 +864,7 @@ Snohomish	Washington	1,802	57	67	3	3.7%
 Unassigned	Washington	908	0	0	0	0%
 Pierce	Washington	875	37	19	2	2.2%
 Yakima	Washington	511	64	20	1	3.9%
-Spokane	Washington	251	5	17	3	6.8%
+Spokane	Washington	251	5	14	0	5.6%
 Whatcom	Washington	250	7	23	2	9.2%
 Benton	Washington	233	18	25	0	10.7%
 Clark	Washington	220	14	14	0	6.4%
@@ -891,11 +891,11 @@ Clallam	Washington	11	0	0	0	0%
 Grays Harbor	Washington	8	1	0	0	0%
 Stevens	Washington	6	0	0	0	0%
 Asotin	Washington	4	0	0	0	0%
-Skamania	Washington	2	0	0	0	0%
+Skamania	Washington	3	1	0	0	0%
+Lincoln	Washington	2	1	0	0	0%
 Wahkiakum	Washington	2	0	0	0	0%
 Columbia	Washington	1	0	0	0	0%
 Ferry	Washington	1	0	0	0	0%
-Lincoln	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
 Prince George\'s	Maryland	1,716	240	41	7	2.4%
 Montgomery	Maryland	1,388	174	35	5	2.5%
@@ -1387,7 +1387,7 @@ Highland	Virginia	0	0	0	0	0%
 Martinsville	Virginia	0	0	0	0	0%
 Norton	Virginia	0	0	0	0	0%
 Patrick	Virginia	0	0	0	0	0%
-Mecklenburg	North Carolina	913	44	10	0	1.1%
+Mecklenburg	North Carolina	913	44	12	2	1.3%
 Wake	North Carolina	410	22	0	0	0%
 Durham	North Carolina	263	18	1	0	0.4%
 Guilford	North Carolina	127	2	9	0	7.1%
@@ -1402,7 +1402,7 @@ Davidson	North Carolina	81	3	2	0	2.5%
 Gaston	North Carolina	78	5	3	0	3.8%
 Rowan	North Carolina	75	0	2	0	2.7%
 Cumberland	North Carolina	75	3	1	0	1.3%
-Henderson	North Carolina	68	10	4	0	5.9%
+Henderson	North Carolina	68	10	5	1	7.4%
 Iredell	North Carolina	63	1	1	0	1.6%
 Northampton	North Carolina	61	4	1	0	1.6%
 Pitt	North Carolina	60	2	1	0	1.7%
@@ -1453,8 +1453,8 @@ Anson	North Carolina	9	0	0	0	0%
 Person	North Carolina	8	0	0	0	0%
 Polk	North Carolina	8	0	0	0	0%
 Watauga	North Carolina	8	0	0	0	0%
+Richmond	North Carolina	7	2	1	1	14.3%
 Robeson	North Carolina	7	0	0	0	0%
-Richmond	North Carolina	7	2	0	0	0%
 Transylvania	North Carolina	6	0	0	0	0%
 Hertford	North Carolina	5	0	1	0	20%
 Martin	North Carolina	5	1	0	0	0%
@@ -1479,7 +1479,6 @@ Alleghany	North Carolina	2	0	0	0	0%
 Chowan	North Carolina	2	0	0	0	0%
 Jackson	North Carolina	2	0	0	0	0%
 Bladen	North Carolina	1	0	0	0	0%
-Unassigned	North Carolina	0	0	1	1	0%
 St. Louis	Missouri	1,498	105	33	5	2.2%
 St. Louis City	Missouri	565	0	17	4	3%
 St. Charles	Missouri	325	42	11	1	3.4%
@@ -2491,6 +2490,16 @@ Cedar	Nebraska	1	1	0	0	0%
 Clay	Nebraska	1	1	0	0	0%
 Unassigned	Nebraska	0	0	2	0	0%
 Logan	Nebraska	0	0	0	0	0%
+Navajo, AZ	Navajo Nation	234	12	0	0	0%
+Coconino, AZ	Navajo Nation	134	10	0	0	0%
+San Juan, NM	Navajo Nation	82	3	0	0	0%
+McKinley, NM	Navajo Nation	63	10	0	0	0%
+Apache, AZ	Navajo Nation	61	2	0	0	0%
+Cibola, NM	Navajo Nation	11	2	0	0	0%
+San Juan, UT	Navajo Nation	10	0	0	0	0%
+Socorro, NM	Navajo Nation	2	0	0	0	0%
+Unassigned	Navajo Nation	0	0	22	0	0%
+Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Cumberland	Maine	276	7	11	0	4%
 York	Maine	137	5	2	0	1.5%
 Penobscot	Maine	33	2	0	0	0%
@@ -2552,16 +2561,6 @@ Boone	West Virginia	1	0	0	0	0%
 Braxton	West Virginia	1	0	0	0	0%
 Monroe	West Virginia	1	1	0	0	0%
 Unassigned	West Virginia	0	0	1	0	0%
-Navajo, AZ	Navajo Nation	222	0	0	0	0%
-Coconino, AZ	Navajo Nation	124	0	0	0	0%
-San Juan, NM	Navajo Nation	79	0	0	0	0%
-Apache, AZ	Navajo Nation	59	0	0	0	0%
-McKinley, NM	Navajo Nation	53	0	0	0	0%
-San Juan, UT	Navajo Nation	10	0	0	0	0%
-Cibola, NM	Navajo Nation	9	0	0	0	0%
-Socorro, NM	Navajo Nation	2	0	0	0	0%
-Unassigned	Navajo Nation	0	0	22	0	0%
-Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Minnehaha	South Dakota	352	78	2	0	0.6%
 Lincoln	South Dakota	38	5	0	0	0%
 Beadle	South Dakota	22	1	2	0	9.1%
