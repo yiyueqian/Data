@@ -2,7 +2,7 @@ state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rat
 New York	174,489	12,682	7,887	820	4.5%
 New Jersey	54,588	3,561	1,932	225	3.5%
 Michigan	22,783	1,279	1,281	205	5.6%
-California	21,406	1,237	599	54	2.8%
+California	21,408	1,239	599	54	2.8%
 Massachusetts	20,974	2,033	599	96	2.9%
 Pennsylvania	20,408	1,776	449	83	2.2%
 Louisiana	19,253	970	755	53	3.9%

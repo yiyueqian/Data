@@ -192,9 +192,9 @@ Humboldt	California	50	0	0	0	0%
 Sutter	California	37	17	3	1	8.1%
 San Benito	California	35	1	2	0	5.7%
 Nevada	California	34	0	1	0	2.9%
+Madera	California	32	2	2	0	6.3%
 Napa	California	32	4	2	0	6.3%
 El Dorado	California	32	3	0	0	0%
-Madera	California	30	0	2	0	6.7%
 Shasta	California	24	0	3	0	12.5%
 Mono	California	21	1	1	0	4.8%
 Yuba	California	15	0	1	1	6.7%
