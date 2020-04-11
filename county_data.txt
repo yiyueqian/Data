@@ -189,7 +189,7 @@ Monterey	California	71	0	3	0	4.2%
 Yolo	California	71	0	3	0	4.2%
 Merced	California	52	12	3	0	5.8%
 Humboldt	California	50	0	0	0	0%
-Sutter	California	37	17	2	0	5.4%
+Sutter	California	37	17	3	1	8.1%
 San Benito	California	35	1	2	0	5.7%
 Nevada	California	34	0	1	0	2.9%
 Napa	California	32	4	2	0	6.3%
@@ -360,6 +360,74 @@ West Carroll	Louisiana	3	2	0	0	0%
 Madison	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Cameron	Louisiana	1	0	0	0	0%
+Miami-Dade	Florida	6,300	402	84	19	1.3%
+Broward	Florida	2,679	199	72	5	2.7%
+Palm Beach	Florida	1,431	98	79	4	5.5%
+Orange	Florida	902	42	12	0	1.3%
+Hillsborough	Florida	676	19	12	3	1.8%
+Duval	Florida	618	23	11	0	1.8%
+Lee	Florida	572	50	16	2	2.8%
+Pinellas	Florida	431	9	12	2	2.8%
+Collier	Florida	327	24	3	0	0.9%
+Osceola	Florida	305	10	5	0	1.6%
+Polk	Florida	241	7	8	1	3.3%
+Seminole	Florida	238	9	2	1	0.8%
+Sarasota	Florida	211	10	10	0	4.7%
+Escambia	Florida	204	12	3	0	1.5%
+Manatee	Florida	200	21	13	2	6.5%
+Volusia	Florida	190	12	6	1	3.2%
+Alachua	Florida	167	13	0	0	0%
+St. Johns	Florida	165	2	2	0	1.2%
+Lake	Florida	149	9	3	1	2%
+St. Lucie	Florida	146	9	6	0	4.1%
+Clay	Florida	144	34	8	1	5.6%
+Pasco	Florida	143	4	2	0	1.4%
+Brevard	Florida	121	10	2	0	1.7%
+Martin	Florida	115	6	3	2	2.6%
+Sumter	Florida	107	7	9	2	8.4%
+Santa Rosa	Florida	105	9	3	1	2.9%
+Charlotte	Florida	104	23	5	1	4.8%
+Leon	Florida	91	13	0	0	0%
+Okaloosa	Florida	85	2	1	0	1.2%
+Marion	Florida	83	8	2	0	2.4%
+Indian River	Florida	70	2	1	1	1.4%
+Citrus	Florida	64	6	6	0	9.4%
+Hernando	Florida	64	2	2	1	3.1%
+Suwannee	Florida	59	5	0	0	0%
+Monroe	Florida	55	2	3	0	5.5%
+Highlands	Florida	47	1	4	0	8.5%
+Flagler	Florida	44	3	1	0	2.3%
+Bay	Florida	36	2	1	0	2.8%
+Nassau	Florida	33	1	0	0	0%
+Putnam	Florida	29	4	1	0	3.4%
+Walton	Florida	27	1	0	0	0%
+Columbia	Florida	23	5	0	0	0%
+Bradford	Florida	22	2	0	0	0%
+DeSoto	Florida	20	0	3	0	15%
+Baker	Florida	16	0	2	0	12.5%
+Hendry	Florida	15	2	0	0	0%
+Gadsden	Florida	14	2	0	0	0%
+Madison	Florida	14	2	0	0	0%
+Jefferson	Florida	9	0	0	0	0%
+Wakulla	Florida	7	0	0	0	0%
+Levy	Florida	6	0	0	0	0%
+Calhoun	Florida	5	1	0	0	0%
+Jackson	Florida	5	0	0	0	0%
+Okeechobee	Florida	5	0	0	0	0%
+Glades	Florida	4	0	1	0	25%
+Gilchrist	Florida	4	1	0	0	0%
+Hardee	Florida	3	0	0	0	0%
+Washington	Florida	3	0	0	0	0%
+Holmes	Florida	2	0	0	0	0%
+Unassigned	Florida	2	0	0	0	0%
+Union	Florida	2	0	0	0	0%
+Franklin	Florida	2	0	0	0	0%
+Hamilton	Florida	2	1	0	0	0%
+Gulf	Florida	1	0	0	0	0%
+Dixie	Florida	1	0	0	0	0%
+Taylor	Florida	1	0	0	0	0%
+Lafayette	Florida	1	0	0	0	0%
+Liberty	Florida	1	1	0	0	0%
 Cook	Illinois	12,472	1,057	399	47	3.2%
 Lake	Illinois	1,230	106	31	4	2.5%
 Will	Illinois	1,077	67	52	6	4.8%
@@ -445,73 +513,6 @@ Hancock	Illinois	1	0	0	0	0%
 Stark	Illinois	1	0	0	0	0%
 Schuyler	Illinois	1	0	0	0	0%
 DeWitt	Illinois	0	0	0	0	0%
-Miami-Dade	Florida	6,119	221	74	9	1.2%
-Broward	Florida	2,645	165	72	5	2.7%
-Palm Beach	Florida	1,388	55	76	1	5.5%
-Orange	Florida	895	35	13	0	1.5%
-Hillsborough	Florida	671	14	9	0	1.3%
-Duval	Florida	609	14	11	0	1.8%
-Lee	Florida	547	25	14	0	2.6%
-Pinellas	Florida	428	6	10	0	2.3%
-Collier	Florida	318	15	3	0	0.9%
-Osceola	Florida	300	5	5	0	1.7%
-Polk	Florida	237	3	8	1	3.4%
-Seminole	Florida	235	6	2	1	0.9%
-Sarasota	Florida	208	7	10	0	4.8%
-Manatee	Florida	198	19	11	0	5.6%
-Escambia	Florida	197	5	3	0	1.5%
-Volusia	Florida	187	9	5	0	2.7%
-Alachua	Florida	167	13	0	0	0%
-St. Johns	Florida	163	0	2	0	1.2%
-Lake	Florida	147	7	2	0	1.4%
-St. Lucie	Florida	144	7	6	0	4.2%
-Pasco	Florida	141	2	2	0	1.4%
-Brevard	Florida	115	4	2	0	1.7%
-Clay	Florida	114	4	7	0	6.1%
-Martin	Florida	111	2	2	1	1.8%
-Sumter	Florida	106	6	7	0	6.6%
-Santa Rosa	Florida	103	7	2	0	1.9%
-Charlotte	Florida	85	4	4	0	4.7%
-Okaloosa	Florida	83	0	1	0	1.2%
-Marion	Florida	82	7	2	0	2.4%
-Leon	Florida	82	4	0	0	0%
-Indian River	Florida	68	0	1	1	1.5%
-Hernando	Florida	62	0	2	1	3.2%
-Citrus	Florida	60	2	6	0	10%
-Suwannee	Florida	58	4	0	0	0%
-Monroe	Florida	55	2	3	0	5.5%
-Highlands	Florida	47	1	4	0	8.5%
-Flagler	Florida	44	3	1	0	2.3%
-Bay	Florida	36	2	1	0	2.8%
-Nassau	Florida	33	1	0	0	0%
-Putnam	Florida	28	3	1	0	3.6%
-Walton	Florida	27	1	0	0	0%
-Columbia	Florida	23	5	0	0	0%
-Bradford	Florida	22	2	0	0	0%
-DeSoto	Florida	20	0	3	0	15%
-Baker	Florida	16	0	2	0	12.5%
-Gadsden	Florida	14	2	0	0	0%
-Hendry	Florida	14	1	0	0	0%
-Madison	Florida	14	2	0	0	0%
-Jefferson	Florida	9	0	0	0	0%
-Wakulla	Florida	7	0	0	0	0%
-Levy	Florida	6	0	0	0	0%
-Calhoun	Florida	5	1	0	0	0%
-Jackson	Florida	5	0	0	0	0%
-Okeechobee	Florida	5	0	0	0	0%
-Glades	Florida	4	0	1	0	25%
-Gilchrist	Florida	4	1	0	0	0%
-Hardee	Florida	3	0	0	0	0%
-Washington	Florida	3	0	0	0	0%
-Holmes	Florida	2	0	0	0	0%
-Unassigned	Florida	2	0	0	0	0%
-Union	Florida	2	0	0	0	0%
-Franklin	Florida	2	0	0	0	0%
-Hamilton	Florida	2	1	0	0	0%
-Gulf	Florida	1	0	0	0	0%
-Dixie	Florida	1	0	0	0	0%
-Taylor	Florida	1	0	0	0	0%
-Lafayette	Florida	1	0	0	0	0%
 Harris--Houston	Texas	2,063	68	16	2	0.8%
 Dallas	Texas	1,537	105	25	3	1.6%
 Harris--Non Houston	Texas	1,198	146	24	4	2%
@@ -520,19 +521,19 @@ Travis	Texas	690	48	9	2	1.3%
 Bexar	Texas	665	50	24	2	3.6%
 Fort Bend	Texas	485	48	10	3	2.1%
 Denton	Texas	426	0	9	0	2.1%
-Collin	Texas	406	0	6	0	1.5%
-Galveston	Texas	308	0	7	0	2.3%
+Collin	Texas	425	19	7	1	1.6%
+Galveston	Texas	341	33	8	1	2.3%
+Lubbock	Texas	249	15	13	4	5.2%
 Montgomery	Texas	245	14	4	0	1.6%
-Lubbock	Texas	234	0	9	0	3.8%
 El Paso	Texas	225	33	1	1	0.4%
-Brazoria	Texas	199	0	2	0	1%
+Brazoria	Texas	216	17	2	0	0.9%
+Hidalgo	Texas	181	35	1	0	0.6%
 Webb	Texas	166	0	6	0	3.6%
 Cameron	Texas	147	29	3	0	2%
-Hidalgo	Texas	146	0	1	0	0.7%
 Brazos	Texas	116	2	9	0	7.8%
-Williamson	Texas	103	0	4	0	3.9%
+Williamson	Texas	110	7	4	0	3.6%
 Jefferson	Texas	94	7	5	0	5.3%
-Smith	Texas	88	0	2	0	2.3%
+Smith	Texas	93	5	2	0	2.2%
 Bell	Texas	84	0	3	0	3.6%
 Hays	Texas	82	3	0	0	0%
 Victoria	Texas	73	7	0	0	0%
@@ -542,14 +543,14 @@ Potter	Texas	59	1	1	0	1.7%
 Ellis	Texas	58	8	2	0	3.4%
 Randall	Texas	56	4	1	0	1.8%
 Taylor	Texas	55	4	1	0	1.8%
-Wichita	Texas	53	0	0	0	0%
+Wichita	Texas	54	1	0	0	0%
+Matagorda	Texas	49	4	3	0	6.1%
 Guadalupe	Texas	47	1	0	0	0%
-Matagorda	Texas	45	0	3	0	6.7%
 Hardin	Texas	41	0	1	0	2.4%
+Gregg	Texas	40	3	0	0	0%
 Ector	Texas	39	0	1	0	2.6%
 Comal	Texas	37	3	4	0	10.8%
-Gregg	Texas	37	0	0	0	0%
-Washington	Texas	34	3	1	0	2.9%
+Washington	Texas	36	5	1	0	2.8%
 Tom Green	Texas	33	1	1	0	3%
 Midland	Texas	31	0	1	0	3.2%
 Nacogdoches	Texas	31	0	3	0	9.7%
@@ -557,10 +558,10 @@ Shelby	Texas	31	8	0	0	0%
 Orange	Texas	30	0	0	0	0%
 Bowie	Texas	29	6	1	0	3.4%
 Johnson	Texas	27	2	1	0	3.7%
+Bastrop	Texas	26	3	1	0	3.8%
 Chambers	Texas	24	0	0	0	0%
 Wharton	Texas	24	0	0	0	0%
 Kaufman	Texas	24	5	0	0	0%
-Bastrop	Texas	23	0	1	0	4.3%
 Moore	Texas	21	6	0	0	0%
 Donley	Texas	21	7	0	0	0%
 Coryell	Texas	18	1	0	0	0%
@@ -570,12 +571,13 @@ Liberty	Texas	16	1	0	0	0%
 Rockwall	Texas	16	2	0	0	0%
 Hunt	Texas	15	0	0	0	0%
 Walker	Texas	15	0	0	0	0%
+Harrison	Texas	14	2	1	0	7.1%
 Calhoun	Texas	14	1	0	0	0%
 Rusk	Texas	14	0	0	0	0%
 Erath	Texas	13	0	1	0	7.7%
+Panola	Texas	13	6	1	0	7.7%
 Waller	Texas	13	1	0	0	0%
 Hockley	Texas	12	0	1	0	8.3%
-Harrison	Texas	12	0	1	0	8.3%
 Hood	Texas	12	1	1	0	8.3%
 Gray	Texas	12	0	0	0	0%
 Navarro	Texas	11	1	2	0	18.2%
@@ -583,9 +585,9 @@ Castro	Texas	11	0	1	0	9.1%
 Andrews	Texas	11	1	0	0	0%
 Parker	Texas	11	2	0	0	0%
 Van Zandt	Texas	10	0	1	0	10%
-Panola	Texas	10	3	1	0	10%
 Medina	Texas	10	1	1	0	10%
 Brown	Texas	10	2	0	0	0%
+Henderson	Texas	10	2	0	0	0%
 Kendall	Texas	10	1	0	0	0%
 Wilson	Texas	10	1	0	0	0%
 San Augustine	Texas	9	0	1	0	11.1%
@@ -593,13 +595,12 @@ Limestone	Texas	9	2	1	0	11.1%
 Hale	Texas	9	0	1	0	11.1%
 Val Verde	Texas	9	2	0	0	0%
 Fayette	Texas	9	1	0	0	0%
+Polk	Texas	9	1	0	0	0%
 Austin	Texas	8	1	0	0	0%
 DeWitt	Texas	8	0	0	0	0%
-Henderson	Texas	8	0	0	0	0%
 Hill	Texas	8	2	0	0	0%
 Lamar	Texas	8	0	0	0	0%
 Maverick	Texas	8	1	0	0	0%
-Polk	Texas	8	0	0	0	0%
 Dawson	Texas	7	0	1	0	14.3%
 Atascosa	Texas	7	2	0	0	0%
 Terry	Texas	7	0	0	0	0%
@@ -871,7 +872,7 @@ Clark	Washington	206	0	14	0	6.8%
 Skagit	Washington	185	7	5	0	2.7%
 Island	Washington	157	2	7	0	4.5%
 Kitsap	Washington	126	4	1	0	0.8%
-Grant	Washington	101	0	2	0	2%
+Grant	Washington	110	9	2	0	1.8%
 Franklin	Washington	97	4	2	0	2.1%
 Thurston	Washington	81	0	1	0	1.2%
 Chelan	Washington	45	2	3	0	6.7%
@@ -897,7 +898,7 @@ Lincoln	Washington	1	0	0	0	0%
 Columbia	Washington	1	0	0	0	0%
 Ferry	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
-Prince George\'s	Maryland	1,716	240	42	8	2.4%
+Prince George\'s	Maryland	1,716	240	41	7	2.4%
 Montgomery	Maryland	1,388	174	35	5	2.5%
 Baltimore	Maryland	1,072	93	22	6	2.1%
 Baltimore City	Maryland	689	51	15	3	2.2%
@@ -1883,6 +1884,12 @@ Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
 unassigned	Utah	0	0	4	4	0%
 Unassigned Southwest	Utah	0	0	0	0	0%
+Providence	Rhode Island	955	0	3	0	0.3%
+Unassigned	Rhode Island	696	288	46	6	6.6%
+Kent	Rhode Island	151	0	0	0	0%
+Washington	Rhode Island	120	0	0	0	0%
+Newport	Rhode Island	56	0	0	0	0%
+Bristol	Rhode Island	37	0	0	0	0%
 Oklahoma	Oklahoma	413	28	17	2	4.1%
 Tulsa	Oklahoma	314	6	16	0	5.1%
 Cleveland	Oklahoma	236	5	14	0	5.9%
@@ -1947,12 +1954,6 @@ Marshall	Oklahoma	1	0	0	0	0%
 Okfuskee	Oklahoma	1	1	0	0	0%
 Unassigned	Oklahoma	0	0	0	0	0%
 Out-of-State	Oklahoma	0	0	0	0	0%
-Providence	Rhode Island	955	0	3	0	0.3%
-Unassigned	Rhode Island	408	0	40	0	9.8%
-Kent	Rhode Island	151	0	0	0	0%
-Washington	Rhode Island	120	0	0	0	0%
-Newport	Rhode Island	56	0	0	0	0%
-Bristol	Rhode Island	37	0	0	0	0%
 Unassigned	Kentucky	385	198	21	10	5.5%
 Jefferson	Kentucky	380	0	26	0	6.8%
 Fayette	Kentucky	148	0	8	0	5.4%
@@ -2334,25 +2335,24 @@ Franklin	Arkansas	1	0	0	0	0%
 Clay	Arkansas	1	0	0	0	0%
 Madison	Arkansas	1	0	0	0	0%
 Marion	Arkansas	1	1	0	0	0%
-Wyandotte	Kansas	272	0	13	0	4.8%
-Johnson	Kansas	252	0	11	0	4.4%
-Sedgwick	Kansas	161	0	2	0	1.2%
-Leavenworth	Kansas	61	0	1	0	1.6%
-Shawnee	Kansas	56	0	3	0	5.4%
-Douglas	Kansas	38	0	0	0	0%
-Coffey	Kansas	36	0	1	0	2.8%
+Wyandotte	Kansas	300	28	20	7	6.7%
+Johnson	Kansas	263	11	12	1	4.6%
+Sedgwick	Kansas	172	11	2	0	1.2%
+Leavenworth	Kansas	66	5	1	0	1.5%
+Shawnee	Kansas	59	3	3	0	5.1%
+Douglas	Kansas	39	1	0	0	0%
+Coffey	Kansas	37	1	1	0	2.7%
 Lyon	Kansas	27	0	0	0	0%
 Riley	Kansas	20	0	0	0	0%
+Labette	Kansas	14	3	0	0	0%
 McPherson	Kansas	13	0	0	0	0%
 Finney	Kansas	12	0	0	0	0%
-Labette	Kansas	11	0	0	0	0%
-Montgomery	Kansas	11	0	0	0	0%
+Montgomery	Kansas	12	1	0	0	0%
 Reno	Kansas	11	0	0	0	0%
 Franklin	Kansas	10	0	0	0	0%
 Saline	Kansas	8	0	1	0	12.5%
 Butler	Kansas	8	0	0	0	0%
 Bourbon	Kansas	7	0	1	0	14.3%
-Wabaunsee	Kansas	7	0	0	0	0%
 Crawford	Kansas	6	0	1	0	16.7%
 Cherokee	Kansas	5	0	0	0	0%
 Jefferson	Kansas	5	0	0	0	0%
@@ -2361,23 +2361,25 @@ Pottawatomie	Kansas	5	0	0	0	0%
 Geary	Kansas	5	0	0	0	0%
 Barton	Kansas	4	0	0	0	0%
 Harvey	Kansas	4	0	0	0	0%
+Republic	Kansas	4	1	0	0	0%
 Chautauqua	Kansas	3	0	0	0	0%
+Ford	Kansas	3	1	0	0	0%
 Osage	Kansas	3	0	0	0	0%
 Ottawa	Kansas	3	0	0	0	0%
 Woodson	Kansas	3	0	0	0	0%
 Cloud	Kansas	3	0	0	0	0%
 Marion	Kansas	3	0	0	0	0%
 Miami	Kansas	3	0	0	0	0%
-Republic	Kansas	3	0	0	0	0%
 Seward	Kansas	3	0	0	0	0%
+Sumner	Kansas	2	0	1	1	50%
 Atchison	Kansas	2	0	0	0	0%
-Ford	Kansas	2	0	0	0	0%
 Mitchell	Kansas	2	0	0	0	0%
 Morris	Kansas	2	0	0	0	0%
-Sumner	Kansas	2	0	0	0	0%
 Osborne	Kansas	2	0	0	0	0%
 Jewell	Kansas	2	0	0	0	0%
+Scott	Kansas	2	1	0	0	0%
 Rooks	Kansas	2	0	0	0	0%
+Cowley	Kansas	1	0	1	1	100%
 Clay	Kansas	1	0	0	0	0%
 Doniphan	Kansas	1	0	0	0	0%
 Gove	Kansas	1	0	0	0	0%
@@ -2386,13 +2388,12 @@ Neosho	Kansas	1	0	0	0	0%
 Pratt	Kansas	1	0	0	0	0%
 Stafford	Kansas	1	0	0	0	0%
 Stevens	Kansas	1	0	0	0	0%
-Cowley	Kansas	1	0	0	0	0%
 Greenwood	Kansas	1	0	0	0	0%
+Wabaunsee	Kansas	1	0	0	0	0%
 Morton	Kansas	1	0	0	0	0%
 Barber	Kansas	1	0	0	0	0%
-Scott	Kansas	1	0	0	0	0%
 Ellis	Kansas	1	0	0	0	0%
-Unassigned	Kansas	0	0	8	0	0%
+Unassigned	Kansas	0	0	6	0	0%
 Anderson	Kansas	0	0	0	0	0%
 Bernalillo	New Mexico	407	38	12	0	2.9%
 Sandoval	New Mexico	177	3	2	0	1.1%
