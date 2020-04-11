@@ -1,1 +1,0 @@
-county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
