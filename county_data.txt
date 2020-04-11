@@ -22,7 +22,7 @@ Steuben	New York	117	0	6	0	5.1%
 Tompkins	New York	108	1	0	0	0%
 Madison	New York	102	0	3	0	2.9%
 Rensselaer	New York	102	0	5	0	4.9%
-Columbia	New York	84	0	5	0	6%
+Columbia	New York	87	3	7	0	8%
 St. Lawrence	New York	82	0	0	0	0%
 Genesee	New York	67	2	1	0	1.5%
 Chenango	New York	61	1	0	0	0%
@@ -57,7 +57,7 @@ Lewis	New York	6	0	0	0	0%
 Schuyler	New York	5	0	0	0	0%
 Hamilton	New York	3	0	0	0	0%
 Yates	New York	2	0	0	0	0%
-Unassigned	New York	0	0	6	6	0%
+Unassigned	New York	0	0	4	4	0%
 Bergen	New Jersey	9,362	434	435	45	4.6%
 Essex	New Jersey	7,007	427	412	60	5.9%
 Hudson	New Jersey	6,851	440	183	20	2.7%
@@ -162,6 +162,20 @@ Lake	Michigan	1	1	0	0	0%
 Chippewa	Michigan	0	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
+Suffolk	Massachusetts	4,926	392	79	8	1.6%
+Middlesex	Massachusetts	4,872	425	137	28	2.8%
+Essex	Massachusetts	2,896	226	91	12	3.1%
+Norfolk	Massachusetts	2,395	179	79	15	3.3%
+Worcester	Massachusetts	1,822	144	41	4	2.3%
+Plymouth	Massachusetts	1,809	132	51	4	2.8%
+Hampden	Massachusetts	1,545	151	92	6	6%
+Bristol	Massachusetts	1,191	105	39	6	3.3%
+Barnstable	Massachusetts	480	16	15	2	3.1%
+Berkshire	Massachusetts	336	7	20	0	6%
+Unassigned	Massachusetts	225	96	13	0	5.8%
+Hampshire	Massachusetts	204	10	5	1	2.5%
+Franklin	Massachusetts	138	3	23	1	16.7%
+Dukes and Nantucket	Massachusetts	21	0	1	0	4.8%
 Philadelphia	Pennsylvania	6,022	229	137	0	2.3%
 Montgomery	Pennsylvania	2,053	164	60	10	2.9%
 Lehigh	Pennsylvania	1,620	58	16	0	1%
@@ -234,10 +248,10 @@ Los Angeles	California	8,453	0	244	0	2.9%
 San Diego	California	1,693	0	44	0	2.6%
 Santa Clara	California	1,484	0	50	0	3.4%
 Riverside	California	1,350	0	39	0	2.9%
-Orange	California	1,138	0	17	0	1.5%
+Orange	California	1,221	83	18	1	1.5%
 San Francisco	California	857	60	13	0	1.5%
 San Bernardino	California	810	0	25	0	3.1%
-Alameda	California	768	0	20	0	2.6%
+Alameda	California	806	38	21	1	2.6%
 Sacramento	California	653	0	24	0	3.7%
 San Mateo	California	652	14	21	0	3.2%
 Contra Costa	California	511	0	9	0	1.8%
@@ -252,7 +266,7 @@ Sonoma	California	145	0	2	0	1.4%
 Placer	California	123	0	4	0	3.3%
 Solano	California	121	0	2	0	1.7%
 Stanislaus	California	116	0	1	0	0.9%
-San Luis Obispo	California	107	0	1	0	0.9%
+San Luis Obispo	California	110	3	1	0	0.9%
 Santa Cruz	California	80	0	1	0	1.3%
 Monterey	California	79	0	3	0	3.8%
 Imperial	California	79	0	3	0	3.8%
@@ -284,20 +298,6 @@ Alpine	California	2	0	0	0	0%
 Del Norte	California	2	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
 Tehama	California	1	0	0	0	0%
-Suffolk	Massachusetts	4,534	0	65	0	1.4%
-Middlesex	Massachusetts	4,447	0	96	0	2.2%
-Essex	Massachusetts	2,670	0	69	0	2.6%
-Norfolk	Massachusetts	2,216	0	55	0	2.5%
-Worcester	Massachusetts	1,678	0	36	0	2.1%
-Plymouth	Massachusetts	1,677	0	41	0	2.4%
-Hampden	Massachusetts	1,394	0	69	0	4.9%
-Bristol	Massachusetts	1,086	0	28	0	2.6%
-Barnstable	Massachusetts	464	0	12	0	2.6%
-Berkshire	Massachusetts	329	0	19	0	5.8%
-Hampshire	Massachusetts	194	0	4	0	2.1%
-Franklin	Massachusetts	135	0	21	0	15.6%
-Unassigned	Massachusetts	129	0	83	0	64.3%
-Dukes and Nantucket	Massachusetts	21	0	1	0	4.8%
 Orleans	Louisiana	5,535	119	232	7	4.2%
 Jefferson	Louisiana	4,877	199	166	1	3.4%
 East Baton Rouge	Louisiana	1,158	70	45	6	3.9%
@@ -364,34 +364,35 @@ Cameron	Louisiana	2	1	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Tensas	Louisiana	1	1	0	0	0%
 Unassigned	Louisiana	0	0	1	1	0%
-Cook	Illinois	13,417	945	399	0	3%
-Lake	Illinois	1,331	101	31	0	2.3%
-Will	Illinois	1,077	0	52	0	4.8%
-DuPage	Illinois	1,048	40	41	0	3.9%
+Cook	Illinois	13,417	945	455	56	3.4%
+Lake	Illinois	1,331	101	39	8	2.9%
+Will	Illinois	1,126	49	57	5	5.1%
+DuPage	Illinois	1,048	40	46	5	4.4%
 Kane	Illinois	376	37	22	0	5.9%
-McHenry	Illinois	220	14	5	0	2.3%
-Kankakee	Illinois	185	18	7	0	3.8%
-St. Clair	Illinois	159	0	5	0	3.1%
+McHenry	Illinois	220	14	6	1	2.7%
+Kankakee	Illinois	185	18	9	2	4.9%
+St. Clair	Illinois	173	14	7	2	4%
 Kendall	Illinois	103	11	2	0	1.9%
 Madison	Illinois	103	2	2	0	1.9%
-Winnebago	Illinois	93	0	3	0	3.2%
-Champaign	Illinois	85	6	2	0	2.4%
+Champaign	Illinois	85	6	2	1	2.4%
+Unassigned	Illinois	85	4	0	0	0%
 Rock Island	Illinois	84	4	3	0	3.6%
-Unassigned	Illinois	81	0	1	0	1.2%
+Winnebago	Illinois	80	0	4	1	5%
 McLean	Illinois	75	0	2	0	2.7%
+Sangamon	Illinois	43	1	2	0	4.7%
 Monroe	Illinois	43	1	1	0	2.3%
 Clinton	Illinois	37	5	0	0	0%
 Randolph	Illinois	37	2	0	0	0%
 DeKalb	Illinois	33	1	1	0	3%
-Jackson	Illinois	30	3	1	0	3.3%
+Jackson	Illinois	30	3	2	1	6.7%
+Whiteside	Illinois	25	1	1	0	4%
 Adams	Illinois	25	1	0	0	0%
 Christian	Illinois	24	1	3	0	12.5%
-Whiteside	Illinois	24	0	1	0	4.2%
 Peoria	Illinois	23	3	1	0	4.3%
 Macon	Illinois	23	9	1	0	4.3%
 Henry	Illinois	22	1	0	0	0%
 La Salle	Illinois	18	0	1	0	5.6%
-Tazewell	Illinois	17	0	2	0	11.8%
+Tazewell	Illinois	18	1	2	0	11.1%
 Grundy	Illinois	17	2	0	0	0%
 Ogle	Illinois	16	0	0	0	0%
 Livingston	Illinois	15	1	0	0	0%
@@ -415,7 +416,6 @@ Jefferson	Illinois	6	1	0	0	0%
 Carroll	Illinois	5	0	1	0	20%
 Bureau	Illinois	5	1	0	0	0%
 Coles	Illinois	5	3	0	0	0%
-Sangamon	Illinois	4	0	2	0	50%
 Ford	Illinois	4	0	1	0	25%
 Bond	Illinois	4	0	0	0	0%
 Crawford	Illinois	4	0	0	0	0%
@@ -450,6 +450,7 @@ Fulton	Illinois	1	0	0	0	0%
 Greene	Illinois	1	0	0	0	0%
 McDonough	Illinois	1	1	0	0	0%
 Perry	Illinois	1	1	0	0	0%
+Warren	Illinois	1	1	0	0	0%
 Miami-Dade	Florida	6,487	187	91	7	1.4%
 Broward	Florida	2,806	127	76	4	2.7%
 Palm Beach	Florida	1,441	10	80	1	5.6%
@@ -529,8 +530,8 @@ Denton	Texas	454	28	10	1	2.2%
 Collin	Texas	425	0	7	0	1.6%
 Galveston	Texas	341	0	8	0	2.3%
 El Paso	Texas	252	27	2	1	0.8%
+Montgomery	Texas	251	6	5	0	2%
 Lubbock	Texas	249	0	13	0	5.2%
-Montgomery	Texas	245	0	4	0	1.6%
 Brazoria	Texas	216	0	2	0	0.9%
 Hidalgo	Texas	181	0	1	0	0.6%
 Webb	Texas	171	0	6	0	3.5%
@@ -556,9 +557,9 @@ Ector	Texas	40	1	1	0	2.5%
 Gregg	Texas	40	0	0	0	0%
 Comal	Texas	37	0	4	0	10.8%
 Washington	Texas	36	0	1	0	2.8%
+Tom Green	Texas	35	2	1	0	2.9%
 Coryell	Texas	34	16	0	0	0%
 Shelby	Texas	34	3	0	0	0%
-Tom Green	Texas	33	0	1	0	3%
 Orange	Texas	33	3	0	0	0%
 Midland	Texas	31	0	1	0	3.2%
 Nacogdoches	Texas	31	0	3	0	9.7%
@@ -873,7 +874,7 @@ Unassigned	Washington	848	0	0	0	0%
 Yakima	Washington	511	0	20	0	3.9%
 Whatcom	Washington	261	11	23	0	8.8%
 Spokane	Washington	251	0	14	0	5.6%
-Benton	Washington	234	0	25	0	10.7%
+Benton	Washington	244	10	25	0	10.2%
 Clark	Washington	220	0	14	0	6.4%
 Skagit	Washington	185	0	6	1	3.2%
 Island	Washington	157	0	7	0	4.5%
@@ -1492,38 +1493,38 @@ St. Louis	Missouri	1,498	0	33	0	2.2%
 St. Louis City	Missouri	594	0	17	0	2.9%
 St. Charles	Missouri	332	0	11	0	3.3%
 Kansas City	Missouri	300	0	8	0	2.7%
-Jackson	Missouri	199	0	5	0	2.5%
-Jefferson	Missouri	113	0	3	0	2.7%
-Boone	Missouri	78	0	1	0	1.3%
+Jackson	Missouri	208	9	5	0	2.4%
+Jefferson	Missouri	115	2	3	0	2.6%
+Boone	Missouri	79	1	1	0	1.3%
 Greene	Missouri	77	0	8	0	10.4%
-Franklin	Missouri	71	0	3	0	4.2%
-Clay	Missouri	42	0	1	0	2.4%
+Franklin	Missouri	75	4	3	0	4%
+Clay	Missouri	46	4	1	0	2.2%
 Johnson	Missouri	41	0	0	0	0%
-Cole	Missouri	35	0	1	0	2.9%
+Cole	Missouri	36	1	1	0	2.8%
 Cass	Missouri	34	0	2	0	5.9%
-Perry	Missouri	31	0	0	0	0%
+Perry	Missouri	34	3	0	0	0%
 Lafayette	Missouri	28	0	1	0	3.6%
+Cape Girardeau	Missouri	28	2	1	0	3.6%
 Camden	Missouri	26	0	1	0	3.8%
 Lincoln	Missouri	26	0	1	0	3.8%
-Cape Girardeau	Missouri	26	0	1	0	3.8%
 Platte	Missouri	25	0	0	0	0%
+Saline	Missouri	22	4	0	0	0%
 Callaway	Missouri	21	0	1	0	4.8%
 St. Francois	Missouri	21	0	1	0	4.8%
 Buchanan	Missouri	20	0	1	0	5%
 Jasper	Missouri	18	0	0	0	0%
-Saline	Missouri	18	0	0	0	0%
 Christian	Missouri	17	0	0	0	0%
-Scott	Missouri	13	0	0	0	0%
+Scott	Missouri	14	1	0	0	0%
+Butler	Missouri	13	3	0	0	0%
+Dunklin	Missouri	13	1	0	0	0%
 Warren	Missouri	13	0	0	0	0%
-Dunklin	Missouri	12	0	0	0	0%
 Pulaski	Missouri	11	0	1	0	9.1%
 Adair	Missouri	11	0	0	0	0%
-Butler	Missouri	10	0	0	0	0%
-Clinton	Missouri	10	0	0	0	0%
+Clinton	Missouri	11	1	0	0	0%
 Stoddard	Missouri	9	0	0	0	0%
+Newton	Missouri	8	1	0	0	0%
 Randolph	Missouri	8	0	0	0	0%
 Taney	Missouri	7	0	1	0	14.3%
-Newton	Missouri	7	0	0	0	0%
 Ray	Missouri	7	0	0	0	0%
 Wright	Missouri	7	0	0	0	0%
 Ste. Genevieve	Missouri	6	0	1	0	16.7%
@@ -1533,8 +1534,11 @@ Montgomery	Missouri	6	0	0	0	0%
 Pike	Missouri	6	0	0	0	0%
 New Madrid	Missouri	6	0	0	0	0%
 Cedar	Missouri	5	0	0	0	0%
+Henry	Missouri	4	2	1	0	25%
 Chariton	Missouri	4	0	0	0	0%
+Cooper	Missouri	4	1	0	0	0%
 Crawford	Missouri	4	0	0	0	0%
+Joplin	Missouri	4	2	0	0	0%
 McDonald	Missouri	4	0	0	0	0%
 Moniteau	Missouri	4	0	0	0	0%
 Osage	Missouri	4	0	0	0	0%
@@ -1545,22 +1549,19 @@ Howell	Missouri	4	0	0	0	0%
 Carter	Missouri	3	0	1	0	33.3%
 Benton	Missouri	3	0	0	0	0%
 Bollinger	Missouri	3	0	0	0	0%
-Cooper	Missouri	3	0	0	0	0%
 DeKalb	Missouri	3	0	0	0	0%
 Ripley	Missouri	3	0	0	0	0%
 Webster	Missouri	3	0	0	0	0%
 Linn	Missouri	3	0	0	0	0%
+Scotland	Missouri	3	1	0	0	0%
 Vernon	Missouri	3	0	0	0	0%
-Henry	Missouri	2	0	1	0	50%
 Barry	Missouri	2	0	0	0	0%
 Gasconade	Missouri	2	0	0	0	0%
-Joplin	Missouri	2	0	0	0	0%
 Macon	Missouri	2	0	0	0	0%
 Maries	Missouri	2	0	0	0	0%
 Reynolds	Missouri	2	0	0	0	0%
 Nodaway	Missouri	2	0	0	0	0%
 Dallas	Missouri	2	0	0	0	0%
-Scotland	Missouri	2	0	0	0	0%
 St. Clair	Missouri	2	0	0	0	0%
 Atchison	Missouri	1	0	0	0	0%
 Caldwell	Missouri	1	0	0	0	0%
@@ -1577,6 +1578,8 @@ Howard	Missouri	1	0	0	0	0%
 Oregon	Missouri	1	0	0	0	0%
 Polk	Missouri	1	0	0	0	0%
 Washington	Missouri	1	0	0	0	0%
+Andrew	Missouri	1	1	0	0	0%
+Iron	Missouri	1	1	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	0	0	0	0%
 Maricopa	Arizona	1,891	150	47	6	2.5%
@@ -1599,6 +1602,117 @@ Unassigned	US Military	1,841	0	6	0	0.3%
 Navy	US Military	976	0	4	0	0.4%
 Air Force	US Military	549	0	1	0	0.2%
 Army	US Military	0	0	2	0	0%
+Milwaukee	Wisconsin	1,653	78	85	8	5.1%
+Dane	Wisconsin	327	14	12	0	3.7%
+Waukesha	Wisconsin	201	8	6	0	3%
+Kenosha	Wisconsin	163	16	1	0	0.6%
+Racine	Wisconsin	105	5	3	0	2.9%
+Ozaukee	Wisconsin	72	1	9	0	12.5%
+Washington	Wisconsin	71	4	3	0	4.2%
+Brown	Wisconsin	60	5	1	0	1.7%
+Rock	Wisconsin	53	2	3	1	5.7%
+Fond du Lac	Wisconsin	52	0	2	0	3.8%
+Walworth	Wisconsin	35	0	0	0	0%
+Sheboygan	Wisconsin	34	1	2	0	5.9%
+Outagamie	Wisconsin	29	0	2	0	6.9%
+Sauk	Wisconsin	25	0	2	0	8%
+Winnebago	Wisconsin	25	0	1	0	4%
+La Crosse	Wisconsin	25	0	0	0	0%
+Columbia	Wisconsin	24	0	1	0	4.2%
+Jefferson	Wisconsin	22	1	0	0	0%
+Eau Claire	Wisconsin	21	0	0	0	0%
+Chippewa	Wisconsin	18	0	0	0	0%
+Dodge	Wisconsin	18	0	0	0	0%
+Marathon	Wisconsin	13	1	0	0	0%
+Jackson	Wisconsin	10	0	0	0	0%
+Door	Wisconsin	9	1	0	0	0%
+Dunn	Wisconsin	9	1	0	0	0%
+Green	Wisconsin	9	0	0	0	0%
+Monroe	Wisconsin	8	0	0	0	0%
+St. Croix	Wisconsin	8	1	0	0	0%
+Clark	Wisconsin	7	0	0	0	0%
+Douglas	Wisconsin	7	0	0	0	0%
+Pierce	Wisconsin	7	0	0	0	0%
+Barron	Wisconsin	6	0	0	0	0%
+Grant	Wisconsin	5	1	1	0	20%
+Juneau	Wisconsin	5	0	0	0	0%
+Oneida	Wisconsin	5	0	0	0	0%
+Richland	Wisconsin	5	1	0	0	0%
+Shawano	Wisconsin	5	0	0	0	0%
+Calumet	Wisconsin	4	0	0	0	0%
+Iowa	Wisconsin	4	0	0	0	0%
+Portage	Wisconsin	4	0	0	0	0%
+Vilas	Wisconsin	4	0	0	0	0%
+Waupaca	Wisconsin	3	0	1	0	33.3%
+Buffalo	Wisconsin	3	1	1	0	33.3%
+Bayfield	Wisconsin	3	0	0	0	0%
+Crawford	Wisconsin	3	0	0	0	0%
+Marinette	Wisconsin	3	0	0	0	0%
+Oconto	Wisconsin	3	0	0	0	0%
+Rusk	Wisconsin	3	0	0	0	0%
+Manitowoc	Wisconsin	3	0	0	0	0%
+Lafayette	Wisconsin	3	1	0	0	0%
+Iron	Wisconsin	2	1	1	0	50%
+Marquette	Wisconsin	2	0	0	0	0%
+Wood	Wisconsin	2	0	0	0	0%
+Adams	Wisconsin	2	0	0	0	0%
+Florence	Wisconsin	2	0	0	0	0%
+Waushara	Wisconsin	2	0	0	0	0%
+Ashland	Wisconsin	1	0	0	0	0%
+Menominee	Wisconsin	1	0	0	0	0%
+Trempealeau	Wisconsin	1	0	0	0	0%
+Kewaunee	Wisconsin	1	0	0	0	0%
+Sawyer	Wisconsin	1	0	0	0	0%
+Polk	Wisconsin	1	0	0	0	0%
+Price	Wisconsin	1	1	0	0	0%
+Unassigned	Wisconsin	0	0	0	0	0%
+Pepin	Wisconsin	0	0	0	0	0%
+Richland	South Carolina	479	27	10	0	2.1%
+Charleston	South Carolina	331	3	1	0	0.3%
+Greenville	South Carolina	325	17	7	1	2.2%
+Lexington	South Carolina	202	18	6	0	3%
+Beaufort	South Carolina	191	5	6	1	3.1%
+Kershaw	South Carolina	178	1	4	1	2.2%
+Spartanburg	South Carolina	170	20	4	0	2.4%
+Sumter	South Carolina	146	4	4	1	2.7%
+Horry	South Carolina	132	8	7	0	5.3%
+York	South Carolina	127	2	3	1	2.4%
+Anderson	South Carolina	102	2	5	0	4.9%
+Clarendon	South Carolina	85	5	4	1	4.7%
+Berkeley	South Carolina	67	0	1	0	1.5%
+Dorchester	South Carolina	67	2	1	1	1.5%
+Florence	South Carolina	66	2	7	1	10.6%
+Lancaster	South Carolina	62	1	0	0	0%
+Aiken	South Carolina	50	2	1	0	2%
+Darlington	South Carolina	37	4	0	0	0%
+Orangeburg	South Carolina	37	0	0	0	0%
+Georgetown	South Carolina	32	4	1	0	3.1%
+Pickens	South Carolina	28	1	0	0	0%
+Lee	South Carolina	27	0	3	0	11.1%
+Chesterfield	South Carolina	22	0	0	0	0%
+Union	South Carolina	22	2	0	0	0%
+Fairfield	South Carolina	21	3	0	0	0%
+Chester	South Carolina	18	1	0	0	0%
+Greenwood	South Carolina	17	1	0	0	0%
+Colleton	South Carolina	15	0	0	0	0%
+Williamsburg	South Carolina	15	0	0	0	0%
+Laurens	South Carolina	13	2	1	0	7.7%
+Newberry	South Carolina	13	0	1	0	7.7%
+Marlboro	South Carolina	13	2	0	0	0%
+Oconee	South Carolina	13	1	0	0	0%
+Jasper	South Carolina	12	0	0	0	0%
+Edgefield	South Carolina	10	0	0	0	0%
+Abbeville	South Carolina	9	2	0	0	0%
+Cherokee	South Carolina	8	0	0	0	0%
+Bamberg	South Carolina	7	1	0	0	0%
+Saluda	South Carolina	7	0	0	0	0%
+Calhoun	South Carolina	6	0	1	0	16.7%
+Marion	South Carolina	6	1	1	0	16.7%
+Hampton	South Carolina	6	0	0	0	0%
+Barnwell	South Carolina	5	0	0	0	0%
+Dillon	South Carolina	5	0	0	0	0%
+Allendale	South Carolina	4	0	0	0	0%
+McCormick	South Carolina	3	0	1	0	33.3%
 Jefferson	Alabama	579	24	15	1	2.6%
 Mobile	Alabama	403	21	14	3	3.5%
 Lee	Alabama	218	4	8	2	3.7%
@@ -1666,116 +1780,6 @@ Conecuh	Alabama	3	0	0	0	0%
 Fayette	Alabama	3	1	0	0	0%
 Crenshaw	Alabama	2	0	0	0	0%
 Unassigned	Alabama	0	0	0	0	0%
-Milwaukee	Wisconsin	1,575	0	77	0	4.9%
-Dane	Wisconsin	313	0	12	0	3.8%
-Waukesha	Wisconsin	193	0	6	0	3.1%
-Kenosha	Wisconsin	147	0	1	0	0.7%
-Racine	Wisconsin	100	0	3	0	3%
-Ozaukee	Wisconsin	71	0	9	0	12.7%
-Washington	Wisconsin	67	0	3	0	4.5%
-Brown	Wisconsin	55	0	1	0	1.8%
-Fond du Lac	Wisconsin	52	0	2	0	3.8%
-Rock	Wisconsin	51	0	2	0	3.9%
-Walworth	Wisconsin	35	0	0	0	0%
-Sheboygan	Wisconsin	33	0	2	0	6.1%
-Outagamie	Wisconsin	29	0	2	0	6.9%
-Sauk	Wisconsin	25	0	2	0	8%
-Winnebago	Wisconsin	25	0	1	0	4%
-La Crosse	Wisconsin	25	0	0	0	0%
-Columbia	Wisconsin	24	0	1	0	4.2%
-Eau Claire	Wisconsin	21	0	0	0	0%
-Jefferson	Wisconsin	21	0	0	0	0%
-Chippewa	Wisconsin	18	0	0	0	0%
-Dodge	Wisconsin	18	0	0	0	0%
-Marathon	Wisconsin	12	0	0	0	0%
-Jackson	Wisconsin	10	0	0	0	0%
-Green	Wisconsin	9	0	0	0	0%
-Door	Wisconsin	8	0	0	0	0%
-Dunn	Wisconsin	8	0	0	0	0%
-Monroe	Wisconsin	8	0	0	0	0%
-Clark	Wisconsin	7	0	0	0	0%
-Douglas	Wisconsin	7	0	0	0	0%
-Pierce	Wisconsin	7	0	0	0	0%
-St. Croix	Wisconsin	7	0	0	0	0%
-Barron	Wisconsin	6	0	0	0	0%
-Juneau	Wisconsin	5	0	0	0	0%
-Oneida	Wisconsin	5	0	0	0	0%
-Shawano	Wisconsin	5	0	0	0	0%
-Grant	Wisconsin	4	0	1	0	25%
-Calumet	Wisconsin	4	0	0	0	0%
-Iowa	Wisconsin	4	0	0	0	0%
-Portage	Wisconsin	4	0	0	0	0%
-Richland	Wisconsin	4	0	0	0	0%
-Vilas	Wisconsin	4	0	0	0	0%
-Waupaca	Wisconsin	3	0	1	0	33.3%
-Bayfield	Wisconsin	3	0	0	0	0%
-Crawford	Wisconsin	3	0	0	0	0%
-Marinette	Wisconsin	3	0	0	0	0%
-Oconto	Wisconsin	3	0	0	0	0%
-Rusk	Wisconsin	3	0	0	0	0%
-Manitowoc	Wisconsin	3	0	0	0	0%
-Buffalo	Wisconsin	2	0	1	0	50%
-Marquette	Wisconsin	2	0	0	0	0%
-Wood	Wisconsin	2	0	0	0	0%
-Adams	Wisconsin	2	0	0	0	0%
-Florence	Wisconsin	2	0	0	0	0%
-Waushara	Wisconsin	2	0	0	0	0%
-Lafayette	Wisconsin	2	0	0	0	0%
-Iron	Wisconsin	1	0	1	0	100%
-Ashland	Wisconsin	1	0	0	0	0%
-Menominee	Wisconsin	1	0	0	0	0%
-Trempealeau	Wisconsin	1	0	0	0	0%
-Kewaunee	Wisconsin	1	0	0	0	0%
-Sawyer	Wisconsin	1	0	0	0	0%
-Polk	Wisconsin	1	0	0	0	0%
-Unassigned	Wisconsin	0	0	0	0	0%
-Pepin	Wisconsin	0	0	0	0	0%
-Richland	South Carolina	452	0	10	0	2.2%
-Charleston	South Carolina	328	0	1	0	0.3%
-Greenville	South Carolina	308	0	6	0	1.9%
-Beaufort	South Carolina	186	0	5	0	2.7%
-Lexington	South Carolina	184	0	6	0	3.3%
-Kershaw	South Carolina	177	0	3	0	1.7%
-Spartanburg	South Carolina	150	0	4	0	2.7%
-Sumter	South Carolina	142	0	3	0	2.1%
-York	South Carolina	125	0	2	0	1.6%
-Horry	South Carolina	124	0	7	0	5.6%
-Anderson	South Carolina	100	0	5	0	5%
-Clarendon	South Carolina	80	0	3	0	3.8%
-Berkeley	South Carolina	67	0	1	0	1.5%
-Dorchester	South Carolina	65	0	0	0	0%
-Florence	South Carolina	64	0	6	0	9.4%
-Lancaster	South Carolina	61	0	0	0	0%
-Aiken	South Carolina	48	0	1	0	2.1%
-Orangeburg	South Carolina	37	0	0	0	0%
-Darlington	South Carolina	33	0	0	0	0%
-Georgetown	South Carolina	28	0	1	0	3.6%
-Lee	South Carolina	27	0	3	0	11.1%
-Pickens	South Carolina	27	0	0	0	0%
-Chesterfield	South Carolina	22	0	0	0	0%
-Union	South Carolina	20	0	0	0	0%
-Fairfield	South Carolina	18	0	0	0	0%
-Chester	South Carolina	17	0	0	0	0%
-Greenwood	South Carolina	16	0	0	0	0%
-Colleton	South Carolina	15	0	0	0	0%
-Williamsburg	South Carolina	15	0	0	0	0%
-Newberry	South Carolina	13	0	1	0	7.7%
-Jasper	South Carolina	12	0	0	0	0%
-Oconee	South Carolina	12	0	0	0	0%
-Laurens	South Carolina	11	0	1	0	9.1%
-Marlboro	South Carolina	11	0	0	0	0%
-Edgefield	South Carolina	10	0	0	0	0%
-Cherokee	South Carolina	8	0	0	0	0%
-Abbeville	South Carolina	7	0	0	0	0%
-Saluda	South Carolina	7	0	0	0	0%
-Calhoun	South Carolina	6	0	1	0	16.7%
-Bamberg	South Carolina	6	0	0	0	0%
-Hampton	South Carolina	6	0	0	0	0%
-Marion	South Carolina	5	0	1	0	20%
-Barnwell	South Carolina	5	0	0	0	0%
-Dillon	South Carolina	5	0	0	0	0%
-Allendale	South Carolina	4	0	0	0	0%
-McCormick	South Carolina	3	0	1	0	33.3%
 Clark	Nevada	2,144	0	75	0	3.5%
 Washoe	Nevada	389	0	10	0	2.6%
 Unassigned	Nevada	96	96	16	0	16.7%
@@ -2277,13 +2281,14 @@ Leavenworth	Kansas	75	9	1	0	1.3%
 Shawnee	Kansas	73	14	3	0	4.1%
 Douglas	Kansas	39	0	0	0	0%
 Coffey	Kansas	38	1	1	0	2.6%
-Lyon	Kansas	26	0	0	0	0%
+Lyon	Kansas	27	1	0	0	0%
 Riley	Kansas	20	0	0	0	0%
+Labette	Kansas	18	4	0	0	0%
 Finney	Kansas	15	3	0	0	0%
 Montgomery	Kansas	14	2	0	0	0%
 McPherson	Kansas	13	0	0	0	0%
 Franklin	Kansas	12	2	0	0	0%
-Reno	Kansas	10	0	0	0	0%
+Reno	Kansas	11	1	0	0	0%
 Saline	Kansas	8	0	1	0	12.5%
 Butler	Kansas	8	0	0	0	0%
 Bourbon	Kansas	7	0	1	0	14.3%
@@ -2319,7 +2324,6 @@ Clay	Kansas	1	0	0	0	0%
 Doniphan	Kansas	1	0	0	0	0%
 Gove	Kansas	1	0	0	0	0%
 Jackson	Kansas	1	0	0	0	0%
-Labette	Kansas	1	0	0	0	0%
 Pratt	Kansas	1	0	0	0	0%
 Stafford	Kansas	1	0	0	0	0%
 Anderson	Kansas	1	1	0	0	0%
