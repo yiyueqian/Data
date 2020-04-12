@@ -188,7 +188,7 @@ Sacramento	California	699	46	26	2	3.7%
 San Mateo	California	652	14	21	0	3.2%
 Contra Costa	California	530	19	11	2	2.1%
 Kern	California	371	0	3	0	0.8%
-Ventura	California	298	0	10	0	3.4%
+Ventura	California	309	11	10	0	3.2%
 Santa Barbara	California	260	0	2	0	0.8%
 San Joaquin	California	258	1	14	0	5.4%
 Tulare	California	203	0	11	0	5.4%
@@ -230,7 +230,7 @@ Alpine	California	2	0	0	0	0%
 Del Norte	California	2	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
 Tehama	California	1	0	0	0	0%
-Philadelphia	Pennsylvania	6,022	229	137	0	2.3%
+Philadelphia	Pennsylvania	6,152	359	160	23	2.6%
 Montgomery	Pennsylvania	2,053	164	60	10	2.9%
 Lehigh	Pennsylvania	1,620	58	16	0	1%
 Delaware	Pennsylvania	1,540	163	40	10	2.6%
@@ -473,7 +473,7 @@ Clay	Florida	161	17	8	0	5%
 Pasco	Florida	150	7	2	0	1.3%
 Lake	Florida	150	1	4	1	2.7%
 St. Lucie	Florida	149	3	6	0	4%
-Brevard	Florida	123	3	2	0	1.6%
+Brevard	Florida	123	3	3	1	2.4%
 Martin	Florida	117	2	3	0	2.6%
 Leon	Florida	113	22	0	0	0%
 Charlotte	Florida	112	8	5	0	4.5%
@@ -526,60 +526,60 @@ Tarrant	Texas	787	82	25	4	3.2%
 Travis	Texas	744	54	9	0	1.2%
 Bexar	Texas	723	58	27	3	3.7%
 Fort Bend	Texas	518	33	11	1	2.1%
-Denton	Texas	454	28	10	1	2.2%
-Collin	Texas	425	0	7	0	1.6%
-Galveston	Texas	341	0	8	0	2.3%
+Denton	Texas	474	48	13	3	2.7%
+Collin	Texas	441	16	7	0	1.6%
+Galveston	Texas	355	14	8	0	2.3%
+Lubbock	Texas	270	21	14	1	5.2%
 El Paso	Texas	252	27	2	1	0.8%
 Montgomery	Texas	251	6	5	0	2%
-Lubbock	Texas	249	0	13	0	5.2%
-Brazoria	Texas	216	0	2	0	0.9%
+Brazoria	Texas	225	9	2	0	0.9%
+Webb	Texas	191	20	6	0	3.1%
 Hidalgo	Texas	188	7	1	0	0.5%
-Webb	Texas	171	0	6	0	3.5%
 Cameron	Texas	159	0	3	0	1.9%
 Brazos	Texas	134	18	10	1	7.5%
-Williamson	Texas	110	0	4	0	3.6%
+Williamson	Texas	113	3	4	0	3.5%
 Jefferson	Texas	100	6	5	0	5%
-Smith	Texas	93	0	2	0	2.2%
+Smith	Texas	96	3	2	0	2.1%
 Bell	Texas	91	7	3	0	3.3%
 Hays	Texas	82	0	0	0	0%
+Nueces	Texas	76	4	0	0	0%
 Victoria	Texas	76	3	0	0	0%
-Nueces	Texas	72	0	0	0	0%
 McLennan	Texas	68	2	2	0	2.9%
 Ellis	Texas	66	8	2	0	3%
 Potter	Texas	66	7	2	1	3%
 Randall	Texas	60	4	2	1	3.3%
+Wichita	Texas	56	2	0	0	0%
 Taylor	Texas	55	0	1	0	1.8%
-Wichita	Texas	54	0	0	0	0%
 Matagorda	Texas	49	0	3	0	6.1%
 Hardin	Texas	47	6	2	1	4.3%
 Guadalupe	Texas	47	0	0	0	0%
+Nacogdoches	Texas	46	15	3	0	6.5%
 Ector	Texas	40	1	1	0	2.5%
 Gregg	Texas	40	0	0	0	0%
 Comal	Texas	37	0	4	0	10.8%
 Washington	Texas	36	0	1	0	2.8%
 Tom Green	Texas	35	2	1	0	2.9%
 Coryell	Texas	34	16	0	0	0%
-Shelby	Texas	34	3	0	0	0%
 Orange	Texas	33	3	0	0	0%
+Shelby	Texas	32	1	0	0	0%
 Midland	Texas	31	0	1	0	3.2%
-Nacogdoches	Texas	31	0	3	0	9.7%
 Bowie	Texas	30	1	1	0	3.3%
 Johnson	Texas	28	1	1	0	3.6%
 Bastrop	Texas	26	0	1	0	3.8%
 Kaufman	Texas	26	2	0	0	0%
+Wharton	Texas	26	2	0	0	0%
 Chambers	Texas	24	0	0	0	0%
-Wharton	Texas	24	0	0	0	0%
 Donley	Texas	23	2	0	0	0%
 Moore	Texas	21	0	0	0	0%
 Rockwall	Texas	20	4	0	0	0%
 Grayson	Texas	17	0	0	0	0%
-Liberty	Texas	17	1	0	0	0%
 Walker	Texas	17	2	0	0	0%
+Harrison	Texas	16	2	1	0	6.3%
 Angelina	Texas	16	0	0	0	0%
 Hunt	Texas	16	1	0	0	0%
-Harrison	Texas	14	0	1	0	7.1%
+Liberty	Texas	15	0	0	0	0%
+Rusk	Texas	15	1	0	0	0%
 Calhoun	Texas	14	0	0	0	0%
-Rusk	Texas	14	0	0	0	0%
 Waller	Texas	14	1	0	0	0%
 Erath	Texas	13	0	1	0	7.7%
 Hockley	Texas	13	1	1	0	7.7%
@@ -608,7 +608,7 @@ Atascosa	Texas	8	1	0	0	0%
 Austin	Texas	8	0	0	0	0%
 Hill	Texas	8	0	0	0	0%
 Lamar	Texas	8	0	0	0	0%
-Jasper	Texas	7	1	1	0	14.3%
+Upshur	Texas	8	2	0	0	0%
 Dawson	Texas	7	0	1	0	14.3%
 Colorado	Texas	7	1	0	0	0%
 Deaf Smith	Texas	7	0	0	0	0%
@@ -616,12 +616,12 @@ Milam	Texas	7	0	0	0	0%
 San Patricio	Texas	7	0	0	0	0%
 Starr	Texas	7	0	0	0	0%
 Terry	Texas	7	0	0	0	0%
+Jasper	Texas	6	0	1	0	16.7%
 Burleson	Texas	6	0	0	0	0%
 Burnet	Texas	6	0	0	0	0%
 Caldwell	Texas	6	0	0	0	0%
 Cherokee	Texas	6	0	0	0	0%
 Grimes	Texas	6	0	0	0	0%
-Upshur	Texas	6	0	0	0	0%
 Uvalde	Texas	6	0	0	0	0%
 Titus	Texas	6	0	0	0	0%
 Willacy	Texas	5	0	1	0	20%
@@ -646,7 +646,6 @@ Eastland	Texas	3	0	0	0	0%
 Leon	Texas	3	0	0	0	0%
 Live Oak	Texas	3	0	0	0	0%
 Llano	Texas	3	0	0	0	0%
-Morris	Texas	3	0	0	0	0%
 Swisher	Texas	3	0	0	0	0%
 Young	Texas	3	0	0	0	0%
 Trinity	Texas	3	0	0	0	0%
@@ -662,6 +661,7 @@ Kerr	Texas	2	0	0	0	0%
 Kleberg	Texas	2	0	0	0	0%
 Martin	Texas	2	0	0	0	0%
 Montague	Texas	2	1	0	0	0%
+Morris	Texas	2	0	0	0	0%
 Newton	Texas	2	1	0	0	0%
 Robertson	Texas	2	0	0	0	0%
 Jim Wells	Texas	2	0	0	0	0%
@@ -871,35 +871,35 @@ Windham	Connecticut	66	7	1	0	1.5%
 King	Washington	4,262	145	284	7	6.7%
 Snohomish	Washington	1,835	33	68	1	3.7%
 Pierce	Washington	922	47	19	0	2.1%
-Unassigned	Washington	848	0	0	0	0%
+Unassigned	Washington	764	0	0	0	0%
 Yakima	Washington	511	0	20	0	3.9%
 Whatcom	Washington	261	11	23	0	8.8%
 Spokane	Washington	251	0	14	0	5.6%
-Benton	Washington	244	10	25	0	10.2%
+Benton	Washington	246	12	25	0	10.2%
 Clark	Washington	220	0	14	0	6.4%
 Skagit	Washington	185	0	6	1	3.2%
 Island	Washington	157	0	7	0	4.5%
 Kitsap	Washington	132	4	1	0	0.8%
-Grant	Washington	110	0	2	0	1.8%
-Franklin	Washington	107	0	2	0	1.9%
+Franklin	Washington	112	5	2	0	1.8%
+Grant	Washington	111	1	2	0	1.8%
 Thurston	Washington	81	0	1	0	1.2%
 Chelan	Washington	53	8	5	2	9.4%
-Adams	Washington	30	0	0	0	0%
+Adams	Washington	36	6	0	0	0%
 Jefferson	Washington	28	0	0	0	0%
 Cowlitz	Washington	23	0	0	0	0%
 Walla Walla	Washington	20	0	0	0	0%
+Mason	Washington	19	1	0	0	0%
 Lewis	Washington	18	0	2	0	11.1%
-Mason	Washington	18	0	0	0	0%
 Douglas	Washington	16	0	0	0	0%
 Kittitas	Washington	15	0	1	0	6.7%
-Okanogan	Washington	14	0	0	0	0%
+Okanogan	Washington	15	1	0	0	0%
 San Juan	Washington	13	0	0	0	0%
 Klickitat	Washington	12	0	1	0	8.3%
+Clallam	Washington	12	1	0	0	0%
 Whitman	Washington	12	0	0	0	0%
-Clallam	Washington	11	0	0	0	0%
-Grays Harbor	Washington	8	0	0	0	0%
+Grays Harbor	Washington	11	3	0	0	0%
 Stevens	Washington	6	0	0	0	0%
-Asotin	Washington	4	0	0	0	0%
+Asotin	Washington	5	1	0	0	0%
 Skamania	Washington	3	0	0	0	0%
 Lincoln	Washington	2	0	0	0	0%
 Wahkiakum	Washington	2	0	0	0	0%
@@ -1874,12 +1874,12 @@ Tallahatchie	Mississippi	3	0	0	0	0%
 Tishomingo	Mississippi	2	0	0	0	0%
 Greene	Mississippi	2	1	0	0	0%
 Unassigned	Mississippi	0	0	0	0	0%
-Providence	Rhode Island	1,278	323	3	0	0.2%
-Unassigned	Rhode Island	649	0	53	7	8.2%
-Kent	Rhode Island	169	18	0	0	0%
+Providence	Rhode Island	1,278	0	3	0	0.2%
+Unassigned	Rhode Island	649	314	53	7	8.2%
+Kent	Rhode Island	169	0	0	0	0%
 Washington	Rhode Island	140	20	0	0	0%
-Newport	Rhode Island	74	18	0	0	0%
-Bristol	Rhode Island	39	2	0	0	0%
+Newport	Rhode Island	74	0	0	0	0%
+Bristol	Rhode Island	39	0	0	0	0%
 Salt Lake	Utah	1,071	60	7	0	0.7%
 Summit	Utah	300	4	0	0	0%
 Utah	Utah	295	12	2	0	0.7%
@@ -1965,8 +1965,7 @@ Marshall	Oklahoma	1	0	0	0	0%
 Okfuskee	Oklahoma	1	0	0	0	0%
 Out-of-State	Oklahoma	0	0	0	0	0%
 Unassigned	Oklahoma	0	0	0	0	0%
-District of Columbia	Washington, D.C.	1,778	118	47	9	2.6%
-Unassigned	Kentucky	385	0	21	0	5.5%
+Unassigned	Kentucky	532	147	25	4	4.7%
 Jefferson	Kentucky	380	0	26	0	6.8%
 Fayette	Kentucky	148	0	8	0	5.4%
 Daviess	Kentucky	79	0	2	0	2.5%
@@ -2059,6 +2058,7 @@ Green	Kentucky	1	0	0	0	0%
 Hart	Kentucky	1	0	0	0	0%
 Letcher	Kentucky	1	0	0	0	0%
 Whitley	Kentucky	1	0	0	0	0%
+District of Columbia	Washington, D.C.	1,778	118	47	9	2.6%
 Linn	Iowa	235	10	10	0	4.3%
 Johnson	Iowa	194	9	1	0	0.5%
 Polk	Iowa	163	16	4	0	2.5%
@@ -2276,8 +2276,8 @@ Washington	Idaho	1	0	0	0	0%
 Caribou	Idaho	1	0	0	0	0%
 Unassigned	Idaho	0	0	0	0	0%
 Lewis	Idaho	0	0	0	0	0%
-Wyandotte	Kansas	315	15	20	0	6.3%
-Johnson	Kansas	283	20	12	0	4.2%
+Wyandotte	Kansas	315	15	24	0	7.6%
+Johnson	Kansas	283	20	13	0	4.6%
 Sedgwick	Kansas	191	19	2	0	1%
 Leavenworth	Kansas	75	9	1	0	1.3%
 Shawnee	Kansas	73	14	3	0	4.1%
@@ -2287,7 +2287,7 @@ Lyon	Kansas	27	1	0	0	0%
 Riley	Kansas	20	0	0	0	0%
 Labette	Kansas	18	4	0	0	0%
 Finney	Kansas	15	3	0	0	0%
-Montgomery	Kansas	14	2	0	0	0%
+Montgomery	Kansas	14	2	2	1	14.3%
 McPherson	Kansas	13	0	0	0	0%
 Franklin	Kansas	12	2	0	0	0%
 Reno	Kansas	11	1	0	0	0%
@@ -2337,7 +2337,7 @@ Scott	Kansas	1	0	0	0	0%
 Ellis	Kansas	1	0	0	0	0%
 Hamilton	Kansas	1	1	0	0	0%
 Phillips	Kansas	1	1	0	0	0%
-Unassigned	Kansas	0	0	11	5	0%
+Unassigned	Kansas	0	0	4	4	0%
 Pulaski	Arkansas	249	13	9	1	3.6%
 Jefferson	Arkansas	91	1	2	0	2.2%
 Crittenden	Arkansas	89	0	2	0	2.2%
@@ -2588,7 +2588,7 @@ Cabell	West Virginia	21	0	0	0	0%
 Ohio	West Virginia	21	0	0	0	0%
 Wood	West Virginia	18	0	0	0	0%
 Wayne	West Virginia	17	0	0	0	0%
-Unassigned	West Virginia	14	14	1	0	7.1%
+Unassigned	West Virginia	14	14	2	1	14.3%
 Putnam	West Virginia	10	0	0	0	0%
 Logan	West Virginia	8	0	0	0	0%
 Mercer	West Virginia	8	0	0	0	0%
