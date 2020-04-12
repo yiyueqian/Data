@@ -554,15 +554,15 @@ Matagorda	Texas	49	0	3	0	6.1%
 Hardin	Texas	47	6	2	1	4.3%
 Guadalupe	Texas	47	0	0	0	0%
 Nacogdoches	Texas	46	15	3	0	6.5%
-Ector	Texas	40	1	1	0	2.5%
+Ector	Texas	41	2	1	0	2.4%
 Gregg	Texas	40	0	0	0	0%
 Comal	Texas	37	0	4	0	10.8%
 Washington	Texas	36	0	1	0	2.8%
 Tom Green	Texas	35	2	1	0	2.9%
 Coryell	Texas	34	16	0	0	0%
 Orange	Texas	33	3	0	0	0%
+Midland	Texas	32	1	1	0	3.1%
 Shelby	Texas	32	1	0	0	0%
-Midland	Texas	31	0	1	0	3.2%
 Bowie	Texas	30	1	1	0	3.3%
 Johnson	Texas	28	1	1	0	3.6%
 Bastrop	Texas	26	0	1	0	3.8%
@@ -2449,7 +2449,7 @@ Belknap	New Hampshire	21	0	0	0	0%
 Cheshire	New Hampshire	18	1	0	0	0%
 Sullivan	New Hampshire	6	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
-Unassigned	New Hampshire	1	1	20	1	2000%
+Unassigned	New Hampshire	1	1	20	1	0%
 Puerto Rico	Puerto Rico	788	63	42	3	5.3%
 Chittenden	Vermont	351	15	16	1	4.6%
 Franklin	Vermont	80	45	3	0	3.8%
@@ -2494,7 +2494,7 @@ Merrick	Nebraska	2	0	0	0	0%
 Cheyenne	Nebraska	2	1	0	0	0%
 Franklin	Nebraska	2	0	0	0	0%
 Clay	Nebraska	2	1	0	0	0%
-Unassigned	Nebraska	1	1	2	0	200%
+Unassigned	Nebraska	1	1	2	0	0%
 Antelope	Nebraska	1	0	0	0	0%
 Gosper	Nebraska	1	0	0	0	0%
 Nemaha	Nebraska	1	0	0	0	0%
