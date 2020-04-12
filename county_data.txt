@@ -1,9 +1,9 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	98,715	4,306	6,367	547	6.4%
-Nassau	New York	22,584	1,072	792	69	3.5%
+Nassau	New York	22,584	1,072	792	89	3.5%
 Suffolk	New York	20,321	1,518	458	44	2.3%
 Westchester	New York	18,729	652	461	72	2.5%
-Rockland	New York	7,477	355	200	0	2.7%
+Rockland	New York	7,477	355	200	25	2.7%
 Orange	New York	4,975	335	145	13	2.9%
 Dutchess	New York	1,744	146	12	1	0.7%
 Erie	New York	1,558	52	57	4	3.7%
@@ -177,7 +177,7 @@ Hampshire	Massachusetts	204	10	5	1	2.5%
 Franklin	Massachusetts	138	3	23	1	16.7%
 Dukes and Nantucket	Massachusetts	21	0	1	0	4.8%
 Los Angeles	California	8,889	436	267	23	3%
-San Diego	California	1,693	0	44	0	2.6%
+San Diego	California	1,761	68	45	1	2.6%
 Santa Clara	California	1,566	82	51	1	3.3%
 Riverside	California	1,431	81	41	2	2.9%
 Orange	California	1,221	83	18	1	1.5%
@@ -189,10 +189,10 @@ San Mateo	California	652	14	21	0	3.2%
 Contra Costa	California	530	19	11	2	2.1%
 Kern	California	371	0	3	0	0.8%
 Ventura	California	309	11	10	0	3.2%
-Santa Barbara	California	260	0	2	0	0.8%
+Santa Barbara	California	264	4	2	0	0.8%
 San Joaquin	California	258	1	14	0	5.4%
-Tulare	California	203	0	11	0	5.4%
-Fresno	California	191	0	5	0	2.6%
+Tulare	California	227	24	11	0	4.8%
+Fresno	California	201	10	5	0	2.5%
 Marin	California	154	0	10	0	6.5%
 Sonoma	California	145	0	2	0	1.4%
 Placer	California	124	1	4	0	3.2%
@@ -872,33 +872,33 @@ King	Washington	4,262	145	284	7	6.7%
 Snohomish	Washington	1,835	33	68	1	3.7%
 Pierce	Washington	922	47	19	0	2.1%
 Unassigned	Washington	764	0	0	0	0%
-Yakima	Washington	511	0	20	0	3.9%
+Yakima	Washington	535	24	21	1	3.9%
+Spokane	Washington	262	11	14	0	5.3%
 Whatcom	Washington	261	11	23	0	8.8%
-Spokane	Washington	251	0	14	0	5.6%
 Benton	Washington	246	12	25	0	10.2%
 Clark	Washington	220	0	14	0	6.4%
-Skagit	Washington	185	0	6	1	3.2%
+Skagit	Washington	187	2	6	1	3.2%
 Island	Washington	157	0	7	0	4.5%
 Kitsap	Washington	132	4	1	0	0.8%
+Grant	Washington	114	4	2	0	1.8%
 Franklin	Washington	112	5	2	0	1.8%
-Grant	Washington	111	1	2	0	1.8%
 Thurston	Washington	81	0	1	0	1.2%
 Chelan	Washington	53	8	5	2	9.4%
 Adams	Washington	36	6	0	0	0%
 Jefferson	Washington	28	0	0	0	0%
 Cowlitz	Washington	23	0	0	0	0%
-Walla Walla	Washington	20	0	0	0	0%
+Walla Walla	Washington	21	1	0	0	0%
 Mason	Washington	19	1	0	0	0%
-Lewis	Washington	18	0	2	0	11.1%
+Lewis	Washington	17	0	2	0	11.8%
 Douglas	Washington	16	0	0	0	0%
-Kittitas	Washington	15	0	1	0	6.7%
 Okanogan	Washington	15	1	0	0	0%
+Klickitat	Washington	14	2	1	0	7.1%
+Kittitas	Washington	13	0	1	0	7.7%
 San Juan	Washington	13	0	0	0	0%
-Klickitat	Washington	12	0	1	0	8.3%
 Clallam	Washington	12	1	0	0	0%
 Whitman	Washington	12	0	0	0	0%
 Grays Harbor	Washington	11	3	0	0	0%
-Stevens	Washington	6	0	0	0	0%
+Stevens	Washington	7	1	0	0	0%
 Asotin	Washington	5	1	0	0	0%
 Skamania	Washington	3	0	0	0	0%
 Lincoln	Washington	2	0	0	0	0%
