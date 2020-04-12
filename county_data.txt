@@ -187,42 +187,41 @@ Alameda	California	808	40	21	1	2.6%
 Sacramento	California	699	46	26	2	3.7%
 San Mateo	California	652	14	21	0	3.2%
 Contra Costa	California	530	19	11	2	2.1%
-Kern	California	371	0	3	0	0.8%
+Kern	California	377	6	3	0	0.8%
 Ventura	California	309	11	10	0	3.2%
 Santa Barbara	California	264	4	2	0	0.8%
 San Joaquin	California	258	1	14	0	5.4%
 Tulare	California	227	24	11	0	4.8%
 Fresno	California	201	10	5	0	2.5%
-Marin	California	154	0	10	0	6.5%
+Marin	California	153	0	10	0	6.5%
 Sonoma	California	145	0	2	0	1.4%
 Placer	California	124	1	4	0	3.2%
 Solano	California	121	0	2	0	1.7%
-Stanislaus	California	116	0	2	1	1.7%
+Stanislaus	California	121	5	2	1	1.7%
 San Luis Obispo	California	110	3	1	0	0.9%
+Yolo	California	88	13	3	0	3.4%
+Imperial	California	87	8	3	0	3.4%
+Monterey	California	82	3	3	0	3.7%
 Santa Cruz	California	82	2	1	0	1.2%
-Monterey	California	79	0	3	0	3.8%
-Imperial	California	79	0	3	0	3.8%
-Yolo	California	75	0	3	0	4%
-Merced	California	59	0	3	0	5.1%
+Merced	California	64	5	3	0	4.7%
 Humboldt	California	50	0	0	0	0%
-Sutter	California	37	0	3	0	8.1%
 San Benito	California	35	0	2	0	5.7%
 Napa	California	34	2	2	0	5.9%
 Nevada	California	34	0	1	0	2.9%
 Madera	California	32	0	2	0	6.3%
 El Dorado	California	32	0	0	0	0%
 Shasta	California	24	0	3	0	12.5%
+Sutter	California	22	0	3	0	13.6%
 Mono	California	21	0	1	0	4.8%
 Yuba	California	15	0	1	0	6.7%
 Butte	California	14	0	0	0	0%
 Inyo	California	12	0	0	0	0%
-Kings	California	9	0	0	0	0%
+Kings	California	10	1	1	1	10%
 Calaveras	California	8	0	0	0	0%
 Amador	California	7	0	0	0	0%
 Siskiyou	California	5	0	0	0	0%
 Mendocino	California	4	0	0	0	0%
 Plumas	California	4	0	0	0	0%
-Unassigned	California	4	0	0	0	0%
 Lake	California	4	0	0	0	0%
 Colusa	California	3	0	0	0	0%
 Glenn	California	3	0	0	0	0%
@@ -230,6 +229,7 @@ Alpine	California	2	0	0	0	0%
 Del Norte	California	2	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
 Tehama	California	1	0	0	0	0%
+Unassigned	California	0	0	0	0	0%
 Philadelphia	Pennsylvania	6,152	359	160	23	2.6%
 Montgomery	Pennsylvania	2,053	164	60	10	2.9%
 Lehigh	Pennsylvania	1,620	58	16	0	1%
@@ -1266,7 +1266,7 @@ Moore	Tennessee	0	0	0	0	0%
 Van Buren	Tennessee	0	0	0	0	0%
 Fairfax	Virginia	946	169	20	1	2.1%
 Prince William	Virginia	390	53	1	0	0.3%
-Henrico	Virginia	368	26	2	0	0.5%
+Henrico	Virginia	368	26	42	2	11.4%
 Arlington	Virginia	349	37	2	0	0.6%
 Loudoun	Virginia	296	22	5	0	1.7%
 Virginia Beach	Virginia	236	12	1	0	0.4%
@@ -1387,7 +1387,7 @@ Staunton	Virginia	1	0	0	0	0%
 Rappahannock	Virginia	1	0	0	0	0%
 Floyd	Virginia	1	1	0	0	0%
 Russell	Virginia	1	0	0	0	0%
-Unassigned	Virginia	0	0	91	8	0%
+Unassigned	Virginia	0	0	51	6	0%
 Bath	Virginia	0	0	0	0	0%
 Bland	Virginia	0	0	0	0	0%
 Dickenson	Virginia	0	0	0	0	0%
@@ -1399,15 +1399,15 @@ Martinsville	Virginia	0	0	0	0	0%
 Norton	Virginia	0	0	0	0	0%
 Patrick	Virginia	0	0	0	0	0%
 Mecklenburg	North Carolina	935	22	12	0	1.3%
-Wake	North Carolina	424	14	0	0	0%
-Durham	North Carolina	275	12	1	0	0.4%
+Wake	North Carolina	449	39	0	0	0%
+Durham	North Carolina	277	14	1	0	0.4%
 Orange	North Carolina	141	37	2	1	1.4%
 Guilford	North Carolina	134	7	9	0	6.7%
 Forsyth	North Carolina	115	0	4	1	3.5%
 Cabarrus	North Carolina	107	13	1	0	0.9%
 Rowan	North Carolina	105	30	2	0	1.9%
 Union	North Carolina	101	1	1	0	1%
-Johnston	North Carolina	92	1	5	0	5.4%
+Johnston	North Carolina	96	5	5	0	5.2%
 Granville	North Carolina	89	0	0	0	0%
 Davidson	North Carolina	85	4	2	0	2.4%
 Moore	North Carolina	84	0	2	0	2.4%
@@ -1416,11 +1416,11 @@ Gaston	North Carolina	80	2	3	0	3.8%
 Iredell	North Carolina	71	8	1	0	1.4%
 Wayne	North Carolina	69	17	1	0	1.4%
 Henderson	North Carolina	68	0	5	0	7.4%
+Wilson	North Carolina	64	10	3	0	4.7%
 Pitt	North Carolina	62	2	1	0	1.6%
 Northampton	North Carolina	61	0	1	0	1.6%
 Burke	North Carolina	61	7	2	0	3.3%
 New Hanover	North Carolina	59	4	0	0	0%
-Wilson	North Carolina	58	4	3	0	5.2%
 Randolph	North Carolina	51	3	2	0	3.9%
 Harnett	North Carolina	38	3	2	0	5.3%
 Buncombe	North Carolina	37	0	2	0	5.4%
@@ -1431,7 +1431,7 @@ Onslow	North Carolina	34	0	1	0	2.9%
 Brunswick	North Carolina	34	4	1	0	2.9%
 Alamance	North Carolina	34	0	0	0	0%
 Catawba	North Carolina	33	1	1	0	3%
-Nash	North Carolina	32	3	1	0	3.1%
+Nash	North Carolina	33	4	1	0	3%
 Columbus	North Carolina	31	6	1	0	3.2%
 Franklin	North Carolina	27	1	0	0	0%
 Craven	North Carolina	24	1	1	0	4.2%
@@ -1450,6 +1450,7 @@ Pasquotank	North Carolina	15	4	0	0	0%
 Rockingham	North Carolina	14	4	2	0	14.3%
 Stanly	North Carolina	14	3	1	0	7.1%
 Lenoir	North Carolina	14	1	0	0	0%
+Yadkin	North Carolina	14	4	0	0	0%
 Montgomery	North Carolina	13	0	1	0	7.7%
 Dare	North Carolina	13	0	1	0	7.7%
 Beaufort	North Carolina	13	1	0	0	0%
@@ -1460,7 +1461,6 @@ Anson	North Carolina	10	1	0	0	0%
 Greene	North Carolina	10	0	0	0	0%
 Stokes	North Carolina	10	0	0	0	0%
 Surry	North Carolina	10	0	0	0	0%
-Yadkin	North Carolina	10	0	0	0	0%
 Polk	North Carolina	9	1	0	0	0%
 Scotland	North Carolina	9	5	0	0	0%
 Lee	North Carolina	8	3	0	0	0%
@@ -1470,11 +1470,11 @@ Richmond	North Carolina	7	0	1	0	14.3%
 Robeson	North Carolina	7	0	0	0	0%
 Jones	North Carolina	6	2	1	1	16.7%
 Transylvania	North Carolina	6	0	0	0	0%
+Hertford	North Carolina	5	1	1	0	20%
 Martin	North Carolina	5	0	0	0	0%
 Pamlico	North Carolina	5	1	0	0	0%
 Pender	North Carolina	5	0	0	0	0%
 Wilkes	North Carolina	4	0	1	0	25%
-Hertford	North Carolina	4	0	1	0	25%
 Clay	North Carolina	4	0	0	0	0%
 Gates	North Carolina	4	0	0	0	0%
 Mitchell	North Carolina	4	1	0	0	0%
@@ -1791,7 +1791,7 @@ Nye	Nevada	10	0	0	0	0%
 Lyon	Nevada	7	1	0	0	0%
 White Pine	Nevada	1	0	0	0	0%
 Lincoln	Nevada	1	0	0	0	0%
-Unassigned	Nevada	0	0	0	0	0%
+Unassigned	Nevada	0	0	3	3	0%
 Hinds	Mississippi	234	15	2	0	0.9%
 DeSoto	Mississippi	163	5	2	1	1.2%
 Jackson	Mississippi	139	4	5	0	3.6%
