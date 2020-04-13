@@ -89,7 +89,7 @@ Worcester	Massachusetts	2,128	96	49	0	2.3%
 Hampden	Massachusetts	1,694	47	102	0	6%
 Bristol	Massachusetts	1,394	67	43	0	3.1%
 Barnstable	Massachusetts	502	1	16	0	3.2%
-Unassigned	Massachusetts	373	0	12	0	3.2%
+Unassigned	Massachusetts	447	74	100	88	22.4%
 Berkshire	Massachusetts	355	5	20	0	5.6%
 Hampshire	Massachusetts	224	5	6	0	2.7%
 Franklin	Massachusetts	148	5	25	0	16.9%
@@ -244,29 +244,29 @@ Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Fulton	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	9,197	0	300	0	3.3%
+Los Angeles	California	9,433	236	322	22	3.4%
 San Diego	California	1,804	0	45	0	2.5%
 Santa Clara	California	1,666	45	60	6	3.6%
 Riverside	California	1,619	0	41	0	2.5%
 Orange	California	1,283	6	19	0	1.5%
 San Francisco	California	957	85	15	1	1.6%
+Alameda	California	888	43	23	0	2.6%
 San Bernardino	California	887	0	31	0	3.5%
-Alameda	California	886	41	23	0	2.6%
-Sacramento	California	707	0	26	0	3.7%
+Sacramento	California	739	32	27	1	3.7%
 San Mateo	California	701	49	21	0	3%
-Contra Costa	California	539	0	11	0	2%
+Contra Costa	California	552	13	11	0	2%
 Kern	California	436	40	3	0	0.7%
 Ventura	California	314	0	10	0	3.2%
-San Joaquin	California	273	0	16	0	5.9%
+San Joaquin	California	293	20	16	0	5.5%
 Santa Barbara	California	267	0	2	0	0.7%
-Tulare	California	227	0	11	0	4.8%
+Tulare	California	264	37	13	2	4.9%
 Fresno	California	201	0	5	0	2.5%
 Marin	California	164	0	10	0	6.1%
 Sonoma	California	147	0	2	0	1.4%
 Stanislaus	California	131	0	2	0	1.5%
-Placer	California	124	0	4	0	3.2%
+Placer	California	127	3	5	1	3.9%
 Solano	California	121	0	2	0	1.7%
-San Luis Obispo	California	114	0	1	0	0.9%
+San Luis Obispo	California	117	3	1	0	0.9%
 Yolo	California	93	0	3	0	3.2%
 Santa Cruz	California	91	3	1	0	1.1%
 Imperial	California	87	0	3	0	3.4%
@@ -313,14 +313,14 @@ Winnebago	Illinois	99	5	4	0	4%
 Champaign	Illinois	87	1	2	0	2.3%
 McLean	Illinois	79	2	2	0	2.5%
 Unassigned	Illinois	65	-36	1	0	1.5%
-Sangamon	Illinois	48	5	2	0	4.2%
 Monroe	Illinois	46	0	1	0	2.2%
+Sangamon	Illinois	44	1	3	1	6.8%
 Macon	Illinois	42	7	1	0	2.4%
 Randolph	Illinois	41	1	0	0	0%
-Clinton	Illinois	38	1	0	0	0%
+Clinton	Illinois	39	2	0	0	0%
+Jackson	Illinois	36	5	4	2	11.1%
 DeKalb	Illinois	34	0	1	0	2.9%
-Jackson	Illinois	33	2	2	0	6.1%
-Peoria	Illinois	30	3	1	0	3.3%
+Peoria	Illinois	31	4	1	0	3.2%
 Whiteside	Illinois	28	2	1	0	3.6%
 Adams	Illinois	26	1	0	0	0%
 Ogle	Illinois	26	8	0	0	0%
@@ -328,7 +328,7 @@ Christian	Illinois	24	0	3	0	12.5%
 Henry	Illinois	23	1	0	0	0%
 Grundy	Illinois	21	0	0	0	0%
 La Salle	Illinois	21	1	1	0	4.8%
-Tazewell	Illinois	19	0	2	0	10.5%
+Tazewell	Illinois	19	0	3	1	15.8%
 Livingston	Illinois	17	1	0	0	0%
 Macoupin	Illinois	16	0	0	0	0%
 Lee	Illinois	14	1	0	0	0%
@@ -519,14 +519,14 @@ Gulf	Florida	1	0	0	0	0%
 Taylor	Florida	1	0	0	0	0%
 Lafayette	Florida	1	0	0	0	0%
 Liberty	Florida	1	0	0	0	0%
-Harris--Houston	Texas	2,124	0	16	0	0.8%
-Dallas	Texas	1,723	0	31	0	1.8%
+Harris--Houston	Texas	2,239	115	18	2	0.8%
+Dallas	Texas	1,788	65	32	1	1.8%
 Harris--Non Houston	Texas	1,505	0	28	0	1.9%
 Tarrant	Texas	876	70	25	0	2.9%
 Travis	Texas	774	0	9	0	1.2%
 Bexar	Texas	772	0	30	0	3.9%
-Fort Bend	Texas	536	0	11	0	2.1%
-Denton	Texas	482	0	13	0	2.7%
+Fort Bend	Texas	543	7	11	0	2%
+Denton	Texas	507	25	13	0	2.6%
 Collin	Texas	453	0	8	0	1.8%
 Galveston	Texas	355	0	8	0	2.3%
 Lubbock	Texas	307	0	16	0	5.2%
@@ -536,7 +536,7 @@ Brazoria	Texas	237	0	2	0	0.8%
 Webb	Texas	196	0	8	0	4.1%
 Cameron	Texas	195	0	3	0	1.5%
 Hidalgo	Texas	190	0	1	0	0.5%
-Brazos	Texas	140	0	11	0	7.9%
+Brazos	Texas	143	3	12	1	8.4%
 Jefferson	Texas	127	27	6	1	4.7%
 Williamson	Texas	117	0	4	0	3.4%
 Bell	Texas	101	0	3	0	3%
@@ -546,10 +546,10 @@ Victoria	Texas	81	4	0	0	0%
 Nueces	Texas	76	0	0	0	0%
 McLennan	Texas	71	2	2	0	2.8%
 Potter	Texas	70	0	2	0	2.9%
+Taylor	Texas	68	9	1	0	1.5%
 Ellis	Texas	66	0	2	0	3%
 Randall	Texas	64	0	2	0	3.1%
 Hardin	Texas	61	0	2	0	3.3%
-Taylor	Texas	61	2	1	0	1.6%
 Wichita	Texas	56	0	0	0	0%
 Guadalupe	Texas	49	0	0	0	0%
 Matagorda	Texas	49	0	3	0	6.1%
@@ -871,11 +871,11 @@ Treutlen	Georgia	1	0	0	0	0%
 Evans	Georgia	1	0	0	0	0%
 Chambers	Georgia	0	0	0	0	0%
 King	Washington	4,426	0	292	0	6.6%
-Snohomish	Washington	1,867	0	70	0	3.7%
-Pierce	Washington	931	0	20	0	2.1%
+Snohomish	Washington	1,907	40	73	3	3.8%
+Pierce	Washington	969	38	20	0	2.1%
 Unassigned	Washington	619	0	0	0	0%
 Yakima	Washington	538	0	21	0	3.9%
-Spokane	Washington	274	0	14	0	5.1%
+Spokane	Washington	276	2	15	1	5.4%
 Whatcom	Washington	264	1	23	0	8.7%
 Benton	Washington	259	0	27	0	10.4%
 Clark	Washington	239	19	15	1	6.3%
@@ -888,7 +888,7 @@ Thurston	Washington	81	0	1	0	1.2%
 Chelan	Washington	55	0	5	0	9.1%
 Adams	Washington	37	0	0	0	0%
 Jefferson	Washington	28	0	0	0	0%
-Cowlitz	Washington	23	0	0	0	0%
+Cowlitz	Washington	25	2	0	0	0%
 Walla Walla	Washington	21	0	0	0	0%
 Mason	Washington	19	0	0	0	0%
 Douglas	Washington	18	0	0	0	0%
@@ -1411,7 +1411,7 @@ Forsyth	North Carolina	117	1	4	0	3.4%
 Union	North Carolina	104	3	1	0	1%
 Johnston	North Carolina	101	0	5	0	5%
 Henderson	North Carolina	97	21	5	0	5.2%
-Granville	North Carolina	92	3	0	0	0%
+Granville	North Carolina	93	4	1	1	1.1%
 Gaston	North Carolina	86	0	3	0	3.5%
 Davidson	North Carolina	85	0	2	0	2.4%
 Cumberland	North Carolina	84	0	1	0	1.2%
@@ -1425,7 +1425,7 @@ Franklin	North Carolina	67	3	0	0	0%
 Pitt	North Carolina	65	2	1	0	1.5%
 Northampton	North Carolina	62	0	1	0	1.6%
 Burke	North Carolina	61	0	3	0	4.9%
-New Hanover	North Carolina	59	0	1	0	1.7%
+New Hanover	North Carolina	61	2	1	0	1.6%
 Randolph	North Carolina	53	2	2	0	3.8%
 Harnett	North Carolina	45	4	2	0	4.4%
 Rutherford	North Carolina	40	3	1	0	2.5%
@@ -1461,6 +1461,7 @@ Sampson	North Carolina	13	2	0	0	0%
 Bertie	North Carolina	12	0	1	0	8.3%
 Greene	North Carolina	12	0	0	0	0%
 Cherokee	North Carolina	11	0	1	0	9.1%
+Robeson	North Carolina	11	3	0	0	0%
 Anson	North Carolina	10	0	0	0	0%
 Stokes	North Carolina	10	0	0	0	0%
 Surry	North Carolina	10	0	0	0	0%
@@ -1468,7 +1469,6 @@ Richmond	North Carolina	10	0	1	0	10%
 Polk	North Carolina	9	0	0	0	0%
 Scotland	North Carolina	9	0	0	0	0%
 Person	North Carolina	8	0	0	0	0%
-Robeson	North Carolina	8	0	0	0	0%
 Watauga	North Carolina	8	0	0	0	0%
 Jones	North Carolina	7	0	1	0	14.3%
 Martin	North Carolina	6	0	0	0	0%
@@ -1590,6 +1590,74 @@ Andrew	Missouri	1	0	0	0	0%
 Iron	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	0	0	-1	0%
+Jefferson	Alabama	612	15	15	0	2.5%
+Mobile	Alabama	468	14	17	2	3.6%
+Lee	Alabama	250	14	8	0	3.2%
+Shelby	Alabama	230	17	5	0	2.2%
+Chambers	Alabama	212	12	8	0	3.8%
+Madison	Alabama	187	1	3	0	1.6%
+Montgomery	Alabama	135	15	5	1	3.7%
+Tuscaloosa	Alabama	121	2	0	0	0%
+Marshall	Alabama	102	3	2	0	2%
+Tallapoosa	Alabama	101	2	5	1	5%
+Walker	Alabama	84	1	0	0	0%
+Etowah	Alabama	77	0	7	0	9.1%
+Baldwin	Alabama	72	1	1	0	1.4%
+Calhoun	Alabama	61	1	0	0	0%
+Marion	Alabama	56	4	4	1	7.1%
+Houston	Alabama	47	3	1	0	2.1%
+St. Clair	Alabama	43	1	0	0	0%
+Morgan	Alabama	42	3	0	0	0%
+Randolph	Alabama	40	4	4	0	10%
+Cullman	Alabama	39	0	1	0	2.6%
+Talladega	Alabama	38	4	1	1	2.6%
+Limestone	Alabama	37	0	0	0	0%
+Coffee	Alabama	36	4	0	0	0%
+Elmore	Alabama	35	2	0	0	0%
+Chilton	Alabama	33	3	0	0	0%
+Wilcox	Alabama	31	1	0	0	0%
+DeKalb	Alabama	27	1	0	0	0%
+Russell	Alabama	27	3	0	0	0%
+Jackson	Alabama	26	1	2	0	7.7%
+Pickens	Alabama	23	1	0	0	0%
+Lauderdale	Alabama	22	1	4	0	18.2%
+Marengo	Alabama	22	1	1	0	4.5%
+Pike	Alabama	21	1	0	0	0%
+Sumter	Alabama	21	1	0	0	0%
+Autauga	Alabama	19	0	1	0	5.3%
+Clarke	Alabama	19	0	0	0	0%
+Coosa	Alabama	18	0	0	0	0%
+Greene	Alabama	18	1	0	0	0%
+Bibb	Alabama	17	1	0	0	0%
+Hale	Alabama	15	0	0	0	0%
+Lowndes	Alabama	15	1	0	0	0%
+Macon	Alabama	15	1	1	0	6.7%
+Blount	Alabama	14	1	0	0	0%
+Clay	Alabama	14	0	0	0	0%
+Dallas	Alabama	14	0	0	0	0%
+Covington	Alabama	13	0	0	0	0%
+Henry	Alabama	13	2	0	0	0%
+Cleburne	Alabama	12	0	0	0	0%
+Dale	Alabama	12	4	0	0	0%
+Washington	Alabama	12	0	1	0	8.3%
+Choctaw	Alabama	10	0	0	0	0%
+Colbert	Alabama	10	1	1	0	10%
+Franklin	Alabama	10	0	0	0	0%
+Barbour	Alabama	10	0	0	0	0%
+Cherokee	Alabama	9	0	0	0	0%
+Butler	Alabama	8	1	0	0	0%
+Escambia	Alabama	8	0	0	0	0%
+Lamar	Alabama	8	0	0	0	0%
+Lawrence	Alabama	8	0	0	0	0%
+Monroe	Alabama	7	1	1	0	14.3%
+Perry	Alabama	6	0	0	0	0%
+Bullock	Alabama	5	1	0	0	0%
+Conecuh	Alabama	5	0	0	0	0%
+Fayette	Alabama	4	0	0	0	0%
+Winston	Alabama	4	0	0	0	0%
+Crenshaw	Alabama	3	0	0	0	0%
+Geneva	Alabama	1	0	0	0	0%
+Unassigned	Alabama	0	0	0	0	0%
 Maricopa	Arizona	2,020	60	52	5	2.6%
 Pima	Arizona	668	46	29	0	4.3%
 Navajo	Arizona	345	10	1	0	0.3%
@@ -1606,74 +1674,6 @@ Gila	Arizona	3	0	0	0	0%
 Graham	Arizona	2	0	0	0	0%
 Greenlee	Arizona	2	0	0	0	0%
 Unassigned	Arizona	0	0	18	2	0%
-Jefferson	Alabama	606	9	15	0	2.5%
-Mobile	Alabama	468	14	18	3	3.8%
-Lee	Alabama	248	12	8	0	3.2%
-Shelby	Alabama	229	16	5	0	2.2%
-Chambers	Alabama	210	10	8	0	3.8%
-Madison	Alabama	187	0	3	0	1.6%
-Montgomery	Alabama	132	12	4	0	3%
-Tuscaloosa	Alabama	120	1	0	0	0%
-Marshall	Alabama	100	1	2	0	2%
-Tallapoosa	Alabama	100	1	5	1	5%
-Walker	Alabama	83	0	0	0	0%
-Etowah	Alabama	77	0	7	0	9.1%
-Baldwin	Alabama	72	1	1	0	1.4%
-Calhoun	Alabama	61	1	0	0	0%
-Marion	Alabama	53	1	4	1	7.5%
-Houston	Alabama	46	2	1	0	2.2%
-St. Clair	Alabama	43	1	0	0	0%
-Morgan	Alabama	41	2	0	0	0%
-Cullman	Alabama	39	0	1	0	2.6%
-Randolph	Alabama	38	2	4	0	10.5%
-Talladega	Alabama	38	4	1	1	2.6%
-Limestone	Alabama	37	0	0	0	0%
-Elmore	Alabama	35	2	0	0	0%
-Chilton	Alabama	33	3	0	0	0%
-Coffee	Alabama	32	0	0	0	0%
-Wilcox	Alabama	30	0	0	0	0%
-DeKalb	Alabama	27	1	0	0	0%
-Jackson	Alabama	26	1	2	0	7.7%
-Russell	Alabama	26	2	0	0	0%
-Lauderdale	Alabama	22	1	4	0	18.2%
-Pickens	Alabama	22	0	0	0	0%
-Marengo	Alabama	21	0	1	0	4.8%
-Sumter	Alabama	21	1	0	0	0%
-Pike	Alabama	20	0	0	0	0%
-Autauga	Alabama	19	0	1	0	5.3%
-Clarke	Alabama	19	0	0	0	0%
-Coosa	Alabama	18	0	0	0	0%
-Greene	Alabama	17	0	0	0	0%
-Bibb	Alabama	16	0	0	0	0%
-Hale	Alabama	15	0	0	0	0%
-Macon	Alabama	15	1	1	0	6.7%
-Blount	Alabama	14	1	0	0	0%
-Clay	Alabama	14	0	0	0	0%
-Dallas	Alabama	14	0	0	0	0%
-Lowndes	Alabama	14	0	0	0	0%
-Covington	Alabama	13	0	0	0	0%
-Cleburne	Alabama	12	0	0	0	0%
-Washington	Alabama	12	0	1	0	8.3%
-Henry	Alabama	12	1	0	0	0%
-Choctaw	Alabama	10	0	0	0	0%
-Colbert	Alabama	10	1	1	0	10%
-Dale	Alabama	10	2	0	0	0%
-Franklin	Alabama	10	0	0	0	0%
-Barbour	Alabama	10	0	0	0	0%
-Cherokee	Alabama	9	0	0	0	0%
-Butler	Alabama	8	1	0	0	0%
-Escambia	Alabama	8	0	0	0	0%
-Lamar	Alabama	8	0	0	0	0%
-Lawrence	Alabama	8	0	0	0	0%
-Monroe	Alabama	6	0	1	0	16.7%
-Perry	Alabama	6	0	0	0	0%
-Bullock	Alabama	5	1	0	0	0%
-Conecuh	Alabama	5	0	0	0	0%
-Fayette	Alabama	4	0	0	0	0%
-Winston	Alabama	4	0	0	0	0%
-Crenshaw	Alabama	3	0	0	0	0%
-Geneva	Alabama	1	0	0	0	0%
-Unassigned	Alabama	0	0	0	0	0%
 Milwaukee	Wisconsin	1,710	0	88	0	5.1%
 Dane	Wisconsin	334	0	12	0	3.6%
 Waukesha	Wisconsin	209	0	7	0	3.3%
@@ -1786,16 +1786,16 @@ Barnwell	South Carolina	5	0	0	0	0%
 Dillon	South Carolina	5	0	0	0	0%
 McCormick	South Carolina	3	0	1	0	33.3%
 Clark	Nevada	2,444	120	101	1	4.1%
-Washoe	Nevada	461	46	11	0	2.4%
-Humboldt	Nevada	18	0	0	0	0%
-Carson City	Nevada	16	0	0	0	0%
+Washoe	Nevada	461	46	12	1	2.6%
+Carson City	Nevada	22	6	0	0	0%
+Humboldt	Nevada	20	2	0	0	0%
 Elko	Nevada	11	0	1	0	9.1%
 Douglas	Nevada	10	0	0	0	0%
+Lyon	Nevada	10	3	0	0	0%
 Nye	Nevada	10	0	0	0	0%
-Lyon	Nevada	7	0	0	0	0%
 White Pine	Nevada	1	0	0	0	0%
 Lincoln	Nevada	1	0	0	0	0%
-Unassigned	Nevada	0	-23	1	-1	0%
+Unassigned	Nevada	0	-23	0	-1	0%
 Hinds	Mississippi	259	12	2	0	0.8%
 DeSoto	Mississippi	178	7	2	0	1.1%
 Lauderdale	Mississippi	150	15	8	0	5.3%
