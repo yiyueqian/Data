@@ -918,7 +918,7 @@ Howard	Maryland	371	20	6	0	1.6%
 Frederick	Maryland	368	27	12	1	3.3%
 Charles	Maryland	253	18	9	4	3.6%
 Carroll	Maryland	236	22	25	0	10.6%
-Harford	Maryland	129	9	1	0	0.8%
+Harford	Maryland	129	9	0	0	0%
 Calvert	Maryland	90	8	1	0	1.1%
 St. Mary\'s	Maryland	82	9	0	0	0%
 Washington	Maryland	75	3	1	0	1.3%
@@ -1670,7 +1670,7 @@ Graham	Arizona	2	0	0	0	0%
 Greenlee	Arizona	2	0	0	0	0%
 Unassigned	Arizona	0	0	22	6	0%
 Unassigned	US Military	1,841	0	6	0	0.3%
-Navy	US Military	976	0	4	0	0.4%
+Navy	US Military	1,119	143	4	0	0.4%
 Air Force	US Military	549	0	1	0	0.2%
 Milwaukee	Wisconsin	1,710	57	88	3	5.1%
 Dane	Wisconsin	334	7	12	0	3.6%
@@ -1785,7 +1785,7 @@ Dillon	South Carolina	5	0	0	0	0%
 McCormick	South Carolina	3	0	1	0	33.3%
 Clark	Nevada	2,324	66	100	4	4.3%
 Washoe	Nevada	415	0	11	0	2.7%
-Unassigned	Nevada	23	23	0	0	0%
+Unassigned	Nevada	23	23	2	2	8.7%
 Humboldt	Nevada	18	0	0	0	0%
 Carson City	Nevada	16	0	0	0	0%
 Elko	Nevada	11	0	1	0	9.1%
@@ -2301,11 +2301,11 @@ Lyon	Kansas	27	0	0	0	0%
 Riley	Kansas	20	0	0	0	0%
 Labette	Kansas	18	0	0	0	0%
 Finney	Kansas	15	0	0	0	0%
-Montgomery	Kansas	14	0	2	0	14.3%
 Ford	Kansas	13	8	0	0	0%
 McPherson	Kansas	13	0	0	0	0%
-Franklin	Kansas	12	0	0	0	0%
-Reno	Kansas	11	0	0	0	0%
+Franklin	Kansas	11	0	0	0	0%
+Montgomery	Kansas	11	0	2	0	18.2%
+Reno	Kansas	10	0	0	0	0%
 Saline	Kansas	9	1	1	0	11.1%
 Butler	Kansas	8	0	0	0	0%
 Bourbon	Kansas	7	0	1	0	14.3%
@@ -2467,35 +2467,37 @@ Sullivan	New Hampshire	6	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	1	0	20	0	0%
 Puerto Rico	Puerto Rico	897	109	44	2	4.9%
-Douglas	Nebraska	239	9	5	0	2.1%
-Hall	Nebraska	159	28	4	0	2.5%
+Douglas	Nebraska	242	12	5	0	2.1%
+Hall	Nebraska	161	30	4	0	2.5%
 Adams	Nebraska	54	9	0	0	0%
-Lancaster	Nebraska	52	2	1	0	1.9%
+Lancaster	Nebraska	54	4	1	0	1.9%
 Sarpy	Nebraska	41	0	0	0	0%
-Buffalo	Nebraska	35	2	1	0	2.9%
-Gage	Nebraska	25	0	1	0	4%
+Buffalo	Nebraska	36	3	1	0	2.8%
+Gage	Nebraska	26	1	1	0	3.8%
 Unassigned	Nebraska	23	22	2	0	8.7%
 Washington	Nebraska	20	0	0	0	0%
+Custer	Nebraska	19	6	0	0	0%
 Lincoln	Nebraska	17	0	1	0	5.9%
 Scotts Bluff	Nebraska	14	2	0	0	0%
-Custer	Nebraska	13	0	0	0	0%
-Dawson	Nebraska	12	9	0	0	0%
+Dawson	Nebraska	13	10	0	0	0%
 Hamilton	Nebraska	11	1	0	0	0%
-Dodge	Nebraska	9	2	0	0	0%
+Dodge	Nebraska	10	3	0	0	0%
 Kimball	Nebraska	9	0	0	0	0%
 Madison	Nebraska	6	0	2	0	33.3%
 Platte	Nebraska	6	0	0	0	0%
-Saunders	Nebraska	5	0	0	0	0%
+Saunders	Nebraska	6	1	0	0	0%
+York	Nebraska	4	1	0	0	0%
 Colfax	Nebraska	4	0	0	0	0%
 Cass	Nebraska	3	0	0	0	0%
 Kearney	Nebraska	3	0	0	0	0%
-York	Nebraska	3	0	0	0	0%
 Cheyenne	Nebraska	3	1	0	0	0%
+Franklin	Nebraska	3	1	0	0	0%
 Cuming	Nebraska	2	0	0	0	0%
 Knox	Nebraska	2	0	0	0	0%
 Merrick	Nebraska	2	0	0	0	0%
-Franklin	Nebraska	2	0	0	0	0%
+Polk	Nebraska	2	1	0	0	0%
 Clay	Nebraska	2	0	0	0	0%
+Dakota	Nebraska	2	2	0	0	0%
 Antelope	Nebraska	1	0	0	0	0%
 Gosper	Nebraska	1	0	0	0	0%
 Nemaha	Nebraska	1	0	0	0	0%
@@ -2506,14 +2508,12 @@ Phelps	Nebraska	1	0	0	0	0%
 Stanton	Nebraska	1	0	0	0	0%
 Johnson	Nebraska	1	0	0	0	0%
 Burt	Nebraska	1	0	0	0	0%
-Polk	Nebraska	1	0	0	0	0%
 Webster	Nebraska	1	0	0	0	0%
 Wayne	Nebraska	1	0	0	0	0%
 Box	Nebraska	1	0	0	0	0%
 Pierce	Nebraska	1	0	0	0	0%
 Logan	Nebraska	0	0	0	0	0%
 Cedar	Nebraska	0	0	0	0	0%
-Dakota	Nebraska	0	0	0	0	0%
 Minnehaha	South Dakota	527	89	2	0	0.4%
 Lincoln	South Dakota	46	7	0	0	0%
 Beadle	South Dakota	21	0	2	0	9.5%
@@ -2683,7 +2683,7 @@ Cass	North Dakota	107	12	2	0	1.9%
 Burleigh	North Dakota	50	1	0	0	0%
 Stark	North Dakota	32	2	2	0	6.3%
 Mountrail	North Dakota	21	0	0	0	0%
-Ward	North Dakota	20	0	0	0	0%
+Ward	North Dakota	20	0	1	1	5%
 Morton	North Dakota	19	0	1	0	5.3%
 Grand Forks	North Dakota	11	0	0	0	0%
 Williams	North Dakota	8	0	0	0	0%
