@@ -1,5 +1,5 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
-New York	New York	103,208	4,493	6,898	531	6.7%
+New York	New York	104,410	5,695	6,898	531	6.6%
 Nassau	New York	23,553	969	846	54	3.6%
 Suffolk	New York	20,934	613	518	60	2.5%
 Westchester	New York	19,313	584	511	72	2.6%
@@ -212,7 +212,7 @@ Nevada	California	34	0	1	0	2.9%
 Madera	California	33	1	2	0	6.1%
 El Dorado	California	32	0	0	0	0%
 Shasta	California	24	0	3	0	12.5%
-Mono	California	21	0	1	0	4.8%
+Mono	California	23	2	1	0	4.3%
 Yuba	California	15	0	1	0	6.7%
 Butte	California	14	0	0	0	0%
 Inyo	California	12	0	0	0	0%
@@ -530,14 +530,14 @@ Denton	Texas	482	8	13	0	2.7%
 Collin	Texas	453	12	8	0	1.8%
 Galveston	Texas	355	0	8	0	2.3%
 Lubbock	Texas	307	37	16	2	5.2%
-El Paso	Texas	269	17	2	0	0.7%
+El Paso	Texas	292	40	2	0	0.7%
 Montgomery	Texas	251	0	5	0	2%
-Brazoria	Texas	225	0	2	0	0.9%
+Brazoria	Texas	237	12	2	0	0.8%
+Webb	Texas	196	5	8	2	4.1%
 Cameron	Texas	195	36	3	0	1.5%
-Webb	Texas	191	0	6	0	3.1%
 Hidalgo	Texas	190	2	1	0	0.5%
-Brazos	Texas	134	0	10	0	7.5%
-Williamson	Texas	113	0	4	0	3.5%
+Brazos	Texas	140	6	10	0	7.1%
+Williamson	Texas	117	4	4	0	3.4%
 Bell	Texas	101	10	3	0	3%
 Jefferson	Texas	100	0	5	0	5%
 Smith	Texas	96	0	2	0	2.1%
@@ -566,7 +566,7 @@ Bowie	Texas	32	2	1	0	3.1%
 Midland	Texas	32	0	2	1	6.3%
 Chambers	Texas	29	5	0	0	0%
 Johnson	Texas	28	0	1	0	3.6%
-Bastrop	Texas	26	0	1	0	3.8%
+Bastrop	Texas	27	1	1	0	3.7%
 Kaufman	Texas	26	0	0	0	0%
 Rockwall	Texas	26	6	0	0	0%
 Wharton	Texas	26	0	0	0	0%
@@ -592,7 +592,7 @@ Andrews	Texas	12	1	0	0	0%
 Navarro	Texas	12	0	2	0	16.7%
 Val Verde	Texas	12	2	0	0	0%
 Castro	Texas	11	0	1	0	9.1%
-Hale	Texas	11	0	2	0	18.2%
+Hale	Texas	11	0	5	3	45.5%
 Kendall	Texas	11	1	0	0	0%
 Limestone	Texas	11	0	1	0	9.1%
 Wilson	Texas	11	1	0	0	0%
@@ -600,6 +600,7 @@ Austin	Texas	10	2	0	0	0%
 Brown	Texas	10	0	0	0	0%
 Fayette	Texas	10	1	0	0	0%
 Henderson	Texas	10	0	0	0	0%
+Terry	Texas	10	3	0	0	0%
 Van Zandt	Texas	10	0	1	0	10%
 Atascosa	Texas	9	1	0	0	0%
 DeWitt	Texas	9	0	0	0	0%
@@ -617,7 +618,6 @@ Jasper	Texas	7	1	1	0	14.3%
 Milam	Texas	7	0	0	0	0%
 San Patricio	Texas	7	0	0	0	0%
 Starr	Texas	7	0	0	0	0%
-Terry	Texas	7	0	0	0	0%
 Burleson	Texas	6	0	0	0	0%
 Burnet	Texas	6	0	0	0	0%
 Caldwell	Texas	6	0	0	0	0%
@@ -657,10 +657,12 @@ McCulloch	Texas	3	0	0	0	0%
 Aransas	Texas	2	0	0	0	0%
 Clay	Texas	2	0	0	0	0%
 Crane	Texas	2	0	0	0	0%
+Gaines	Texas	2	1	1	1	50%
 Gonzales	Texas	2	0	0	0	0%
 Karnes	Texas	2	0	0	0	0%
 Kerr	Texas	2	0	0	0	0%
 Kleberg	Texas	2	0	0	0	0%
+Lamb	Texas	2	1	0	0	0%
 Martin	Texas	2	0	0	0	0%
 Montague	Texas	2	0	0	0	0%
 Newton	Texas	2	0	0	0	0%
@@ -674,11 +676,10 @@ Bandera	Texas	2	0	0	0	0%
 Dickens	Texas	2	0	0	0	0%
 Jones	Texas	2	0	0	0	0%
 Bee	Texas	2	0	0	0	0%
+Scurry	Texas	2	2	0	0	0%
 Falls	Texas	1	0	0	0	0%
 Franklin	Texas	1	0	0	0	0%
-Gaines	Texas	1	0	0	0	0%
 Gillespie	Texas	1	0	0	0	0%
-Lamb	Texas	1	0	0	0	0%
 Hemphill	Texas	1	0	0	0	0%
 Mason	Texas	1	0	0	0	0%
 Hansford	Texas	1	0	0	0	0%
@@ -699,8 +700,8 @@ Cooke	Texas	1	0	0	0	0%
 Stephens	Texas	1	0	0	0	0%
 Winkler	Texas	1	0	0	0	0%
 Dimmit	Texas	1	0	0	0	0%
+Motley	Texas	1	1	0	0	0%
 Monitor	Texas	0	0	0	0	0%
-Scurry	Texas	0	0	0	0	0%
 Fulton	Georgia	1,495	49	50	0	3.3%
 Dougherty	Georgia	1,178	76	72	0	6.1%
 Unassigned	Georgia	1,060	0	4	0	0.4%
@@ -2309,13 +2310,13 @@ Saline	Kansas	9	1	1	0	11.1%
 Butler	Kansas	8	0	0	0	0%
 Bourbon	Kansas	7	0	1	0	14.3%
 Cherokee	Kansas	6	0	0	0	0%
-Crawford	Kansas	6	0	1	0	16.7%
 Jefferson	Kansas	5	0	0	0	0%
 Linn	Kansas	5	0	0	0	0%
 Pottawatomie	Kansas	5	0	0	0	0%
 Geary	Kansas	5	0	0	0	0%
 Seward	Kansas	5	2	0	0	0%
 Barton	Kansas	4	0	0	0	0%
+Crawford	Kansas	4	0	1	0	25%
 Harvey	Kansas	4	0	0	0	0%
 Osage	Kansas	4	1	0	0	0%
 Republic	Kansas	4	0	0	0	0%
@@ -2710,7 +2711,7 @@ Bowman	North Dakota	1	0	0	0	0%
 Stutsman	North Dakota	1	0	0	0	0%
 Sargent	North Dakota	1	0	0	0	0%
 Mercer	North Dakota	0	0	0	0	0%
-Anchorage	Alaska	127	0	4	0	3.1%
+Anchorage	Alaska	127	6	4	0	3.1%
 Fairbanks North Star	Alaska	79	3	1	0	1.3%
 Juneau	Alaska	16	1	0	0	0%
 Kenai Peninsula	Alaska	15	0	0	0	0%
