@@ -193,8 +193,8 @@ San Joaquin	California	273	0	16	0	5.9%
 Santa Barbara	California	267	0	2	0	0.7%
 Tulare	California	227	0	11	0	4.8%
 Fresno	California	201	0	5	0	2.5%
-Marin	California	153	0	10	0	6.5%
-Sonoma	California	145	0	2	0	1.4%
+Marin	California	164	0	10	0	6.1%
+Sonoma	California	147	0	2	0	1.4%
 Stanislaus	California	131	0	2	0	1.5%
 Placer	California	124	0	4	0	3.2%
 Solano	California	121	0	2	0	1.7%
@@ -1586,60 +1586,60 @@ Iron	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	0	1	0	0%
 Jefferson	Alabama	597	0	15	0	2.5%
-Mobile	Alabama	454	0	15	0	3.3%
-Lee	Alabama	236	0	8	0	3.4%
-Shelby	Alabama	213	0	5	0	2.3%
-Chambers	Alabama	200	0	8	0	4%
+Mobile	Alabama	454	0	16	1	3.5%
+Lee	Alabama	239	3	8	0	3.3%
+Shelby	Alabama	219	6	5	0	2.3%
+Chambers	Alabama	202	2	8	0	4%
 Madison	Alabama	187	0	3	0	1.6%
 Montgomery	Alabama	120	0	4	0	3.3%
-Tuscaloosa	Alabama	119	0	0	0	0%
-Marshall	Alabama	99	0	2	0	2%
-Tallapoosa	Alabama	99	0	4	0	4%
+Tuscaloosa	Alabama	120	1	0	0	0%
+Marshall	Alabama	100	1	2	0	2%
+Tallapoosa	Alabama	100	1	5	1	5%
 Walker	Alabama	83	0	0	0	0%
 Etowah	Alabama	77	0	7	0	9.1%
 Baldwin	Alabama	71	0	1	0	1.4%
-Calhoun	Alabama	60	0	0	0	0%
-Marion	Alabama	52	0	3	0	5.8%
-Houston	Alabama	44	0	1	0	2.3%
+Calhoun	Alabama	61	1	0	0	0%
+Marion	Alabama	53	1	3	0	5.7%
+Houston	Alabama	46	2	1	0	2.2%
 St. Clair	Alabama	42	0	0	0	0%
+Morgan	Alabama	41	2	0	0	0%
 Cullman	Alabama	39	0	1	0	2.6%
-Morgan	Alabama	39	0	0	0	0%
+Randolph	Alabama	38	2	4	0	10.5%
 Limestone	Alabama	37	0	0	0	0%
-Randolph	Alabama	36	0	4	0	11.1%
+Elmore	Alabama	34	1	0	0	0%
 Talladega	Alabama	34	0	0	0	0%
-Elmore	Alabama	33	0	0	0	0%
 Coffee	Alabama	32	0	0	0	0%
 Chilton	Alabama	30	0	0	0	0%
 Wilcox	Alabama	30	0	0	0	0%
-DeKalb	Alabama	26	0	0	0	0%
+DeKalb	Alabama	27	1	0	0	0%
 Jackson	Alabama	25	0	2	0	8%
 Russell	Alabama	24	0	0	0	0%
 Pickens	Alabama	22	0	0	0	0%
 Lauderdale	Alabama	21	0	4	0	19%
 Marengo	Alabama	21	0	1	0	4.8%
+Sumter	Alabama	21	1	0	0	0%
 Pike	Alabama	20	0	0	0	0%
-Sumter	Alabama	20	0	0	0	0%
 Autauga	Alabama	19	0	1	0	5.3%
 Clarke	Alabama	19	0	0	0	0%
 Coosa	Alabama	18	0	0	0	0%
 Greene	Alabama	17	0	0	0	0%
 Bibb	Alabama	16	0	0	0	0%
 Hale	Alabama	15	0	0	0	0%
+Blount	Alabama	14	1	0	0	0%
 Clay	Alabama	14	0	0	0	0%
 Dallas	Alabama	14	0	0	0	0%
 Lowndes	Alabama	14	0	0	0	0%
 Macon	Alabama	14	0	1	0	7.1%
-Blount	Alabama	13	0	0	0	0%
 Covington	Alabama	13	0	0	0	0%
 Cleburne	Alabama	12	0	0	0	0%
 Washington	Alabama	12	0	1	0	8.3%
 Henry	Alabama	11	0	0	0	0%
 Choctaw	Alabama	10	0	0	0	0%
+Dale	Alabama	10	2	0	0	0%
 Franklin	Alabama	10	0	0	0	0%
 Barbour	Alabama	10	0	0	0	0%
 Cherokee	Alabama	9	0	0	0	0%
 Colbert	Alabama	9	0	1	0	11.1%
-Dale	Alabama	8	0	0	0	0%
 Escambia	Alabama	8	0	0	0	0%
 Lamar	Alabama	8	0	0	0	0%
 Lawrence	Alabama	8	0	0	0	0%
@@ -2517,6 +2517,21 @@ Box	Nebraska	1	0	0	0	0%
 Pierce	Nebraska	1	0	0	0	0%
 Logan	Nebraska	0	0	0	0	0%
 Cedar	Nebraska	0	0	0	0	0%
+Chittenden	Vermont	372	8	18	1	4.8%
+Franklin	Vermont	83	2	3	0	3.6%
+Addison	Vermont	56	1	1	0	1.8%
+Windham	Vermont	55	1	1	0	1.8%
+Rutland	Vermont	39	3	0	0	0%
+Bennington	Vermont	32	1	1	0	3.1%
+Washington	Vermont	28	0	0	0	0%
+Windsor	Vermont	27	2	2	0	7.4%
+Lamoille	Vermont	22	1	2	0	9.1%
+Caledonia	Vermont	9	1	0	0	0%
+Orleans	Vermont	8	0	0	0	0%
+Unassigned	Vermont	8	1	0	0	0%
+Orange	Vermont	5	0	0	0	0%
+Grand Isle	Vermont	3	0	0	0	0%
+Essex	Vermont	1	0	0	0	0%
 Minnehaha	South Dakota	527	0	2	0	0.4%
 Lincoln	South Dakota	46	0	0	0	0%
 Beadle	South Dakota	21	0	2	0	9.5%
@@ -2559,21 +2574,6 @@ Brule	South Dakota	1	0	0	0	0%
 Butte	South Dakota	0	0	0	0	0%
 Kingsbury	South Dakota	0	0	0	0	0%
 Unassigned	South Dakota	0	0	0	0	0%
-Chittenden	Vermont	364	0	17	0	4.7%
-Franklin	Vermont	81	0	3	0	3.7%
-Addison	Vermont	55	0	1	0	1.8%
-Windham	Vermont	54	0	1	0	1.9%
-Rutland	Vermont	36	0	0	0	0%
-Bennington	Vermont	31	0	1	0	3.2%
-Washington	Vermont	28	0	0	0	0%
-Windsor	Vermont	25	0	2	0	8%
-Lamoille	Vermont	21	0	2	0	9.5%
-Caledonia	Vermont	8	0	0	0	0%
-Orleans	Vermont	8	0	0	0	0%
-Unassigned	Vermont	7	0	0	0	0%
-Orange	Vermont	5	0	0	0	0%
-Grand Isle	Vermont	3	0	0	0	0%
-Essex	Vermont	1	0	0	0	0%
 Navajo, AZ	Navajo Nation	252	0	0	0	0%
 Coconino, AZ	Navajo Nation	150	0	0	0	0%
 San Juan, NM	Navajo Nation	97	0	0	0	0%
