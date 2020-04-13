@@ -233,9 +233,9 @@ Tehama	California	1	0	0	0	0%
 Philadelphia	Pennsylvania	6,386	0	176	0	2.8%
 Montgomery	Pennsylvania	2,164	0	63	0	2.9%
 Lehigh	Pennsylvania	1,684	0	18	0	1.1%
-Delaware	Pennsylvania	1,594	0	39	0	2.4%
+Delaware	Pennsylvania	1,633	39	40	1	2.4%
 Luzerne	Pennsylvania	1,411	0	17	0	1.2%
-Bucks	Pennsylvania	1,229	0	35	0	2.8%
+Bucks	Pennsylvania	1,229	0	38	3	3.1%
 Northampton	Pennsylvania	1,082	0	23	0	2.1%
 Berks	Pennsylvania	1,035	0	20	0	1.9%
 Allegheny	Pennsylvania	857	0	19	0	2.2%
@@ -2469,7 +2469,7 @@ Cheshire	New Hampshire	19	0	0	0	0%
 Sullivan	New Hampshire	6	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	1	0	20	0	0%
-Puerto Rico	Puerto Rico	897	0	44	0	4.9%
+Puerto Rico	Puerto Rico	903	6	45	1	5%
 Douglas	Nebraska	242	0	5	0	2.1%
 Hall	Nebraska	161	0	4	0	2.5%
 Adams	Nebraska	54	0	0	0	0%
