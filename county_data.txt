@@ -3,27 +3,27 @@ New York	New York	106,763	2,353	7,349	451	6.9%
 Nassau	New York	24,358	805	910	64	3.7%
 Suffolk	New York	21,643	709	518	0	2.4%
 Westchester	New York	19,786	473	557	46	2.8%
-Rockland	New York	7,965	244	200	0	2.5%
-Orange	New York	5,182	155	145	0	2.8%
+Rockland	New York	7,965	244	241	41	3%
+Orange	New York	5,598	571	171	5	3.1%
 Dutchess	New York	1,881	43	13	0	0.7%
-Erie	New York	1,624	0	61	0	3.8%
+Erie	New York	1,661	37	66	5	4%
 Monroe	New York	823	25	50	0	6.1%
 Ulster	New York	655	0	11	0	1.7%
+Onondaga	New York	520	26	11	2	2.1%
 Putnam	New York	507	0	7	0	1.4%
-Albany	New York	499	21	12	0	2.4%
-Onondaga	New York	494	0	9	0	1.8%
-Sullivan	New York	380	22	7	0	1.8%
+Albany	New York	499	21	14	2	2.8%
+Sullivan	New York	380	22	8	1	2.1%
 Oneida	New York	206	11	3	0	1.5%
-Schenectady	New York	204	5	7	0	3.4%
+Schenectady	New York	204	5	8	1	3.9%
 Saratoga	New York	201	5	4	0	2%
-Niagara	New York	194	0	4	0	2.1%
+Niagara	New York	194	0	5	1	2.6%
 Steuben	New York	147	0	11	0	7.5%
-Broome	New York	133	7	7	0	5.3%
-Rensselaer	New York	113	11	5	0	4.4%
+Broome	New York	133	7	8	1	6%
+Rensselaer	New York	113	11	6	1	5.3%
 Tompkins	New York	113	0	0	0	0%
-Madison	New York	105	0	3	0	2.9%
+Madison	New York	110	5	3	0	2.7%
+Columbia	New York	93	6	9	1	9.7%
 St. Lawrence	New York	89	1	0	0	0%
-Columbia	New York	87	0	8	0	9.2%
 Genesee	New York	71	1	1	0	1.4%
 Chenango	New York	65	2	0	0	0%
 Chemung	New York	60	0	1	0	1.7%
@@ -31,7 +31,7 @@ Ontario	New York	57	0	0	0	0%
 Warren	New York	48	2	0	0	0%
 Jefferson	New York	46	0	0	0	0%
 Greene	New York	45	1	0	0	0%
-Clinton	New York	44	1	2	0	4.5%
+Clinton	New York	44	1	3	1	6.8%
 Otsego	New York	43	0	1	0	2.3%
 Delaware	New York	42	3	3	0	7.1%
 Oswego	New York	42	0	2	0	4.8%
@@ -57,7 +57,7 @@ Schuyler	New York	8	3	0	0	0%
 Lewis	New York	6	0	0	0	0%
 Yates	New York	4	2	0	0	0%
 Hamilton	New York	3	0	0	0	0%
-Unassigned	New York	0	0	131	110	0%
+Unassigned	New York	0	0	50	50	0%
 Bergen	New Jersey	10,092	308	482	29	4.8%
 Hudson	New Jersey	7,879	410	236	10	3%
 Essex	New Jersey	7,634	224	433	5	5.7%
@@ -80,19 +80,19 @@ Atlantic	New Jersey	267	14	8	0	3%
 Cumberland	New Jersey	187	22	3	0	1.6%
 Cape May	New Jersey	164	19	9	0	5.5%
 Salem	New Jersey	66	5	4	0	6.1%
-Middlesex	Massachusetts	5,660	0	149	0	2.6%
-Suffolk	Massachusetts	5,359	0	86	0	1.6%
-Essex	Massachusetts	3,170	0	101	0	3.2%
-Norfolk	Massachusetts	2,649	0	91	0	3.4%
-Worcester	Massachusetts	2,032	0	49	0	2.4%
-Plymouth	Massachusetts	2,024	0	55	0	2.7%
-Hampden	Massachusetts	1,647	0	102	0	6.2%
-Bristol	Massachusetts	1,327	0	43	0	3.2%
-Barnstable	Massachusetts	501	0	16	0	3.2%
+Middlesex	Massachusetts	5,983	323	149	0	2.5%
+Suffolk	Massachusetts	5,579	220	86	0	1.5%
+Essex	Massachusetts	3,413	243	101	0	3%
+Norfolk	Massachusetts	2,838	189	91	0	3.2%
+Plymouth	Massachusetts	2,141	117	55	0	2.6%
+Worcester	Massachusetts	2,128	96	49	0	2.3%
+Hampden	Massachusetts	1,694	47	102	0	6%
+Bristol	Massachusetts	1,394	67	43	0	3.1%
+Barnstable	Massachusetts	502	1	16	0	3.2%
 Unassigned	Massachusetts	373	0	12	0	3.2%
-Berkshire	Massachusetts	350	0	20	0	5.7%
-Hampshire	Massachusetts	219	0	6	0	2.7%
-Franklin	Massachusetts	143	0	25	0	17.5%
+Berkshire	Massachusetts	355	5	20	0	5.6%
+Hampshire	Massachusetts	224	5	6	0	2.7%
+Franklin	Massachusetts	148	5	25	0	16.9%
 Dukes and Nantucket	Massachusetts	21	0	1	0	4.8%
 Wayne--Detroit	Michigan	6,502	0	368	0	5.7%
 Oakland	Michigan	4,915	0	329	0	6.7%
@@ -248,7 +248,7 @@ Los Angeles	California	9,197	0	300	0	3.3%
 San Diego	California	1,804	0	45	0	2.5%
 Santa Clara	California	1,621	0	54	0	3.3%
 Riverside	California	1,619	0	41	0	2.5%
-Orange	California	1,277	0	19	0	1.5%
+Orange	California	1,283	6	19	0	1.5%
 San Francisco	California	957	85	15	1	1.6%
 San Bernardino	California	887	0	31	0	3.5%
 Alameda	California	886	41	23	0	2.6%
@@ -521,7 +521,7 @@ Liberty	Florida	1	0	0	0	0%
 Harris--Houston	Texas	2,124	0	16	0	0.8%
 Dallas	Texas	1,723	0	31	0	1.8%
 Harris--Non Houston	Texas	1,505	0	28	0	1.9%
-Tarrant	Texas	806	0	25	0	3.1%
+Tarrant	Texas	876	70	25	0	2.9%
 Travis	Texas	774	0	9	0	1.2%
 Bexar	Texas	772	0	30	0	3.9%
 Fort Bend	Texas	536	0	11	0	2.1%
@@ -530,7 +530,7 @@ Collin	Texas	453	0	8	0	1.8%
 Galveston	Texas	355	0	8	0	2.3%
 Lubbock	Texas	307	0	16	0	5.2%
 El Paso	Texas	292	0	2	0	0.7%
-Montgomery	Texas	251	0	5	0	2%
+Montgomery	Texas	266	15	6	1	2.3%
 Brazoria	Texas	237	0	2	0	0.8%
 Webb	Texas	196	0	8	0	4.1%
 Cameron	Texas	195	0	3	0	1.5%
@@ -556,7 +556,7 @@ Nacogdoches	Texas	48	1	3	0	6.3%
 Orange	Texas	44	0	0	0	0%
 Ector	Texas	43	0	2	0	4.7%
 Gregg	Texas	40	0	0	0	0%
-Comal	Texas	37	0	4	0	10.8%
+Comal	Texas	37	0	6	2	16.2%
 Washington	Texas	37	0	2	0	5.4%
 Shelby	Texas	36	2	0	0	0%
 Tom Green	Texas	35	0	1	0	2.9%
@@ -875,13 +875,13 @@ Pierce	Washington	931	0	20	0	2.1%
 Unassigned	Washington	619	0	0	0	0%
 Yakima	Washington	538	0	21	0	3.9%
 Spokane	Washington	274	0	14	0	5.1%
-Whatcom	Washington	263	0	23	0	8.7%
-Benton	Washington	259	0	28	0	10.8%
-Clark	Washington	220	0	14	0	6.4%
+Whatcom	Washington	264	1	23	0	8.7%
+Benton	Washington	259	0	27	0	10.4%
+Clark	Washington	239	19	15	1	6.3%
 Skagit	Washington	191	0	6	0	3.1%
 Island	Washington	158	0	7	0	4.4%
 Kitsap	Washington	132	0	1	0	0.8%
-Franklin	Washington	120	0	2	0	1.7%
+Franklin	Washington	122	2	2	0	1.6%
 Grant	Washington	120	0	2	0	1.7%
 Thurston	Washington	81	0	1	0	1.2%
 Chelan	Washington	55	0	5	0	9.1%
@@ -1303,87 +1303,89 @@ Martinsville	Virginia	0	0	0	0	0%
 Norton	Virginia	0	0	0	0	0%
 Patrick	Virginia	0	0	0	0	0%
 Unassigned	Virginia	0	0	70	8	0%
-Davidson	Tennessee	1,349	0	13	0	1%
-Shelby	Tennessee	1,215	0	26	0	2.1%
-Sumner	Tennessee	445	0	22	0	4.9%
+Shelby	Tennessee	1,331	116	21	0	1.6%
+Davidson	Tennessee	1,207	0	16	3	1.3%
+Sumner	Tennessee	454	9	26	4	5.7%
 Williamson	Tennessee	318	0	4	0	1.3%
-Out-of-state	Tennessee	276	0	1	0	0.4%
-Rutherford	Tennessee	243	0	6	0	2.5%
-Knox	Tennessee	169	0	3	0	1.8%
-Wilson	Tennessee	135	0	1	0	0.7%
-Hamilton	Tennessee	107	0	10	0	9.3%
-Montgomery	Tennessee	97	0	2	0	2.1%
+Out-of-state	Tennessee	260	0	1	0	0.4%
+Rutherford	Tennessee	250	7	6	0	2.4%
+Knox	Tennessee	173	4	4	1	2.3%
+Wilson	Tennessee	143	8	1	0	0.7%
+Hamilton	Tennessee	109	2	10	0	9.2%
+Montgomery	Tennessee	102	5	2	0	2%
+Robertson	Tennessee	88	4	0	0	0%
 Putnam	Tennessee	87	0	0	0	0%
-Robertson	Tennessee	84	0	0	0	0%
-Madison	Tennessee	59	0	0	0	0%
-Tipton	Tennessee	49	0	0	0	0%
+Madison	Tennessee	68	9	0	0	0%
+Tipton	Tennessee	50	1	0	0	0%
 Blount	Tennessee	46	0	3	0	6.5%
-Cumberland	Tennessee	42	0	0	0	0%
+Unassigned	Tennessee	46	34	0	0	0%
+Cumberland	Tennessee	43	1	0	0	0%
+Sullivan	Tennessee	42	5	1	0	2.4%
 Washington	Tennessee	42	0	0	0	0%
-Sullivan	Tennessee	37	0	1	0	2.7%
-Fayette	Tennessee	32	0	0	0	0%
-Maury	Tennessee	32	0	0	0	0%
-Bradley	Tennessee	31	0	0	0	0%
+Fayette	Tennessee	36	4	0	0	0%
+Maury	Tennessee	33	1	0	0	0%
+Bradley	Tennessee	32	1	0	0	0%
 Dickson	Tennessee	30	0	0	0	0%
-Greene	Tennessee	26	0	1	0	3.8%
-Marion	Tennessee	25	0	1	0	4%
-Macon	Tennessee	24	0	2	0	8.3%
+Greene	Tennessee	27	1	1	0	3.7%
+Macon	Tennessee	26	2	2	0	7.7%
+Marion	Tennessee	26	1	1	0	3.8%
+Hawkins	Tennessee	24	1	2	0	8.3%
+Bedford	Tennessee	23	3	1	0	4.3%
 Grundy	Tennessee	23	0	0	0	0%
-Hawkins	Tennessee	23	0	2	0	8.7%
-Franklin	Tennessee	22	0	1	0	4.5%
-Sevier	Tennessee	21	0	0	0	0%
-Bedford	Tennessee	20	0	1	0	5%
+Dyer	Tennessee	22	3	0	0	0%
+Sevier	Tennessee	22	1	0	0	0%
+Franklin	Tennessee	21	0	1	0	4.8%
 Gibson	Tennessee	20	0	0	0	0%
-Dyer	Tennessee	19	0	0	0	0%
+Trousdale	Tennessee	20	3	1	0	5%
 Cheatham	Tennessee	18	0	0	0	0%
-Trousdale	Tennessee	17	0	1	0	5.9%
+Jefferson	Tennessee	16	1	0	0	0%
 Loudon	Tennessee	16	0	0	0	0%
-Jefferson	Tennessee	15	0	0	0	0%
-Haywood	Tennessee	13	0	1	0	7.7%
-Anderson	Tennessee	12	0	1	0	8.3%
-Lawrence	Tennessee	12	0	0	0	0%
-Unassigned	Tennessee	12	0	0	0	0%
-Carroll	Tennessee	11	0	0	0	0%
+Anderson	Tennessee	15	3	1	0	6.7%
+Lawrence	Tennessee	13	1	0	0	0%
+Carroll	Tennessee	12	1	0	0	0%
+Haywood	Tennessee	12	0	1	0	8.3%
+Campbell	Tennessee	11	1	0	0	0%
 Coffee	Tennessee	11	0	0	0	0%
-Campbell	Tennessee	10	0	0	0	0%
+Dekalb	Tennessee	10	1	0	0	0%
 Smith	Tennessee	10	0	0	0	0%
-Dekalb	Tennessee	9	0	0	0	0%
+Lauderdale	Tennessee	9	1	0	0	0%
+Lincoln	Tennessee	9	1	0	0	0%
 Marshall	Tennessee	9	0	1	0	11.1%
 McNairy	Tennessee	9	0	0	0	0%
-Lauderdale	Tennessee	8	0	0	0	0%
-Lincoln	Tennessee	8	0	0	0	0%
+Scott	Tennessee	9	1	0	0	0%
+Bledsoe	Tennessee	8	5	0	0	0%
+Henry	Tennessee	8	2	0	0	0%
 Monroe	Tennessee	8	0	0	0	0%
-Scott	Tennessee	8	0	0	0	0%
+Obion	Tennessee	8	1	1	0	12.5%
 Cannon	Tennessee	7	0	0	0	0%
 Hardeman	Tennessee	7	0	0	0	0%
-Obion	Tennessee	7	0	1	0	14.3%
-Chester	Tennessee	6	0	0	0	0%
-Henry	Tennessee	6	0	0	0	0%
-Claiborne	Tennessee	5	0	0	0	0%
-Hamblen	Tennessee	5	0	1	0	20%
+Jackson	Tennessee	7	2	0	0	0%
+Hamblen	Tennessee	6	1	1	0	16.7%
+Weakley	Tennessee	6	1	0	0	0%
+Chester	Tennessee	5	0	0	0	0%
+Cocke	Tennessee	5	2	0	0	0%
+McMinn	Tennessee	5	1	0	0	0%
 Morgan	Tennessee	5	0	0	0	0%
 Overton	Tennessee	5	0	0	0	0%
 Roane	Tennessee	5	0	0	0	0%
-Weakley	Tennessee	5	0	0	0	0%
 Polk	Tennessee	5	0	0	0	0%
-Jackson	Tennessee	5	0	0	0	0%
 Benton	Tennessee	4	0	0	0	0%
+Claiborne	Tennessee	4	0	0	0	0%
+Clay	Tennessee	4	2	0	0	0%
 Grainger	Tennessee	4	0	0	0	0%
 Humphreys	Tennessee	4	0	0	0	0%
-McMinn	Tennessee	4	0	0	0	0%
+Perry	Tennessee	4	1	0	0	0%
 Warren	Tennessee	4	0	0	0	0%
+White	Tennessee	4	1	0	0	0%
 Stewart	Tennessee	4	0	0	0	0%
-Bledsoe	Tennessee	3	0	0	0	0%
+Lake	Tennessee	4	4	0	0	0%
 Carter	Tennessee	3	0	0	0	0%
-Cocke	Tennessee	3	0	0	0	0%
+Decatur	Tennessee	3	1	0	0	0%
 Giles	Tennessee	3	0	0	0	0%
 Houston	Tennessee	3	0	0	0	0%
 Meigs	Tennessee	3	0	0	0	0%
-Perry	Tennessee	3	0	0	0	0%
+Sequatchie	Tennessee	3	2	0	0	0%
 Union	Tennessee	3	0	0	0	0%
-White	Tennessee	3	0	0	0	0%
-Clay	Tennessee	2	0	0	0	0%
-Decatur	Tennessee	2	0	0	0	0%
 Fentress	Tennessee	2	0	0	0	0%
 Hardin	Tennessee	2	0	0	0	0%
 Hickman	Tennessee	2	0	0	0	0%
@@ -1391,14 +1393,12 @@ Johnson	Tennessee	2	0	0	0	0%
 Lewis	Tennessee	2	0	0	0	0%
 Wayne	Tennessee	2	0	0	0	0%
 Henderson	Tennessee	2	0	0	0	0%
-Sequatchie	Tennessee	1	0	0	0	0%
 Unicoi	Tennessee	1	0	0	0	0%
+Van Buren	Tennessee	1	1	0	0	0%
 Rhea	Tennessee	0	0	0	0	0%
 Crockett	Tennessee	0	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
-Lake	Tennessee	0	0	0	0	0%
 Moore	Tennessee	0	0	0	0	0%
-Van Buren	Tennessee	0	0	0	0	0%
 Mecklenburg	North Carolina	970	16	12	0	1.2%
 Wake	North Carolina	476	6	0	0	0%
 Durham	North Carolina	290	0	1	0	0.3%
@@ -1605,13 +1605,13 @@ Gila	Arizona	3	0	0	0	0%
 Graham	Arizona	2	0	0	0	0%
 Greenlee	Arizona	2	0	0	0	0%
 Unassigned	Arizona	0	0	18	2	0%
-Jefferson	Alabama	597	0	15	0	2.5%
+Jefferson	Alabama	606	9	15	0	2.5%
 Mobile	Alabama	468	14	18	3	3.8%
 Lee	Alabama	248	12	8	0	3.2%
 Shelby	Alabama	229	16	5	0	2.2%
 Chambers	Alabama	210	10	8	0	3.8%
 Madison	Alabama	187	0	3	0	1.6%
-Montgomery	Alabama	121	1	4	0	3.3%
+Montgomery	Alabama	132	12	4	0	3%
 Tuscaloosa	Alabama	120	1	0	0	0%
 Marshall	Alabama	100	1	2	0	2%
 Tallapoosa	Alabama	100	1	5	1	5%
@@ -1625,10 +1625,10 @@ St. Clair	Alabama	43	1	0	0	0%
 Morgan	Alabama	41	2	0	0	0%
 Cullman	Alabama	39	0	1	0	2.6%
 Randolph	Alabama	38	2	4	0	10.5%
-Talladega	Alabama	38	4	0	0	0%
+Talladega	Alabama	38	4	1	1	2.6%
 Limestone	Alabama	37	0	0	0	0%
 Elmore	Alabama	35	2	0	0	0%
-Chilton	Alabama	32	2	0	0	0%
+Chilton	Alabama	33	3	0	0	0%
 Coffee	Alabama	32	0	0	0	0%
 Wilcox	Alabama	30	0	0	0	0%
 DeKalb	Alabama	27	1	0	0	0%
@@ -1883,27 +1883,27 @@ Kent	Rhode Island	169	0	0	0	0%
 Washington	Rhode Island	140	0	0	0	0%
 Newport	Rhode Island	74	0	0	0	0%
 Bristol	Rhode Island	39	0	0	0	0%
-Salt Lake	Utah	1,126	0	7	0	0.6%
-Utah	Utah	313	0	2	0	0.6%
-Summit	Utah	304	0	0	0	0%
-Davis	Utah	199	0	2	0	1%
+Salt Lake	Utah	1,157	31	7	0	0.6%
+Utah	Utah	322	9	2	0	0.6%
+Summit	Utah	306	2	0	0	0%
+Davis	Utah	204	5	2	0	1%
 Wasatch	Utah	103	0	0	0	0%
-Weber-Morgan	Utah	96	0	1	0	1%
-Washington	Utah	36	0	1	0	2.8%
-Cache	Utah	33	0	0	0	0%
-Tooele	Utah	31	0	0	0	0%
+Weber-Morgan	Utah	103	7	1	0	1%
+Washington	Utah	37	1	1	0	2.7%
+Cache	Utah	36	3	0	0	0%
+Tooele	Utah	34	3	0	0	0%
+Iron	Utah	15	2	0	0	0%
 Box Elder	Utah	13	0	0	0	0%
-Iron	Utah	13	0	0	0	0%
-San Juan	Utah	8	0	0	0	0%
+San Juan	Utah	9	1	0	0	0%
 Central Utah	Utah	6	0	0	0	0%
 Uintah	Utah	6	0	0	0	0%
-unassigned	Utah	4	0	5	0	0%
 Duchesne	Utah	3	0	0	0	0%
 Kane	Utah	3	0	0	0	0%
 Emery	Utah	2	0	0	0	0%
 Carbon	Utah	2	0	0	0	0%
 Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
+unassigned	Utah	0	-4	5	0	0%
 Oklahoma	Oklahoma	455	20	19	0	4.2%
 Tulsa	Oklahoma	337	5	18	0	5.3%
 Cleveland	Oklahoma	267	3	17	0	6.4%
@@ -2229,22 +2229,22 @@ Swift	Minnesota	1	0	0	0	0%
 Roseau	Minnesota	1	0	0	0	0%
 Nobles	Minnesota	1	0	0	0	0%
 Red Lake	Minnesota	1	0	0	0	0%
-Multnomah	Oregon	374	0	19	0	5.1%
-Washington	Oregon	348	0	6	0	1.7%
-Marion	Oregon	276	0	9	0	3.3%
-Clackamas	Oregon	125	0	3	0	2.4%
+Multnomah	Oregon	398	24	19	0	4.8%
+Washington	Oregon	360	12	7	1	1.9%
+Marion	Oregon	280	4	9	0	3.2%
+Clackamas	Oregon	132	7	3	0	2.3%
 Deschutes	Oregon	54	0	0	0	0%
 Linn	Oregon	52	0	4	0	7.7%
-Jackson	Oregon	46	0	0	0	0%
-Lane	Oregon	37	0	1	0	2.7%
+Jackson	Oregon	47	1	0	0	0%
+Lane	Oregon	41	4	1	0	2.4%
 Polk	Oregon	30	0	1	0	3.3%
 Yamhill	Oregon	30	0	6	0	20%
 Klamath	Oregon	25	0	0	0	0%
 Benton	Oregon	23	0	2	0	8.7%
-Josephine	Oregon	18	0	1	0	5.6%
+Josephine	Oregon	19	1	1	0	5.3%
+Douglas	Oregon	16	2	0	0	0%
 Umatilla	Oregon	16	0	0	0	0%
-Douglas	Oregon	14	0	0	0	0%
-Columbia	Oregon	10	0	0	0	0%
+Columbia	Oregon	12	2	0	0	0%
 Wasco	Oregon	10	0	0	0	0%
 Clatsop	Oregon	6	0	0	0	0%
 Morrow	Oregon	5	0	0	0	0%
@@ -2258,7 +2258,8 @@ Grant	Oregon	1	0	0	0	0%
 Wallowa	Oregon	1	0	0	0	0%
 Crook	Oregon	1	0	0	0	0%
 Sherman	Oregon	1	0	0	0	0%
-Unassigned	Oregon	1	0	0	0	0%
+Coos	Oregon	1	1	0	0	0%
+Unassigned	Oregon	0	-1	0	0	0%
 Ada	Idaho	517	0	6	0	1.2%
 Blaine	Idaho	454	0	5	0	1.1%
 Canyon	Idaho	155	0	5	0	3.2%
@@ -2294,31 +2295,31 @@ Caribou	Idaho	1	0	0	0	0%
 Boundary	Idaho	1	0	0	0	0%
 Unassigned	Idaho	0	0	0	0	0%
 Lewis	Idaho	0	0	0	0	0%
-Pulaski	Arkansas	270	14	10	1	3.7%
-Crittenden	Arkansas	101	8	2	0	2%
-Garland	Arkansas	99	18	0	0	0%
-Jefferson	Arkansas	98	3	4	1	4.1%
+Pulaski	Arkansas	273	17	10	1	3.7%
+Crittenden	Arkansas	103	10	2	0	1.9%
+Garland	Arkansas	101	20	0	0	0%
+Jefferson	Arkansas	100	5	4	1	4%
 Cleburne	Arkansas	70	0	4	0	5.7%
-Faulkner	Arkansas	59	0	1	0	1.7%
+Faulkner	Arkansas	57	0	1	0	1.8%
 Lincoln	Arkansas	56	45	0	0	0%
 Benton	Arkansas	50	2	0	0	0%
 Washington	Arkansas	43	6	0	0	0%
+Craighead	Arkansas	36	5	0	0	0%
 Unassigned	Arkansas	36	11	0	0	0%
 St. Francis	Arkansas	34	2	0	0	0%
-Craighead	Arkansas	32	1	0	0	0%
 Saline	Arkansas	32	0	1	0	3.1%
 Pope	Arkansas	31	1	0	0	0%
-Lonoke	Arkansas	30	0	0	0	0%
+Lonoke	Arkansas	29	0	0	0	0%
 White	Arkansas	28	0	0	0	0%
-Clark	Arkansas	27	0	0	0	0%
+Clark	Arkansas	26	0	0	0	0%
 Van Buren	Arkansas	26	0	2	0	7.7%
 Miller	Arkansas	24	2	0	0	0%
-Union	Arkansas	18	0	0	0	0%
+Union	Arkansas	17	0	0	0	0%
 Johnson	Arkansas	13	0	0	0	0%
 Ashley	Arkansas	11	1	0	0	0%
 Lawrence	Arkansas	11	0	1	0	9.1%
-Sebastian	Arkansas	10	0	0	0	0%
-Grant	Arkansas	9	0	0	0	0%
+Sebastian	Arkansas	11	1	0	0	0%
+Grant	Arkansas	10	1	0	0	0%
 Howard	Arkansas	9	1	0	0	0%
 Cleveland	Arkansas	8	0	0	0	0%
 Hot Spring	Arkansas	8	0	0	0	0%
@@ -2332,18 +2333,18 @@ Mississippi	Arkansas	7	0	0	0	0%
 Desha	Arkansas	6	0	0	0	0%
 Drew	Arkansas	6	0	1	0	16.7%
 Greene	Arkansas	6	0	0	0	0%
+Independence	Arkansas	6	1	0	0	0%
 Polk	Arkansas	6	0	0	0	0%
 Searcy	Arkansas	6	0	0	0	0%
 Chicot	Arkansas	5	0	0	0	0%
 Hempstead	Arkansas	5	0	1	0	20%
-Independence	Arkansas	5	0	0	0	0%
 Ouachita	Arkansas	5	0	0	0	0%
 Baxter	Arkansas	4	0	0	0	0%
 Conway	Arkansas	4	0	1	0	25%
+Crawford	Arkansas	4	1	0	0	0%
 Phillips	Arkansas	4	1	1	0	25%
 Boone	Arkansas	3	0	0	0	0%
 Columbia	Arkansas	3	0	0	0	0%
-Crawford	Arkansas	3	0	0	0	0%
 Lafayette	Arkansas	3	1	0	0	0%
 Arkansas	Arkansas	2	0	0	0	0%
 Carroll	Arkansas	2	0	0	0	0%
@@ -2716,27 +2717,15 @@ Bowman	North Dakota	1	0	0	0	0%
 Stutsman	North Dakota	1	0	0	0	0%
 Sargent	North Dakota	1	0	0	0	0%
 Mercer	North Dakota	0	0	0	0	0%
-Anchorage	Alaska	127	0	4	0	3.1%
-Fairbanks North Star	Alaska	79	0	1	0	1.3%
-Juneau	Alaska	16	0	0	0	0%
-Kenai Peninsula	Alaska	15	0	0	0	0%
-Ketchikan Gateway	Alaska	15	0	0	0	0%
-Matanuska-Susitna	Alaska	14	0	0	0	0%
-Petersburg	Alaska	2	0	0	0	0%
-Yukon-Koyukuk	Alaska	1	0	0	0	0%
-Southeast Fairbanks	Alaska	1	0	0	0	0%
-Bethel	Alaska	1	0	0	0	0%
-Prince of Wales-Hyder	Alaska	1	0	0	0	0%
-Unassigned	Alaska	0	0	3	0	0%
-Laramie	Wyoming	58	0	0	0	0%
+Laramie	Wyoming	60	2	0	0	0%
 Teton	Wyoming	56	0	0	0	0%
-Fremont	Wyoming	40	0	0	0	0%
+Fremont	Wyoming	41	1	0	0	0%
 Natrona	Wyoming	33	0	0	0	0%
 Sheridan	Wyoming	12	0	0	0	0%
 Campbell	Wyoming	11	0	0	0	0%
 Johnson	Wyoming	11	0	0	0	0%
+Sweetwater	Wyoming	9	2	0	0	0%
 Converse	Wyoming	8	0	0	0	0%
-Sweetwater	Wyoming	7	0	0	0	0%
 Albany	Wyoming	5	0	0	0	0%
 Washakie	Wyoming	5	0	0	0	0%
 Lincoln	Wyoming	5	0	0	0	0%
@@ -2751,6 +2740,18 @@ Hot Springs	Wyoming	1	0	0	0	0%
 Big Horn	Wyoming	1	0	0	0	0%
 Platte	Wyoming	0	0	0	0	0%
 unassigned	Wyoming	0	0	0	0	0%
+Anchorage	Alaska	127	0	4	0	3.1%
+Fairbanks North Star	Alaska	79	0	1	0	1.3%
+Juneau	Alaska	16	0	0	0	0%
+Kenai Peninsula	Alaska	15	0	0	0	0%
+Ketchikan Gateway	Alaska	15	0	0	0	0%
+Matanuska-Susitna	Alaska	14	0	0	0	0%
+Petersburg	Alaska	2	0	0	0	0%
+Yukon-Koyukuk	Alaska	1	0	0	0	0%
+Southeast Fairbanks	Alaska	1	0	0	0	0%
+Bethel	Alaska	1	0	0	0	0%
+Prince of Wales-Hyder	Alaska	1	0	0	0	0%
+Unassigned	Alaska	0	0	3	0	0%
 Guam	Guam	133	0	5	0	3.8%
 Unassigned	Grand Princess	95	0	0	0	0%
 Solano	Grand Princess	7	0	0	0	0%
