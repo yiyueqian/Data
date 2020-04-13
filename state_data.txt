@@ -3,13 +3,13 @@ New York	190,288	0	10,056	671	5.3%
 New Jersey	61,850	0	2,350	0	3.8%
 Massachusetts	25,475	0	756	0	3%
 Michigan	24,638	0	1,487	0	6%
-California	23,324	0	682	0	2.9%
+California	23,458	134	683	1	2.9%
 Pennsylvania	23,036	39	561	4	2.4%
 Illinois	20,852	0	720	0	3.5%
+Florida	20,601	706	470	9	2.3%
 Louisiana	20,595	0	840	0	4.1%
-Florida	19,895	0	461	0	2.3%
 Texas	13,886	0	296	0	2.1%
-Georgia	12,550	0	442	0	3.5%
+Georgia	13,315	765	465	23	3.5%
 Connecticut	12,035	0	554	0	4.6%
 Washington	10,530	0	510	0	4.8%
 Maryland	8,936	711	262	27	2.9%
@@ -20,13 +20,13 @@ Virginia	5,747	473	149	8	2.6%
 Tennessee	5,508	0	106	0	1.9%
 North Carolina	4,602	0	91	0	2%
 Missouri	4,272	0	118	0	2.8%
-Alabama	3,616	33	96	3	2.7%
+Alabama	3,649	66	96	3	2.6%
 Arizona	3,542	0	115	0	3.2%
 US Military	3,509	0	14	1	0.4%
 Wisconsin	3,341	0	144	0	4.3%
 South Carolina	3,320	0	82	0	2.5%
+Mississippi	2,942	161	98	2	3.3%
 Nevada	2,836	0	114	0	4%
-Mississippi	2,781	0	96	0	3.5%
 Rhode Island	2,665	0	63	0	2.4%
 Utah	2,303	0	18	0	0.8%
 Kentucky	2,018	0	113	0	5.6%
@@ -45,12 +45,12 @@ Puerto Rico	903	6	45	1	5%
 Nebraska	814	0	17	0	2.1%
 Vermont	748	21	28	1	3.7%
 South Dakota	730	0	6	0	0.8%
+Maine	698	65	19	0	2.7%
 Navajo Nation	698	0	24	0	3.4%
-Maine	633	0	19	0	3%
 West Virginia	611	0	8	0	1.3%
 Hawaii	499	0	9	0	1.8%
 Montana	387	0	6	0	1.6%
-North Dakota	308	0	8	0	2.6%
+North Dakota	331	23	8	0	2.4%
 Alaska	272	0	8	0	2.9%
 Wyoming	270	0	0	0	0%
 Guam	133	0	5	0	3.8%
