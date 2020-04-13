@@ -1,5 +1,5 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	190,288	0	9,385	0	4.9%
+New York	190,288	0	10,056	671	5.3%
 New Jersey	61,850	0	2,350	0	3.8%
 Massachusetts	25,475	0	756	0	3%
 Michigan	24,638	0	1,487	0	6%
@@ -20,7 +20,7 @@ Virginia	5,747	473	149	8	2.6%
 Tennessee	5,508	0	106	0	1.9%
 North Carolina	4,602	0	91	0	2%
 Missouri	4,272	0	118	0	2.8%
-Alabama	3,611	28	95	2	2.6%
+Alabama	3,616	33	96	3	2.7%
 Arizona	3,542	0	115	0	3.2%
 US Military	3,509	0	14	1	0.4%
 Wisconsin	3,341	0	144	0	4.3%

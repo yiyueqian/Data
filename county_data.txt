@@ -57,7 +57,7 @@ Lewis	New York	6	0	0	0	0%
 Schuyler	New York	5	0	0	0	0%
 Hamilton	New York	3	0	0	0	0%
 Yates	New York	2	0	0	0	0%
-Unassigned	New York	0	0	21	0	0%
+Unassigned	New York	0	0	692	671	0%
 Bergen	New Jersey	9,784	0	453	0	4.6%
 Hudson	New Jersey	7,469	0	226	0	3%
 Essex	New Jersey	7,410	0	428	0	5.8%
@@ -1586,8 +1586,8 @@ Iron	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	0	1	0	0%
 Jefferson	Alabama	597	0	15	0	2.5%
-Mobile	Alabama	454	0	16	1	3.5%
-Lee	Alabama	239	3	8	0	3.3%
+Mobile	Alabama	457	3	16	1	3.5%
+Lee	Alabama	241	5	8	0	3.3%
 Shelby	Alabama	219	6	5	0	2.3%
 Chambers	Alabama	202	2	8	0	4%
 Madison	Alabama	187	0	3	0	1.6%
@@ -1599,7 +1599,7 @@ Walker	Alabama	83	0	0	0	0%
 Etowah	Alabama	77	0	7	0	9.1%
 Baldwin	Alabama	71	0	1	0	1.4%
 Calhoun	Alabama	61	1	0	0	0%
-Marion	Alabama	53	1	3	0	5.7%
+Marion	Alabama	53	1	4	1	7.5%
 Houston	Alabama	46	2	1	0	2.2%
 St. Clair	Alabama	42	0	0	0	0%
 Morgan	Alabama	41	2	0	0	0%
