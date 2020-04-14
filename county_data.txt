@@ -534,9 +534,9 @@ Lubbock	Texas	317	0	21	0	6.6%
 El Paso	Texas	300	0	2	0	0.7%
 Montgomery	Texas	266	0	6	0	2.3%
 Brazoria	Texas	250	0	2	0	0.8%
+Cameron	Texas	216	21	3	0	1.4%
 Webb	Texas	206	0	8	0	3.9%
 Hidalgo	Texas	198	0	1	0	0.5%
-Cameron	Texas	195	0	3	0	1.5%
 Brazos	Texas	143	0	12	0	8.4%
 Jefferson	Texas	127	0	6	0	4.7%
 Williamson	Texas	119	0	4	0	3.4%
@@ -910,29 +910,29 @@ Columbia	Washington	1	0	0	0	0%
 Ferry	Washington	1	0	0	0	0%
 Pend Oreille	Washington	1	0	0	0	0%
 Pacific	Washington	1	0	0	0	0%
-Prince George\'s	Maryland	2,205	0	63	0	2.9%
-Montgomery	Maryland	1,756	0	48	0	2.7%
-Baltimore	Maryland	1,361	0	31	0	2.3%
-Baltimore City	Maryland	873	0	26	0	3%
-Anne Arundel	Maryland	724	0	29	0	4%
-Frederick	Maryland	417	0	12	0	2.9%
-Howard	Maryland	386	0	8	0	2.1%
-Charles	Maryland	274	0	10	0	3.6%
-Carroll	Maryland	250	0	28	0	11.2%
-Harford	Maryland	142	0	0	0	0%
-St. Mary\'s	Maryland	95	0	0	0	0%
-Calvert	Maryland	94	0	1	0	1.1%
-Washington	Maryland	93	0	1	0	1.1%
-Cecil	Maryland	83	0	1	0	1.2%
-Wicomico	Maryland	58	0	1	0	1.7%
+Prince George\'s	Maryland	2,356	151	72	9	3.1%
+Montgomery	Maryland	1,883	127	54	6	2.9%
+Baltimore	Maryland	1,377	16	41	10	3%
+Baltimore City	Maryland	962	89	29	3	3%
+Anne Arundel	Maryland	783	59	32	3	4.1%
+Frederick	Maryland	441	24	14	2	3.2%
+Howard	Maryland	403	17	8	0	2%
+Charles	Maryland	292	18	12	2	4.1%
+Carroll	Maryland	259	9	29	1	11.2%
+Harford	Maryland	147	5	0	0	0%
+Calvert	Maryland	99	5	1	0	1%
+St. Mary\'s	Maryland	98	3	3	2	3.1%
+Washington	Maryland	96	3	1	0	1%
+Cecil	Maryland	85	2	2	1	2.4%
+Wicomico	Maryland	63	5	1	0	1.6%
 Caroline	Maryland	21	0	0	0	0%
 Worcester	Maryland	21	0	0	0	0%
 Queen Anne\'s	Maryland	19	0	0	0	0%
+Allegany	Maryland	17	2	0	0	0%
 Talbot	Maryland	16	0	1	0	6.3%
-Allegany	Maryland	15	0	0	0	0%
-Dorchester	Maryland	12	0	1	0	8.3%
+Dorchester	Maryland	14	2	1	0	7.1%
 Kent	Maryland	11	0	0	0	0%
-Somerset	Maryland	6	0	1	0	16.7%
+Somerset	Maryland	5	-1	0	0	0%
 Garrett	Maryland	4	0	0	0	0%
 Marion	Indiana	3,012	0	123	0	4.1%
 Lake	Indiana	796	0	26	0	3.3%
@@ -1173,34 +1173,34 @@ Henry	Ohio	1	0	0	0	0%
 Unassigned	Ohio	0	0	0	0	0%
 Fairfax	Virginia	1,164	0	20	0	1.7%
 Prince William	Virginia	434	0	1	0	0.2%
-Henrico	Virginia	397	0	42	0	10.6%
-Arlington	Virginia	390	0	2	0	0.5%
-Loudoun	Virginia	324	0	5	0	1.5%
-Virginia Beach	Virginia	251	0	1	0	0.4%
+Henrico	Virginia	432	35	42	0	9.7%
+Arlington	Virginia	401	11	2	0	0.5%
+Loudoun	Virginia	344	20	5	0	1.5%
+Virginia Beach	Virginia	252	1	1	0	0.4%
 Alexandria	Virginia	247	12	1	0	0.4%
-Chesterfield	Virginia	211	0	0	0	0%
+Chesterfield	Virginia	241	30	0	0	0%
 Richmond City	Virginia	175	8	0	0	0%
 Chesapeake	Virginia	126	0	0	0	0%
 James City	Virginia	126	0	2	0	1.6%
 Norfolk	Virginia	99	0	0	0	0%
+Harrisonburg	Virginia	95	8	0	0	0%
 Stafford	Virginia	95	8	0	0	0%
 Newport News	Virginia	93	5	1	0	1.1%
-Harrisonburg	Virginia	87	0	0	0	0%
-Hampton	Virginia	72	0	1	0	1.4%
-Frederick	Virginia	66	0	0	0	0%
+Hampton	Virginia	73	1	1	0	1.4%
+Frederick	Virginia	71	5	0	0	0%
+Isle of Wight	Virginia	60	27	0	0	0%
 Portsmouth	Virginia	59	5	0	0	0%
 Mecklenburg	Virginia	57	0	0	0	0%
+Rockingham	Virginia	56	7	0	0	0%
 Spotsylvania	Virginia	51	0	0	0	0%
 Suffolk	Virginia	51	0	0	0	0%
 Albemarle	Virginia	49	0	0	0	0%
-Rockingham	Virginia	49	0	0	0	0%
-Manassas City	Virginia	41	0	0	0	0%
+Manassas City	Virginia	49	8	0	0	0%
 Fluvanna	Virginia	40	17	0	0	0%
 Goochland	Virginia	39	1	0	0	0%
 Hanover	Virginia	39	0	0	0	0%
 Charlottesville	Virginia	36	3	1	0	2.8%
 York	Virginia	35	2	1	0	2.9%
-Isle of Wight	Virginia	33	0	0	0	0%
 Lynchburg	Virginia	33	0	0	0	0%
 Montgomery	Virginia	33	1	0	0	0%
 Fauquier	Virginia	28	0	0	0	0%
@@ -1221,13 +1221,13 @@ Augusta	Virginia	17	0	0	0	0%
 Shenandoah	Virginia	17	0	0	0	0%
 Warren	Virginia	17	0	0	0	0%
 Bedford	Virginia	16	0	0	0	0%
+King George	Virginia	16	2	0	0	0%
 Colonial Heights	Virginia	16	6	0	0	0%
 Accomack	Virginia	15	0	0	0	0%
 New Kent	Virginia	15	2	0	0	0%
 Franklin	Virginia	14	0	0	0	0%
 Fredericksburg	Virginia	14	1	0	0	0%
 Hopewell	Virginia	14	0	0	0	0%
-King George	Virginia	14	0	0	0	0%
 Orange	Virginia	14	0	0	0	0%
 Prince Edward	Virginia	13	0	0	0	0%
 Wise	Virginia	13	0	0	0	0%
@@ -1237,29 +1237,31 @@ Amherst	Virginia	10	0	0	0	0%
 Greensville	Virginia	10	0	0	0	0%
 Manassas Park	Virginia	10	0	0	0	0%
 Amelia	Virginia	9	0	0	0	0%
+Brunswick	Virginia	9	6	0	0	0%
 Charles City	Virginia	9	0	0	0	0%
 Henry	Virginia	8	0	0	0	0%
 Sussex	Virginia	8	0	0	0	0%
 Cumberland	Virginia	8	0	0	0	0%
+Emporia	Virginia	8	1	0	0	0%
 Westmoreland	Virginia	8	0	0	0	0%
 Franklin City	Virginia	7	0	0	0	0%
 Halifax	Virginia	7	0	0	0	0%
 Lee	Virginia	7	0	0	0	0%
+Madison	Virginia	7	1	0	0	0%
 Wythe	Virginia	7	0	0	0	0%
-Emporia	Virginia	7	0	0	0	0%
+Caroline	Virginia	7	1	0	0	0%
 Appomattox	Virginia	7	0	0	0	0%
 Dinwiddie	Virginia	7	1	0	0	0%
-Madison	Virginia	6	0	0	0	0%
 Page	Virginia	6	0	0	0	0%
 Poquoson	Virginia	6	0	0	0	0%
 Waynesboro	Virginia	6	0	0	0	0%
-Caroline	Virginia	6	0	0	0	0%
 Greene	Virginia	5	0	0	0	0%
 Nelson	Virginia	5	0	0	0	0%
 Nottoway	Virginia	5	0	0	0	0%
 Powhatan	Virginia	5	0	0	0	0%
 Southampton	Virginia	5	0	0	0	0%
 Richmond	Virginia	5	0	0	0	0%
+Clarke	Virginia	5	2	0	0	0%
 Alleghany	Virginia	4	0	0	0	0%
 Northampton	Virginia	4	0	0	0	0%
 Northumberland	Virginia	4	0	0	0	0%
@@ -1270,7 +1272,6 @@ Pulaski	Virginia	4	0	0	0	0%
 Charlotte	Virginia	4	0	0	0	0%
 Giles	Virginia	4	0	0	0	0%
 Lunenburg	Virginia	4	0	0	0	0%
-Brunswick	Virginia	3	0	0	0	0%
 Carroll	Virginia	3	0	0	0	0%
 Scott	Virginia	3	0	0	0	0%
 Mathews	Virginia	3	0	0	0	0%
@@ -1278,13 +1279,13 @@ Rockbridge	Virginia	3	0	0	0	0%
 Surry	Virginia	3	0	0	0	0%
 Salem	Virginia	3	2	0	0	0%
 Lexington	Virginia	3	0	0	0	0%
-Clarke	Virginia	3	0	0	0	0%
 Middlesex	Virginia	3	0	0	0	0%
 King and Queen	Virginia	2	0	0	0	0%
 King William	Virginia	2	0	0	0	0%
 Staunton	Virginia	2	0	0	0	0%
 Buchanan	Virginia	2	0	0	0	0%
 Falls Church	Virginia	2	0	0	0	0%
+Russell	Virginia	2	1	0	0	0%
 Craig	Virginia	2	0	0	0	0%
 Bristol	Virginia	1	0	0	0	0%
 Covington	Virginia	1	0	0	0	0%
@@ -1294,7 +1295,6 @@ Lancaster	Virginia	1	0	0	0	0%
 Radford	Virginia	1	0	0	0	0%
 Rappahannock	Virginia	1	0	0	0	0%
 Floyd	Virginia	1	0	0	0	0%
-Russell	Virginia	1	0	0	0	0%
 Bath	Virginia	0	0	0	0	0%
 Bland	Virginia	0	0	0	0	0%
 Dickenson	Virginia	0	0	0	0	0%
@@ -1593,7 +1593,7 @@ Air Force	US Military	640	0	1	0	0.2%
 Army	US Military	523	0	2	0	0.4%
 Marine Corps	US Military	203	0	0	0	0%
 Jefferson	Alabama	617	0	15	0	2.4%
-Mobile	Alabama	491	0	17	0	3.5%
+Mobile	Alabama	495	4	17	0	3.4%
 Lee	Alabama	250	0	9	0	3.6%
 Shelby	Alabama	230	0	5	0	2.2%
 Chambers	Alabama	212	0	8	0	3.8%
@@ -1610,7 +1610,7 @@ Marion	Alabama	57	0	4	0	7%
 Houston	Alabama	47	0	1	0	2.1%
 St. Clair	Alabama	43	0	0	0	0%
 Morgan	Alabama	41	0	0	0	0%
-Randolph	Alabama	40	0	4	0	10%
+Randolph	Alabama	41	1	4	0	9.8%
 Cullman	Alabama	39	0	1	0	2.6%
 Talladega	Alabama	38	0	1	0	2.6%
 Elmore	Alabama	37	0	0	0	0%
@@ -1622,8 +1622,8 @@ DeKalb	Alabama	28	0	0	0	0%
 Russell	Alabama	28	0	0	0	0%
 Jackson	Alabama	26	0	2	0	7.7%
 Marengo	Alabama	24	0	1	0	4.2%
+Sumter	Alabama	24	1	0	0	0%
 Pickens	Alabama	23	0	0	0	0%
-Sumter	Alabama	23	0	0	0	0%
 Lauderdale	Alabama	22	0	4	0	18.2%
 Pike	Alabama	21	0	0	0	0%
 Autauga	Alabama	19	0	1	0	5.3%
