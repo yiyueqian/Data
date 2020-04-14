@@ -58,28 +58,28 @@ Lewis	New York	7	1	0	0	0%
 Yates	New York	6	2	0	0	0%
 Hamilton	New York	3	0	0	0	0%
 Unassigned	New York	0	0	50	50	0%
-Bergen	New Jersey	10,092	0	482	0	4.8%
-Hudson	New Jersey	7,879	0	236	0	3%
-Essex	New Jersey	7,634	0	433	0	5.7%
-Union	New Jersey	6,636	0	217	0	3.3%
-Middlesex	New Jersey	5,987	0	204	0	3.4%
-Passaic	New Jersey	5,950	0	136	0	2.3%
-Monmouth	New Jersey	3,875	0	127	0	3.3%
-Ocean	New Jersey	3,593	0	141	0	3.9%
-Morris	New Jersey	3,225	0	162	0	5%
-Somerset	New Jersey	1,809	0	85	0	4.7%
-Mercer	New Jersey	1,646	0	53	0	3.2%
-Camden	New Jersey	1,401	0	35	0	2.5%
-Unassigned	New Jersey	1,203	0	2	0	0.2%
-Burlington	New Jersey	1,155	0	24	0	2.1%
-Gloucester	New Jersey	566	0	9	0	1.6%
-Sussex	New Jersey	508	0	38	0	7.5%
-Warren	New Jersey	416	0	24	0	5.8%
-Hunterdon	New Jersey	325	0	11	0	3.4%
-Atlantic	New Jersey	267	0	8	0	3%
-Cumberland	New Jersey	187	0	3	0	1.6%
-Cape May	New Jersey	164	0	9	0	5.5%
-Salem	New Jersey	66	0	4	0	6.1%
+Bergen	New Jersey	10,426	334	550	68	5.3%
+Hudson	New Jersey	8,242	363	277	41	3.4%
+Essex	New Jersey	8,212	578	535	102	6.5%
+Union	New Jersey	7,265	629	238	21	3.3%
+Passaic	New Jersey	6,438	488	156	20	2.4%
+Middlesex	New Jersey	6,313	326	216	12	3.4%
+Monmouth	New Jersey	4,003	128	145	18	3.6%
+Ocean	New Jersey	3,833	240	149	8	3.9%
+Morris	New Jersey	3,424	199	192	30	5.6%
+Somerset	New Jersey	1,911	102	91	6	4.8%
+Mercer	New Jersey	1,731	85	71	18	4.1%
+Unassigned	New Jersey	1,702	499	2	0	0.1%
+Camden	New Jersey	1,477	76	41	6	2.8%
+Burlington	New Jersey	1,207	52	28	4	2.3%
+Gloucester	New Jersey	587	21	11	2	1.9%
+Sussex	New Jersey	535	27	39	1	7.3%
+Warren	New Jersey	442	26	25	1	5.7%
+Hunterdon	New Jersey	349	24	11	0	3.2%
+Atlantic	New Jersey	284	17	11	3	3.9%
+Cumberland	New Jersey	201	14	3	0	1.5%
+Cape May	New Jersey	169	5	10	1	5.9%
+Salem	New Jersey	73	7	4	0	5.5%
 Middlesex	Massachusetts	5,983	0	149	0	2.5%
 Suffolk	Massachusetts	5,579	0	86	0	1.5%
 Essex	Massachusetts	3,413	0	101	0	3%
@@ -452,66 +452,66 @@ Madison	Louisiana	2	0	0	0	0%
 Cameron	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Tensas	Louisiana	1	0	0	0	0%
-Miami-Dade	Florida	7,459	0	109	0	1.5%
-Broward	Florida	3,177	0	77	0	2.4%
-Palm Beach	Florida	1,704	0	92	0	5.4%
-Orange	Florida	1,024	0	13	0	1.3%
-Hillsborough	Florida	813	0	16	0	2%
-Duval	Florida	691	0	13	0	1.9%
-Lee	Florida	642	0	18	0	2.8%
-Pinellas	Florida	479	0	13	0	2.7%
-Collier	Florida	376	0	5	0	1.3%
-Osceola	Florida	333	0	5	0	1.5%
-Polk	Florida	270	0	9	0	3.3%
-Seminole	Florida	268	0	2	0	0.7%
-Manatee	Florida	252	0	15	0	6%
-Escambia	Florida	241	0	3	0	1.2%
-Sarasota	Florida	230	0	14	0	6.1%
-Volusia	Florida	216	0	7	0	3.2%
-Alachua	Florida	187	0	0	0	0%
+Miami-Dade	Florida	7,555	96	125	16	1.7%
+Broward	Florida	3,243	66	78	1	2.4%
+Palm Beach	Florida	1,727	23	93	1	5.4%
+Orange	Florida	1,033	9	13	0	1.3%
+Hillsborough	Florida	819	6	17	1	2.1%
+Duval	Florida	716	25	13	0	1.8%
+Lee	Florida	650	8	18	0	2.8%
+Pinellas	Florida	491	12	14	1	2.9%
+Collier	Florida	379	3	5	0	1.3%
+Osceola	Florida	343	10	5	0	1.5%
+Polk	Florida	277	7	10	1	3.6%
+Seminole	Florida	274	6	2	0	0.7%
+Manatee	Florida	259	7	16	1	6.2%
+Escambia	Florida	246	5	3	0	1.2%
+Sarasota	Florida	233	3	14	0	6%
+Volusia	Florida	223	7	7	0	3.1%
+Alachua	Florida	192	5	0	0	0%
 St. Johns	Florida	176	0	2	0	1.1%
-Pasco	Florida	169	0	3	0	1.8%
-Clay	Florida	165	0	9	0	5.5%
-Lake	Florida	162	0	4	0	2.5%
-St. Lucie	Florida	161	0	7	0	4.3%
-Leon	Florida	150	0	0	0	0%
-Brevard	Florida	148	0	6	0	4.1%
-Martin	Florida	129	0	3	0	2.3%
-Charlotte	Florida	119	0	5	0	4.2%
-Santa Rosa	Florida	113	0	4	0	3.5%
+Pasco	Florida	171	2	3	0	1.8%
+Clay	Florida	167	2	9	0	5.4%
+Lake	Florida	166	4	4	0	2.4%
+St. Lucie	Florida	164	3	7	0	4.3%
+Brevard	Florida	156	8	6	0	3.8%
+Leon	Florida	151	1	0	0	0%
+Martin	Florida	133	4	3	0	2.3%
+Charlotte	Florida	122	3	5	0	4.1%
+Santa Rosa	Florida	115	2	4	0	3.5%
 Sumter	Florida	112	0	9	0	8%
+Marion	Florida	103	2	3	0	2.9%
 Okaloosa	Florida	103	0	1	0	1%
-Marion	Florida	101	0	3	0	3%
 Indian River	Florida	77	0	1	0	1.3%
-Citrus	Florida	72	0	7	0	9.7%
+Suwannee	Florida	75	7	3	2	4%
+Citrus	Florida	73	1	7	0	9.6%
 Hernando	Florida	71	0	2	0	2.8%
-Suwannee	Florida	68	0	1	0	1.5%
 Monroe	Florida	64	0	3	0	4.7%
-Highlands	Florida	61	0	5	0	8.2%
+Highlands	Florida	62	1	5	0	8.1%
 Flagler	Florida	45	0	2	0	4.4%
 Putnam	Florida	42	0	1	0	2.4%
 Bay	Florida	38	0	1	0	2.6%
-Gadsden	Florida	36	0	0	0	0%
-Nassau	Florida	34	0	0	0	0%
+Gadsden	Florida	37	1	0	0	0%
+Nassau	Florida	35	1	0	0	0%
 Bradford	Florida	30	0	1	0	3.3%
 Walton	Florida	29	0	0	0	0%
-Columbia	Florida	27	0	0	0	0%
+Columbia	Florida	28	1	0	0	0%
+Hendry	Florida	23	1	0	0	0%
 DeSoto	Florida	22	0	3	0	13.6%
-Hendry	Florida	22	0	0	0	0%
 Baker	Florida	17	0	2	0	11.8%
 Madison	Florida	14	0	0	0	0%
-Wakulla	Florida	12	0	1	0	8.3%
-Jefferson	Florida	12	0	1	0	8.3%
+Jefferson	Florida	13	1	1	0	7.7%
+Wakulla	Florida	12	0	2	1	16.7%
 Levy	Florida	7	0	0	0	0%
 Jackson	Florida	6	0	0	0	0%
 Calhoun	Florida	5	0	0	0	0%
 Glades	Florida	5	0	1	0	20%
+Washington	Florida	5	1	0	0	0%
 Okeechobee	Florida	5	0	0	0	0%
-Washington	Florida	4	0	0	0	0%
-Gilchrist	Florida	4	0	0	0	0%
+Gilchrist	Florida	5	1	0	0	0%
+Holmes	Florida	4	2	0	0	0%
 Hardee	Florida	3	0	0	0	0%
-Holmes	Florida	2	0	0	0	0%
-Unassigned	Florida	2	0	0	0	0%
+Unassigned	Florida	3	1	0	0	0%
 Union	Florida	2	0	0	0	0%
 Franklin	Florida	2	0	0	0	0%
 Dixie	Florida	2	0	0	0	0%
@@ -706,164 +706,164 @@ Armstrong	Texas	1	1	0	0	0%
 Duval	Texas	1	1	0	0	0%
 Wilbarger	Texas	1	1	0	0	0%
 Monitor	Texas	0	0	0	0	0%
-Fulton	Georgia	1,635	0	52	0	3.2%
-Dougherty	Georgia	1,245	0	78	0	6.3%
-DeKalb	Georgia	1,006	0	15	0	1.5%
-Cobb	Georgia	816	0	36	0	4.4%
-Gwinnett	Georgia	766	0	24	0	3.1%
-Unassigned	Georgia	560	0	1	0	0.2%
-Non-Georgia Resident	Georgia	496	0	0	0	0%
-Clayton	Georgia	396	0	12	0	3%
-Hall	Georgia	319	0	0	0	0%
-Henry	Georgia	289	0	4	0	1.4%
-Lee	Georgia	255	0	15	0	5.9%
-Sumter	Georgia	251	0	9	0	3.6%
-Carroll	Georgia	229	0	5	0	2.2%
-Bartow	Georgia	223	0	17	0	7.6%
-Cherokee	Georgia	204	0	7	0	3.4%
-Douglas	Georgia	177	0	5	0	2.8%
-Muscogee	Georgia	167	0	4	0	2.4%
-Richmond	Georgia	156	0	6	0	3.8%
-Chatham	Georgia	154	0	5	0	3.2%
-Mitchell	Georgia	150	0	16	0	10.7%
-Forsyth	Georgia	143	0	5	0	3.5%
-Houston	Georgia	129	0	8	0	6.2%
-Early	Georgia	128	0	6	0	4.7%
-Randolph	Georgia	122	0	6	0	4.9%
-Upson	Georgia	122	0	3	0	2.5%
-Coweta	Georgia	121	0	2	0	1.7%
-Floyd	Georgia	118	0	6	0	5.1%
-Terrell	Georgia	118	0	10	0	8.5%
-Fayette	Georgia	106	0	5	0	4.7%
-Rockdale	Georgia	101	0	4	0	4%
-Paulding	Georgia	100	0	4	0	4%
-Worth	Georgia	96	0	4	0	4.2%
-Newton	Georgia	93	0	3	0	3.2%
-Clarke	Georgia	88	0	12	0	13.6%
+Fulton	Georgia	1,774	139	57	5	3.2%
+Dougherty	Georgia	1,286	41	78	0	6.1%
+DeKalb	Georgia	1,067	61	15	0	1.4%
+Cobb	Georgia	874	58	39	3	4.5%
+Gwinnett	Georgia	794	28	26	2	3.3%
+Non-Georgia Resident	Georgia	593	97	0	0	0%
+Unassigned	Georgia	442	-118	6	5	1.4%
+Clayton	Georgia	427	31	12	0	2.8%
+Hall	Georgia	339	20	0	0	0%
+Henry	Georgia	302	13	4	0	1.3%
+Sumter	Georgia	265	14	11	2	4.2%
+Lee	Georgia	257	2	15	0	5.8%
+Carroll	Georgia	230	1	6	1	2.6%
+Bartow	Georgia	224	1	17	0	7.6%
+Cherokee	Georgia	211	7	7	0	3.3%
+Douglas	Georgia	184	7	5	0	2.7%
+Muscogee	Georgia	172	5	4	0	2.3%
+Chatham	Georgia	156	2	5	0	3.2%
+Richmond	Georgia	156	0	7	1	4.5%
+Mitchell	Georgia	151	1	15	0	9.9%
+Forsyth	Georgia	148	5	5	0	3.4%
+Houston	Georgia	136	7	9	1	6.6%
+Early	Georgia	132	4	6	0	4.5%
+Terrell	Georgia	129	11	11	1	8.5%
+Coweta	Georgia	126	5	2	0	1.6%
+Randolph	Georgia	126	4	6	0	4.8%
+Upson	Georgia	124	2	3	0	2.4%
+Floyd	Georgia	119	1	6	0	5%
+Fayette	Georgia	112	6	5	0	4.5%
+Paulding	Georgia	108	8	4	0	3.7%
+Rockdale	Georgia	104	3	4	0	3.8%
+Worth	Georgia	98	2	4	0	4.1%
+Clarke	Georgia	95	7	12	0	12.6%
+Newton	Georgia	95	2	3	0	3.2%
 Colquitt	Georgia	88	0	5	0	5.7%
-Crisp	Georgia	79	0	1	0	1.3%
-Spalding	Georgia	78	0	4	0	5.1%
-Thomas	Georgia	78	0	4	0	5.1%
-Bibb	Georgia	73	0	1	0	1.4%
-Columbia	Georgia	71	0	0	0	0%
-Lowndes	Georgia	66	0	2	0	3%
-Tift	Georgia	66	0	1	0	1.5%
-Troup	Georgia	62	0	3	0	4.8%
-Coffee	Georgia	60	0	3	0	5%
-Ware	Georgia	58	0	4	0	6.9%
-Barrow	Georgia	57	0	3	0	5.3%
-Baldwin	Georgia	54	0	2	0	3.7%
+Spalding	Georgia	82	4	4	0	4.9%
+Bibb	Georgia	81	8	1	0	1.2%
+Crisp	Georgia	80	1	1	0	1.3%
+Thomas	Georgia	79	1	4	0	5.1%
+Columbia	Georgia	74	3	0	0	0%
+Lowndes	Georgia	67	1	3	1	4.5%
+Tift	Georgia	67	1	1	0	1.5%
+Troup	Georgia	65	3	3	0	4.6%
+Coffee	Georgia	64	4	3	0	4.7%
+Ware	Georgia	61	3	4	0	6.6%
+Baldwin	Georgia	60	6	2	0	3.3%
+Barrow	Georgia	58	1	3	0	5.2%
 Calhoun	Georgia	53	0	2	0	3.8%
 Dooly	Georgia	51	0	2	0	3.9%
+Walton	Georgia	48	3	2	0	4.2%
+Macon	Georgia	45	16	0	0	0%
 Pierce	Georgia	45	0	2	0	4.4%
-Walton	Georgia	45	0	2	0	4.4%
-Gordon	Georgia	41	0	3	0	7.3%
-Turner	Georgia	40	0	0	0	0%
-Decatur	Georgia	39	0	0	0	0%
-Oconee	Georgia	39	0	1	0	2.6%
+Gordon	Georgia	44	3	3	0	6.8%
+Decatur	Georgia	42	3	0	0	0%
+Oconee	Georgia	41	2	1	0	2.4%
+Turner	Georgia	41	1	0	0	0%
 Glynn	Georgia	38	0	0	0	0%
 Laurens	Georgia	35	0	1	0	2.9%
+Butts	Georgia	34	4	0	0	0%
 Dawson	Georgia	32	0	2	0	6.3%
+Jackson	Georgia	32	3	1	0	3.1%
 Bryan	Georgia	30	0	2	0	6.7%
-Butts	Georgia	30	0	0	0	0%
 Greene	Georgia	30	0	1	0	3.3%
-Jackson	Georgia	29	0	1	0	3.4%
-Macon	Georgia	29	0	0	0	0%
+Whitfield	Georgia	29	1	3	0	10.3%
 Burke	Georgia	28	0	2	0	7.1%
 Mcduffie	Georgia	28	0	2	0	7.1%
-Whitfield	Georgia	28	0	3	0	10.7%
+Wilcox	Georgia	28	4	0	0	0%
 Polk	Georgia	25	0	0	0	0%
+Effingham	Georgia	24	1	1	0	4.2%
+Meriwether	Georgia	24	1	0	0	0%
 Peach	Georgia	24	0	2	0	8.3%
-Wilcox	Georgia	24	0	0	0	0%
-Effingham	Georgia	23	0	1	0	4.3%
-Meriwether	Georgia	23	0	0	0	0%
+Harris	Georgia	23	1	1	0	4.3%
 Camden	Georgia	22	0	0	0	0%
-Harris	Georgia	22	0	1	0	4.5%
 Washington	Georgia	22	0	0	0	0%
+Habersham	Georgia	21	2	1	0	4.8%
 Johnson	Georgia	20	0	1	0	5%
+Lamar	Georgia	20	2	0	0	0%
 Liberty	Georgia	20	0	0	0	0%
+Pike	Georgia	20	1	0	0	0%
 Stephens	Georgia	20	0	0	0	0%
 Brooks	Georgia	19	0	1	0	5.3%
-Habersham	Georgia	19	0	1	0	5.3%
-Pike	Georgia	19	0	0	0	0%
-Bulloch	Georgia	18	0	1	0	5.6%
+Bulloch	Georgia	19	1	1	0	5.3%
+Haralson	Georgia	19	1	1	0	5.3%
 Grady	Georgia	18	0	0	0	0%
-Haralson	Georgia	18	0	1	0	5.6%
-Lamar	Georgia	18	0	0	0	0%
+Oglethorpe	Georgia	18	5	1	0	5.6%
 Baker	Georgia	16	0	2	0	12.5%
 Clay	Georgia	16	0	1	0	6.3%
 Seminole	Georgia	16	0	1	0	6.3%
+Marion	Georgia	16	1	0	0	0%
 Dodge	Georgia	15	0	0	0	0%
+Miller	Georgia	15	2	0	0	0%
 Morgan	Georgia	15	0	0	0	0%
 Murray	Georgia	15	0	0	0	0%
-Marion	Georgia	15	0	0	0	0%
 Bacon	Georgia	14	0	0	0	0%
+Catoosa	Georgia	14	1	0	0	0%
+Jones	Georgia	14	2	0	0	0%
 Appling	Georgia	13	0	0	0	0%
-Catoosa	Georgia	13	0	0	0	0%
-Miller	Georgia	13	0	0	0	0%
-Oglethorpe	Georgia	13	0	1	0	7.7%
-Fannin	Georgia	12	0	0	0	0%
+Fannin	Georgia	13	1	0	0	0%
+Monroe	Georgia	13	1	1	0	7.7%
+Pickens	Georgia	13	2	2	0	15.4%
+Toombs	Georgia	13	1	1	0	7.7%
+White	Georgia	13	2	0	0	0%
 Irwin	Georgia	12	0	0	0	0%
-Jones	Georgia	12	0	0	0	0%
-Monroe	Georgia	12	0	1	0	8.3%
+Madison	Georgia	12	1	1	0	8.3%
 Schley	Georgia	12	0	1	0	8.3%
-Toombs	Georgia	12	0	1	0	8.3%
+Wilkinson	Georgia	12	1	1	0	8.3%
 Jenkins	Georgia	11	0	1	0	9.1%
-Madison	Georgia	11	0	1	0	9.1%
-Pickens	Georgia	11	0	2	0	18.2%
 Pulaski	Georgia	11	0	1	0	9.1%
-White	Georgia	11	0	0	0	0%
-Wilkinson	Georgia	11	0	1	0	9.1%
 Telfair	Georgia	11	0	0	0	0%
 Brantley	Georgia	11	0	1	0	9.1%
 Lumpkin	Georgia	10	0	0	0	0%
+Talbot	Georgia	10	1	1	0	10%
 Ben Hill	Georgia	9	0	0	0	0%
 Emanuel	Georgia	9	0	0	0	0%
 Jasper	Georgia	9	0	0	0	0%
 Lincoln	Georgia	9	0	0	0	0%
-Talbot	Georgia	9	0	1	0	11.1%
+Putnam	Georgia	9	2	0	0	0%
 Taylor	Georgia	9	0	2	0	22.2%
+Banks	Georgia	8	1	0	0	0%
 Stewart	Georgia	8	0	0	0	0%
-Banks	Georgia	7	0	0	0	0%
+Union	Georgia	8	1	1	0	12.5%
+Crawford	Georgia	8	5	0	0	0%
+Berrien	Georgia	7	1	0	0	0%
 Chattooga	Georgia	7	0	1	0	14.3%
 Cook	Georgia	7	0	0	0	0%
 Gilmer	Georgia	7	0	0	0	0%
 Jefferson	Georgia	7	0	1	0	14.3%
-Putnam	Georgia	7	0	0	0	0%
 Rabun	Georgia	7	0	0	0	0%
 Screven	Georgia	7	0	0	0	0%
-Union	Georgia	7	0	1	0	14.3%
 Walker	Georgia	7	0	0	0	0%
 Warren	Georgia	7	0	0	0	0%
 Wilkes	Georgia	7	0	0	0	0%
-Berrien	Georgia	6	0	0	0	0%
 Clinch	Georgia	6	0	0	0	0%
 Elbert	Georgia	6	0	0	0	0%
+Towns	Georgia	6	3	0	0	0%
+Wayne	Georgia	6	1	0	0	0%
 Hart	Georgia	5	0	0	0	0%
+Heard	Georgia	5	1	1	0	20%
 Tattnall	Georgia	5	0	0	0	0%
 Lanier	Georgia	5	0	0	0	0%
-Wayne	Georgia	5	0	0	0	0%
+Hancock	Georgia	5	2	0	0	0%
 Candler	Georgia	4	0	0	0	0%
 Charlton	Georgia	4	0	0	0	0%
 Chattahoochee	Georgia	4	0	0	0	0%
 Franklin	Georgia	4	0	0	0	0%
-Heard	Georgia	4	0	1	0	25%
 Bleckley	Georgia	3	0	0	0	0%
 Dade	Georgia	3	0	1	0	33.3%
 Mcintosh	Georgia	3	0	0	0	0%
 Webster	Georgia	3	0	0	0	0%
 Wheeler	Georgia	3	0	0	0	0%
 Quitman	Georgia	3	0	0	0	0%
-Towns	Georgia	3	0	0	0	0%
-Crawford	Georgia	3	0	0	0	0%
-Hancock	Georgia	3	0	0	0	0%
+Long	Georgia	2	1	0	0	0%
 Twiggs	Georgia	2	0	0	0	0%
 Atkinson	Georgia	2	0	0	0	0%
 Echols	Georgia	2	0	0	0	0%
 Montgomery	Georgia	2	0	0	0	0%
 Evans	Georgia	2	0	0	0	0%
 Jeff Davis	Georgia	1	0	0	0	0%
-Long	Georgia	1	0	0	0	0%
 Treutlen	Georgia	1	0	0	0	0%
 Fairfield	Connecticut	6,004	0	262	0	4.4%
 New Haven	Connecticut	3,358	0	135	0	4%
@@ -889,12 +889,12 @@ Kitsap	Washington	132	0	1	0	0.8%
 Franklin	Washington	129	0	2	0	1.6%
 Grant	Washington	122	0	2	0	1.6%
 Thurston	Washington	81	0	1	0	1.2%
-Chelan	Washington	61	1	26	21	42.6%
+Chelan	Washington	61	1	5	0	8.2%
 Adams	Washington	39	0	0	0	0%
 Jefferson	Washington	28	0	0	0	0%
+Douglas	Washington	26	6	1	1	3.8%
 Cowlitz	Washington	25	0	0	0	0%
 Walla Walla	Washington	21	0	0	0	0%
-Douglas	Washington	20	0	0	0	0%
 Mason	Washington	19	0	0	0	0%
 Lewis	Washington	17	0	2	0	11.8%
 Okanogan	Washington	15	0	0	0	0%
@@ -937,47 +937,47 @@ Dorchester	Maryland	14	2	1	0	7.1%
 Kent	Maryland	11	0	0	0	0%
 Somerset	Maryland	5	-1	0	0	0%
 Garrett	Maryland	4	0	0	0	0%
-Marion	Indiana	3,063	51	123	0	4%
-Lake	Indiana	796	0	26	0	3.3%
-Hamilton	Indiana	499	9	24	0	4.8%
-Hendricks	Indiana	330	0	10	0	3%
-Johnson	Indiana	327	0	20	0	6.1%
-Madison	Indiana	263	2	15	0	5.7%
-St. Joseph	Indiana	194	0	3	0	1.5%
-Allen	Indiana	165	0	14	0	8.5%
-Dearborn	Indiana	129	0	3	0	2.3%
-Decatur	Indiana	129	0	10	0	7.8%
-Boone	Indiana	125	16	2	0	1.6%
-Porter	Indiana	120	0	2	0	1.7%
-Hancock	Indiana	118	0	6	0	5.1%
-Clark	Indiana	117	0	8	0	6.8%
+Marion	Indiana	3,063	51	141	18	4.6%
+Lake	Indiana	819	23	31	5	3.8%
+Hamilton	Indiana	499	9	27	3	5.4%
+Hendricks	Indiana	350	20	11	1	3.1%
+Johnson	Indiana	329	2	21	1	6.4%
+Madison	Indiana	263	2	16	1	6.1%
+St. Joseph	Indiana	234	40	3	0	1.3%
+Allen	Indiana	167	2	13	0	7.8%
+Decatur	Indiana	153	24	10	0	6.5%
+Clark	Indiana	132	15	8	0	6.1%
+Porter	Indiana	127	7	2	0	1.6%
+Boone	Indiana	125	16	3	1	2.4%
+Hancock	Indiana	121	3	6	0	5%
+Floyd	Indiana	111	3	4	0	3.6%
 Bartholomew	Indiana	110	0	4	0	3.6%
-Floyd	Indiana	108	0	4	0	3.7%
-Morgan	Indiana	103	0	3	0	2.9%
-Elkhart	Indiana	89	0	3	0	3.4%
+Morgan	Indiana	104	1	3	0	2.9%
+Elkhart	Indiana	100	11	3	0	3%
+Monroe	Indiana	91	4	1	0	1.1%
 Ripley	Indiana	89	3	3	0	3.4%
-Monroe	Indiana	87	0	1	0	1.1%
-Shelby	Indiana	75	0	3	0	4%
+Shelby	Indiana	77	2	3	0	3.9%
+Franklin	Indiana	74	5	7	0	9.5%
 Lawrence	Indiana	73	2	7	0	9.6%
+Delaware	Indiana	72	3	2	0	2.8%
 Jackson	Indiana	70	0	0	0	0%
-Delaware	Indiana	69	0	2	0	2.9%
-Franklin	Indiana	69	0	7	0	10.1%
+Dearborn	Indiana	60	0	3	0	5%
+Vanderburgh	Indiana	60	3	1	0	1.7%
 Harrison	Indiana	58	0	2	0	3.4%
-Vanderburgh	Indiana	57	0	1	0	1.8%
-Jennings	Indiana	56	0	0	0	0%
+Jennings	Indiana	58	2	0	0	0%
 Howard	Indiana	50	0	4	0	8%
 Tippecanoe	Indiana	46	1	1	0	2.2%
 Vigo	Indiana	42	0	3	0	7.1%
 Grant	Indiana	40	3	2	0	5%
-Warrick	Indiana	38	0	2	0	5.3%
+Warrick	Indiana	39	1	2	0	5.1%
+Putnam	Indiana	38	5	3	0	7.9%
 La Porte	Indiana	36	2	3	0	8.3%
-Putnam	Indiana	33	0	3	0	9.1%
 Newton	Indiana	29	2	1	0	3.4%
 Cass	Indiana	28	0	1	0	3.6%
 Washington	Indiana	26	0	0	0	0%
 Greene	Indiana	25	0	1	0	4%
-Henry	Indiana	23	0	0	0	0%
-Montgomery	Indiana	22	0	0	0	0%
+Montgomery	Indiana	23	1	0	0	0%
+Henry	Indiana	22	0	0	0	0%
 Fayette	Indiana	20	0	3	0	15%
 Kosciusko	Indiana	19	1	1	0	5.3%
 Owen	Indiana	19	0	1	0	5.3%
@@ -985,40 +985,40 @@ Wayne	Indiana	19	0	1	0	5.3%
 Jasper	Indiana	18	0	1	0	5.6%
 Orange	Indiana	18	0	3	0	16.7%
 Marshall	Indiana	17	0	0	0	0%
+Miami	Indiana	17	1	0	0	0%
+Noble	Indiana	17	2	1	0	5.9%
 Scott	Indiana	17	0	2	0	11.8%
-Miami	Indiana	16	0	0	0	0%
+Jefferson	Indiana	16	4	0	0	0%
 Rush	Indiana	16	0	1	0	6.3%
 Knox	Indiana	15	0	0	0	0%
-Noble	Indiana	15	0	1	0	6.7%
+Whitley	Indiana	14	1	1	0	7.1%
+Brown	Indiana	13	1	1	0	7.7%
 Dubois	Indiana	13	0	0	0	0%
 LaGrange	Indiana	13	0	1	0	7.7%
-Whitley	Indiana	13	0	1	0	7.7%
-Brown	Indiana	12	0	1	0	8.3%
 Clay	Indiana	12	0	0	0	0%
 Clinton	Indiana	12	1	1	0	8.3%
 Crawford	Indiana	12	0	0	0	0%
-Jefferson	Indiana	12	0	0	0	0%
 Steuben	Indiana	12	0	1	0	8.3%
 Switzerland	Indiana	12	0	0	0	0%
+Daviess	Indiana	12	2	1	0	8.3%
 Randolph	Indiana	11	0	1	0	9.1%
+Starke	Indiana	10	1	1	0	10%
 Tipton	Indiana	10	0	0	0	0%
-Daviess	Indiana	10	0	1	0	10%
-Starke	Indiana	9	0	1	0	11.1%
 Jay	Indiana	7	0	0	0	0%
 Wabash	Indiana	7	0	0	0	0%
 Parke	Indiana	7	0	0	0	0%
+Adams	Indiana	6	1	1	0	16.7%
+Carroll	Indiana	6	1	0	0	0%
 De Kalb	Indiana	6	0	0	0	0%
 Huntington	Indiana	6	0	1	0	16.7%
 Sullivan	Indiana	6	0	0	0	0%
+Blackford	Indiana	6	1	0	0	0%
 Union	Indiana	6	0	0	0	0%
-Adams	Indiana	5	0	1	0	20%
-Carroll	Indiana	5	0	0	0	0%
 Posey	Indiana	5	0	0	0	0%
-Blackford	Indiana	5	0	0	0	0%
+White	Indiana	5	1	0	0	0%
  Martin	Indiana	5	0	0	0	0%
 Gibson	Indiana	4	0	0	0	0%
 Wells	Indiana	4	0	0	0	0%
-White	Indiana	4	0	0	0	0%
 Fountain	Indiana	3	0	1	0	33.3%
 Fulton	Indiana	3	0	0	0	0%
 Warren	Indiana	3	0	1	0	33.3%
@@ -1026,10 +1026,10 @@ Spencer	Indiana	3	0	0	0	0%
 Vermillion	Indiana	3	0	0	0	0%
 Perry	Indiana	3	0	0	0	0%
 Benton	Indiana	2	0	0	0	0%
+Pike	Indiana	2	1	0	0	0%
 Ohio	Indiana	1	0	0	0	0%
 Pulaski	Indiana	1	0	0	0	0%
-Pike	Indiana	1	0	0	0	0%
-Unassigned	Indiana	0	-58	0	0	0%
+Unassigned	Indiana	0	-128	0	-1	0%
 Denver	Colorado 	1,346	0	51	0	3.8%
 Arapahoe	Colorado 	1,142	0	39	0	3.4%
 Weld	Colorado 	808	0	53	0	6.6%
@@ -1087,13 +1087,13 @@ Huerfano	Colorado 	1	0	0	0	0%
 Rio Blanco	Colorado 	1	0	0	0	0%
 Prowers	Colorado 	1	0	0	0	0%
 Gilpin	Colorado 	1	0	0	0	0%
-Cuyahoga	Ohio	1,197	0	24	0	2%
-Franklin	Ohio	1,012	0	15	0	1.5%
+Cuyahoga	Ohio	1,239	42	24	0	1.9%
+Franklin	Ohio	1,053	41	15	0	1.4%
 Hamilton	Ohio	558	0	21	0	3.8%
-Lucas	Ohio	514	0	21	0	4.1%
-Mahoning	Ohio	443	0	31	0	7%
+Lucas	Ohio	540	26	21	0	3.9%
+Mahoning	Ohio	469	26	31	0	6.6%
 Summit	Ohio	262	0	15	0	5.7%
-Montgomery	Ohio	201	0	7	0	3.5%
+Montgomery	Ohio	205	4	7	0	3.4%
 Lorain	Ohio	184	0	6	0	3.3%
 Trumbull	Ohio	174	0	10	0	5.7%
 Stark	Ohio	167	0	12	0	7.2%
@@ -1101,21 +1101,21 @@ Portage	Ohio	144	0	17	0	11.8%
 Butler	Ohio	121	0	2	0	1.7%
 Miami	Ohio	121	0	15	0	12.4%
 Lake	Ohio	117	0	6	0	5.1%
-Columbiana	Ohio	114	0	6	0	5.3%
+Columbiana	Ohio	115	1	6	0	5.2%
 Medina	Ohio	112	0	8	0	7.1%
-Delaware	Ohio	96	0	2	0	2.1%
-Marion	Ohio	91	0	0	0	0%
+Marion	Ohio	110	19	0	0	0%
+Delaware	Ohio	99	3	2	0	2%
 Licking	Ohio	86	0	3	0	3.5%
 Fairfield	Ohio	84	0	1	0	1.2%
 Pickaway	Ohio	83	0	0	0	0%
 Warren	Ohio	76	0	1	0	1.3%
-Geauga	Ohio	68	0	2	0	2.9%
+Geauga	Ohio	69	1	2	0	2.9%
 Wayne	Ohio	54	0	5	0	9.3%
 Wood	Ohio	54	0	4	0	7.4%
 Belmont	Ohio	53	0	2	0	3.8%
-Darke	Ohio	49	0	9	0	18.4%
+Darke	Ohio	50	1	9	0	18%
+Washington	Ohio	44	3	1	0	2.3%
 Richland	Ohio	43	0	1	0	2.3%
-Washington	Ohio	41	0	1	0	2.4%
 Clermont	Ohio	39	0	1	0	2.6%
 Allen	Ohio	37	0	4	0	10.8%
 Ashtabula	Ohio	31	0	2	0	6.5%
@@ -1125,9 +1125,9 @@ Shelby	Ohio	27	0	0	0	0%
 Jefferson	Ohio	24	0	0	0	0%
 Madison	Ohio	24	0	3	0	12.5%
 Clark	Ohio	20	0	0	0	0%
+Ross	Ohio	20	1	0	0	0%
+Crawford	Ohio	19	2	0	0	0%
 Hancock	Ohio	19	0	1	0	5.3%
-Ross	Ohio	19	0	0	0	0%
-Crawford	Ohio	17	0	0	0	0%
 Lawrence	Ohio	17	0	0	0	0%
 Clinton	Ohio	16	0	0	0	0%
 Coshocton	Ohio	16	0	0	0	0%
@@ -1136,15 +1136,15 @@ Auglaize	Ohio	14	0	1	0	7.1%
 Carroll	Ohio	14	0	0	0	0%
 Huron	Ohio	14	0	1	0	7.1%
 Mercer	Ohio	13	0	1	0	7.7%
+Wyandot	Ohio	13	1	2	0	15.4%
 Defiance	Ohio	12	0	0	0	0%
 Erie	Ohio	12	0	1	0	8.3%
+Fayette	Ohio	12	2	0	0	0%
 Sandusky	Ohio	12	0	2	0	16.7%
-Wyandot	Ohio	12	0	2	0	16.7%
 Ottawa	Ohio	11	0	0	0	0%
 Union	Ohio	11	0	0	0	0%
-Fayette	Ohio	10	0	0	0	0%
 Knox	Ohio	10	0	1	0	10%
-Morrow	Ohio	9	0	0	0	0%
+Morrow	Ohio	10	1	0	0	0%
 Seneca	Ohio	9	0	1	0	11.1%
 Gallia	Ohio	8	0	1	0	12.5%
 Logan	Ohio	8	0	0	0	0%
@@ -1165,12 +1165,12 @@ Williams	Ohio	3	0	0	0	0%
 Adams	Ohio	3	0	0	0	0%
 Van Wert	Ohio	2	0	0	0	0%
 Monroe	Ohio	2	0	0	0	0%
+Putnam	Ohio	2	1	0	0	0%
 Morgan	Ohio	2	0	0	0	0%
 Jackson	Ohio	2	0	0	0	0%
 Hocking	Ohio	2	0	0	0	0%
 Noble	Ohio	2	0	0	0	0%
 Pike	Ohio	1	0	0	0	0%
-Putnam	Ohio	1	0	0	0	0%
 Meigs	Ohio	1	0	0	0	0%
 Henry	Ohio	1	0	0	0	0%
 Unassigned	Ohio	0	0	0	0	0%
@@ -1404,91 +1404,91 @@ Rhea	Tennessee	0	0	0	0	0%
 Crockett	Tennessee	0	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
 Moore	Tennessee	0	0	0	0	0%
-Mecklenburg	North Carolina	975	0	15	0	1.5%
-Wake	North Carolina	496	0	0	0	0%
+Mecklenburg	North Carolina	993	18	15	0	1.5%
+Wake	North Carolina	501	5	0	0	0%
 Durham	North Carolina	324	0	1	0	0.3%
 Rowan	North Carolina	204	0	3	0	1.5%
-Cabarrus	North Carolina	180	0	3	0	1.7%
-Orange	North Carolina	151	0	2	0	1.3%
+Cabarrus	North Carolina	190	10	3	0	1.6%
+Orange	North Carolina	155	4	2	0	1.3%
 Guilford	North Carolina	138	0	10	0	7.2%
-Forsyth	North Carolina	119	0	4	0	3.4%
-Union	North Carolina	105	0	3	0	2.9%
-Johnston	North Carolina	101	0	4	0	4%
+Forsyth	North Carolina	121	2	4	0	3.3%
+Union	North Carolina	110	5	3	0	2.7%
+Johnston	North Carolina	104	3	4	0	3.8%
 Henderson	North Carolina	99	0	6	0	6.1%
-Granville	North Carolina	95	0	1	0	1.1%
+Granville	North Carolina	97	2	1	0	1%
 Cumberland	North Carolina	86	0	2	0	2.3%
+Davidson	North Carolina	86	1	2	0	2.3%
 Gaston	North Carolina	86	0	3	0	3.5%
-Davidson	North Carolina	85	0	2	0	2.4%
 Moore	North Carolina	84	0	2	0	2.4%
+Wayne	North Carolina	78	6	2	0	2.6%
+Chatham	North Carolina	75	6	0	0	0%
 Wilson	North Carolina	74	0	3	0	4.1%
-Wayne	North Carolina	72	0	2	0	2.8%
+Alamance	North Carolina	73	5	0	0	0%
 Iredell	North Carolina	71	0	2	1	2.8%
-Chatham	North Carolina	69	0	0	0	0%
 Pitt	North Carolina	69	0	1	0	1.4%
-Alamance	North Carolina	68	0	0	0	0%
 Franklin	North Carolina	67	0	2	0	3%
 Northampton	North Carolina	65	0	1	0	1.5%
 Burke	North Carolina	61	0	3	0	4.9%
 New Hanover	North Carolina	61	0	1	0	1.6%
 Randolph	North Carolina	55	0	2	0	3.6%
-Harnett	North Carolina	47	0	2	0	4.3%
+Harnett	North Carolina	49	2	2	0	4.1%
 Rutherford	North Carolina	45	0	2	0	4.4%
 Cleveland	North Carolina	39	0	0	0	0%
+Nash	North Carolina	39	3	1	0	2.6%
 Buncombe	North Carolina	38	0	3	0	7.9%
 Columbus	North Carolina	37	0	1	0	2.7%
 Catawba	North Carolina	36	0	1	0	2.8%
-Nash	North Carolina	36	0	1	0	2.8%
 Brunswick	North Carolina	35	0	1	0	2.9%
 Onslow	North Carolina	35	0	1	0	2.9%
-Craven	North Carolina	27	0	1	0	3.7%
-Edgecombe	North Carolina	27	0	1	0	3.7%
-Halifax	North Carolina	23	0	1	0	4.3%
+Edgecombe	North Carolina	31	4	1	0	3.2%
+Craven	North Carolina	29	2	1	0	3.4%
+Halifax	North Carolina	25	2	1	0	4%
 Carteret	North Carolina	22	0	1	0	4.5%
 Davie	North Carolina	22	0	2	0	9.1%
 Vance	North Carolina	21	0	0	0	0%
+Hoke	North Carolina	20	2	0	0	0%
 Caldwell	North Carolina	19	0	0	0	0%
-Hoke	North Carolina	18	0	0	0	0%
+Duplin	North Carolina	19	4	0	0	0%
+McDowell	North Carolina	18	2	0	0	0%
 Washington	North Carolina	18	0	2	0	11.1%
 Stanly	North Carolina	17	0	2	0	11.8%
-McDowell	North Carolina	16	0	0	0	0%
+Rockingham	North Carolina	16	2	2	0	12.5%
+Bertie	North Carolina	15	3	1	0	6.7%
 Dare	North Carolina	15	0	1	0	6.7%
-Duplin	North Carolina	15	0	0	0	0%
 Lee	North Carolina	15	0	0	0	0%
 Lenoir	North Carolina	15	0	0	0	0%
 Lincoln	North Carolina	15	0	0	0	0%
 Montgomery	North Carolina	15	0	1	0	6.7%
 Pasquotank	North Carolina	15	0	0	0	0%
 Beaufort	North Carolina	14	0	0	0	0%
-Rockingham	North Carolina	14	0	2	0	14.3%
 Yadkin	North Carolina	14	0	1	0	7.1%
 Cherokee	North Carolina	13	0	1	0	7.7%
+Greene	North Carolina	13	1	0	0	0%
 Sampson	North Carolina	13	0	0	0	0%
-Bertie	North Carolina	12	0	1	0	8.3%
-Greene	North Carolina	12	0	0	0	0%
+Richmond	North Carolina	12	2	1	0	8.3%
+Anson	North Carolina	11	1	0	0	0%
+Person	North Carolina	11	2	0	0	0%
 Robeson	North Carolina	11	0	0	0	0%
-Anson	North Carolina	10	0	0	0	0%
 Stokes	North Carolina	10	0	0	0	0%
 Surry	North Carolina	10	0	0	0	0%
-Richmond	North Carolina	10	0	1	0	10%
-Person	North Carolina	9	0	0	0	0%
 Polk	North Carolina	9	0	0	0	0%
 Scotland	North Carolina	9	0	0	0	0%
+Perquimans	North Carolina	8	4	0	0	0%
 Watauga	North Carolina	8	0	0	0	0%
 Martin	North Carolina	7	0	0	0	0%
 Jones	North Carolina	7	0	1	0	14.3%
 Pamlico	North Carolina	6	0	0	0	0%
 Transylvania	North Carolina	6	0	0	0	0%
 Pender	North Carolina	5	0	0	0	0%
+Chowan	North Carolina	4	1	0	0	0%
 Clay	North Carolina	4	0	0	0	0%
 Gates	North Carolina	4	0	0	0	0%
 Hertford	North Carolina	4	0	1	0	25%
 Mitchell	North Carolina	4	0	0	0	0%
-Perquimans	North Carolina	4	0	0	0	0%
 Wilkes	North Carolina	4	0	1	0	25%
 Ashe	North Carolina	4	0	0	0	0%
 Alexander	North Carolina	3	0	0	0	0%
 Caswell	North Carolina	3	0	0	0	0%
-Chowan	North Carolina	3	0	0	0	0%
 Currituck	North Carolina	3	0	0	0	0%
 Haywood	North Carolina	3	0	0	0	0%
 Warren	North Carolina	3	0	0	0	0%
@@ -1496,7 +1496,7 @@ Alleghany	North Carolina	2	0	0	0	0%
 Jackson	North Carolina	2	0	0	0	0%
 Macon	North Carolina	2	0	1	0	50%
 Bladen	North Carolina	2	0	0	0	0%
-Tyrrell	North Carolina	1	0	0	0	0%
+Tyrrell	North Carolina	2	1	0	0	0%
 Unassigned	US Military	2,110	98	7	0	0.3%
 Navy	US Military	1,208	58	6	1	0.5%
 Air Force	US Military	640	0	1	0	0.2%
@@ -1595,25 +1595,25 @@ Washington	Missouri	1	0	0	0	0%
 Andrew	Missouri	1	0	0	0	0%
 Iron	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
-Jefferson	Alabama	617	0	16	1	2.6%
-Mobile	Alabama	495	4	17	0	3.4%
-Lee	Alabama	250	0	10	1	4%
-Shelby	Alabama	230	0	5	0	2.2%
+Jefferson	Alabama	619	2	16	1	2.6%
+Mobile	Alabama	497	6	17	0	3.4%
+Lee	Alabama	253	3	10	1	4%
+Shelby	Alabama	231	1	7	2	3%
 Chambers	Alabama	212	0	8	0	3.8%
 Madison	Alabama	188	0	3	0	1.6%
 Montgomery	Alabama	150	1	5	0	3.3%
-Tuscaloosa	Alabama	119	0	0	0	0%
-Tallapoosa	Alabama	108	1	7	0	6.5%
+Tuscaloosa	Alabama	120	1	0	0	0%
+Tallapoosa	Alabama	110	3	7	0	6.4%
 Marshall	Alabama	103	0	2	0	1.9%
 Walker	Alabama	84	0	0	0	0%
-Baldwin	Alabama	78	0	1	0	1.3%
+Baldwin	Alabama	79	1	2	1	2.5%
 Etowah	Alabama	78	0	7	0	9%
 Calhoun	Alabama	61	0	0	0	0%
 Marion	Alabama	57	0	4	0	7%
 Houston	Alabama	47	0	1	0	2.1%
-St. Clair	Alabama	43	0	0	0	0%
+St. Clair	Alabama	44	1	0	0	0%
+Randolph	Alabama	42	2	4	0	9.5%
 Morgan	Alabama	41	0	0	0	0%
-Randolph	Alabama	41	1	4	0	9.8%
 Cullman	Alabama	39	0	1	0	2.6%
 Talladega	Alabama	38	0	1	0	2.6%
 Elmore	Alabama	37	0	0	0	0%
@@ -1623,39 +1623,39 @@ Chilton	Alabama	33	0	0	0	0%
 Wilcox	Alabama	31	0	0	0	0%
 DeKalb	Alabama	28	0	0	0	0%
 Russell	Alabama	28	0	0	0	0%
-Jackson	Alabama	26	0	2	0	7.7%
+Jackson	Alabama	27	1	2	0	7.4%
+Sumter	Alabama	25	2	0	0	0%
 Marengo	Alabama	24	0	1	0	4.2%
-Sumter	Alabama	24	1	0	0	0%
-Pickens	Alabama	23	0	0	0	0%
+Pickens	Alabama	24	1	0	0	0%
 Lauderdale	Alabama	22	0	4	0	18.2%
 Pike	Alabama	22	1	0	0	0%
-Autauga	Alabama	19	0	1	0	5.3%
+Autauga	Alabama	20	1	1	0	5%
 Clarke	Alabama	19	0	0	0	0%
 Coosa	Alabama	18	0	1	0	5.6%
 Greene	Alabama	18	0	0	0	0%
 Bibb	Alabama	17	0	0	0	0%
 Macon	Alabama	17	0	1	0	5.9%
+Blount	Alabama	16	1	0	0	0%
+Hale	Alabama	16	1	0	0	0%
 Lowndes	Alabama	16	0	0	0	0%
-Blount	Alabama	15	0	0	0	0%
-Hale	Alabama	15	0	0	0	0%
 Clay	Alabama	14	0	0	0	0%
+Covington	Alabama	14	1	0	0	0%
 Dallas	Alabama	14	0	0	0	0%
-Covington	Alabama	13	0	0	0	0%
 Henry	Alabama	13	0	0	0	0%
 Cleburne	Alabama	12	0	0	0	0%
 Dale	Alabama	12	0	0	0	0%
 Washington	Alabama	12	0	1	0	8.3%
+Colbert	Alabama	11	1	1	0	9.1%
+Franklin	Alabama	11	1	1	1	9.1%
 Choctaw	Alabama	10	0	0	0	0%
-Colbert	Alabama	10	0	1	0	10%
 Escambia	Alabama	10	0	0	0	0%
-Franklin	Alabama	10	0	0	0	0%
+Barbour	Alabama	10	1	0	0	0%
 Cherokee	Alabama	9	0	0	0	0%
-Barbour	Alabama	9	0	0	0	0%
 Butler	Alabama	8	0	0	0	0%
 Lawrence	Alabama	8	0	0	0	0%
+Bullock	Alabama	7	1	0	0	0%
 Lamar	Alabama	7	0	0	0	0%
 Monroe	Alabama	7	0	1	0	14.3%
-Bullock	Alabama	6	0	0	0	0%
 Perry	Alabama	6	0	0	0	0%
 Conecuh	Alabama	5	0	0	0	0%
 Fayette	Alabama	4	0	0	0	0%
@@ -2342,13 +2342,13 @@ Clay	Arkansas	1	0	0	0	0%
 Madison	Arkansas	1	0	0	0	0%
 Marion	Arkansas	1	0	0	0	0%
 Jackson	Arkansas	1	0	0	0	0%
-Ada	Idaho	538	0	6	-3	1.1%
+Ada	Idaho	538	0	9	0	1.7%
 Blaine	Idaho	458	0	5	0	1.1%
 Canyon	Idaho	161	0	5	0	3.1%
-Twin Falls	Idaho	79	0	2	-2	2.5%
+Twin Falls	Idaho	79	0	4	0	5.1%
 Kootenai	Idaho	45	0	0	0	0%
 Jerome	Idaho	30	0	2	0	6.7%
-Nez Perce	Idaho	20	0	5	-1	25%
+Nez Perce	Idaho	20	0	6	0	30%
 Elmore	Idaho	16	0	0	0	0%
 Lincoln	Idaho	15	0	0	0	0%
 Bonneville	Idaho	14	0	0	0	0%
@@ -2584,7 +2584,7 @@ Cibola, NM	Navajo Nation	9	0	0	0	0%
 Socorro, NM	Navajo Nation	6	0	0	0	0%
 Sandoval, NM	Navajo Nation	3	0	0	0	0%
 Bernalillo, NM	Navajo Nation	0	0	0	0	0%
-Chittenden	Vermont	372	0	18	-1	4.8%
+Chittenden	Vermont	372	0	19	0	5.1%
 Franklin	Vermont	84	1	3	0	3.6%
 Windham	Vermont	57	2	1	0	1.8%
 Addison	Vermont	56	0	1	0	1.8%
