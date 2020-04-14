@@ -874,25 +874,25 @@ Windham	Connecticut	83	17	1	0	1.2%
 King	Washington	4,549	123	296	4	6.5%
 Snohomish	Washington	1,907	40	73	3	3.8%
 Pierce	Washington	969	38	20	0	2.1%
-Unassigned	Washington	618	-1	0	0	0%
 Yakima	Washington	614	76	25	4	4.1%
+Unassigned	Washington	484	-135	0	0	0%
 Spokane	Washington	276	2	15	1	5.4%
 Whatcom	Washington	264	1	23	0	8.7%
-Benton	Washington	259	0	27	0	10.4%
+Benton	Washington	261	2	27	0	10.3%
 Clark	Washington	239	19	15	1	6.3%
-Skagit	Washington	193	2	6	0	3.1%
+Skagit	Washington	195	4	6	0	3.1%
 Island	Washington	159	1	8	1	5%
 Kitsap	Washington	132	0	1	0	0.8%
-Franklin	Washington	122	2	2	0	1.6%
+Franklin	Washington	129	9	2	0	1.6%
 Grant	Washington	122	2	2	0	1.6%
 Thurston	Washington	81	0	1	0	1.2%
-Chelan	Washington	55	0	5	0	9.1%
-Adams	Washington	37	0	0	0	0%
+Chelan	Washington	60	5	5	0	8.3%
+Adams	Washington	39	2	0	0	0%
 Jefferson	Washington	28	0	0	0	0%
 Cowlitz	Washington	25	2	0	0	0%
 Walla Walla	Washington	21	0	0	0	0%
+Douglas	Washington	20	2	0	0	0%
 Mason	Washington	19	0	0	0	0%
-Douglas	Washington	18	0	0	0	0%
 Lewis	Washington	17	0	2	0	11.8%
 Okanogan	Washington	15	0	0	0	0%
 Kittitas	Washington	14	1	0	0	0%
@@ -902,7 +902,7 @@ Clallam	Washington	12	0	0	0	0%
 Whitman	Washington	12	0	0	0	0%
 Grays Harbor	Washington	11	0	0	0	0%
 Stevens	Washington	7	0	0	0	0%
-Asotin	Washington	5	0	0	0	0%
+Asotin	Washington	6	1	0	0	0%
 Skamania	Washington	3	0	0	0	0%
 Lincoln	Washington	2	0	0	0	0%
 Wahkiakum	Washington	2	0	0	0	0%
@@ -1999,7 +1999,7 @@ Oldham	Kentucky	18	2	0	0	0%
 Shelby	Kentucky	18	0	1	1	5.6%
 Calloway	Kentucky	16	2	1	0	6.3%
 Simpson	Kentucky	16	0	1	0	6.3%
-Woodford	Kentucky	16	0	1	0	6.3%
+Woodford	Kentucky	16	0	0	0	0%
 Harrison	Kentucky	15	1	0	0	0%
 Boyle	Kentucky	14	1	0	0	0%
 Grant	Kentucky	14	1	1	0	7.1%
@@ -2391,7 +2391,7 @@ Reno	Kansas	13	3	0	0	0%
 Franklin	Kansas	12	1	0	0	0%
 Saline	Kansas	10	1	1	0	10%
 Butler	Kansas	9	1	0	0	0%
-Geary	Kansas	8	3	0	0	0%
+Geary	Kansas	9	4	0	0	0%
 Bourbon	Kansas	7	0	1	0	14.3%
 Cherokee	Kansas	6	0	0	0	0%
 Crawford	Kansas	6	2	1	0	16.7%
