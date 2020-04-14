@@ -19,13 +19,13 @@ Ohio	6,975	376	274	21	3.9%
 Virginia	5,747	473	149	8	2.6%
 Tennessee	5,610	264	109	8	1.9%
 North Carolina	4,887	286	99	9	2%
+Missouri	4,528	256	137	19	3%
 US Military	4,528	1,019	15	2	0.3%
-Missouri	4,515	243	123	5	2.7%
 Alabama	3,803	223	103	10	2.7%
 Arizona	3,705	163	122	7	3.3%
 South Carolina	3,439	126	87	5	2.5%
 Wisconsin	3,428	87	154	11	4.5%
-Nevada	3,029	193	120	7	4%
+Nevada	3,029	193	121	8	4%
 Rhode Island	2,976	311	73	10	2.5%
 Mississippi	2,942	161	98	2	3.3%
 Utah	2,363	60	18	0	0.8%

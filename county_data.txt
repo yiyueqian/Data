@@ -1494,23 +1494,18 @@ Jackson	North Carolina	2	0	0	0	0%
 Macon	North Carolina	2	0	1	0	50%
 Bladen	North Carolina	2	0	0	0	0%
 Tyrrell	North Carolina	1	1	0	0	0%
-Unassigned	US Military	2,012	846	7	1	0.3%
-Navy	US Military	1,150	31	5	1	0.4%
-Air Force	US Military	640	0	1	0	0.2%
-Army	US Military	523	112	2	0	0.4%
-Marine Corps	US Military	203	30	0	0	0%
-St. Louis	Missouri	1,724	91	42	0	2.4%
-St. Louis City	Missouri	698	53	19	2	2.7%
-St. Charles	Missouri	380	14	13	2	3.4%
-Kansas City	Missouri	329	21	8	0	2.4%
+St. Louis	Missouri	1,724	91	50	8	2.9%
+St. Louis City	Missouri	706	61	24	7	3.4%
+St. Charles	Missouri	384	18	14	3	3.6%
+Kansas City	Missouri	323	15	8	0	2.5%
 Jackson	Missouri	225	0	7	0	3.1%
-Jefferson	Missouri	129	5	3	0	2.3%
+Jefferson	Missouri	134	10	3	0	2.2%
 Franklin	Missouri	84	1	3	0	3.6%
 Boone	Missouri	82	2	1	0	1.2%
 Greene	Missouri	79	0	8	0	10.1%
 Clay	Missouri	51	3	2	0	3.9%
 Johnson	Missouri	45	8	0	0	0%
-Cass	Missouri	42	5	2	0	4.8%
+Cass	Missouri	44	7	2	0	4.5%
 Cole	Missouri	37	1	1	0	2.7%
 Perry	Missouri	36	1	0	0	0%
 Cape Girardeau	Missouri	30	2	1	0	3.3%
@@ -1592,6 +1587,11 @@ Andrew	Missouri	1	0	0	0	0%
 Iron	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	0	0	-1	0%
+Unassigned	US Military	2,012	846	7	1	0.3%
+Navy	US Military	1,150	31	5	1	0.4%
+Air Force	US Military	640	0	1	0	0.2%
+Army	US Military	523	112	2	0	0.4%
+Marine Corps	US Military	203	30	0	0	0%
 Jefferson	Alabama	617	20	15	0	2.4%
 Mobile	Alabama	491	37	17	2	3.5%
 Lee	Alabama	250	14	9	1	3.6%
@@ -1790,7 +1790,7 @@ Pepin	Wisconsin	0	0	0	0	0%
 Clark	Nevada	2,444	120	101	1	4.1%
 Washoe	Nevada	500	85	12	1	2.4%
 Carson City	Nevada	22	6	0	0	0%
-Humboldt	Nevada	20	2	0	0	0%
+Humboldt	Nevada	20	2	1	1	5%
 Elko	Nevada	11	0	1	0	9.1%
 Douglas	Nevada	10	0	0	0	0%
 Lyon	Nevada	10	3	0	0	0%
