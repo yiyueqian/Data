@@ -1,40 +1,40 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	196,146	0	10,834	776	5.5%
+New York	202,365	6,219	10,834	778	5.4%
 New Jersey	64,584	0	2,443	0	3.8%
 Massachusetts	26,867	0	844	0	3.1%
 Michigan	25,635	0	1,602	0	6.2%
-California	24,392	20	732	0	3%
-Pennsylvania	24,336	0	592	0	2.4%
+Pennsylvania	25,441	1,105	645	53	2.5%
+California	24,422	50	732	0	3%
 Illinois	22,025	0	798	0	3.6%
+Louisiana	21,518	502	1,013	129	4.7%
 Florida	21,019	0	499	0	2.4%
-Louisiana	21,016	0	884	0	4.2%
-Texas	14,526	21	317	0	2.2%
+Texas	14,667	163	322	5	2.2%
 Georgia	13,621	0	480	0	3.5%
 Connecticut	13,381	0	602	0	4.5%
-Washington	10,725	0	522	0	4.9%
-Maryland	9,472	536	301	39	3.2%
-Indiana	8,368	0	353	0	4.2%
+Washington	10,726	1	543	19	5.1%
+Maryland	9,472	536	302	40	3.2%
+Indiana	8,403	35	353	0	4.2%
 Colorado 	7,696	0	308	0	4%
 Ohio	6,975	0	274	0	3.9%
-Virginia	5,995	248	149	0	2.5%
+Virginia	6,179	432	149	0	2.4%
 Tennessee	5,610	0	109	0	1.9%
 North Carolina	5,007	0	112	1	2.2%
+US Military	4,769	241	16	1	0.3%
 Missouri	4,531	0	137	0	3%
-US Military	4,528	0	15	0	0.3%
-Alabama	3,809	6	103	0	2.7%
-Arizona	3,705	0	122	0	3.3%
+Alabama	3,811	9	105	2	2.8%
+Arizona	3,809	105	131	9	3.4%
 South Carolina	3,439	0	87	0	2.5%
 Wisconsin	3,428	0	155	0	4.5%
+Mississippi	3,087	147	111	13	3.6%
 Nevada	3,031	2	121	0	4%
 Rhode Island	2,976	0	73	0	2.5%
-Mississippi	2,942	0	98	0	3.3%
 Utah	2,363	0	18	0	0.8%
-Oklahoma	2,069	0	99	0	4.8%
+Oklahoma	2,184	120	108	9	4.9%
 Washington, D.C.	2,058	103	67	15	3.3%
 Kentucky	2,048	0	106	0	5.2%
 Delaware	1,761	0	41	0	2.3%
 Iowa	1,710	0	43	0	2.5%
-Minnesota	1,650	0	70	0	4.2%
+Minnesota	1,695	45	79	9	4.7%
 Oregon	1,584	0	53	0	3.3%
 Arkansas	1,480	5	30	0	2%
 Idaho	1,464	0	27	0	1.8%
@@ -46,11 +46,11 @@ Nebraska	871	0	18	0	2.1%
 South Dakota	868	0	6	0	0.7%
 Navajo Nation	813	0	28	0	3.4%
 Vermont	752	4	28	0	3.7%
-Maine	698	0	19	0	2.7%
+Maine	735	38	20	1	2.7%
 West Virginia	633	0	9	0	1.4%
 Hawaii	504	0	9	0	1.8%
-Montana	394	0	7	0	1.8%
-North Dakota	331	0	8	0	2.4%
+Montana	399	5	7	0	1.8%
+North Dakota	341	10	9	1	2.6%
 Alaska	277	0	8	0	2.9%
 Wyoming	275	0	1	0	0.4%
 Guam	133	0	5	0	3.8%
