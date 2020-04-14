@@ -3,7 +3,7 @@ New York	196,146	5,858	10,058	673	5.1%
 New Jersey	64,584	2,734	2,443	93	3.8%
 Massachusetts	26,867	1,392	844	88	3.1%
 Michigan	25,635	1,009	1,602	115	6.2%
-California	24,382	1,081	732	50	3%
+California	24,372	1,071	732	50	3%
 Pennsylvania	24,336	1,339	592	35	2.4%
 Illinois	22,025	1,173	798	78	3.6%
 Florida	21,019	1,126	499	38	2.4%
@@ -18,13 +18,13 @@ Colorado 	7,696	389	308	18	4%
 Ohio	6,975	376	274	21	3.9%
 Virginia	5,747	473	149	8	2.6%
 Tennessee	5,610	264	109	8	1.9%
-North Carolina	4,887	286	99	9	2%
-Missouri	4,528	256	137	19	3%
+North Carolina	5,007	406	111	22	2.2%
+Missouri	4,531	259	137	19	3%
 US Military	4,528	1,019	15	2	0.3%
 Alabama	3,803	223	103	10	2.7%
 Arizona	3,705	163	122	7	3.3%
 South Carolina	3,439	126	87	5	2.5%
-Wisconsin	3,428	87	154	11	4.5%
+Wisconsin	3,428	87	155	12	4.5%
 Nevada	3,029	193	121	8	4%
 Rhode Island	2,976	311	73	10	2.5%
 Mississippi	2,942	161	98	2	3.3%
