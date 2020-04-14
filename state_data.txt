@@ -3,7 +3,7 @@ New York	196,146	0	10,058	0	5.1%
 New Jersey	64,584	0	2,443	0	3.8%
 Massachusetts	26,867	0	844	0	3.1%
 Michigan	25,635	0	1,602	0	6.2%
-California	24,372	0	732	0	3%
+California	24,392	20	732	0	3%
 Pennsylvania	24,336	0	592	0	2.4%
 Illinois	22,025	0	798	0	3.6%
 Florida	21,019	0	499	0	2.4%
@@ -16,9 +16,9 @@ Maryland	8,936	0	262	0	2.9%
 Indiana	8,368	0	353	0	4.2%
 Colorado 	7,696	0	308	0	4%
 Ohio	6,975	0	274	0	3.9%
-Virginia	5,747	0	149	0	2.6%
+Virginia	5,828	81	149	0	2.6%
 Tennessee	5,610	0	109	0	1.9%
-North Carolina	5,007	0	111	0	2.2%
+North Carolina	5,007	0	112	1	2.2%
 Missouri	4,531	0	137	0	3%
 US Military	4,528	0	15	0	0.3%
 Alabama	3,803	0	103	0	2.7%
@@ -30,22 +30,22 @@ Rhode Island	2,976	0	73	0	2.5%
 Mississippi	2,942	0	98	0	3.3%
 Utah	2,363	0	18	0	0.8%
 Oklahoma	2,069	0	99	0	4.8%
+Washington, D.C.	2,058	103	67	15	3.3%
 Kentucky	2,048	0	106	0	5.2%
-Washington, D.C.	1,955	0	52	0	2.7%
 Delaware	1,761	0	41	0	2.3%
 Iowa	1,710	0	43	0	2.5%
 Minnesota	1,650	0	70	0	4.2%
 Oregon	1,584	0	53	0	3.3%
-Arkansas	1,475	0	30	0	2%
+Arkansas	1,480	5	30	0	2%
 Idaho	1,464	0	27	0	1.8%
 Kansas	1,391	0	62	0	4.5%
 New Mexico	1,345	0	31	0	2.3%
 New Hampshire	1,020	0	23	0	2.3%
 Puerto Rico	923	20	45	0	4.9%
-Nebraska	871	18	18	0	2.1%
+Nebraska	871	0	18	0	2.1%
 South Dakota	868	0	6	0	0.7%
 Navajo Nation	813	0	28	0	3.4%
-Vermont	748	0	28	0	3.7%
+Vermont	752	4	28	0	3.7%
 Maine	698	0	19	0	2.7%
 West Virginia	633	0	9	0	1.4%
 Hawaii	504	0	9	0	1.8%
