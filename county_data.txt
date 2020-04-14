@@ -1795,7 +1795,7 @@ Elko	Nevada	11	0	1	0	9.1%
 Douglas	Nevada	10	0	0	0	0%
 Lyon	Nevada	10	0	0	0	0%
 Nye	Nevada	10	0	0	0	0%
-White Pine	Nevada	1	0	0	0	0%
+White Pine	Nevada	3	2	0	0	0%
 Lincoln	Nevada	1	0	0	0	0%
 Unassigned	Nevada	0	0	6	0	0%
 Providence	Rhode Island	1,278	0	3	0	0.2%
@@ -2338,13 +2338,13 @@ Clay	Arkansas	1	0	0	0	0%
 Madison	Arkansas	1	0	0	0	0%
 Marion	Arkansas	1	0	0	0	0%
 Jackson	Arkansas	1	0	0	0	0%
-Ada	Idaho	538	0	6	0	1.1%
+Ada	Idaho	538	0	6	-3	1.1%
 Blaine	Idaho	458	0	5	0	1.1%
 Canyon	Idaho	161	0	5	0	3.1%
-Twin Falls	Idaho	79	0	2	0	2.5%
+Twin Falls	Idaho	79	0	2	-2	2.5%
 Kootenai	Idaho	45	0	0	0	0%
 Jerome	Idaho	30	0	2	0	6.7%
-Nez Perce	Idaho	20	0	5	0	25%
+Nez Perce	Idaho	20	0	5	-1	25%
 Elmore	Idaho	16	0	0	0	0%
 Lincoln	Idaho	15	0	0	0	0%
 Bonneville	Idaho	14	0	0	0	0%
@@ -2478,7 +2478,54 @@ Cheshire	New Hampshire	20	0	0	0	0%
 Sullivan	New Hampshire	6	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	1	0	20	0	0%
-Puerto Rico	Puerto Rico	903	0	45	0	5%
+Puerto Rico	Puerto Rico	923	20	45	0	4.9%
+Douglas	Nebraska	247	0	5	0	2%
+Hall	Nebraska	199	0	4	0	2%
+Adams	Nebraska	58	0	0	0	0%
+Lancaster	Nebraska	57	0	1	0	1.8%
+Sarpy	Nebraska	45	0	0	0	0%
+Buffalo	Nebraska	37	0	1	0	2.7%
+Gage	Nebraska	26	0	1	0	3.8%
+Washington	Nebraska	22	0	0	0	0%
+Custer	Nebraska	19	0	0	0	0%
+Unassigned	Nebraska	18	18	3	0	16.7%
+Dawson	Nebraska	17	0	0	0	0%
+Lincoln	Nebraska	17	0	1	0	5.9%
+Scotts Bluff	Nebraska	14	0	0	0	0%
+Hamilton	Nebraska	13	0	0	0	0%
+Dodge	Nebraska	10	0	0	0	0%
+Kimball	Nebraska	9	0	0	0	0%
+Madison	Nebraska	6	0	2	0	33.3%
+Platte	Nebraska	6	0	0	0	0%
+Saunders	Nebraska	6	0	0	0	0%
+York	Nebraska	4	0	0	0	0%
+Colfax	Nebraska	4	0	0	0	0%
+Cass	Nebraska	3	0	0	0	0%
+Kearney	Nebraska	3	0	0	0	0%
+Franklin	Nebraska	3	0	0	0	0%
+Cuming	Nebraska	2	0	0	0	0%
+Knox	Nebraska	2	0	0	0	0%
+Merrick	Nebraska	2	0	0	0	0%
+Cheyenne	Nebraska	2	0	0	0	0%
+Polk	Nebraska	2	0	0	0	0%
+Clay	Nebraska	2	0	0	0	0%
+Dakota	Nebraska	2	0	0	0	0%
+Antelope	Nebraska	1	0	0	0	0%
+Gosper	Nebraska	1	0	0	0	0%
+Nemaha	Nebraska	1	0	0	0	0%
+Otoe	Nebraska	1	0	0	0	0%
+Cherry	Nebraska	1	0	0	0	0%
+Seward	Nebraska	1	0	0	0	0%
+Phelps	Nebraska	1	0	0	0	0%
+Stanton	Nebraska	1	0	0	0	0%
+Johnson	Nebraska	1	0	0	0	0%
+Burt	Nebraska	1	0	0	0	0%
+Webster	Nebraska	1	0	0	0	0%
+Wayne	Nebraska	1	0	0	0	0%
+Box	Nebraska	1	0	0	0	0%
+Pierce	Nebraska	1	0	0	0	0%
+Logan	Nebraska	0	0	0	0	0%
+Cedar	Nebraska	0	0	0	0	0%
 Minnehaha	South Dakota	654	0	2	0	0.3%
 Lincoln	South Dakota	50	0	0	0	0%
 Yankton	South Dakota	22	0	0	0	0%
@@ -2522,53 +2569,6 @@ Hyde	South Dakota	1	0	0	0	0%
 Butte	South Dakota	0	0	0	0	0%
 Kingsbury	South Dakota	0	0	0	0	0%
 Unassigned	South Dakota	0	0	0	0	0%
-Douglas	Nebraska	247	0	5	0	2%
-Hall	Nebraska	199	0	4	0	2%
-Adams	Nebraska	58	0	0	0	0%
-Lancaster	Nebraska	57	0	1	0	1.8%
-Sarpy	Nebraska	45	0	0	0	0%
-Buffalo	Nebraska	37	0	1	0	2.7%
-Gage	Nebraska	26	0	1	0	3.8%
-Washington	Nebraska	22	0	0	0	0%
-Custer	Nebraska	19	0	0	0	0%
-Dawson	Nebraska	17	0	0	0	0%
-Lincoln	Nebraska	17	0	1	0	5.9%
-Scotts Bluff	Nebraska	14	0	0	0	0%
-Hamilton	Nebraska	13	0	0	0	0%
-Dodge	Nebraska	10	0	0	0	0%
-Kimball	Nebraska	9	0	0	0	0%
-Madison	Nebraska	6	0	2	0	33.3%
-Platte	Nebraska	6	0	0	0	0%
-Saunders	Nebraska	6	0	0	0	0%
-York	Nebraska	4	0	0	0	0%
-Colfax	Nebraska	4	0	0	0	0%
-Cass	Nebraska	3	0	0	0	0%
-Kearney	Nebraska	3	0	0	0	0%
-Franklin	Nebraska	3	0	0	0	0%
-Cuming	Nebraska	2	0	0	0	0%
-Knox	Nebraska	2	0	0	0	0%
-Merrick	Nebraska	2	0	0	0	0%
-Cheyenne	Nebraska	2	0	0	0	0%
-Polk	Nebraska	2	0	0	0	0%
-Clay	Nebraska	2	0	0	0	0%
-Dakota	Nebraska	2	0	0	0	0%
-Antelope	Nebraska	1	0	0	0	0%
-Gosper	Nebraska	1	0	0	0	0%
-Nemaha	Nebraska	1	0	0	0	0%
-Otoe	Nebraska	1	0	0	0	0%
-Cherry	Nebraska	1	0	0	0	0%
-Seward	Nebraska	1	0	0	0	0%
-Phelps	Nebraska	1	0	0	0	0%
-Stanton	Nebraska	1	0	0	0	0%
-Johnson	Nebraska	1	0	0	0	0%
-Burt	Nebraska	1	0	0	0	0%
-Webster	Nebraska	1	0	0	0	0%
-Wayne	Nebraska	1	0	0	0	0%
-Box	Nebraska	1	0	0	0	0%
-Pierce	Nebraska	1	0	0	0	0%
-Logan	Nebraska	0	0	0	0	0%
-Cedar	Nebraska	0	0	0	0	0%
-Unassigned	Nebraska	0	0	3	0	0%
 Navajo, AZ	Navajo Nation	251	0	0	0	0%
 Coconino, AZ	Navajo Nation	159	0	0	0	0%
 McKinley, NM	Navajo Nation	109	0	0	0	0%

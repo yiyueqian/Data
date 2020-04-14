@@ -25,7 +25,7 @@ Alabama	3,803	0	103	0	2.7%
 Arizona	3,705	0	122	0	3.3%
 South Carolina	3,439	0	87	0	2.5%
 Wisconsin	3,428	0	155	0	4.5%
-Nevada	3,029	0	121	0	4%
+Nevada	3,031	2	121	0	4%
 Rhode Island	2,976	0	73	0	2.5%
 Mississippi	2,942	0	98	0	3.3%
 Utah	2,363	0	18	0	0.8%
@@ -41,9 +41,9 @@ Idaho	1,464	0	27	0	1.8%
 Kansas	1,391	0	62	0	4.5%
 New Mexico	1,345	0	31	0	2.3%
 New Hampshire	1,020	0	23	0	2.3%
-Puerto Rico	903	0	45	0	5%
+Puerto Rico	923	20	45	0	4.9%
+Nebraska	871	18	18	0	2.1%
 South Dakota	868	0	6	0	0.7%
-Nebraska	853	0	18	0	2.1%
 Navajo Nation	813	0	28	0	3.4%
 Vermont	748	0	28	0	3.7%
 Maine	698	0	19	0	2.7%
