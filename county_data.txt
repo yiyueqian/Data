@@ -245,9 +245,9 @@ Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Fulton	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	9,433	236	322	22	3.4%
+Los Angeles	California	9,433	236	324	24	3.4%
 San Diego	California	1,804	0	45	0	2.5%
-Riverside	California	1,751	132	41	0	2.3%
+Riverside	California	1,751	132	50	9	2.9%
 Santa Clara	California	1,666	45	60	6	3.6%
 Orange	California	1,283	6	19	0	1.5%
 San Francisco	California	957	85	15	1	1.6%
@@ -259,14 +259,14 @@ Contra Costa	California	552	13	11	0	2%
 Kern	California	436	40	3	0	0.7%
 Ventura	California	314	0	10	0	3.2%
 San Joaquin	California	293	20	16	0	5.5%
-Santa Barbara	California	267	0	2	0	0.7%
+Santa Barbara	California	284	17	2	0	0.7%
 Tulare	California	264	37	13	2	4.9%
 Fresno	California	201	0	5	0	2.5%
 Marin	California	164	0	10	0	6.1%
 Sonoma	California	147	0	2	0	1.4%
+Solano	California	135	14	2	0	1.5%
 Stanislaus	California	131	0	2	0	1.5%
 Placer	California	127	3	5	1	3.9%
-Solano	California	121	0	2	0	1.7%
 San Luis Obispo	California	117	3	1	0	0.9%
 Yolo	California	93	0	3	0	3.2%
 Santa Cruz	California	91	3	1	0	1.1%
@@ -274,26 +274,26 @@ Imperial	California	87	0	3	0	3.4%
 Monterey	California	87	0	3	0	3.4%
 Merced	California	65	0	3	0	4.6%
 Humboldt	California	50	0	0	0	0%
-Sutter	California	37	0	3	0	8.1%
-San Benito	California	35	0	2	0	5.7%
+San Benito	California	38	3	2	0	5.3%
+Sutter	California	37	15	3	0	8.1%
+El Dorado	California	34	2	0	0	0%
 Napa	California	34	0	2	0	5.9%
 Nevada	California	34	0	1	0	2.9%
 Madera	California	33	0	2	0	6.1%
-El Dorado	California	32	0	0	0	0%
 Shasta	California	24	0	3	0	12.5%
 Mono	California	23	0	1	0	4.3%
 Yuba	California	15	0	1	0	6.7%
 Butte	California	14	0	0	0	0%
 Inyo	California	12	0	0	0	0%
-Kings	California	10	0	1	0	10%
+Kings	California	12	2	1	0	8.3%
 Calaveras	California	8	0	0	0	0%
 Amador	California	7	0	0	0	0%
 Siskiyou	California	5	0	0	0	0%
+Glenn	California	4	1	0	0	0%
 Mendocino	California	4	0	0	0	0%
 Plumas	California	4	0	0	0	0%
 Lake	California	4	0	0	0	0%
 Colusa	California	3	0	0	0	0%
-Glenn	California	3	0	0	0	0%
 Alpine	California	2	0	0	0	0%
 Del Norte	California	2	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
@@ -524,27 +524,27 @@ Harris--Houston	Texas	2,239	115	18	2	0.8%
 Dallas	Texas	1,788	65	32	1	1.8%
 Harris--Non Houston	Texas	1,505	0	28	0	1.9%
 Tarrant	Texas	876	70	25	0	2.9%
-Travis	Texas	774	0	9	0	1.2%
+Travis	Texas	856	82	11	2	1.3%
 Bexar	Texas	772	0	30	0	3.9%
 Fort Bend	Texas	543	7	11	0	2%
 Denton	Texas	507	25	13	0	2.6%
 Collin	Texas	472	19	10	2	2.1%
-Galveston	Texas	355	0	8	0	2.3%
-Lubbock	Texas	307	0	16	0	5.2%
-El Paso	Texas	292	0	2	0	0.7%
+Galveston	Texas	377	22	9	1	2.4%
+Brazoria	Texas	350	113	2	0	0.6%
+Lubbock	Texas	317	10	21	5	6.6%
+El Paso	Texas	300	8	2	0	0.7%
 Montgomery	Texas	266	15	6	1	2.3%
-Brazoria	Texas	237	0	2	0	0.8%
-Webb	Texas	196	0	8	0	4.1%
+Webb	Texas	206	10	8	0	3.9%
 Cameron	Texas	195	0	3	0	1.5%
 Hidalgo	Texas	190	0	1	0	0.5%
 Brazos	Texas	143	3	12	1	8.4%
 Jefferson	Texas	127	27	6	1	4.7%
-Williamson	Texas	117	0	4	0	3.4%
+Williamson	Texas	119	2	4	0	3.4%
 Bell	Texas	101	0	3	0	3%
-Smith	Texas	96	0	2	0	2.1%
+Smith	Texas	101	5	2	0	2%
 Hays	Texas	82	0	0	0	0%
 Victoria	Texas	81	4	0	0	0%
-Nueces	Texas	76	0	0	0	0%
+Nueces	Texas	79	3	0	0	0%
 McLennan	Texas	71	2	2	0	2.8%
 Potter	Texas	70	0	2	0	2.9%
 Taylor	Texas	68	9	1	0	1.5%
@@ -552,9 +552,9 @@ Ellis	Texas	66	0	2	0	3%
 Randall	Texas	64	0	2	0	3.1%
 Hardin	Texas	61	0	2	0	3.3%
 Wichita	Texas	56	0	0	0	0%
+Nacogdoches	Texas	50	3	4	1	8%
 Guadalupe	Texas	49	0	0	0	0%
 Matagorda	Texas	49	0	3	0	6.1%
-Nacogdoches	Texas	48	1	3	0	6.3%
 Orange	Texas	44	0	0	0	0%
 Ector	Texas	43	0	2	0	4.7%
 Gregg	Texas	40	0	0	0	0%
@@ -565,6 +565,7 @@ Shelby	Texas	36	2	0	0	0%
 Coryell	Texas	34	0	0	0	0%
 Bowie	Texas	32	0	1	0	3.1%
 Midland	Texas	32	0	2	0	6.3%
+Harrison	Texas	31	15	2	1	6.5%
 Chambers	Texas	29	0	0	0	0%
 Johnson	Texas	28	0	1	0	3.6%
 Kaufman	Texas	28	2	0	0	0%
@@ -575,10 +576,10 @@ Donley	Texas	22	0	0	0	0%
 Moore	Texas	22	0	0	0	0%
 Walker	Texas	21	4	0	0	0%
 Liberty	Texas	19	0	0	0	0%
+Angelina	Texas	18	2	0	0	0%
 Hunt	Texas	18	0	0	0	0%
+Panola	Texas	18	5	1	0	5.6%
 Grayson	Texas	17	0	0	0	0%
-Angelina	Texas	16	0	0	0	0%
-Harrison	Texas	16	0	1	0	6.3%
 Rusk	Texas	16	0	0	0	0%
 Waller	Texas	16	1	0	0	0%
 Calhoun	Texas	15	0	0	0	0%
@@ -587,7 +588,6 @@ Parker	Texas	14	1	0	0	0%
 Erath	Texas	13	0	1	0	7.7%
 Hood	Texas	13	0	1	0	7.7%
 Medina	Texas	13	0	1	0	7.7%
-Panola	Texas	13	0	1	0	7.7%
 Gray	Texas	13	0	0	0	0%
 Andrews	Texas	12	0	0	0	0%
 Navarro	Texas	12	0	2	0	16.7%
@@ -595,7 +595,7 @@ Val Verde	Texas	12	0	0	0	0%
 Austin	Texas	11	1	0	0	0%
 Brown	Texas	11	1	0	0	0%
 Castro	Texas	11	0	1	0	9.1%
-Hale	Texas	11	0	5	0	45.5%
+Hale	Texas	11	0	2	0	18.2%
 Kendall	Texas	11	0	0	0	0%
 Limestone	Texas	11	0	1	0	9.1%
 Wilson	Texas	11	0	0	0	0%
@@ -608,6 +608,7 @@ DeWitt	Texas	9	0	0	0	0%
 Maverick	Texas	9	0	0	0	0%
 Polk	Texas	9	0	0	0	0%
 San Augustine	Texas	9	0	1	0	11.1%
+Cherokee	Texas	8	2	1	1	12.5%
 Dawson	Texas	8	1	1	0	12.5%
 Deaf Smith	Texas	8	1	0	0	0%
 Hill	Texas	8	0	0	0	0%
@@ -616,23 +617,22 @@ Milam	Texas	8	1	0	0	0%
 Upshur	Texas	8	0	0	0	0%
 Colorado	Texas	7	0	0	0	0%
 Grimes	Texas	7	0	0	0	0%
-Jasper	Texas	7	0	0	0	0%
 San Jacinto	Texas	7	2	0	0	0%
 San Patricio	Texas	7	0	0	0	0%
 Starr	Texas	7	0	0	0	0%
 Palo Pinto	Texas	7	3	1	0	14.3%
+Titus	Texas	7	1	0	0	0%
 Burleson	Texas	6	0	0	0	0%
 Burnet	Texas	6	0	0	0	0%
 Caldwell	Texas	6	0	0	0	0%
-Cherokee	Texas	6	0	0	0	0%
+Jasper	Texas	6	0	1	1	16.7%
 Uvalde	Texas	6	0	0	0	0%
-Titus	Texas	6	0	0	0	0%
+Wood	Texas	6	1	0	0	0%
 Cass	Texas	5	0	0	0	0%
 Fannin	Texas	5	0	0	0	0%
 Lynn	Texas	5	0	0	0	0%
 Willacy	Texas	5	0	1	0	20%
 Wise	Texas	5	0	0	0	0%
-Wood	Texas	5	0	0	0	0%
 Blanco	Texas	4	0	0	0	0%
 Hopkins	Texas	4	0	0	0	0%
 Jackson	Texas	4	0	0	0	0%
@@ -640,6 +640,7 @@ Lavaca	Texas	4	0	0	0	0%
 Swisher	Texas	4	0	0	0	0%
 Tyler	Texas	4	0	0	0	0%
 Goliad	Texas	4	0	0	0	0%
+Trinity	Texas	4	1	0	0	0%
 Anderson	Texas	3	0	0	0	0%
 Camp	Texas	3	0	0	0	0%
 Comanche	Texas	3	0	0	0	0%
@@ -647,10 +648,8 @@ Eastland	Texas	3	0	0	0	0%
 Leon	Texas	3	0	0	0	0%
 Live Oak	Texas	3	0	0	0	0%
 Llano	Texas	3	0	0	0	0%
-Morris	Texas	3	0	0	0	0%
 Oldham	Texas	3	0	1	0	33.3%
 Young	Texas	3	0	0	0	0%
-Trinity	Texas	3	0	0	0	0%
 Hutchinson	Texas	3	1	0	0	0%
 Pecos	Texas	3	0	0	0	0%
 Zapata	Texas	3	0	0	0	0%
@@ -659,7 +658,7 @@ McCulloch	Texas	3	0	0	0	0%
 Aransas	Texas	2	0	0	0	0%
 Clay	Texas	2	0	0	0	0%
 Crane	Texas	2	0	0	0	0%
-Gaines	Texas	2	0	1	0	50%
+Gaines	Texas	2	0	0	0	0%
 Gonzales	Texas	2	0	0	0	0%
 Karnes	Texas	2	0	0	0	0%
 Kerr	Texas	2	0	0	0	0%
@@ -667,6 +666,7 @@ Kleberg	Texas	2	0	0	0	0%
 Lamb	Texas	2	0	0	0	0%
 Martin	Texas	2	0	0	0	0%
 Montague	Texas	2	0	0	0	0%
+Morris	Texas	2	0	0	0	0%
 Newton	Texas	2	0	0	0	0%
 Robertson	Texas	2	0	0	0	0%
 Jim Wells	Texas	2	0	0	0	0%
@@ -874,8 +874,8 @@ Windham	Connecticut	83	17	1	0	1.2%
 King	Washington	4,549	123	296	4	6.5%
 Snohomish	Washington	1,907	40	73	3	3.8%
 Pierce	Washington	969	38	20	0	2.1%
-Unassigned	Washington	619	0	0	0	0%
-Yakima	Washington	538	0	21	0	3.9%
+Unassigned	Washington	618	-1	0	0	0%
+Yakima	Washington	614	76	25	4	4.1%
 Spokane	Washington	276	2	15	1	5.4%
 Whatcom	Washington	264	1	23	0	8.7%
 Benton	Washington	259	0	27	0	10.4%
@@ -884,7 +884,7 @@ Skagit	Washington	193	2	6	0	3.1%
 Island	Washington	159	1	8	1	5%
 Kitsap	Washington	132	0	1	0	0.8%
 Franklin	Washington	122	2	2	0	1.6%
-Grant	Washington	120	0	2	0	1.7%
+Grant	Washington	122	2	2	0	1.6%
 Thurston	Washington	81	0	1	0	1.2%
 Chelan	Washington	55	0	5	0	9.1%
 Adams	Washington	37	0	0	0	0%
@@ -2596,15 +2596,6 @@ Hancock	Maine	5	0	0	0	0%
 Unassigned	Maine	5	2	0	0	0%
 Aroostook	Maine	2	0	0	0	0%
 Washington	Maine	1	0	0	0	0%
-Navajo, AZ	Navajo Nation	252	0	0	0	0%
-Coconino, AZ	Navajo Nation	150	0	0	0	0%
-San Juan, NM	Navajo Nation	97	0	0	0	0%
-McKinley, NM	Navajo Nation	92	0	0	0	0%
-Apache, AZ	Navajo Nation	79	0	0	0	0%
-Cibola, NM	Navajo Nation	11	0	0	0	0%
-San Juan, UT	Navajo Nation	11	0	0	0	0%
-Socorro, NM	Navajo Nation	6	0	0	0	0%
-Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Berkeley	West Virginia	98	6	0	0	0%
 Kanawha	West Virginia	85	0	0	0	0%
 Monongalia	West Virginia	81	0	2	0	2.5%
@@ -2653,6 +2644,15 @@ Summers	West Virginia	1	0	0	0	0%
 Grant	West Virginia	1	0	0	0	0%
 Mingo	West Virginia	1	0	0	0	0%
 Unassigned	West Virginia	0	0	3	1	0%
+Navajo, AZ	Navajo Nation	251	0	0	0	0%
+Coconino, AZ	Navajo Nation	150	0	0	0	0%
+San Juan, NM	Navajo Nation	97	0	0	0	0%
+McKinley, NM	Navajo Nation	92	0	0	0	0%
+Cibola, NM	Navajo Nation	11	0	0	0	0%
+San Juan, UT	Navajo Nation	11	0	0	0	0%
+Apache, AZ	Navajo Nation	10	-69	0	0	0%
+Socorro, NM	Navajo Nation	6	0	0	0	0%
+Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Honolulu	Hawaii	352	2	6	0	1.7%
 Maui	Hawaii	86	2	3	0	3.5%
 Hawaii	Hawaii	40	1	0	0	0%
