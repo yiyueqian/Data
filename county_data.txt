@@ -245,7 +245,7 @@ Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Fulton	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	9,433	236	324	24	3.4%
+Los Angeles	California	9,480	283	326	26	3.4%
 San Diego	California	1,804	0	45	0	2.5%
 Riverside	California	1,751	132	50	9	2.9%
 Santa Clara	California	1,666	45	60	6	3.6%
@@ -261,8 +261,8 @@ Ventura	California	314	0	10	0	3.2%
 San Joaquin	California	293	20	16	0	5.5%
 Santa Barbara	California	284	17	2	0	0.7%
 Tulare	California	264	37	13	2	4.9%
-Fresno	California	201	0	5	0	2.5%
-Marin	California	164	0	10	0	6.1%
+Fresno	California	222	21	5	0	2.3%
+Marin	California	170	6	10	0	5.9%
 Sonoma	California	147	0	2	0	1.4%
 Solano	California	135	14	2	0	1.5%
 Stanislaus	California	131	0	2	0	1.5%
@@ -298,7 +298,7 @@ Alpine	California	2	0	0	0	0%
 Del Norte	California	2	0	0	0	0%
 Tuolumne	California	1	0	0	0	0%
 Tehama	California	1	0	0	0	0%
-Unassigned	California	0	-8	0	0	0%
+Unassigned	California	0	0	0	0	0%
 Cook	Illinois	15,474	889	543	58	3.5%
 Lake	Illinois	1,516	71	45	3	3%
 Will	Illinois	1,283	55	63	3	4.9%
@@ -535,14 +535,14 @@ Lubbock	Texas	317	10	21	5	6.6%
 El Paso	Texas	300	8	2	0	0.7%
 Montgomery	Texas	266	15	6	1	2.3%
 Webb	Texas	206	10	8	0	3.9%
+Hidalgo	Texas	198	8	1	0	0.5%
 Cameron	Texas	195	0	3	0	1.5%
-Hidalgo	Texas	190	0	1	0	0.5%
 Brazos	Texas	143	3	12	1	8.4%
 Jefferson	Texas	127	27	6	1	4.7%
 Williamson	Texas	119	2	4	0	3.4%
 Bell	Texas	101	0	3	0	3%
 Smith	Texas	101	5	2	0	2%
-Hays	Texas	82	0	0	0	0%
+Hays	Texas	93	11	1	1	1.1%
 Victoria	Texas	81	4	0	0	0%
 Nueces	Texas	79	3	0	0	0%
 McLennan	Texas	71	2	2	0	2.8%
@@ -555,9 +555,9 @@ Wichita	Texas	56	0	0	0	0%
 Nacogdoches	Texas	50	3	4	1	8%
 Guadalupe	Texas	49	0	0	0	0%
 Matagorda	Texas	49	0	3	0	6.1%
+Ector	Texas	45	2	2	0	4.4%
+Gregg	Texas	45	5	0	0	0%
 Orange	Texas	44	0	0	0	0%
-Ector	Texas	43	0	2	0	4.7%
-Gregg	Texas	40	0	0	0	0%
 Tom Green	Texas	39	4	1	0	2.6%
 Comal	Texas	38	1	6	2	15.8%
 Washington	Texas	37	0	2	0	5.4%
@@ -1788,7 +1788,7 @@ Green Lake	Wisconsin	1	1	0	0	0%
 Unassigned	Wisconsin	0	0	0	0	0%
 Pepin	Wisconsin	0	0	0	0	0%
 Clark	Nevada	2,444	120	101	1	4.1%
-Washoe	Nevada	461	46	12	1	2.6%
+Washoe	Nevada	500	85	12	1	2.4%
 Carson City	Nevada	22	6	0	0	0%
 Humboldt	Nevada	20	2	0	0	0%
 Elko	Nevada	11	0	1	0	9.1%
@@ -2263,6 +2263,78 @@ Crook	Oregon	1	0	0	0	0%
 Sherman	Oregon	1	0	0	0	0%
 Coos	Oregon	1	1	0	0	0%
 Unassigned	Oregon	0	-1	0	0	0%
+Pulaski	Arkansas	284	28	10	1	3.5%
+Crittenden	Arkansas	115	22	2	0	1.7%
+Jefferson	Arkansas	103	8	4	1	3.9%
+Garland	Arkansas	102	21	0	0	0%
+Cleburne	Arkansas	70	0	4	0	5.7%
+Benton	Arkansas	59	11	0	0	0%
+Faulkner	Arkansas	58	1	2	1	3.4%
+Lincoln	Arkansas	56	45	0	0	0%
+St. Francis	Arkansas	45	13	0	0	0%
+Washington	Arkansas	43	6	0	0	0%
+Unassigned	Arkansas	42	17	0	0	0%
+Craighead	Arkansas	36	5	0	0	0%
+Saline	Arkansas	32	0	1	0	3.1%
+Pope	Arkansas	31	1	0	0	0%
+Lonoke	Arkansas	29	0	0	0	0%
+White	Arkansas	28	0	0	0	0%
+Miller	Arkansas	27	5	0	0	0%
+Clark	Arkansas	26	0	0	0	0%
+Van Buren	Arkansas	26	0	2	0	7.7%
+Johnson	Arkansas	19	6	0	0	0%
+Union	Arkansas	17	0	0	0	0%
+Ashley	Arkansas	11	1	0	0	0%
+Lawrence	Arkansas	11	0	1	0	9.1%
+Sebastian	Arkansas	11	1	0	0	0%
+Grant	Arkansas	10	1	0	0	0%
+Howard	Arkansas	9	1	0	0	0%
+Cleveland	Arkansas	8	0	0	0	0%
+Hot Spring	Arkansas	8	0	0	0	0%
+Randolph	Arkansas	8	0	0	0	0%
+Sevier	Arkansas	8	0	0	0	0%
+Bradley	Arkansas	7	0	0	0	0%
+Cross	Arkansas	7	1	0	0	0%
+Poinsett	Arkansas	7	0	0	0	0%
+Stone	Arkansas	7	0	0	0	0%
+Mississippi	Arkansas	7	0	0	0	0%
+Chicot	Arkansas	6	1	0	0	0%
+Desha	Arkansas	6	0	0	0	0%
+Drew	Arkansas	6	0	1	0	16.7%
+Greene	Arkansas	6	0	0	0	0%
+Independence	Arkansas	6	1	0	0	0%
+Polk	Arkansas	6	0	0	0	0%
+Searcy	Arkansas	6	0	0	0	0%
+Ouachita	Arkansas	5	0	0	0	0%
+Baxter	Arkansas	4	0	0	0	0%
+Conway	Arkansas	4	0	1	0	25%
+Crawford	Arkansas	4	1	0	0	0%
+Hempstead	Arkansas	4	0	1	0	25%
+Phillips	Arkansas	4	1	1	0	25%
+Boone	Arkansas	3	0	0	0	0%
+Columbia	Arkansas	3	0	0	0	0%
+Lafayette	Arkansas	3	1	0	0	0%
+Arkansas	Arkansas	2	0	0	0	0%
+Carroll	Arkansas	2	0	0	0	0%
+Lee	Arkansas	2	0	0	0	0%
+Perry	Arkansas	2	0	0	0	0%
+Pike	Arkansas	2	0	0	0	0%
+Monroe	Arkansas	2	0	0	0	0%
+Prairie	Arkansas	2	0	0	0	0%
+Sharp	Arkansas	2	0	0	0	0%
+Logan	Arkansas	2	0	0	0	0%
+Franklin	Arkansas	2	1	0	0	0%
+Izard	Arkansas	2	1	0	0	0%
+Nevada	Arkansas	1	0	0	0	0%
+Newton	Arkansas	1	0	0	0	0%
+Scott	Arkansas	1	0	0	0	0%
+Woodruff	Arkansas	1	0	0	0	0%
+Yell	Arkansas	1	0	0	0	0%
+Dallas	Arkansas	1	0	0	0	0%
+Clay	Arkansas	1	0	0	0	0%
+Madison	Arkansas	1	0	0	0	0%
+Marion	Arkansas	1	0	0	0	0%
+Jackson	Arkansas	1	1	0	0	0%
 Ada	Idaho	517	0	6	0	1.2%
 Blaine	Idaho	454	0	5	0	1.1%
 Canyon	Idaho	155	0	5	0	3.2%
@@ -2298,77 +2370,6 @@ Caribou	Idaho	1	0	0	0	0%
 Boundary	Idaho	1	0	0	0	0%
 Unassigned	Idaho	0	0	0	0	0%
 Lewis	Idaho	0	0	0	0	0%
-Pulaski	Arkansas	273	17	10	1	3.7%
-Crittenden	Arkansas	103	10	2	0	1.9%
-Garland	Arkansas	101	20	0	0	0%
-Jefferson	Arkansas	100	5	4	1	4%
-Cleburne	Arkansas	70	0	4	0	5.7%
-Faulkner	Arkansas	57	0	1	0	1.8%
-Lincoln	Arkansas	56	45	0	0	0%
-Benton	Arkansas	50	2	0	0	0%
-Washington	Arkansas	43	6	0	0	0%
-Craighead	Arkansas	36	5	0	0	0%
-Unassigned	Arkansas	36	11	0	0	0%
-St. Francis	Arkansas	34	2	0	0	0%
-Saline	Arkansas	32	0	1	0	3.1%
-Pope	Arkansas	31	1	0	0	0%
-Lonoke	Arkansas	29	0	0	0	0%
-White	Arkansas	28	0	0	0	0%
-Clark	Arkansas	26	0	0	0	0%
-Van Buren	Arkansas	26	0	2	0	7.7%
-Miller	Arkansas	24	2	0	0	0%
-Union	Arkansas	17	0	0	0	0%
-Johnson	Arkansas	13	0	0	0	0%
-Ashley	Arkansas	11	1	0	0	0%
-Lawrence	Arkansas	11	0	1	0	9.1%
-Sebastian	Arkansas	11	1	0	0	0%
-Grant	Arkansas	10	1	0	0	0%
-Howard	Arkansas	9	1	0	0	0%
-Cleveland	Arkansas	8	0	0	0	0%
-Hot Spring	Arkansas	8	0	0	0	0%
-Randolph	Arkansas	8	0	0	0	0%
-Sevier	Arkansas	8	0	0	0	0%
-Bradley	Arkansas	7	0	0	0	0%
-Cross	Arkansas	7	1	0	0	0%
-Poinsett	Arkansas	7	0	0	0	0%
-Stone	Arkansas	7	0	0	0	0%
-Mississippi	Arkansas	7	0	0	0	0%
-Desha	Arkansas	6	0	0	0	0%
-Drew	Arkansas	6	0	1	0	16.7%
-Greene	Arkansas	6	0	0	0	0%
-Independence	Arkansas	6	1	0	0	0%
-Polk	Arkansas	6	0	0	0	0%
-Searcy	Arkansas	6	0	0	0	0%
-Chicot	Arkansas	5	0	0	0	0%
-Hempstead	Arkansas	5	0	1	0	20%
-Ouachita	Arkansas	5	0	0	0	0%
-Baxter	Arkansas	4	0	0	0	0%
-Conway	Arkansas	4	0	1	0	25%
-Crawford	Arkansas	4	1	0	0	0%
-Phillips	Arkansas	4	1	1	0	25%
-Boone	Arkansas	3	0	0	0	0%
-Columbia	Arkansas	3	0	0	0	0%
-Lafayette	Arkansas	3	1	0	0	0%
-Arkansas	Arkansas	2	0	0	0	0%
-Carroll	Arkansas	2	0	0	0	0%
-Lee	Arkansas	2	0	0	0	0%
-Perry	Arkansas	2	0	0	0	0%
-Pike	Arkansas	2	0	0	0	0%
-Monroe	Arkansas	2	0	0	0	0%
-Prairie	Arkansas	2	0	0	0	0%
-Sharp	Arkansas	2	0	0	0	0%
-Logan	Arkansas	2	0	0	0	0%
-Izard	Arkansas	2	1	0	0	0%
-Nevada	Arkansas	1	0	0	0	0%
-Newton	Arkansas	1	0	0	0	0%
-Scott	Arkansas	1	0	0	0	0%
-Woodruff	Arkansas	1	0	0	0	0%
-Yell	Arkansas	1	0	0	0	0%
-Dallas	Arkansas	1	0	0	0	0%
-Franklin	Arkansas	1	0	0	0	0%
-Clay	Arkansas	1	0	0	0	0%
-Madison	Arkansas	1	0	0	0	0%
-Marion	Arkansas	1	0	0	0	0%
 Wyandotte	Kansas	337	5	28	4	8.3%
 Johnson	Kansas	309	5	14	0	4.5%
 Sedgwick	Kansas	200	4	2	0	1%
@@ -2461,16 +2462,16 @@ Lincoln	New Mexico	1	0	0	0	0%
 Quay	New Mexico	1	0	0	0	0%
 Unassigned	New Mexico	0	0	0	0	0%
 Hidalgo	New Mexico	0	0	0	0	0%
-Rockingham	New Hampshire	345	0	1	0	0.3%
-Hillsborough-Manchester	New Hampshire	153	0	0	0	0%
-Hillsborough-other	New Hampshire	144	0	2	0	1.4%
-Hillsborough-Nashua	New Hampshire	88	0	0	0	0%
-Merrimack	New Hampshire	73	0	0	0	0%
-Strafford	New Hampshire	59	0	0	0	0%
+Rockingham	New Hampshire	360	15	1	0	0.3%
+Hillsborough-Manchester	New Hampshire	156	3	0	0	0%
+Hillsborough-other	New Hampshire	153	9	2	0	1.3%
+Hillsborough-Nashua	New Hampshire	89	1	0	0	0%
+Merrimack	New Hampshire	75	2	0	0	0%
+Strafford	New Hampshire	61	2	0	0	0%
 Grafton	New Hampshire	45	0	0	0	0%
-Carroll	New Hampshire	28	0	0	0	0%
+Carroll	New Hampshire	30	2	0	0	0%
 Belknap	New Hampshire	22	0	0	0	0%
-Cheshire	New Hampshire	19	0	0	0	0%
+Cheshire	New Hampshire	20	1	0	0	0%
 Sullivan	New Hampshire	6	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	1	0	20	0	0%
@@ -2565,6 +2566,17 @@ Pierce	Nebraska	1	0	0	0	0%
 Logan	Nebraska	0	0	0	0	0%
 Cedar	Nebraska	0	0	0	0	0%
 Unassigned	Nebraska	0	-23	2	0	0%
+Navajo, AZ	Navajo Nation	251	0	0	0	0%
+Coconino, AZ	Navajo Nation	159	9	0	0	0%
+McKinley, NM	Navajo Nation	109	17	0	0	0%
+Apache, AZ	Navajo Nation	100	21	0	0	0%
+Unassigned	Navajo Nation	85	85	28	4	32.9%
+San Juan, NM	Navajo Nation	80	0	0	0	0%
+San Juan, UT	Navajo Nation	11	0	0	0	0%
+Cibola, NM	Navajo Nation	9	0	0	0	0%
+Socorro, NM	Navajo Nation	6	0	0	0	0%
+Sandoval, NM	Navajo Nation	3	3	0	0	0%
+Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Chittenden	Vermont	372	8	18	1	4.8%
 Franklin	Vermont	83	2	3	0	3.6%
 Addison	Vermont	56	1	1	0	1.8%
@@ -2644,15 +2656,6 @@ Summers	West Virginia	1	0	0	0	0%
 Grant	West Virginia	1	0	0	0	0%
 Mingo	West Virginia	1	0	0	0	0%
 Unassigned	West Virginia	0	0	3	1	0%
-Navajo, AZ	Navajo Nation	251	0	0	0	0%
-Coconino, AZ	Navajo Nation	150	0	0	0	0%
-San Juan, NM	Navajo Nation	97	0	0	0	0%
-McKinley, NM	Navajo Nation	92	0	0	0	0%
-Cibola, NM	Navajo Nation	11	0	0	0	0%
-San Juan, UT	Navajo Nation	11	0	0	0	0%
-Apache, AZ	Navajo Nation	10	-69	0	0	0%
-Socorro, NM	Navajo Nation	6	0	0	0	0%
-Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Honolulu	Hawaii	352	2	6	0	1.7%
 Maui	Hawaii	86	2	3	0	3.5%
 Hawaii	Hawaii	40	1	0	0	0%
