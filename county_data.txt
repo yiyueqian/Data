@@ -245,7 +245,7 @@ Cameron	Pennsylvania	1	0	0	0	0%
 Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	9,480	0	326	0	3.4%
+Los Angeles	California	10,047	567	360	34	3.6%
 San Diego	California	1,847	0	47	0	2.5%
 Riverside	California	1,751	0	50	0	2.9%
 Santa Clara	California	1,666	0	60	0	3.6%
@@ -453,7 +453,7 @@ Madison	Louisiana	2	0	0	0	0%
 Cameron	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Tensas	Louisiana	1	0	0	0	0%
-Miami-dade	Florida	7,555	96	125	16	1.7%
+Miami-Dade	Florida	7,555	96	125	16	1.7%
 Broward	Florida	3,243	66	78	1	2.4%
 Palm Beach	Florida	1,727	23	93	1	5.4%
 Orange	Florida	1,033	9	13	0	1.3%
@@ -498,7 +498,7 @@ Bradford	Florida	30	0	1	0	3.3%
 Walton	Florida	29	0	0	0	0%
 Columbia	Florida	28	1	0	0	0%
 Hendry	Florida	23	1	0	0	0%
-Desoto	Florida	22	0	3	0	13.6%
+DeSoto	Florida	22	0	3	0	13.6%
 Baker	Florida	17	0	2	0	11.8%
 Madison	Florida	14	0	0	0	0%
 Jefferson	Florida	13	1	1	0	7.7%
@@ -521,9 +521,9 @@ Liberty	Florida	2	0	0	0	0%
 Gulf	Florida	1	0	0	0	0%
 Taylor	Florida	1	0	0	0	0%
 Lafayette	Florida	1	0	0	0	0%
-Harris--Houston	Texas	2,239	0	18	0	0.8%
+Harris--Houston	Texas	2,279	40	23	5	1%
 Dallas	Texas	1,877	89	42	10	2.2%
-Harris--Non Houston	Texas	1,505	0	28	0	1.9%
+Harris--Non Houston	Texas	1,628	123	29	1	1.8%
 Tarrant	Texas	929	53	29	4	3.1%
 Travis	Texas	856	0	11	0	1.3%
 Bexar	Texas	794	0	33	0	4.2%
@@ -709,7 +709,7 @@ Wilbarger	Texas	1	1	0	0	0%
 Monitor	Texas	0	0	0	0	0%
 Fulton	Georgia	1,774	139	57	5	3.2%
 Dougherty	Georgia	1,286	41	78	0	6.1%
-Dekalb	Georgia	1,067	61	15	0	1.4%
+DeKalb	Georgia	1,067	61	15	0	1.4%
 Cobb	Georgia	874	58	39	3	4.5%
 Gwinnett	Georgia	794	28	26	2	3.3%
 Non-Georgia Resident	Georgia	593	97	0	0	0%
@@ -876,7 +876,7 @@ New London	Connecticut	227	5	7	0	3.1%
 Tolland	Connecticut	201	6	18	1	9%
 Windham	Connecticut	87	4	1	0	1.1%
 King	Washington	4,549	0	296	0	6.5%
-Snohomish	Washington	1,907	0	73	0	3.8%
+Snohomish	Washington	1,950	43	77	4	3.9%
 Pierce	Washington	969	0	20	0	2.1%
 Yakima	Washington	614	0	25	0	4.1%
 Unassigned	Washington	484	0	0	0	0%
@@ -1792,7 +1792,7 @@ Barnwell	South Carolina	5	0	0	0	0%
 Dillon	South Carolina	5	0	0	0	0%
 McCormick	South Carolina	3	0	1	0	33.3%
 Hinds	Mississippi	263	4	2	0	0.8%
-Desoto	Mississippi	188	10	2	0	1.1%
+DeSoto	Mississippi	188	10	2	0	1.1%
 Jackson	Mississippi	157	10	5	0	3.2%
 Lauderdale	Mississippi	156	6	11	3	7.1%
 Harrison	Mississippi	121	9	5	0	4.1%
@@ -2272,23 +2272,23 @@ Sherman	Oregon	1	0	0	0	0%
 Coos	Oregon	1	0	0	0	0%
 Jefferson	Oregon	1	1	0	0	0%
 Unassigned	Oregon	0	0	0	0	0%
-Pulaski	Arkansas	288	4	10	0	3.5%
-Crittenden	Arkansas	115	0	2	0	1.7%
-Jefferson	Arkansas	104	1	4	0	3.8%
+Pulaski	Arkansas	297	13	10	0	3.4%
+Crittenden	Arkansas	116	1	2	0	1.7%
+Jefferson	Arkansas	105	2	5	1	4.8%
 Garland	Arkansas	102	0	0	0	0%
 Cleburne	Arkansas	70	0	4	0	5.7%
-Benton	Arkansas	59	0	0	0	0%
+Benton	Arkansas	60	1	0	0	0%
 Faulkner	Arkansas	58	0	2	0	3.4%
 Lincoln	Arkansas	56	0	0	0	0%
 St. Francis	Arkansas	45	0	0	0	0%
+Unassigned	Arkansas	45	3	0	0	0%
 Washington	Arkansas	43	0	0	0	0%
-Unassigned	Arkansas	42	0	0	0	0%
 Craighead	Arkansas	36	0	0	0	0%
-Saline	Arkansas	32	0	1	0	3.1%
+Saline	Arkansas	33	1	1	0	3%
 Pope	Arkansas	31	0	0	0	0%
 Lonoke	Arkansas	29	0	0	0	0%
+Miller	Arkansas	28	1	0	0	0%
 White	Arkansas	28	0	0	0	0%
-Miller	Arkansas	27	0	0	0	0%
 Clark	Arkansas	26	0	0	0	0%
 Van Buren	Arkansas	26	0	2	0	7.7%
 Johnson	Arkansas	19	0	0	0	0%
@@ -2303,11 +2303,11 @@ Hot Spring	Arkansas	8	0	0	0	0%
 Randolph	Arkansas	8	0	0	0	0%
 Sevier	Arkansas	8	0	0	0	0%
 Bradley	Arkansas	7	0	0	0	0%
+Chicot	Arkansas	7	1	0	0	0%
 Cross	Arkansas	7	0	0	0	0%
 Poinsett	Arkansas	7	0	0	0	0%
 Stone	Arkansas	7	0	0	0	0%
 Mississippi	Arkansas	7	0	0	0	0%
-Chicot	Arkansas	6	0	0	0	0%
 Desha	Arkansas	6	0	0	0	0%
 Drew	Arkansas	6	0	1	0	16.7%
 Greene	Arkansas	6	0	0	0	0%
@@ -2325,7 +2325,7 @@ Columbia	Arkansas	3	0	0	0	0%
 Lafayette	Arkansas	3	0	0	0	0%
 Arkansas	Arkansas	2	0	0	0	0%
 Carroll	Arkansas	2	0	0	0	0%
-Lee	Arkansas	2	0	0	0	0%
+Lee	Arkansas	2	0	1	1	50%
 Perry	Arkansas	2	0	0	0	0%
 Pike	Arkansas	2	0	0	0	0%
 Monroe	Arkansas	2	0	0	0	0%
@@ -2384,7 +2384,7 @@ Johnson	Kansas	309	0	14	0	4.5%
 Sedgwick	Kansas	200	0	2	0	1%
 Leavenworth	Kansas	90	0	1	0	1.1%
 Shawnee	Kansas	78	0	4	0	5.1%
-Coffey	Kansas	40	0	1	0	2.5%
+Coffey	Kansas	41	1	1	0	2.4%
 Douglas	Kansas	40	0	0	0	0%
 Lyon	Kansas	30	0	0	0	0%
 Riley	Kansas	21	0	0	0	0%
@@ -2445,7 +2445,7 @@ Kearny	Kansas	1	0	0	0	0%
 Unassigned	Kansas	0	0	5	0	0%
 Bernalillo	New Mexico	455	0	16	0	3.5%
 Sandoval	New Mexico	244	0	3	0	1.2%
-Mckinley	New Mexico	191	0	2	0	1%
+McKinley	New Mexico	191	0	2	0	1%
 San Juan	New Mexico	173	0	7	0	4%
 Santa Fe	New Mexico	76	0	0	0	0%
 Dona Ana	New Mexico	50	0	1	0	2%
