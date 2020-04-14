@@ -1,5 +1,5 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	196,146	0	10,058	0	5.1%
+New York	196,146	0	10,834	776	5.5%
 New Jersey	64,584	0	2,443	0	3.8%
 Massachusetts	26,867	0	844	0	3.1%
 Michigan	25,635	0	1,602	0	6.2%

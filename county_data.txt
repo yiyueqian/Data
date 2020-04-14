@@ -57,7 +57,7 @@ Schuyler	New York	8	0	0	0	0%
 Lewis	New York	6	0	0	0	0%
 Yates	New York	4	0	0	0	0%
 Hamilton	New York	3	0	0	0	0%
-Unassigned	New York	0	0	0	0	0%
+Unassigned	New York	0	0	776	776	0%
 Bergen	New Jersey	10,092	0	482	0	4.8%
 Hudson	New Jersey	7,879	0	236	0	3%
 Essex	New Jersey	7,634	0	433	0	5.7%
