@@ -1,2 +1,2 @@
 time	confirm_us	new_us	recovered_us	death_us	death_new_us
- 2020-04-14 20:56 EDT	614,192	25,766	48,137	26,043	2,336
+ 2020-04-15 01:41 EDT	615,302	0	49,966	26,114	0
