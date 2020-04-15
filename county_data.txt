@@ -1,54 +1,54 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
-New York	New York	110,465	0	7,905	0	7.2%
-Nassau	New York	25,250	0	1,001	0	4%
-Suffolk	New York	23,019	0	608	0	2.6%
-Westchester	New York	20,191	0	596	0	3%
-Rockland	New York	8,335	0	263	0	3.2%
+New York	New York	118,302	7,837	8,455	550	7.1%
+Nassau	New York	26,715	1,465	1,057	56	4%
+Suffolk	New York	23,278	259	653	45	2.8%
+Westchester	New York	20,947	756	640	52	3.1%
+Rockland	New York	8,474	139	298	35	3.5%
 Orange	New York	5,830	0	178	0	3.1%
-Dutchess	New York	1,934	0	17	0	0.9%
-Erie	New York	1,730	0	73	0	4.2%
-Monroe	New York	850	0	56	0	6.6%
+Dutchess	New York	2,048	114	17	0	0.8%
+Erie	New York	1,812	82	101	28	5.6%
+Monroe	New York	884	34	56	0	6.3%
 Ulster	New York	745	0	13	0	1.7%
 Putnam	New York	634	0	7	0	1.1%
+Albany	New York	548	13	16	0	2.9%
 Onondaga	New York	537	0	11	0	2%
-Albany	New York	535	0	16	0	3%
-Sullivan	New York	415	0	9	0	2.2%
-Schenectady	New York	235	0	8	0	3.4%
-Oneida	New York	229	0	4	0	1.7%
-Saratoga	New York	224	0	4	0	1.8%
+Sullivan	New York	424	9	9	0	2.1%
+Oneida	New York	246	17	4	0	1.6%
+Schenectady	New York	237	2	8	0	3.4%
+Saratoga	New York	227	3	4	0	1.8%
 Niagara	New York	216	0	5	0	2.3%
-Steuben	New York	147	0	16	0	10.9%
-Broome	New York	146	0	8	0	5.5%
+Broome	New York	153	7	8	0	5.2%
+Steuben	New York	151	4	16	0	10.6%
 Rensselaer	New York	140	0	6	0	4.3%
-Tompkins	New York	113	0	0	0	0%
+Tompkins	New York	115	2	0	0	0%
 Madison	New York	110	0	3	0	2.7%
-Columbia	New York	93	0	9	0	9.7%
+Columbia	New York	96	3	9	0	9.4%
 St. Lawrence	New York	92	0	0	0	0%
 Warren	New York	77	0	0	0	0%
 Genesee	New York	76	0	1	0	1.3%
-Chenango	New York	68	0	0	0	0%
-Greene	New York	66	0	0	0	0%
-Chemung	New York	64	0	1	0	1.6%
-Ontario	New York	61	0	0	0	0%
+Greene	New York	73	7	0	0	0%
+Chenango	New York	71	3	0	0	0%
+Chemung	New York	69	5	1	0	1.4%
+Ontario	New York	62	1	0	0	0%
 Wayne	New York	48	0	0	0	0%
 Jefferson	New York	47	0	0	0	0%
+Delaware	New York	46	1	3	0	6.5%
 Clinton	New York	45	0	3	0	6.7%
-Delaware	New York	45	0	3	0	6.7%
 Otsego	New York	44	0	2	0	4.5%
 Oswego	New York	42	0	2	0	4.8%
-Washington	New York	40	0	1	0	2.5%
-Herkimer	New York	39	0	3	0	7.7%
+Washington	New York	42	2	1	0	2.4%
+Herkimer	New York	40	1	3	0	7.5%
+Cayuga	New York	36	3	1	0	2.8%
 Livingston	New York	34	0	3	0	8.8%
-Cayuga	New York	33	0	1	0	3%
+Wyoming	New York	34	2	1	0	2.9%
+Orleans	New York	33	2	0	0	0%
 Cattaraugus	New York	32	0	0	0	0%
 Montgomery	New York	32	0	1	0	3.1%
-Wyoming	New York	32	0	1	0	3.1%
-Orleans	New York	31	0	0	0	0%
 Allegany	New York	28	0	1	0	3.6%
-Tioga	New York	24	0	0	0	0%
-Chautauqua	New York	23	0	3	0	13%
-Cortland	New York	22	0	0	0	0%
-Fulton	New York	22	0	0	0	0%
+Tioga	New York	25	1	0	0	0%
+Chautauqua	New York	24	1	3	0	12.5%
+Fulton	New York	24	2	0	0	0%
+Cortland	New York	23	1	0	0	0%
 Schoharie	New York	20	0	0	0	0%
 Seneca	New York	18	0	0	0	0%
 Franklin	New York	13	0	0	0	0%
@@ -57,7 +57,7 @@ Schuyler	New York	8	0	0	0	0%
 Lewis	New York	7	0	0	0	0%
 Yates	New York	6	0	0	0	0%
 Hamilton	New York	3	0	0	0	0%
-Unassigned	New York	0	0	744	744	0%
+Unassigned	New York	0	0	0	0	0%
 Bergen	New Jersey	10,848	422	608	58	5.6%
 Essex	New Jersey	8,579	367	590	55	6.9%
 Hudson	New Jersey	8,511	269	312	35	3.7%
@@ -80,19 +80,19 @@ Atlantic	New Jersey	322	38	13	2	4%
 Cumberland	New Jersey	210	9	3	0	1.4%
 Cape May	New Jersey	178	9	10	0	5.6%
 Salem	New Jersey	84	11	4	0	4.8%
-Middlesex	Massachusetts	6,254	0	188	0	3%
-Suffolk	Massachusetts	5,872	0	118	0	2%
-Essex	Massachusetts	3,594	0	125	0	3.5%
-Norfolk	Massachusetts	2,969	0	123	0	4.1%
-Worcester	Massachusetts	2,246	0	57	0	2.5%
-Plymouth	Massachusetts	2,207	0	77	0	3.5%
-Hampden	Massachusetts	1,798	0	132	0	7.3%
-Bristol	Massachusetts	1,435	0	53	0	3.7%
-Barnstable	Massachusetts	514	0	17	0	3.3%
+Middlesex	Massachusetts	6,681	427	188	0	2.8%
+Suffolk	Massachusetts	6,279	407	118	0	1.9%
+Essex	Massachusetts	3,894	300	125	0	3.2%
+Norfolk	Massachusetts	3,122	153	123	0	3.9%
+Worcester	Massachusetts	2,350	104	57	0	2.4%
+Plymouth	Massachusetts	2,308	101	77	0	3.3%
+Hampden	Massachusetts	1,885	87	132	0	7%
+Bristol	Massachusetts	1,508	73	53	0	3.5%
+Barnstable	Massachusetts	530	16	17	0	3.2%
 Unassigned	Massachusetts	506	0	14	0	2.8%
-Berkshire	Massachusetts	360	0	21	0	5.8%
-Hampshire	Massachusetts	233	0	6	0	2.6%
-Franklin	Massachusetts	155	0	25	0	16.1%
+Berkshire	Massachusetts	370	10	21	0	5.7%
+Hampshire	Massachusetts	239	6	6	0	2.5%
+Franklin	Massachusetts	160	5	25	0	15.6%
 Dukes and Nantucket	Massachusetts	20	0	1	0	5%
 Wayne--Detroit	Michigan	7,136	132	475	48	6.7%
 Oakland	Michigan	5,576	212	392	28	7%
@@ -250,7 +250,7 @@ Los Angeles	California	10,075	0	366	0	3.6%
 Riverside	California	1,961	0	50	0	2.5%
 San Diego	California	1,930	0	53	0	2.7%
 Santa Clara	California	1,666	0	60	0	3.6%
-Orange	California	1,299	0	19	0	1.5%
+Orange	California	1,376	77	22	3	1.6%
 San Francisco	California	1,013	26	17	2	1.7%
 San Bernardino	California	977	0	31	0	3.2%
 Alameda	California	962	74	36	12	3.7%
@@ -975,14 +975,14 @@ Vigo	Indiana	43	1	3	0	7%
 LaPorte	Indiana	42	6	4	1	9.5%
 Putnam	Indiana	42	4	3	0	7.1%
 Grant	Indiana	41	1	2	0	4.9%
-Warrick	Indiana	41	2	2	0	4.9%
+Warrick	Indiana	41	2	3	1	7.3%
 Cass	Indiana	33	5	1	0	3%
 Newton	Indiana	29	0	2	1	6.9%
 Greene	Indiana	28	3	2	1	7.1%
 Washington	Indiana	27	1	0	0	0%
 Montgomery	Indiana	25	2	0	0	0%
 Noble	Indiana	25	8	1	0	4%
-Henry	Indiana	23	1	0	0	0%
+Henry	Indiana	23	1	1	1	4.3%
 Daviess	Indiana	21	9	1	0	4.8%
 Fayette	Indiana	20	0	3	0	15%
 Wayne	Indiana	20	1	1	0	5%
@@ -1013,11 +1013,11 @@ Wabash	Indiana	7	0	0	0	0%
 Parke	Indiana	7	0	0	0	0%
 Adams	Indiana	6	0	1	0	16.7%
 Carroll	Indiana	6	0	1	0	16.7%
-DeKalb	Indiana	6	0	0	0	0%
+DeKalb	Indiana	6	0	1	1	16.7%
 Huntington	Indiana	6	0	1	0	16.7%
 Posey	Indiana	6	1	0	0	0%
 Sullivan	Indiana	6	0	0	0	0%
-Blackford	Indiana	6	0	0	0	0%
+Blackford	Indiana	6	0	1	1	16.7%
 Union	Indiana	6	0	0	0	0%
 White	Indiana	5	0	0	0	0%
 Martin	Indiana	5	0	0	0	0%
@@ -2369,7 +2369,7 @@ Saline	Kansas	13	0	2	0	15.4%
 Franklin	Kansas	12	0	0	0	0%
 Montgomery	Kansas	11	0	2	0	18.2%
 Butler	Kansas	10	1	0	0	0%
-Geary	Kansas	10	1	0	0	0%
+Geary	Kansas	9	0	0	0	0%
 Bourbon	Kansas	7	0	1	0	14.3%
 Cherokee	Kansas	7	1	0	0	0%
 Seward	Kansas	7	1	0	0	0%
