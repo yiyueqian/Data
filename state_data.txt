@@ -1,43 +1,43 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
 New York	203,377	0	11,586	744	5.7%
-New Jersey	68,824	0	2,805	0	4.1%
+New Jersey	71,030	2,206	3,156	351	4.4%
 Massachusetts	28,163	0	957	0	3.4%
-Michigan	27,001	0	1,768	0	6.5%
-Pennsylvania	26,642	1,052	723	48	2.7%
-California	25,884	105	804	14	3.1%
+Michigan	28,059	1,073	1,921	153	6.8%
+Pennsylvania	26,753	1,163	779	104	2.9%
+California	25,891	112	804	14	3.1%
 Illinois	23,248	0	869	0	3.7%
-Florida	22,081	454	591	20	2.7%
+Florida	22,511	885	596	26	2.6%
 Louisiana	21,951	435	1,103	91	5%
-Texas	15,517	177	367	6	2.4%
+Texas	15,687	347	369	8	2.4%
 Georgia	14,987	409	552	28	3.7%
 Connecticut	13,989	0	671	0	4.8%
-Washington	10,886	0	549	1	5%
+Washington	10,899	13	549	1	5%
 Maryland	10,032	562	342	40	3.4%
-Indiana	8,527	0	387	0	4.5%
+Indiana	8,955	428	432	45	4.8%
 Colorado 	7,950	0	329	0	4.1%
-Ohio	7,543	258	324	0	4.3%
+Ohio	7,794	509	362	38	4.6%
 Virginia	6,500	328	195	38	3%
 Tennessee	5,827	0	124	0	2.1%
-North Carolina	5,261	126	128	8	2.4%
+North Carolina	5,279	144	129	9	2.4%
 Missouri	4,791	7	153	0	3.2%
 US Military	4,766	217	17	1	0.4%
 Alabama	4,075	124	118	4	2.9%
-Arizona	3,809	0	131	0	3.4%
+Arizona	3,964	163	142	11	3.6%
 Wisconsin	3,555	0	170	0	4.8%
 South Carolina	3,553	0	97	0	2.7%
 Mississippi	3,360	275	122	11	3.6%
 Rhode Island	3,251	0	80	0	2.5%
-Nevada	3,144	0	130	0	4.1%
+Nevada	3,211	67	131	1	4.1%
 Utah	2,417	0	19	0	0.8%
 Oklahoma	2,263	85	123	15	5.4%
 Kentucky	2,210	0	115	0	5.2%
 Washington, D.C.	2,197	139	72	5	3.3%
+Iowa	1,995	98	53	4	2.7%
 Delaware	1,926	0	43	0	2.2%
-Iowa	1,899	0	49	0	2.6%
-Minnesota	1,695	0	79	0	4.7%
+Minnesota	1,809	116	87	8	4.8%
 Oregon	1,633	0	55	0	3.4%
 Arkansas	1,562	68	32	0	2%
-Kansas	1,504	64	71	2	4.7%
+Kansas	1,505	65	71	2	4.7%
 Idaho	1,473	2	39	0	2.6%
 New Mexico	1,407	0	36	0	2.6%
 South Dakota	1,168	180	6	0	0.5%
