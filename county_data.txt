@@ -1,31 +1,31 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	118,302	7,837	8,455	550	7.1%
 Nassau	New York	26,715	1,465	1,057	56	4%
-Suffolk	New York	23,278	259	653	45	2.8%
+Suffolk	New York	23,523	504	653	45	2.8%
 Westchester	New York	20,947	756	640	52	3.1%
 Rockland	New York	8,474	139	298	35	3.5%
 Orange	New York	5,830	0	178	0	3.1%
-Dutchess	New York	2,048	114	17	0	0.8%
+Dutchess	New York	2,048	114	18	1	0.9%
 Erie	New York	1,812	82	101	28	5.6%
 Monroe	New York	884	34	56	0	6.3%
 Ulster	New York	745	0	13	0	1.7%
 Putnam	New York	634	0	7	0	1.1%
-Albany	New York	548	13	16	0	2.9%
-Onondaga	New York	537	0	11	0	2%
-Sullivan	New York	424	9	9	0	2.1%
+Onondaga	New York	563	26	12	1	2.1%
+Albany	New York	548	13	20	4	3.6%
+Sullivan	New York	424	9	10	1	2.4%
 Oneida	New York	246	17	4	0	1.6%
 Schenectady	New York	237	2	8	0	3.4%
+Niagara	New York	229	13	9	4	3.9%
 Saratoga	New York	227	3	4	0	1.8%
-Niagara	New York	216	0	5	0	2.3%
 Broome	New York	153	7	8	0	5.2%
 Steuben	New York	151	4	16	0	10.6%
 Rensselaer	New York	140	0	6	0	4.3%
-Tompkins	New York	115	2	0	0	0%
+Tompkins	New York	116	3	0	0	0%
 Madison	New York	110	0	3	0	2.7%
-Columbia	New York	96	3	9	0	9.4%
+Columbia	New York	100	7	10	1	10%
 St. Lawrence	New York	92	0	0	0	0%
 Warren	New York	77	0	0	0	0%
-Genesee	New York	76	0	1	0	1.3%
+Genesee	New York	76	0	2	1	2.6%
 Greene	New York	73	7	0	0	0%
 Chenango	New York	71	3	0	0	0%
 Chemung	New York	69	5	1	0	1.4%
@@ -34,13 +34,13 @@ Wayne	New York	48	0	0	0	0%
 Jefferson	New York	47	0	0	0	0%
 Delaware	New York	46	1	3	0	6.5%
 Clinton	New York	45	0	3	0	6.7%
-Otsego	New York	44	0	2	0	4.5%
+Otsego	New York	44	0	3	1	6.8%
 Oswego	New York	42	0	2	0	4.8%
-Washington	New York	42	2	1	0	2.4%
+Washington	New York	42	2	2	1	4.8%
+Wyoming	New York	42	10	3	2	7.1%
 Herkimer	New York	40	1	3	0	7.5%
 Cayuga	New York	36	3	1	0	2.8%
 Livingston	New York	34	0	3	0	8.8%
-Wyoming	New York	34	2	1	0	2.9%
 Orleans	New York	33	2	0	0	0%
 Cattaraugus	New York	32	0	0	0	0%
 Montgomery	New York	32	0	1	0	3.1%
@@ -88,8 +88,8 @@ Worcester	Massachusetts	2,350	104	57	0	2.4%
 Plymouth	Massachusetts	2,308	101	77	0	3.3%
 Hampden	Massachusetts	1,885	87	132	0	7%
 Bristol	Massachusetts	1,508	73	53	0	3.5%
+Unassigned	Massachusetts	572	66	14	0	2.4%
 Barnstable	Massachusetts	530	16	17	0	3.2%
-Unassigned	Massachusetts	506	0	14	0	2.8%
 Berkshire	Massachusetts	370	10	21	0	5.7%
 Hampshire	Massachusetts	239	6	6	0	2.5%
 Franklin	Massachusetts	160	5	25	0	15.6%
@@ -246,28 +246,28 @@ Cameron	Pennsylvania	1	0	0	0	0%
 Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	10,075	0	366	0	3.6%
+Los Angeles	California	10,512	437	403	37	3.8%
 Riverside	California	1,961	0	50	0	2.5%
 San Diego	California	1,930	0	53	0	2.7%
-Santa Clara	California	1,666	0	60	0	3.6%
+Santa Clara	California	1,793	127	65	5	3.6%
 Orange	California	1,376	77	22	3	1.6%
 San Francisco	California	1,013	26	17	2	1.7%
 San Bernardino	California	977	0	31	0	3.2%
-Alameda	California	962	74	36	12	3.7%
-Sacramento	California	816	0	28	0	3.4%
+Alameda	California	964	76	36	12	3.7%
+Sacramento	California	853	37	32	4	3.8%
 San Mateo	California	747	0	21	0	2.8%
-Contra Costa	California	600	0	12	0	2%
-Kern	California	516	0	3	0	0.6%
-Ventura	California	350	0	13	0	3.7%
-San Joaquin	California	335	0	17	0	5.1%
+Contra Costa	California	615	15	14	2	2.3%
+Kern	California	533	17	3	0	0.6%
+Ventura	California	365	15	13	0	3.6%
+Tulare	California	352	56	15	2	4.3%
+San Joaquin	California	341	6	17	0	5%
 Santa Barbara	California	313	0	2	0	0.6%
-Tulare	California	296	0	13	0	4.4%
 Fresno	California	251	0	7	0	2.8%
 Marin	California	171	0	10	0	5.8%
 Stanislaus	California	163	0	4	0	2.5%
 Sonoma	California	160	0	2	0	1.3%
 Solano	California	140	0	2	0	1.4%
-Placer	California	128	0	5	0	3.9%
+Placer	California	129	1	7	2	5.4%
 San Luis Obispo	California	120	0	1	0	0.8%
 Imperial	California	117	0	3	0	2.6%
 Yolo	California	102	0	4	0	3.9%
@@ -522,9 +522,9 @@ Madison	Louisiana	2	0	0	0	0%
 Cameron	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Tensas	Louisiana	1	0	0	0	0%
-Harris--Houston	Texas	2,279	0	23	0	1%
+Harris--Houston	Texas	2,331	52	26	3	1.1%
 Dallas	Texas	1,986	109	43	1	2.2%
-Harris--Non Houston	Texas	1,628	0	29	0	1.8%
+Harris--Non Houston	Texas	1,766	138	32	3	1.8%
 Tarrant	Texas	990	61	30	1	3%
 Travis	Texas	900	0	14	0	1.6%
 Bexar	Texas	815	0	33	0	4%
@@ -533,8 +533,8 @@ Denton	Texas	521	0	14	0	2.7%
 Collin	Texas	477	0	10	0	2.1%
 Galveston	Texas	392	0	11	0	2.8%
 El Paso	Texas	346	0	4	0	1.2%
+Montgomery	Texas	331	23	6	0	1.8%
 Lubbock	Texas	330	0	25	0	7.6%
-Montgomery	Texas	308	0	6	0	1.9%
 Brazoria	Texas	259	0	3	0	1.2%
 Cameron	Texas	239	0	3	0	1.3%
 Webb	Texas	223	0	8	0	3.6%
@@ -564,7 +564,7 @@ Ector	Texas	46	0	2	0	4.3%
 Orange	Texas	46	1	0	0	0%
 Shelby	Texas	46	6	0	0	0%
 Washington	Texas	44	0	3	0	6.8%
-Comal	Texas	39	0	6	0	15.4%
+Comal	Texas	43	4	6	0	14%
 Rockwall	Texas	39	0	0	0	0%
 Tom Green	Texas	39	0	1	0	2.6%
 Walker	Texas	38	0	0	0	0%
@@ -879,13 +879,13 @@ New London	Connecticut	227	0	7	0	3.1%
 Tolland	Connecticut	201	0	18	0	9%
 Windham	Connecticut	87	0	1	0	1.1%
 King	Washington	4,620	0	303	0	6.6%
-Snohomish	Washington	1,950	0	77	0	3.9%
+Snohomish	Washington	1,988	38	80	3	4%
 Pierce	Washington	1,000	0	23	0	2.3%
 Yakima	Washington	635	0	29	0	4.6%
 Unassigned	Washington	383	0	0	0	0%
 Spokane	Washington	278	0	17	0	6.1%
+Whatcom	Washington	269	4	25	0	9.3%
 Benton	Washington	266	0	29	0	10.9%
-Whatcom	Washington	265	0	25	0	9.4%
 Clark	Washington	258	8	15	0	5.8%
 Skagit	Washington	198	0	6	0	3%
 Franklin	Washington	185	0	2	0	1.1%
@@ -951,7 +951,7 @@ St. Joseph	Indiana	273	39	5	1	1.8%
 Allen	Indiana	180	13	15	2	8.3%
 Decatur	Indiana	155	2	13	3	8.4%
 Clark	Indiana	137	5	9	1	6.6%
-Porter	Indiana	130	3	2	0	1.5%
+Porter	Indiana	135	8	2	0	1.5%
 Boone	Indiana	129	4	4	1	3.1%
 Hancock	Indiana	129	8	6	0	4.7%
 Floyd	Indiana	116	5	5	0	4.3%
@@ -1422,7 +1422,7 @@ Granville	North Carolina	99	2	1	0	1%
 Henderson	North Carolina	99	0	7	0	7.1%
 Gaston	North Carolina	91	0	3	0	3.3%
 Cumberland	North Carolina	90	0	2	0	2.2%
-Davidson	North Carolina	88	2	2	0	2.3%
+Davidson	North Carolina	90	4	2	0	2.2%
 Wayne	North Carolina	87	9	2	0	2.3%
 Moore	North Carolina	85	0	3	1	3.5%
 Chatham	North Carolina	81	6	1	0	1.2%
@@ -1447,9 +1447,9 @@ Onslow	North Carolina	36	0	1	0	2.8%
 Brunswick	North Carolina	35	0	1	0	2.9%
 Craven	North Carolina	31	2	1	0	3.2%
 Halifax	North Carolina	30	2	1	0	3.3%
+Davie	North Carolina	23	1	2	0	8.7%
 Duplin	North Carolina	23	4	0	0	0%
 Carteret	North Carolina	22	0	1	0	4.5%
-Davie	North Carolina	22	0	2	0	9.1%
 Hoke	North Carolina	22	2	0	0	0%
 Vance	North Carolina	22	1	0	0	0%
 McDowell	North Carolina	20	2	0	0	0%
@@ -1497,10 +1497,10 @@ Caswell	North Carolina	3	0	0	0	0%
 Currituck	North Carolina	3	0	0	0	0%
 Haywood	North Carolina	3	0	0	0	0%
 Warren	North Carolina	3	0	0	0	0%
+Tyrrell	North Carolina	3	1	0	0	0%
 Alleghany	North Carolina	2	0	0	0	0%
 Macon	North Carolina	2	0	1	0	50%
 Bladen	North Carolina	2	0	0	0	0%
-Tyrrell	North Carolina	2	0	0	0	0%
 St. Louis	Missouri	1,851	0	53	0	2.9%
 St. Louis City	Missouri	723	0	26	0	3.6%
 St. Charles	Missouri	400	0	16	0	4%
@@ -1893,19 +1893,19 @@ Lyon	Nevada	10	0	0	0	0%
 Unassigned	Nevada	5	0	0	-10	0%
 White Pine	Nevada	3	0	0	0	0%
 Lincoln	Nevada	1	0	0	0	0%
-Salt Lake	Utah	1,187	0	7	0	0.6%
-Utah	Utah	335	0	2	0	0.6%
+Salt Lake	Utah	1,285	98	7	0	0.5%
+Utah	Utah	352	17	2	0	0.6%
 Summit	Utah	306	0	0	0	0%
-Davis	Utah	211	0	2	0	0.9%
-Weber-Morgan	Utah	105	0	1	0	1%
+Davis	Utah	217	6	2	0	0.9%
+Weber-Morgan	Utah	107	2	1	0	0.9%
 Wasatch	Utah	102	0	0	0	0%
 Washington	Utah	39	0	1	0	2.6%
-Cache	Utah	36	0	0	0	0%
-Tooele	Utah	34	0	0	0	0%
+Cache	Utah	37	1	0	0	0%
+Tooele	Utah	37	3	0	0	0%
+Box Elder	Utah	15	2	0	0	0%
 Iron	Utah	15	0	0	0	0%
-Box Elder	Utah	13	0	0	0	0%
 San Juan	Utah	9	0	0	0	0%
-Central Utah	Utah	6	0	0	0	0%
+Central Utah	Utah	8	2	0	0	0%
 Uintah	Utah	6	0	0	0	0%
 Duchesne	Utah	3	0	0	0	0%
 Kane	Utah	3	0	0	0	0%
@@ -2259,7 +2259,7 @@ Yamhill	Oregon	32	0	6	0	18.8%
 Polk	Oregon	30	0	1	0	3.3%
 Klamath	Oregon	26	0	0	0	0%
 Benton	Oregon	24	0	3	0	12.5%
-Douglas	Oregon	19	0	0	0	0%
+Douglas	Oregon	23	4	0	0	0%
 Josephine	Oregon	19	0	1	0	5.3%
 Umatilla	Oregon	16	0	0	0	0%
 Columbia	Oregon	11	0	0	0	0%
