@@ -1,12 +1,12 @@
 county	state	county_comfired	county_new	Death	County_deaths_new	Fatality_ratio
 New York	New York	118,302	7,837	8,455	550	7.1%
 Nassau	New York	26,715	1,465	1,057	56	4%
-Suffolk	New York	23,523	504	653	45	2.8%
+Suffolk	New York	23,708	689	653	45	2.8%
 Westchester	New York	20,947	756	640	52	3.1%
 Rockland	New York	8,474	139	298	35	3.5%
 Orange	New York	5,830	0	178	0	3.1%
 Dutchess	New York	2,048	114	18	1	0.9%
-Erie	New York	1,812	82	101	28	5.6%
+Erie	New York	1,812	82	104	31	5.7%
 Monroe	New York	884	34	56	0	6.3%
 Ulster	New York	745	0	13	0	1.7%
 Putnam	New York	634	0	7	0	1.1%
@@ -178,6 +178,60 @@ Alcona	Michigan	1	1	0	0	0%
 Chippewa	Michigan	0	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
+Los Angeles	California	10,517	442	405	39	3.9%
+Riverside	California	2,105	144	54	4	2.6%
+San Diego	California	1,930	0	53	0	2.7%
+Santa Clara	California	1,793	127	65	5	3.6%
+Orange	California	1,376	77	22	3	1.6%
+San Francisco	California	1,013	26	17	2	1.7%
+San Bernardino	California	977	0	31	0	3.2%
+Alameda	California	964	76	36	12	3.7%
+Sacramento	California	853	37	32	4	3.8%
+San Mateo	California	747	0	21	0	2.8%
+Contra Costa	California	615	15	14	2	2.3%
+Kern	California	533	17	3	0	0.6%
+Ventura	California	365	15	13	0	3.6%
+Tulare	California	352	56	15	2	4.3%
+San Joaquin	California	341	6	17	0	5%
+Santa Barbara	California	313	0	2	0	0.6%
+Fresno	California	251	0	7	0	2.8%
+Marin	California	171	0	10	0	5.8%
+Stanislaus	California	163	0	4	0	2.5%
+Sonoma	California	160	0	2	0	1.3%
+Solano	California	141	1	2	0	1.4%
+Placer	California	129	1	7	2	5.4%
+San Luis Obispo	California	124	4	1	0	0.8%
+Imperial	California	117	0	3	0	2.6%
+Yolo	California	102	0	4	0	3.9%
+Monterey	California	100	0	3	0	3%
+Santa Cruz	California	96	5	2	0	2.1%
+Merced	California	76	2	3	0	3.9%
+Humboldt	California	51	0	0	0	0%
+San Benito	California	41	2	2	0	4.9%
+Napa	California	38	0	2	0	5.3%
+El Dorado	California	35	0	0	0	0%
+Nevada	California	34	0	1	0	2.9%
+Madera	California	33	0	2	0	6.1%
+Shasta	California	25	0	3	0	12%
+Sutter	California	24	0	3	0	12.5%
+Mono	California	23	0	1	0	4.3%
+Inyo	California	17	5	0	0	0%
+Butte	California	16	0	0	0	0%
+Yuba	California	15	0	1	0	6.7%
+Kings	California	13	0	1	0	7.7%
+Calaveras	California	9	0	0	0	0%
+Amador	California	7	0	0	0	0%
+Siskiyou	California	5	0	0	0	0%
+Lake	California	5	0	0	0	0%
+Glenn	California	4	0	0	0	0%
+Mendocino	California	4	0	0	0	0%
+Plumas	California	4	0	0	0	0%
+Colusa	California	3	0	0	0	0%
+Alpine	California	2	0	0	0	0%
+Tuolumne	California	2	0	0	0	0%
+Del Norte	California	2	0	0	0	0%
+Tehama	California	1	0	1	0	100%
+Unassigned	California	0	0	0	0	0%
 Philadelphia	Pennsylvania	7,441	311	222	16	3%
 Montgomery	Pennsylvania	2,475	121	82	6	3.3%
 Delaware	Pennsylvania	1,935	84	60	14	3.1%
@@ -246,60 +300,6 @@ Cameron	Pennsylvania	1	0	0	0	0%
 Warren	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	10,517	442	405	39	3.9%
-Riverside	California	1,961	0	50	0	2.5%
-San Diego	California	1,930	0	53	0	2.7%
-Santa Clara	California	1,793	127	65	5	3.6%
-Orange	California	1,376	77	22	3	1.6%
-San Francisco	California	1,013	26	17	2	1.7%
-San Bernardino	California	977	0	31	0	3.2%
-Alameda	California	964	76	36	12	3.7%
-Sacramento	California	853	37	32	4	3.8%
-San Mateo	California	747	0	21	0	2.8%
-Contra Costa	California	615	15	14	2	2.3%
-Kern	California	533	17	3	0	0.6%
-Ventura	California	365	15	13	0	3.6%
-Tulare	California	352	56	15	2	4.3%
-San Joaquin	California	341	6	17	0	5%
-Santa Barbara	California	313	0	2	0	0.6%
-Fresno	California	251	0	7	0	2.8%
-Marin	California	171	0	10	0	5.8%
-Stanislaus	California	163	0	4	0	2.5%
-Sonoma	California	160	0	2	0	1.3%
-Solano	California	140	0	2	0	1.4%
-Placer	California	129	1	7	2	5.4%
-San Luis Obispo	California	120	0	1	0	0.8%
-Imperial	California	117	0	3	0	2.6%
-Yolo	California	102	0	4	0	3.9%
-Monterey	California	100	0	3	0	3%
-Santa Cruz	California	96	5	2	0	2.1%
-Merced	California	76	2	3	0	3.9%
-Humboldt	California	51	0	0	0	0%
-San Benito	California	39	0	2	0	5.1%
-Napa	California	38	0	2	0	5.3%
-El Dorado	California	35	0	0	0	0%
-Nevada	California	34	0	1	0	2.9%
-Madera	California	33	0	2	0	6.1%
-Shasta	California	25	0	3	0	12%
-Sutter	California	24	0	3	0	12.5%
-Mono	California	23	0	1	0	4.3%
-Inyo	California	17	5	0	0	0%
-Butte	California	16	0	0	0	0%
-Yuba	California	15	0	1	0	6.7%
-Kings	California	13	0	1	0	7.7%
-Calaveras	California	9	0	0	0	0%
-Amador	California	7	0	0	0	0%
-Siskiyou	California	5	0	0	0	0%
-Lake	California	5	0	0	0	0%
-Glenn	California	4	0	0	0	0%
-Mendocino	California	4	0	0	0	0%
-Plumas	California	4	0	0	0	0%
-Colusa	California	3	0	0	0	0%
-Alpine	California	2	0	0	0	0%
-Tuolumne	California	2	0	0	0	0%
-Del Norte	California	2	0	0	0	0%
-Tehama	California	1	0	1	0	100%
-Unassigned	California	0	0	0	0	0%
 Cook	Illinois	17,306	983	630	53	3.6%
 Lake	Illinois	1,711	90	62	4	3.6%
 Will	Illinois	1,433	83	81	4	5.7%
@@ -527,7 +527,7 @@ Harris--Houston	Texas	2,331	52	26	3	1.1%
 Dallas	Texas	1,986	109	43	1	2.2%
 Harris--Non Houston	Texas	1,766	138	32	3	1.8%
 Tarrant	Texas	990	61	30	1	3%
-Travis	Texas	900	0	14	0	1.6%
+Travis	Texas	977	77	14	0	1.4%
 Bexar	Texas	815	0	33	0	4%
 Fort Bend	Texas	627	50	15	1	2.4%
 Denton	Texas	521	0	14	0	2.7%
@@ -879,7 +879,7 @@ Middlesex	Connecticut	379	24	28	7	7.4%
 New London	Connecticut	236	9	7	0	3%
 Tolland	Connecticut	216	15	22	4	10.2%
 Windham	Connecticut	89	2	1	0	1.1%
-King	Washington	4,620	0	303	0	6.6%
+King	Washington	4,697	77	312	9	6.6%
 Snohomish	Washington	1,988	38	80	3	4%
 Pierce	Washington	1,000	0	23	0	2.3%
 Yakima	Washington	635	0	29	0	4.6%
@@ -888,7 +888,7 @@ Spokane	Washington	278	0	17	0	6.1%
 Whatcom	Washington	269	4	25	0	9.3%
 Benton	Washington	266	0	29	0	10.9%
 Clark	Washington	258	8	15	0	5.8%
-Skagit	Washington	198	0	6	0	3%
+Skagit	Washington	209	11	6	0	2.9%
 Franklin	Washington	185	0	2	0	1.1%
 Island	Washington	163	1	8	0	4.9%
 Kitsap	Washington	132	0	1	0	0.8%
@@ -1313,112 +1313,112 @@ Martinsville	Virginia	0	0	0	0	0%
 Norton	Virginia	0	0	0	0	0%
 Patrick	Virginia	0	0	0	0	0%
 Unassigned	Virginia	0	0	101	26	0%
-Shelby	Tennessee	1,359	0	26	0	1.9%
-Davidson	Tennessee	1,237	0	18	0	1.5%
-Sumner	Tennessee	466	0	27	0	5.8%
-Williamson	Tennessee	322	0	5	0	1.6%
-Out-of-state	Tennessee	260	0	1	0	0.4%
-Rutherford	Tennessee	253	0	6	0	2.4%
-Knox	Tennessee	174	0	4	0	2.3%
-Wilson	Tennessee	145	0	1	0	0.7%
-Unassigned	Tennessee	136	0	0	0	0%
-Hamilton	Tennessee	110	0	11	0	10%
+Shelby	Tennessee	1,421	62	31	5	2.2%
+Davidson	Tennessee	1,283	46	19	1	1.5%
+Sumner	Tennessee	478	12	27	0	5.6%
+Williamson	Tennessee	321	0	5	0	1.6%
+Rutherford	Tennessee	269	16	6	0	2.2%
+Out-of-state	Tennessee	243	-17	1	0	0.4%
+Unassigned	Tennessee	197	61	0	0	0%
+Knox	Tennessee	179	5	4	0	2.2%
+Wilson	Tennessee	155	10	1	0	0.6%
+Hamilton	Tennessee	109	0	11	0	10.1%
 Montgomery	Tennessee	102	0	2	0	2%
-Putnam	Tennessee	92	0	0	0	0%
-Robertson	Tennessee	88	0	0	0	0%
-Madison	Tennessee	73	0	0	0	0%
-Tipton	Tennessee	52	0	0	0	0%
-Cumberland	Tennessee	51	0	0	0	0%
+Robertson	Tennessee	94	6	0	0	0%
+Putnam	Tennessee	93	1	0	0	0%
+Madison	Tennessee	75	2	0	0	0%
+Cumberland	Tennessee	53	2	0	0	0%
+Tipton	Tennessee	53	1	0	0	0%
 Blount	Tennessee	47	0	3	0	6.4%
-Washington	Tennessee	44	0	0	0	0%
+Washington	Tennessee	45	1	0	0	0%
 Sullivan	Tennessee	43	0	1	0	2.3%
-Fayette	Tennessee	37	0	0	0	0%
+Fayette	Tennessee	39	2	1	1	2.6%
+Dickson	Tennessee	37	4	0	0	0%
+Bedford	Tennessee	33	8	2	0	6.1%
 Bradley	Tennessee	33	0	1	0	3%
-Dickson	Tennessee	33	0	0	0	0%
 Maury	Tennessee	33	0	0	0	0%
-Greene	Tennessee	27	0	2	0	7.4%
-Macon	Tennessee	27	0	2	0	7.4%
-Marion	Tennessee	26	0	1	0	3.8%
-Bedford	Tennessee	25	0	2	0	8%
-Hawkins	Tennessee	24	0	2	0	8.3%
+Macon	Tennessee	29	2	3	1	10.3%
+Greene	Tennessee	28	1	2	0	7.1%
+Marion	Tennessee	27	1	1	0	3.7%
+Hawkins	Tennessee	26	2	2	0	7.7%
+Dyer	Tennessee	24	2	0	0	0%
+Gibson	Tennessee	24	3	0	0	0%
+Grundy	Tennessee	24	1	1	0	4.2%
 Franklin	Tennessee	23	0	1	0	4.3%
-Grundy	Tennessee	23	0	1	0	4.3%
-Dyer	Tennessee	22	0	0	0	0%
 Sevier	Tennessee	22	0	0	0	0%
-Gibson	Tennessee	21	0	0	0	0%
-Trousdale	Tennessee	20	0	1	0	5%
 Cheatham	Tennessee	19	0	0	0	0%
-Loudon	Tennessee	17	0	0	0	0%
-Jefferson	Tennessee	16	0	0	0	0%
-Anderson	Tennessee	15	0	1	0	6.7%
+Trousdale	Tennessee	19	0	1	0	5.3%
+Loudon	Tennessee	18	1	0	0	0%
+Anderson	Tennessee	16	1	1	0	6.3%
+Jefferson	Tennessee	16	0	1	1	6.3%
 Lawrence	Tennessee	15	0	0	0	0%
-Campbell	Tennessee	12	0	0	0	0%
-Carroll	Tennessee	12	0	0	0	0%
-Coffee	Tennessee	12	0	0	0	0%
+Carroll	Tennessee	13	1	0	0	0%
+Coffee	Tennessee	13	1	0	0	0%
+Campbell	Tennessee	12	0	1	1	8.3%
 Haywood	Tennessee	12	0	1	0	8.3%
+Lauderdale	Tennessee	12	3	0	0	0%
+Scott	Tennessee	11	1	0	0	0%
 Dekalb	Tennessee	10	0	0	0	0%
-Scott	Tennessee	10	0	0	0	0%
-Smith	Tennessee	10	0	0	0	0%
-Lauderdale	Tennessee	9	0	0	0	0%
+Smith	Tennessee	10	0	1	1	10%
 Lincoln	Tennessee	9	0	0	0	0%
 Marshall	Tennessee	9	0	1	0	11.1%
 McNairy	Tennessee	9	0	0	0	0%
 Monroe	Tennessee	9	0	0	0	0%
-Bledsoe	Tennessee	8	0	0	0	0%
+Cocke	Tennessee	8	3	0	0	0%
 Henry	Tennessee	8	0	0	0	0%
 Obion	Tennessee	8	0	1	0	12.5%
+Bledsoe	Tennessee	7	0	0	0	0%
 Cannon	Tennessee	7	0	0	0	0%
+Hamblen	Tennessee	7	1	1	0	14.3%
 Hardeman	Tennessee	7	0	0	0	0%
-Jackson	Tennessee	7	0	0	0	0%
-Hamblen	Tennessee	6	0	1	0	16.7%
-Morgan	Tennessee	6	0	0	0	0%
+Overton	Tennessee	7	2	0	0	0%
+Chester	Tennessee	6	1	0	0	0%
+Roane	Tennessee	6	1	0	0	0%
 Weakley	Tennessee	6	0	0	0	0%
-Chester	Tennessee	5	0	0	0	0%
+Jackson	Tennessee	6	0	0	0	0%
 Claiborne	Tennessee	5	0	0	0	0%
-Cocke	Tennessee	5	0	0	0	0%
+Clay	Tennessee	5	1	0	0	0%
 McMinn	Tennessee	5	0	0	0	0%
-Overton	Tennessee	5	0	0	0	0%
-Roane	Tennessee	5	0	0	0	0%
+Morgan	Tennessee	5	0	0	0	0%
+Perry	Tennessee	5	1	0	0	0%
 Polk	Tennessee	5	0	0	0	0%
 Benton	Tennessee	4	0	0	0	0%
-Clay	Tennessee	4	0	0	0	0%
+Carter	Tennessee	4	1	1	0	25%
+Giles	Tennessee	4	1	0	0	0%
 Grainger	Tennessee	4	0	0	0	0%
+Hardin	Tennessee	4	2	0	0	0%
+Houston	Tennessee	4	1	0	0	0%
 Humphreys	Tennessee	4	0	0	0	0%
-Perry	Tennessee	4	0	0	0	0%
 Warren	Tennessee	4	0	0	0	0%
 White	Tennessee	4	0	0	0	0%
 Stewart	Tennessee	4	0	0	0	0%
 Lake	Tennessee	4	0	0	0	0%
-Carter	Tennessee	3	0	1	0	33.3%
 Decatur	Tennessee	3	0	0	0	0%
 Fentress	Tennessee	3	0	0	0	0%
-Giles	Tennessee	3	0	0	0	0%
-Houston	Tennessee	3	0	0	0	0%
 Meigs	Tennessee	3	0	0	0	0%
 Sequatchie	Tennessee	3	0	0	0	0%
 Union	Tennessee	3	0	0	0	0%
-Hardin	Tennessee	2	0	0	0	0%
 Hickman	Tennessee	2	0	0	0	0%
 Johnson	Tennessee	2	0	0	0	0%
 Lewis	Tennessee	2	0	0	0	0%
 Wayne	Tennessee	2	0	0	0	0%
 Henderson	Tennessee	2	0	0	0	0%
 Unicoi	Tennessee	1	0	0	0	0%
+Moore	Tennessee	1	1	0	0	0%
 Van Buren	Tennessee	1	0	0	0	0%
 Rhea	Tennessee	0	0	0	0	0%
 Crockett	Tennessee	0	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
-Moore	Tennessee	0	0	0	0	0%
 Mecklenburg	North Carolina	1,015	22	16	0	1.6%
 Wake	North Carolina	537	33	1	1	0.2%
-Durham	North Carolina	349	0	2	1	0.6%
+Durham	North Carolina	376	27	2	1	0.5%
 Rowan	North Carolina	216	8	7	4	3.2%
 Cabarrus	North Carolina	204	14	3	0	1.5%
 Orange	North Carolina	159	4	2	0	1.3%
 Guilford	North Carolina	151	13	10	0	6.6%
 Forsyth	North Carolina	125	2	4	0	3.2%
-Union	North Carolina	115	5	3	0	2.6%
-Johnston	North Carolina	107	3	8	0	7.5%
+Union	North Carolina	124	14	3	0	2.4%
+Johnston	North Carolina	107	3	9	1	8.4%
 Granville	North Carolina	99	2	1	0	1%
 Henderson	North Carolina	99	0	7	0	7.1%
 Gaston	North Carolina	91	0	3	0	3.3%
@@ -1595,9 +1595,9 @@ Andrew	Missouri	1	0	0	0	0%
 Iron	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	-1	0	0	0%
-Unassigned	US Military	2,298	207	8	1	0.3%
+Unassigned	US Military	2,284	207	8	1	0.4%
 Navy	US Military	1,187	0	6	0	0.5%
-Air Force	US Military	659	0	1	0	0.2%
+Air Force	US Military	673	0	1	0	0.1%
 Army	US Military	403	0	2	0	0.5%
 Marine Corps	US Military	219	10	0	0	0%
 Jefferson	Alabama	625	5	17	1	2.7%
@@ -1675,7 +1675,7 @@ Pinal	Arizona	182	7	0	0	0%
 Apache	Arizona	110	13	0	0	0%
 Yavapai	Arizona	66	0	1	0	1.5%
 Mohave	Arizona	45	0	0	0	0%
-Yuma	Arizona	20	0	0	0	0%
+Yuma	Arizona	24	4	1	1	4.2%
 Cochise	Arizona	15	0	0	0	0%
 Santa Cruz	Arizona	12	2	0	0	0%
 La Paz	Arizona	5	1	0	0	0%
