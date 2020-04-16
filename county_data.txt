@@ -58,42 +58,42 @@ Schuyler	New York	8	0	0	0	0%
 Yates	New York	7	1	0	0	0%
 Hamilton	New York	3	0	0	0	0%
 Unassigned	New York	0	0	5	5	0%
-Bergen	New Jersey	11,409	561	608	0	5.3%
-Hudson	New Jersey	9,165	654	312	0	3.4%
-Essex	New Jersey	9,084	505	590	0	6.5%
-Union	New Jersey	7,904	466	269	0	3.4%
-Passaic	New Jersey	7,317	567	182	0	2.5%
-Middlesex	New Jersey	6,994	418	248	0	3.5%
-Monmouth	New Jersey	4,299	177	167	0	3.9%
-Ocean	New Jersey	4,272	256	166	0	3.9%
-Morris	New Jersey	3,701	176	212	0	5.7%
-Somerset	New Jersey	2,103	102	101	0	4.8%
-Mercer	New Jersey	2,037	181	76	0	3.7%
-Camden	New Jersey	1,734	147	49	0	2.8%
-Burlington	New Jersey	1,326	65	45	0	3.4%
-Unassigned	New Jersey	1,048	-141	2	0	0.2%
-Gloucester	New Jersey	624	22	14	0	2.2%
-Sussex	New Jersey	578	27	41	0	7.1%
-Warren	New Jersey	501	33	30	0	6%
-Hunterdon	New Jersey	373	17	14	0	3.8%
+Bergen	New Jersey	11,409	561	668	60	5.9%
+Hudson	New Jersey	9,165	654	365	53	4%
+Essex	New Jersey	9,084	505	642	52	7.1%
+Union	New Jersey	7,904	466	301	32	3.8%
+Passaic	New Jersey	7,317	567	211	29	2.9%
+Middlesex	New Jersey	6,994	418	278	30	4%
+Monmouth	New Jersey	4,299	177	190	23	4.4%
+Ocean	New Jersey	4,272	256	185	19	4.3%
+Morris	New Jersey	3,701	176	216	4	5.8%
+Somerset	New Jersey	2,103	102	121	20	5.8%
+Mercer	New Jersey	2,037	181	87	11	4.3%
+Camden	New Jersey	1,734	147	60	11	3.5%
+Burlington	New Jersey	1,326	65	52	7	3.9%
+Unassigned	New Jersey	1,048	-141	3	1	0.3%
+Gloucester	New Jersey	624	22	18	4	2.9%
+Sussex	New Jersey	578	27	43	2	7.4%
+Warren	New Jersey	501	33	33	3	6.6%
+Hunterdon	New Jersey	373	17	15	1	4%
 Atlantic	New Jersey	344	22	13	0	3.8%
 Cumberland	New Jersey	223	13	3	0	1.3%
 Cape May	New Jersey	186	8	10	0	5.4%
 Salem	New Jersey	95	11	4	0	4.2%
-Middlesex	Massachusetts	6,681	0	221	0	3.3%
-Suffolk	Massachusetts	6,279	0	145	0	2.3%
-Essex	Massachusetts	3,894	0	140	0	3.6%
-Norfolk	Massachusetts	3,122	0	147	0	4.7%
-Worcester	Massachusetts	2,350	0	74	0	3.1%
-Plymouth	Massachusetts	2,308	0	89	0	3.9%
-Hampden	Massachusetts	1,885	0	151	0	8%
-Bristol	Massachusetts	1,508	0	56	0	3.7%
-Unassigned	Massachusetts	572	0	14	0	2.4%
-Barnstable	Massachusetts	530	0	18	0	3.4%
-Berkshire	Massachusetts	370	0	21	0	5.7%
-Hampshire	Massachusetts	239	0	6	0	2.5%
-Franklin	Massachusetts	160	0	25	0	15.6%
-Dukes and Nantucket	Massachusetts	20	0	1	0	5%
+Middlesex	Massachusetts	7,206	525	221	0	3.1%
+Suffolk	Massachusetts	6,820	541	145	0	2.1%
+Essex	Massachusetts	4,245	351	140	0	3.3%
+Norfolk	Massachusetts	3,342	220	147	0	4.4%
+Worcester	Massachusetts	2,503	153	74	0	3%
+Plymouth	Massachusetts	2,466	158	89	0	3.6%
+Hampden	Massachusetts	1,985	100	151	0	7.6%
+Bristol	Massachusetts	1,605	97	56	0	3.5%
+Unassigned	Massachusetts	638	66	14	0	2.2%
+Barnstable	Massachusetts	550	20	18	0	3.3%
+Berkshire	Massachusetts	382	12	21	0	5.5%
+Hampshire	Massachusetts	248	9	6	0	2.4%
+Franklin	Massachusetts	170	10	25	0	14.7%
+Dukes and Nantucket	Massachusetts	21	1	1	0	4.8%
 Philadelphia	Pennsylvania	8,045	604	264	42	3.3%
 Montgomery	Pennsylvania	2,544	69	89	7	3.5%
 Delaware	Pennsylvania	2,055	120	71	11	3.5%
@@ -246,7 +246,7 @@ Alcona	Michigan	1	0	0	0	0%
 Chippewa	Michigan	0	0	0	0	0%
 Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
-Los Angeles	California	10,517	0	405	0	3.9%
+Los Angeles	California	10,854	337	457	52	4.2%
 Riverside	California	2,105	0	54	0	2.6%
 San Diego	California	2,012	0	60	0	3%
 Santa Clara	California	1,793	0	65	0	3.6%
@@ -254,29 +254,29 @@ Orange	California	1,425	49	25	3	1.8%
 San Francisco	California	1,019	6	17	0	1.7%
 Alameda	California	1,007	43	39	3	3.9%
 San Bernardino	California	996	0	39	0	3.9%
-Sacramento	California	853	0	32	0	3.8%
+Sacramento	California	879	26	32	0	3.6%
 San Mateo	California	767	0	28	0	3.7%
-Contra Costa	California	615	0	14	0	2.3%
-Kern	California	553	0	3	0	0.5%
+Contra Costa	California	631	16	16	2	2.5%
+Kern	California	565	12	3	0	0.5%
+Tulare	California	372	20	17	2	4.6%
+San Joaquin	California	365	1	17	0	4.7%
 Ventura	California	365	0	13	0	3.6%
-San Joaquin	California	364	0	17	0	4.7%
-Tulare	California	352	0	15	0	4.3%
 Santa Barbara	California	334	0	2	0	0.6%
 Fresno	California	265	0	7	0	2.6%
 Marin	California	184	0	10	0	5.4%
 Stanislaus	California	177	0	4	0	2.3%
 Sonoma	California	163	0	2	0	1.2%
 Solano	California	141	0	2	0	1.4%
-Placer	California	129	0	7	0	5.4%
+Placer	California	130	1	8	1	6.2%
 Imperial	California	127	0	3	0	2.4%
-San Luis Obispo	California	124	0	1	0	0.8%
+San Luis Obispo	California	125	1	1	0	0.8%
 Yolo	California	116	0	7	0	6%
 Monterey	California	108	5	3	0	2.8%
 Santa Cruz	California	96	0	2	0	2.1%
-Merced	California	78	0	3	0	3.8%
+Merced	California	79	1	3	0	3.8%
 Humboldt	California	52	0	0	0	0%
 San Benito	California	41	0	2	0	4.9%
-Napa	California	38	0	2	0	5.3%
+Napa	California	39	1	2	0	5.1%
 El Dorado	California	35	0	0	0	0%
 Nevada	California	34	0	1	0	2.9%
 Madera	California	33	0	2	0	6.1%
@@ -289,8 +289,8 @@ Yuba	California	15	0	1	0	6.7%
 Kings	California	13	0	1	0	7.7%
 Calaveras	California	11	0	0	0	0%
 Amador	California	7	0	0	0	0%
+Lake	California	6	1	0	0	0%
 Siskiyou	California	5	0	0	0	0%
-Lake	California	5	0	0	0	0%
 Glenn	California	4	0	0	0	0%
 Mendocino	California	4	0	0	0	0%
 Plumas	California	4	0	0	0	0%
@@ -300,74 +300,75 @@ Tuolumne	California	2	0	0	0	0%
 Del Norte	California	2	0	0	0	0%
 Tehama	California	1	0	1	0	100%
 Unassigned	California	0	0	0	0	0%
-Cook	Illinois	17,306	0	630	0	3.6%
-Lake	Illinois	1,711	0	62	0	3.6%
-Will	Illinois	1,433	0	81	0	5.7%
-DuPage	Illinois	1,386	0	66	0	4.8%
-Kane	Illinois	463	0	24	0	5.2%
-McHenry	Illinois	264	0	11	0	4.2%
-Kankakee	Illinois	226	0	10	0	4.4%
-St. Clair	Illinois	225	0	10	0	4.4%
-Rock Island	Illinois	138	0	4	0	2.9%
-Madison	Illinois	135	0	2	0	1.5%
-Kendall	Illinois	116	0	2	0	1.7%
-Winnebago	Illinois	112	0	4	0	3.6%
-Champaign	Illinois	90	0	2	0	2.2%
-McLean	Illinois	82	0	2	0	2.4%
-Sangamon	Illinois	50	0	4	0	8%
-Monroe	Illinois	49	0	4	0	8.2%
+Cook	Illinois	18,087	781	722	92	4%
+Lake	Illinois	1,767	56	70	8	4%
+Will	Illinois	1,494	61	88	7	5.9%
+DuPage	Illinois	1,463	77	69	3	4.7%
+Kane	Illinois	490	27	25	1	5.1%
+McHenry	Illinois	279	15	13	2	4.7%
+Kankakee	Illinois	252	26	10	0	4%
+St. Clair	Illinois	239	14	14	4	5.9%
+Rock Island	Illinois	154	16	4	0	2.6%
+Madison	Illinois	151	16	3	1	2%
+Winnebago	Illinois	121	9	4	0	3.3%
+Kendall	Illinois	119	3	2	0	1.7%
+Champaign	Illinois	90	0	4	2	4.4%
+McLean	Illinois	82	0	3	1	3.7%
+Unassigned	Illinois	55	10	1	0	1.8%
+Sangamon	Illinois	54	4	4	0	7.4%
+Monroe	Illinois	50	1	5	1	10%
+Macon	Illinois	47	3	5	0	10.6%
 Randolph	Illinois	46	0	0	0	0%
-Unassigned	Illinois	45	0	1	0	2.2%
-Macon	Illinois	44	0	5	0	11.4%
 Clinton	Illinois	39	0	0	0	0%
+DeKalb	Illinois	39	2	1	0	2.6%
 Jackson	Illinois	39	0	4	0	10.3%
-DeKalb	Illinois	37	0	1	0	2.7%
-Peoria	Illinois	33	0	1	0	3%
-Whiteside	Illinois	29	0	3	0	10.3%
-Ogle	Illinois	28	0	1	0	3.6%
-Adams	Illinois	27	0	0	0	0%
+Peoria	Illinois	34	1	1	0	2.9%
+Whiteside	Illinois	30	1	3	0	10%
+Adams	Illinois	29	2	0	0	0%
+Ogle	Illinois	29	1	1	0	3.4%
 Henry	Illinois	25	0	0	0	0%
-Christian	Illinois	24	0	3	0	12.5%
+LaSalle	Illinois	25	1	1	0	4%
+Christian	Illinois	24	0	4	1	16.7%
 Grundy	Illinois	24	0	0	0	0%
-LaSalle	Illinois	24	0	1	0	4.2%
 Tazewell	Illinois	21	0	3	0	14.3%
+Macoupin	Illinois	18	1	0	0	0%
+Boone	Illinois	18	2	1	0	5.6%
 Livingston	Illinois	17	0	0	0	0%
 Marion	Illinois	17	0	0	0	0%
-Macoupin	Illinois	17	0	0	0	0%
-Boone	Illinois	16	0	1	0	6.3%
 Lee	Illinois	15	0	0	0	0%
+Douglas	Illinois	12	1	0	0	0%
 Fayette	Illinois	12	0	1	0	8.3%
 Williamson	Illinois	12	0	0	0	0%
-Douglas	Illinois	11	0	0	0	0%
 Iroquois	Illinois	11	0	0	0	0%
 Jo Daviess	Illinois	11	0	0	0	0%
+Morgan	Illinois	11	1	1	0	9.1%
 Woodford	Illinois	11	0	0	0	0%
-Morgan	Illinois	10	0	1	0	10%
+Jefferson	Illinois	10	1	0	0	0%
 Montgomery	Illinois	9	0	1	0	11.1%
 Stephenson	Illinois	9	0	0	0	0%
-Jefferson	Illinois	9	0	0	0	0%
 Coles	Illinois	9	0	0	0	0%
 Vermilion	Illinois	8	0	0	0	0%
 Jersey	Illinois	8	0	0	0	0%
 Bureau	Illinois	7	0	0	0	0%
-Piatt	Illinois	6	0	0	0	0%
+Piatt	Illinois	7	1	0	0	0%
+Pulaski	Illinois	6	1	0	0	0%
 Carroll	Illinois	5	0	1	0	20%
-Pulaski	Illinois	5	0	0	0	0%
+Logan	Illinois	5	1	0	0	0%
 Bond	Illinois	4	0	0	0	0%
 Clark	Illinois	4	0	0	0	0%
 Crawford	Illinois	4	0	0	0	0%
 Ford	Illinois	4	0	1	0	25%
 Franklin	Illinois	4	0	0	0	0%
 Massac	Illinois	4	0	0	0	0%
-Logan	Illinois	4	0	0	0	0%
+Washington	Illinois	4	1	0	0	0%
+Mercer	Illinois	4	1	0	0	0%
+Effingham	Illinois	4	1	1	0	25%
+Mason	Illinois	4	1	0	0	0%
 Shelby	Illinois	4	0	0	0	0%
 Saline	Illinois	3	0	0	0	0%
-Washington	Illinois	3	0	0	0	0%
-Mercer	Illinois	3	0	0	0	0%
-Effingham	Illinois	3	0	1	0	33.3%
 Jasper	Illinois	3	0	1	0	33.3%
-Mason	Illinois	3	0	0	0	0%
 Hancock	Illinois	3	0	0	0	0%
+McDonough	Illinois	3	1	0	0	0%
 Union	Illinois	3	0	0	0	0%
 Cumberland	Illinois	2	0	0	0	0%
 Knox	Illinois	2	0	0	0	0%
@@ -376,7 +377,6 @@ Menard	Illinois	2	0	0	0	0%
 Moultrie	Illinois	2	0	0	0	0%
 Gallatin	Illinois	2	0	0	0	0%
 Lawrence	Illinois	2	0	0	0	0%
-McDonough	Illinois	2	0	0	0	0%
 Warren	Illinois	2	0	0	0	0%
 Johnson	Illinois	2	0	0	0	0%
 De Witt	Illinois	1	0	0	0	0%
@@ -524,7 +524,7 @@ Cameron	Louisiana	2	0	0	0	0%
 East Carroll	Louisiana	1	0	0	0	0%
 Tensas	Louisiana	1	0	0	0	0%
 Harris--Houston	Texas	2,331	0	26	0	1.1%
-Dallas	Texas	1,986	0	43	0	2.2%
+Dallas	Texas	2,066	80	50	7	2.4%
 Harris--Non Houston	Texas	1,766	0	32	0	1.8%
 Tarrant	Texas	990	0	30	0	3%
 Travis	Texas	977	0	17	0	1.7%
@@ -1416,7 +1416,7 @@ Rhea	Tennessee	0	0	0	0	0%
 Crockett	Tennessee	0	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
 Mecklenburg	North Carolina	1,084	32	19	0	1.8%
-Wake	North Carolina	556	19	1	0	0.2%
+Wake	North Carolina	556	19	3	2	0.5%
 Durham	North Carolina	376	0	2	0	0.5%
 Rowan	North Carolina	216	0	8	1	3.7%
 Cabarrus	North Carolina	204	0	3	0	1.5%
@@ -1435,7 +1435,7 @@ Moore	North Carolina	88	0	4	1	4.5%
 Wilson	North Carolina	83	4	3	0	3.6%
 Chatham	North Carolina	81	0	1	0	1.2%
 Pitt	North Carolina	80	8	1	0	1.3%
-Iredell	North Carolina	72	0	2	0	2.8%
+Iredell	North Carolina	77	5	2	0	2.6%
 Northampton	North Carolina	69	0	1	0	1.4%
 Franklin	North Carolina	67	0	5	2	7.5%
 Burke	North Carolina	63	3	5	0	7.9%
@@ -1443,12 +1443,12 @@ New Hanover	North Carolina	63	0	1	0	1.6%
 Randolph	North Carolina	63	3	2	0	3.2%
 Rutherford	North Carolina	58	11	2	0	3.4%
 Harnett	North Carolina	53	0	2	0	3.8%
+Columbus	North Carolina	50	10	1	0	2%
 Alamance	North Carolina	45	2	0	0	0%
 Nash	North Carolina	45	3	1	0	2.2%
 Buncombe	North Carolina	43	4	3	0	7%
 Edgecombe	North Carolina	42	6	1	0	2.4%
 Cleveland	North Carolina	41	1	1	0	2.4%
-Columbus	North Carolina	41	1	1	0	2.4%
 Catawba	North Carolina	38	0	1	0	2.6%
 Onslow	North Carolina	37	1	1	0	2.7%
 Brunswick	North Carolina	36	1	2	0	5.6%
@@ -1724,7 +1724,7 @@ Green	Wisconsin	9	0	0	0	0%
 Douglas	Wisconsin	7	0	0	0	0%
 Juneau	Wisconsin	7	0	1	0	14.3%
 Pierce	Wisconsin	7	0	0	0	0%
-Richland	Wisconsin	7	0	0	0	0%
+Richland	Wisconsin	7	0	1	1	14.3%
 Oneida	Wisconsin	6	0	0	0	0%
 Barron	Wisconsin	6	0	0	0	0%
 Shawano	Wisconsin	6	0	0	0	0%
@@ -1756,7 +1756,7 @@ Trempealeau	Wisconsin	1	0	0	0	0%
 Price	Wisconsin	1	0	0	0	0%
 Green Lake	Wisconsin	1	0	0	0	0%
 Washburn	Wisconsin	1	1	0	0	0%
-Unassigned	Wisconsin	0	-1	0	0	0%
+Unassigned	Wisconsin	0	-1	0	-2	0%
 Pepin	Wisconsin	0	0	0	0	0%
 Richland	South Carolina	548	0	12	0	2.2%
 Greenville	South Carolina	400	0	11	0	2.8%
@@ -2368,9 +2368,9 @@ Sedgwick	Kansas	219	8	3	0	1.4%
 Leavenworth	Kansas	114	16	1	0	0.9%
 Shawnee	Kansas	82	0	5	0	6.1%
 Ford	Kansas	51	19	0	0	0%
+Lyon	Kansas	48	6	0	0	0%
 Coffey	Kansas	45	0	6	0	13.3%
 Douglas	Kansas	42	0	0	0	0%
-Lyon	Kansas	42	0	0	0	0%
 Riley	Kansas	26	1	0	0	0%
 Finney	Kansas	21	3	1	0	4.8%
 Labette	Kansas	20	0	0	0	0%
@@ -2609,30 +2609,30 @@ Cibola, NM	Navajo Nation	9	0	0	0	0%
 Socorro, NM	Navajo Nation	6	0	0	0	0%
 Sandoval, NM	Navajo Nation	4	0	0	0	0%
 Bernalillo, NM	Navajo Nation	0	0	0	0	0%
-Cumberland	Maine	339	0	14	0	4.1%
-York	Maine	156	0	4	0	2.6%
-Kennebec	Maine	93	0	3	0	3.2%
-Penobscot	Maine	36	0	0	0	0%
-Androscoggin	Maine	31	0	1	0	3.2%
-Waldo	Maine	30	0	2	0	6.7%
+Cumberland	Maine	343	4	14	0	4.1%
+York	Maine	164	8	6	2	3.7%
+Kennebec	Maine	94	1	3	0	3.2%
+Waldo	Maine	39	9	3	1	7.7%
+Penobscot	Maine	37	1	0	0	0%
+Androscoggin	Maine	32	1	1	0	3.1%
 Sagadahoc	Maine	15	0	0	0	0%
+Somerset	Maine	14	1	0	0	0%
 Oxford	Maine	13	0	0	0	0%
-Somerset	Maine	13	0	0	0	0%
 Knox	Maine	12	0	0	0	0%
 Lincoln	Maine	12	0	0	0	0%
 Franklin	Maine	9	0	0	0	0%
 Hancock	Maine	5	0	0	0	0%
+Aroostook	Maine	3	1	0	0	0%
 Unassigned	Maine	2	0	0	0	0%
-Aroostook	Maine	2	0	0	0	0%
 Washington	Maine	2	0	0	0	0%
-Chittenden	Vermont	372	0	20	0	5.4%
-Franklin	Vermont	84	0	3	0	3.6%
-Windham	Vermont	57	0	1	0	1.8%
+Chittenden	Vermont	377	5	22	2	5.8%
+Franklin	Vermont	86	2	3	0	3.5%
+Windham	Vermont	58	1	2	1	3.4%
 Addison	Vermont	56	0	1	0	1.8%
-Rutland	Vermont	39	0	0	0	0%
-Bennington	Vermont	32	0	1	0	3.1%
+Rutland	Vermont	41	2	0	0	0%
+Bennington	Vermont	33	1	1	0	3%
+Windsor	Vermont	31	4	2	0	6.5%
 Washington	Vermont	29	0	0	0	0%
-Windsor	Vermont	27	0	2	0	7.4%
 Lamoille	Vermont	22	0	2	0	9.1%
 Unassigned	Vermont	15	0	0	0	0%
 Caledonia	Vermont	9	0	0	0	0%
