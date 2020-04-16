@@ -16,7 +16,7 @@ Maryland	10,032	0	349	0	3.5%
 Indiana	8,960	0	436	0	4.9%
 Colorado 	8,280	0	357	0	4.3%
 Ohio	7,794	0	362	0	4.6%
-Virginia	6,500	0	195	0	3%
+Virginia	6,889	389	195	0	2.8%
 Tennessee	6,288	0	135	0	2.1%
 North Carolina	5,424	0	138	0	2.5%
 Missouri	5,004	0	166	0	3.3%
@@ -29,9 +29,9 @@ Rhode Island	3,529	0	87	0	2.5%
 Mississippi	3,360	0	122	0	3.6%
 Nevada	3,214	0	137	0	4.3%
 Utah	2,548	0	20	0	0.8%
+Washington, D.C.	2,350	153	81	9	3.4%
 Kentucky	2,291	0	122	0	5.3%
 Oklahoma	2,263	0	123	0	5.4%
-Washington, D.C.	2,197	0	72	0	3.3%
 Delaware	2,014	0	46	0	2.3%
 Iowa	1,995	0	53	0	2.7%
 Minnesota	1,809	0	87	0	4.8%

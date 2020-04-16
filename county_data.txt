@@ -1180,119 +1180,120 @@ Meigs	Ohio	2	0	0	0	0%
 Henry	Ohio	2	0	0	0	0%
 Pike	Ohio	1	0	0	0	0%
 Unassigned	Ohio	0	0	0	0	0%
-Fairfax	Virginia	1,298	0	21	0	1.6%
-Prince William	Virginia	536	0	1	0	0.2%
-Henrico	Virginia	453	0	52	0	11.5%
-Arlington	Virginia	420	0	2	0	0.5%
-Loudoun	Virginia	367	0	7	0	1.9%
-Virginia Beach	Virginia	256	0	1	0	0.4%
-Alexandria	Virginia	254	0	1	0	0.4%
-Chesterfield	Virginia	254	0	0	0	0%
-Richmond City	Virginia	177	0	0	0	0%
-Chesapeake	Virginia	140	0	0	0	0%
-James City	Virginia	132	0	2	0	1.5%
-Stafford	Virginia	108	0	0	0	0%
-Harrisonburg	Virginia	101	0	0	0	0%
-Norfolk	Virginia	99	0	2	0	2%
-Newport News	Virginia	95	0	1	0	1.1%
-Hampton	Virginia	75	0	1	0	1.3%
-Frederick	Virginia	73	0	0	0	0%
-Rockingham	Virginia	67	0	0	0	0%
-Fluvanna	Virginia	62	0	0	0	0%
-Isle of Wight	Virginia	60	0	0	0	0%
-Spotsylvania	Virginia	60	0	0	0	0%
-Portsmouth	Virginia	59	0	0	0	0%
-Suffolk	Virginia	59	0	0	0	0%
-Mecklenburg	Virginia	57	0	0	0	0%
-Albemarle	Virginia	53	0	0	0	0%
-Hanover	Virginia	53	0	0	0	0%
-Manassas City	Virginia	53	0	0	0	0%
-Goochland	Virginia	40	0	0	0	0%
+Fairfax	Virginia	1,375	77	21	0	1.5%
+Prince William	Virginia	582	46	1	0	0.2%
+Henrico	Virginia	497	44	52	0	10.5%
+Arlington	Virginia	453	33	2	0	0.4%
+Loudoun	Virginia	378	11	7	0	1.9%
+Alexandria	Virginia	275	21	1	0	0.4%
+Chesterfield	Virginia	267	13	0	0	0%
+Virginia Beach	Virginia	258	2	1	0	0.4%
+Richmond City	Virginia	188	11	0	0	0%
+Chesapeake	Virginia	143	3	0	0	0%
+James City	Virginia	135	3	2	0	1.5%
+Stafford	Virginia	120	12	0	0	0%
+Harrisonburg	Virginia	119	18	0	0	0%
+Norfolk	Virginia	105	6	2	0	1.9%
+Newport News	Virginia	97	2	1	0	1%
+Hampton	Virginia	77	2	1	0	1.3%
+Frederick	Virginia	72	0	0	0	0%
+Rockingham	Virginia	69	2	0	0	0%
+Suffolk	Virginia	65	6	0	0	0%
+Fluvanna	Virginia	64	2	0	0	0%
+Isle of Wight	Virginia	63	3	0	0	0%
+Manassas City	Virginia	62	9	0	0	0%
+Portsmouth	Virginia	62	3	0	0	0%
+Spotsylvania	Virginia	62	2	0	0	0%
+Hanover	Virginia	61	8	0	0	0%
+Mecklenburg	Virginia	61	4	0	0	0%
+Albemarle	Virginia	54	1	0	0	0%
+Goochland	Virginia	41	1	0	0	0%
 Charlottesville	Virginia	38	0	1	0	2.6%
-York	Virginia	35	0	1	0	2.9%
+York	Virginia	37	2	1	0	2.7%
 Lynchburg	Virginia	34	0	0	0	0%
 Montgomery	Virginia	34	0	0	0	0%
-Fauquier	Virginia	29	0	0	0	0%
-Louisa	Virginia	29	0	0	0	0%
-Prince George	Virginia	27	0	0	0	0%
-Shenandoah	Virginia	27	0	0	0	0%
+Fauquier	Virginia	32	3	0	0	0%
+Louisa	Virginia	30	1	0	0	0%
+Culpeper	Virginia	29	4	0	0	0%
+Shenandoah	Virginia	28	1	0	0	0%
 Washington	Virginia	27	0	0	0	0%
-Culpeper	Virginia	25	0	0	0	0%
+Prince George	Virginia	26	0	0	0	0%
+Roanoke City	Virginia	24	2	0	0	0%
 Botetourt	Virginia	23	0	0	0	0%
-Buckingham	Virginia	22	0	0	0	0%
+Buckingham	Virginia	23	1	0	0	0%
 Danville	Virginia	22	0	0	0	0%
-Roanoke City	Virginia	22	0	0	0	0%
+Warren	Virginia	21	1	0	0	0%
 Winchester	Virginia	21	0	0	0	0%
 Gloucester	Virginia	20	0	0	0	0%
-Warren	Virginia	20	0	0	0	0%
+Accomack	Virginia	19	4	0	0	0%
+Augusta	Virginia	19	1	0	0	0%
 Petersburg	Virginia	19	0	0	0	0%
+Roanoke	Virginia	19	2	0	0	0%
 Williamsburg	Virginia	19	0	1	0	5.3%
-Augusta	Virginia	18	0	0	0	0%
-King George	Virginia	17	0	0	0	0%
-Orange	Virginia	17	0	0	0	0%
-Roanoke	Virginia	17	0	0	0	0%
-Colonial Heights	Virginia	17	0	0	0	0%
+King George	Virginia	18	1	0	0	0%
+Orange	Virginia	18	1	0	0	0%
+Wise	Virginia	18	3	0	0	0%
+Colonial Heights	Virginia	18	1	0	0	0%
 Bedford	Virginia	16	0	0	0	0%
 Greensville	Virginia	16	0	0	0	0%
+Manassas Park	Virginia	16	2	0	0	0%
 New Kent	Virginia	16	0	0	0	0%
-Accomack	Virginia	15	0	0	0	0%
 Franklin	Virginia	15	0	0	0	0%
 Fredericksburg	Virginia	15	0	0	0	0%
 Prince Edward	Virginia	15	0	0	0	0%
-Wise	Virginia	15	0	0	0	0%
 Hopewell	Virginia	14	0	0	0	0%
-Manassas Park	Virginia	14	0	0	0	0%
+Amelia	Virginia	13	3	0	0	0%
 Buchanan	Virginia	12	0	0	0	0%
-Campbell	Virginia	11	0	0	0	0%
 Smyth	Virginia	11	0	0	0	0%
-Amelia	Virginia	10	0	0	0	0%
+Caroline	Virginia	11	2	0	0	0%
 Amherst	Virginia	10	0	0	0	0%
-Sussex	Virginia	10	0	0	0	0%
-Brunswick	Virginia	9	0	0	0	0%
+Brunswick	Virginia	10	1	0	0	0%
+Campbell	Virginia	9	0	0	0	0%
 Charles City	Virginia	9	0	0	0	0%
-Caroline	Virginia	9	0	0	0	0%
+Franklin City	Virginia	9	2	0	0	0%
+Sussex	Virginia	9	0	0	0	0%
+Westmoreland	Virginia	9	1	0	0	0%
 Henry	Virginia	8	0	0	0	0%
 Madison	Virginia	8	0	0	0	0%
-Cumberland	Virginia	8	0	0	0	0%
-Westmoreland	Virginia	8	0	0	0	0%
-Franklin City	Virginia	7	0	0	0	0%
+Charlotte	Virginia	8	3	0	0	0%
 Halifax	Virginia	7	0	0	0	0%
+Page	Virginia	7	1	0	0	0%
 Wythe	Virginia	7	0	0	0	0%
+Cumberland	Virginia	7	0	0	0	0%
 Emporia	Virginia	7	0	0	0	0%
 Richmond	Virginia	7	0	0	0	0%
 Appomattox	Virginia	7	0	0	0	0%
 Dinwiddie	Virginia	7	0	0	0	0%
 Lee	Virginia	6	0	0	0	0%
-Page	Virginia	6	0	0	0	0%
 Poquoson	Virginia	6	0	0	0	0%
 Southampton	Virginia	6	0	0	0	0%
 Waynesboro	Virginia	6	0	0	0	0%
 Clarke	Virginia	6	0	0	0	0%
 Greene	Virginia	5	0	0	0	0%
 Nelson	Virginia	5	0	0	0	0%
+Northumberland	Virginia	5	1	0	0	0%
 Nottoway	Virginia	5	0	0	0	0%
+Pittsylvania	Virginia	5	1	0	0	0%
 Powhatan	Virginia	5	0	0	0	0%
-Charlotte	Virginia	5	0	0	0	0%
+Pulaski	Virginia	5	1	0	0	0%
 Alleghany	Virginia	4	0	0	0	0%
 Northampton	Virginia	4	0	0	0	0%
-Northumberland	Virginia	4	0	0	0	0%
-Pittsylvania	Virginia	4	0	0	0	0%
 Tazewell	Virginia	4	0	0	0	0%
+Salem	Virginia	4	1	0	0	0%
 Buena Vista City	Virginia	4	0	0	0	0%
-Pulaski	Virginia	4	0	0	0	0%
 Giles	Virginia	4	0	0	0	0%
 Carroll	Virginia	3	0	0	0	0%
 Scott	Virginia	3	0	0	0	0%
 Mathews	Virginia	3	0	0	0	0%
 Rockbridge	Virginia	3	0	0	0	0%
 Surry	Virginia	3	0	0	0	0%
-Salem	Virginia	3	0	0	0	0%
 Lexington	Virginia	3	0	0	0	0%
+Staunton	Virginia	3	1	0	0	0%
 Lunenburg	Virginia	3	0	0	0	0%
 Middlesex	Virginia	3	0	0	0	0%
 King and Queen	Virginia	2	0	0	0	0%
 King William	Virginia	2	0	0	0	0%
-Staunton	Virginia	2	0	0	0	0%
+Essex	Virginia	2	2	0	0	0%
 Russell	Virginia	2	0	0	0	0%
 Craig	Virginia	2	0	0	0	0%
 Bristol	Virginia	1	0	0	0	0%
@@ -1306,14 +1307,13 @@ Fairfax City	Virginia	0	0	0	0	0%
 Bath	Virginia	0	0	0	0	0%
 Bland	Virginia	0	0	0	0	0%
 Dickenson	Virginia	0	0	0	0	0%
-Essex	Virginia	0	0	0	0	0%
 Falls Church	Virginia	0	0	0	0	0%
 Grayson	Virginia	0	0	0	0	0%
 Highland	Virginia	0	0	0	0	0%
 Martinsville	Virginia	0	0	0	0	0%
 Norton	Virginia	0	0	0	0	0%
 Patrick	Virginia	0	0	0	0	0%
-Unassigned	Virginia	0	0	101	0	0%
+Unassigned	Virginia	0	-6	101	0	0%
 Davidson	Tennessee	1,492	0	19	0	1.3%
 Shelby	Tennessee	1,421	0	31	0	2.2%
 Sumner	Tennessee	478	0	27	0	5.6%
@@ -1918,6 +1918,7 @@ Carbon	Utah	2	0	0	0	0%
 Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
 unassigned	Utah	0	0	7	0	0%
+District of Columbia	Washington, D.C.	2,350	153	81	9	3.4%
 Jefferson	Kentucky	582	0	53	0	9.1%
 Fayette	Kentucky	206	0	7	0	3.4%
 Kenton	Kentucky	107	0	10	0	9.3%
@@ -2091,7 +2092,6 @@ Okfuskee	Oklahoma	1	0	0	0	0%
 Alfalfa	Oklahoma	1	0	0	0	0%
 Out-of-State	Oklahoma	0	0	0	0	0%
 Unassigned	Oklahoma	0	0	0	0	0%
-District of Columbia	Washington, D.C.	2,197	0	72	0	3.3%
 New Castle	Delaware	974	0	20	0	2.1%
 Sussex	Delaware	678	0	16	0	2.4%
 Kent	Delaware	345	0	7	0	2%
