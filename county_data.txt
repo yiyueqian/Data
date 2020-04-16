@@ -8,7 +8,7 @@ Orange	New York	5,830	0	178	0	3.1%
 Dutchess	New York	2,048	114	18	1	0.9%
 Erie	New York	1,812	82	104	31	5.7%
 Monroe	New York	884	34	56	0	6.3%
-Ulster	New York	745	0	13	0	1.7%
+Ulster	New York	804	59	13	0	1.6%
 Putnam	New York	634	0	7	0	1.1%
 Onondaga	New York	563	26	12	1	2.1%
 Albany	New York	548	13	20	4	3.6%
@@ -180,11 +180,11 @@ Benzie	Michigan	0	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
 Los Angeles	California	10,517	442	405	39	3.9%
 Riverside	California	2,105	144	54	4	2.6%
-San Diego	California	1,930	0	53	0	2.7%
+San Diego	California	2,012	82	60	7	3%
 Santa Clara	California	1,793	127	65	5	3.6%
 Orange	California	1,376	77	22	3	1.6%
 San Francisco	California	1,013	26	17	2	1.7%
-San Bernardino	California	977	0	31	0	3.2%
+San Bernardino	California	996	19	39	8	3.9%
 Alameda	California	964	76	36	12	3.7%
 Sacramento	California	853	37	32	4	3.8%
 San Mateo	California	747	0	21	0	2.8%
@@ -219,7 +219,7 @@ Inyo	California	17	5	0	0	0%
 Butte	California	16	0	0	0	0%
 Yuba	California	15	0	1	0	6.7%
 Kings	California	13	0	1	0	7.7%
-Calaveras	California	9	0	0	0	0%
+Calaveras	California	11	2	0	0	0%
 Amador	California	7	0	0	0	0%
 Siskiyou	California	5	0	0	0	0%
 Lake	California	5	0	0	0	0%
@@ -237,7 +237,7 @@ Montgomery	Pennsylvania	2,475	121	82	6	3.3%
 Delaware	Pennsylvania	1,935	84	60	14	3.1%
 Lehigh	Pennsylvania	1,922	119	25	2	1.3%
 Luzerne	Pennsylvania	1,567	44	27	1	1.7%
-Bucks	Pennsylvania	1,399	0	52	0	3.7%
+Bucks	Pennsylvania	1,450	51	60	8	4.1%
 Berks	Pennsylvania	1,335	88	28	1	2.1%
 Northampton	Pennsylvania	1,251	75	25	0	2%
 Lancaster	Pennsylvania	914	49	69	40	7.5%
@@ -544,8 +544,8 @@ Brazos	Texas	151	2	13	0	8.6%
 Jefferson	Texas	140	6	6	0	4.3%
 Williamson	Texas	124	0	4	0	3.2%
 Bell	Texas	110	3	3	0	2.7%
+Hays	Texas	109	6	1	0	0.9%
 Smith	Texas	108	5	2	1	1.9%
-Hays	Texas	103	0	1	0	1%
 Victoria	Texas	89	2	1	1	1.1%
 Nueces	Texas	83	0	0	0	0%
 Potter	Texas	79	0	2	0	2.5%
@@ -882,27 +882,27 @@ Tolland	Connecticut	216	15	22	4	10.2%
 Windham	Connecticut	89	2	1	0	1.1%
 King	Washington	4,697	77	312	9	6.6%
 Snohomish	Washington	1,988	38	80	3	4%
-Pierce	Washington	1,000	0	23	0	2.3%
-Yakima	Washington	635	0	29	0	4.6%
-Unassigned	Washington	383	0	0	0	0%
-Spokane	Washington	278	0	17	0	6.1%
-Whatcom	Washington	269	4	25	0	9.3%
-Benton	Washington	266	0	29	0	10.9%
+Pierce	Washington	1,022	22	24	1	2.3%
+Yakima	Washington	674	39	29	0	4.3%
+Spokane	Washington	286	8	17	0	5.9%
+Unassigned	Washington	273	-110	0	0	0%
+Whatcom	Washington	273	8	25	0	9.2%
+Benton	Washington	272	6	29	0	10.7%
 Clark	Washington	258	8	15	0	5.8%
 Skagit	Washington	209	11	6	0	2.9%
 Franklin	Washington	185	0	2	0	1.1%
 Island	Washington	163	1	8	0	4.9%
 Kitsap	Washington	132	0	1	0	0.8%
-Grant	Washington	122	0	2	0	1.6%
+Grant	Washington	129	7	2	0	1.6%
 Thurston	Washington	82	0	1	0	1.2%
 Chelan	Washington	61	0	5	0	8.2%
-Adams	Washington	39	0	0	0	0%
-Douglas	Washington	29	0	1	0	3.4%
+Adams	Washington	40	1	0	0	0%
+Douglas	Washington	34	5	1	0	2.9%
 Jefferson	Washington	28	0	0	0	0%
 Cowlitz	Washington	26	1	0	0	0%
-Walla Walla	Washington	23	0	0	0	0%
+Walla Walla	Washington	26	3	0	0	0%
+Mason	Washington	20	1	0	0	0%
 Lewis	Washington	19	0	2	0	10.5%
-Mason	Washington	19	0	0	0	0%
 Klickitat	Washington	15	1	2	1	13.3%
 Okanogan	Washington	15	0	0	0	0%
 Clallam	Washington	14	2	0	0	0%
@@ -910,8 +910,8 @@ Kittitas	Washington	14	0	0	0	0%
 San Juan	Washington	13	0	0	0	0%
 Grays Harbor	Washington	12	1	0	0	0%
 Whitman	Washington	12	0	0	0	0%
+Asotin	Washington	8	2	0	0	0%
 Stevens	Washington	7	0	1	0	14.3%
-Asotin	Washington	6	0	0	0	0%
 Skamania	Washington	3	0	0	0	0%
 Lincoln	Washington	2	0	0	0	0%
 Wahkiakum	Washington	2	0	0	0	0%
@@ -1423,7 +1423,7 @@ Johnston	North Carolina	107	3	9	1	8.4%
 Granville	North Carolina	99	2	1	0	1%
 Henderson	North Carolina	99	0	7	0	7.1%
 Gaston	North Carolina	95	4	3	0	3.2%
-Cumberland	North Carolina	90	0	2	0	2.2%
+Cumberland	North Carolina	94	4	3	1	3.2%
 Davidson	North Carolina	90	4	2	0	2.2%
 Moore	North Carolina	88	3	3	1	3.4%
 Wayne	North Carolina	87	9	2	0	2.3%
@@ -2353,6 +2353,41 @@ Clay	Arkansas	1	0	0	0	0%
 Madison	Arkansas	1	0	0	0	0%
 Marion	Arkansas	1	0	0	0	0%
 Jackson	Arkansas	1	0	0	0	0%
+Ada	Idaho	540	2	9	0	1.7%
+Blaine	Idaho	463	5	5	0	1.1%
+Canyon	Idaho	179	12	5	0	2.8%
+Twin Falls	Idaho	87	8	8	1	9.2%
+Kootenai	Idaho	48	3	0	0	0%
+Jerome	Idaho	33	3	2	0	6.1%
+Nez Perce	Idaho	20	0	10	1	50%
+Elmore	Idaho	18	0	0	0	0%
+Bonneville	Idaho	16	2	0	0	0%
+Lincoln	Idaho	15	0	0	0	0%
+Cassia	Idaho	10	0	1	0	10%
+Payette	Idaho	10	1	1	0	10%
+Gem	Idaho	9	0	0	0	0%
+Gooding	Idaho	6	1	0	0	0%
+Minidoka	Idaho	6	0	0	0	0%
+Teton	Idaho	6	0	0	0	0%
+Bannock	Idaho	5	0	0	0	0%
+Madison	Idaho	5	0	0	0	0%
+Bonner	Idaho	4	0	0	0	0%
+Jefferson	Idaho	4	0	0	0	0%
+Owyhee	Idaho	4	0	0	0	0%
+Idaho	Idaho	3	0	0	0	0%
+Latah	Idaho	3	0	0	0	0%
+Bingham	Idaho	2	0	0	0	0%
+Custer	Idaho	2	0	0	0	0%
+Fremont	Idaho	2	0	0	0	0%
+Valley	Idaho	2	0	0	0	0%
+Power	Idaho	2	0	0	0	0%
+Adams	Idaho	1	0	0	0	0%
+Camas	Idaho	1	0	0	0	0%
+Washington	Idaho	1	0	0	0	0%
+Caribou	Idaho	1	0	0	0	0%
+Unassigned	Idaho	0	0	0	0	0%
+Lewis	Idaho	0	0	0	0	0%
+Boundary	Idaho	0	0	0	0	0%
 Wyandotte	Kansas	363	18	31	1	8.5%
 Johnson	Kansas	334	11	19	3	5.7%
 Sedgwick	Kansas	209	3	3	0	1.4%
@@ -2447,41 +2482,6 @@ Lincoln	New Mexico	1	0	0	0	0%
 Quay	New Mexico	1	0	0	0	0%
 Unassigned	New Mexico	0	0	0	0	0%
 Hidalgo	New Mexico	0	0	0	0	0%
-Ada	Idaho	538	0	9	0	1.7%
-Blaine	Idaho	458	0	5	0	1.1%
-Canyon	Idaho	167	0	5	0	3%
-Twin Falls	Idaho	79	0	7	0	8.9%
-Kootenai	Idaho	45	0	0	0	0%
-Jerome	Idaho	30	0	2	0	6.7%
-Nez Perce	Idaho	20	0	9	0	45%
-Elmore	Idaho	18	0	0	0	0%
-Bonneville	Idaho	16	2	0	0	0%
-Lincoln	Idaho	15	0	0	0	0%
-Cassia	Idaho	10	0	1	0	10%
-Gem	Idaho	9	0	0	0	0%
-Payette	Idaho	9	0	1	0	11.1%
-Minidoka	Idaho	6	0	0	0	0%
-Teton	Idaho	6	0	0	0	0%
-Bannock	Idaho	5	0	0	0	0%
-Gooding	Idaho	5	0	0	0	0%
-Madison	Idaho	5	0	0	0	0%
-Bonner	Idaho	4	0	0	0	0%
-Jefferson	Idaho	4	0	0	0	0%
-Owyhee	Idaho	4	0	0	0	0%
-Idaho	Idaho	3	0	0	0	0%
-Latah	Idaho	3	0	0	0	0%
-Bingham	Idaho	2	0	0	0	0%
-Custer	Idaho	2	0	0	0	0%
-Fremont	Idaho	2	0	0	0	0%
-Valley	Idaho	2	0	0	0	0%
-Power	Idaho	2	0	0	0	0%
-Adams	Idaho	1	0	0	0	0%
-Camas	Idaho	1	0	0	0	0%
-Washington	Idaho	1	0	0	0	0%
-Caribou	Idaho	1	0	0	0	0%
-Unassigned	Idaho	0	0	0	0	0%
-Lewis	Idaho	0	0	0	0	0%
-Boundary	Idaho	0	0	0	0	0%
 Minnehaha	South Dakota	934	166	2	0	0.2%
 Lincoln	South Dakota	65	10	0	0	0%
 Yankton	South Dakota	22	0	0	0	0%
@@ -2630,25 +2630,25 @@ Orleans	Vermont	8	0	0	0	0%
 Orange	Vermont	5	0	0	0	0%
 Grand Isle	Vermont	3	0	0	0	0%
 Essex	Vermont	1	0	0	0	0%
-Berkeley	West Virginia	99	0	0	0	0%
-Kanawha	West Virginia	88	2	0	0	0%
+Berkeley	West Virginia	101	2	0	0	0%
+Kanawha	West Virginia	91	5	0	0	0%
 Monongalia	West Virginia	83	1	2	0	2.4%
-Wayne	West Virginia	61	1	0	0	0%
-Jefferson	West Virginia	54	0	0	0	0%
+Wayne	West Virginia	69	9	0	0	0%
+Jefferson	West Virginia	56	2	0	0	0%
 Marion	West Virginia	41	2	1	0	2.4%
-Jackson	West Virginia	33	2	1	0	3%
+Jackson	West Virginia	34	3	1	0	2.9%
 Cabell	West Virginia	28	0	0	0	0%
 Harrison	West Virginia	28	0	1	0	3.6%
+Wood	West Virginia	25	3	0	0	0%
 Ohio	West Virginia	22	0	0	0	0%
-Wood	West Virginia	22	0	0	0	0%
 Putnam	West Virginia	13	0	0	0	0%
 Mason	West Virginia	9	0	0	0	0%
 Logan	West Virginia	8	0	1	0	12.5%
 Mercer	West Virginia	8	0	0	0	0%
 Hancock	West Virginia	7	0	0	0	0%
 Marshall	West Virginia	7	0	0	0	0%
+Morgan	West Virginia	7	1	0	0	0%
 Hampshire	West Virginia	7	0	0	0	0%
-Morgan	West Virginia	6	0	0	0	0%
 Preston	West Virginia	6	0	0	0	0%
 Raleigh	West Virginia	6	0	0	0	0%
 Mineral	West Virginia	6	1	0	0	0%
@@ -2658,12 +2658,12 @@ Randolph	West Virginia	4	0	0	0	0%
 Tucker	West Virginia	4	0	0	0	0%
 Taylor	West Virginia	4	0	0	0	0%
 Greenbrier	West Virginia	3	0	0	0	0%
+Hardy	West Virginia	3	1	0	0	0%
 Upshur	West Virginia	3	0	0	0	0%
 Wetzel	West Virginia	3	0	0	0	0%
 Brooke	West Virginia	3	0	0	0	0%
 Nicholas	West Virginia	3	1	0	0	0%
 Tyler	West Virginia	3	0	0	0	0%
-Hardy	West Virginia	2	0	0	0	0%
 Roane	West Virginia	2	0	0	0	0%
 Wirt	West Virginia	2	0	0	0	0%
 Lewis	West Virginia	2	0	0	0	0%
