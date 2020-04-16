@@ -9,7 +9,7 @@ Illinois	24,593	1,349	949	80	3.9%
 Florida	22,511	885	596	26	2.6%
 Louisiana	21,951	435	1,103	91	5%
 Texas	16,230	885	387	26	2.4%
-Georgia	14,987	409	552	28	3.7%
+Georgia	15,267	689	576	52	3.8%
 Connecticut	14,755	766	868	197	5.9%
 Washington	11,018	132	562	14	5.1%
 Maryland	10,032	562	342	40	3.4%
@@ -47,7 +47,7 @@ Nebraska	952	53	21	1	2.2%
 Navajo Nation	838	0	33	0	3.9%
 Maine	770	36	24	4	3.1%
 Vermont	759	0	29	0	3.8%
-West Virginia	723	30	10	0	1.4%
+West Virginia	723	30	12	2	1.7%
 Hawaii	530	13	9	0	1.7%
 Montana	404	5	7	0	1.7%
 North Dakota	365	24	9	0	2.5%
