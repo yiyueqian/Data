@@ -8,25 +8,25 @@ Pennsylvania	26,804	1,214	787	112	2.9%
 Illinois	24,593	1,349	949	80	3.9%
 Florida	22,511	885	596	26	2.6%
 Louisiana	21,951	435	1,103	91	5%
-Texas	16,230	885	387	26	2.4%
+Texas	16,289	944	390	29	2.4%
 Georgia	15,267	689	576	52	3.8%
 Connecticut	14,755	766	868	197	5.9%
 Washington	11,018	132	562	14	5.1%
 Maryland	10,032	562	342	40	3.4%
 Indiana	8,960	433	436	49	4.9%
-Colorado 	7,956	6	330	1	4.1%
+Colorado 	8,280	332	356	27	4.3%
 Ohio	7,794	509	362	38	4.6%
 Virginia	6,500	328	195	38	3%
 Tennessee	6,079	258	135	11	2.2%
-North Carolina	5,424	289	135	15	2.5%
-Missouri	4,791	7	153	0	3.2%
+North Carolina	5,424	289	138	18	2.5%
+Missouri	4,994	210	166	13	3.3%
 US Military	4,766	217	17	1	0.4%
-Alabama	4,075	124	118	4	2.9%
+Alabama	4,241	290	123	9	2.9%
 Arizona	3,968	167	143	12	3.6%
 Wisconsin	3,721	166	183	13	4.9%
 South Carolina	3,656	105	107	10	2.9%
+Rhode Island	3,529	278	87	7	2.5%
 Mississippi	3,360	275	122	11	3.6%
-Rhode Island	3,251	0	80	0	2.5%
 Nevada	3,211	67	131	1	4.1%
 Utah	2,548	131	20	1	0.8%
 Oklahoma	2,263	85	123	15	5.4%
@@ -44,7 +44,7 @@ South Dakota	1,168	180	6	0	0.5%
 New Hampshire	1,139	49	32	5	2.8%
 Puerto Rico	974	51	51	6	5.2%
 Nebraska	952	53	21	1	2.2%
-Navajo Nation	838	0	33	0	3.9%
+Navajo Nation	921	83	38	5	4.1%
 Maine	770	36	24	4	3.1%
 Vermont	759	0	29	0	3.8%
 West Virginia	723	30	12	2	1.7%
