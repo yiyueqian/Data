@@ -527,25 +527,25 @@ Harris--Houston	Texas	2,331	52	26	3	1.1%
 Dallas	Texas	1,986	109	43	1	2.2%
 Harris--Non Houston	Texas	1,766	138	32	3	1.8%
 Tarrant	Texas	990	61	30	1	3%
-Travis	Texas	977	77	14	0	1.4%
-Bexar	Texas	815	0	33	0	4%
+Travis	Texas	977	77	17	3	1.7%
+Bexar	Texas	890	75	37	4	4.2%
 Fort Bend	Texas	627	50	15	1	2.4%
-Denton	Texas	521	0	14	0	2.7%
-Collin	Texas	477	0	10	0	2.1%
-Galveston	Texas	392	0	11	0	2.8%
+Denton	Texas	547	26	14	0	2.6%
+Collin	Texas	494	17	10	0	2%
+Galveston	Texas	401	9	13	2	3.2%
+Lubbock	Texas	367	37	25	0	6.8%
 El Paso	Texas	346	0	4	0	1.2%
 Montgomery	Texas	331	23	6	0	1.8%
-Lubbock	Texas	330	0	25	0	7.6%
-Brazoria	Texas	259	0	3	0	1.2%
+Brazoria	Texas	272	13	3	0	1.1%
 Cameron	Texas	239	0	3	0	1.3%
-Webb	Texas	223	0	8	0	3.6%
+Webb	Texas	239	16	10	2	4.2%
 Hidalgo	Texas	217	0	1	0	0.5%
-Brazos	Texas	149	0	13	0	8.7%
+Brazos	Texas	151	2	13	0	8.6%
 Jefferson	Texas	140	6	6	0	4.3%
 Williamson	Texas	124	0	4	0	3.2%
 Bell	Texas	110	3	3	0	2.7%
+Smith	Texas	108	5	2	1	1.9%
 Hays	Texas	103	0	1	0	1%
-Smith	Texas	103	0	1	0	1%
 Victoria	Texas	89	2	1	1	1.1%
 Nueces	Texas	83	0	0	0	0%
 Potter	Texas	79	0	2	0	2.5%
@@ -553,44 +553,45 @@ Ellis	Texas	76	4	3	1	3.9%
 McLennan	Texas	74	3	3	1	4.1%
 Taylor	Texas	74	6	1	0	1.4%
 Randall	Texas	73	0	2	0	2.7%
+Nacogdoches	Texas	67	9	6	2	9%
 Hardin	Texas	65	4	2	0	3.1%
-Nacogdoches	Texas	64	6	6	2	9.4%
 Coryell	Texas	60	26	0	0	0%
 Wichita	Texas	56	0	0	0	0%
 Moore	Texas	52	16	0	0	0%
 Matagorda	Texas	51	0	3	0	5.9%
 Guadalupe	Texas	50	0	0	0	0%
-Gregg	Texas	47	0	0	0	0%
+Gregg	Texas	49	2	0	0	0%
 Ector	Texas	46	0	2	0	4.3%
 Orange	Texas	46	1	0	0	0%
-Shelby	Texas	46	6	0	0	0%
+Shelby	Texas	44	4	0	0	0%
 Washington	Texas	44	0	3	0	6.8%
 Comal	Texas	43	4	6	0	14%
 Tom Green	Texas	40	1	1	0	2.5%
 Rockwall	Texas	39	0	0	0	0%
+Bastrop	Texas	38	6	1	0	2.6%
 Walker	Texas	38	0	0	0	0%
 Bowie	Texas	37	5	1	0	2.7%
-Midland	Texas	35	0	2	0	5.7%
+Midland	Texas	36	1	2	0	5.6%
 Harrison	Texas	34	3	2	0	5.9%
 Johnson	Texas	34	3	1	0	2.9%
 Kaufman	Texas	33	1	0	0	0%
-Bastrop	Texas	32	5	1	0	3.1%
+Panola	Texas	32	10	3	0	9.4%
 Chambers	Texas	31	0	0	0	0%
 Wharton	Texas	28	0	0	0	0%
+Rusk	Texas	25	8	0	0	0%
 Liberty	Texas	23	3	0	0	0%
 Donley	Texas	22	0	0	0	0%
 Hunt	Texas	22	0	2	0	9.1%
-Panola	Texas	22	0	3	0	13.6%
+Angelina	Texas	20	3	0	0	0%
 Waller	Texas	20	2	0	0	0%
 Calhoun	Texas	19	0	0	0	0%
 Grayson	Texas	19	2	0	0	0%
-Angelina	Texas	17	0	0	0	0%
-Rusk	Texas	17	0	0	0	0%
 Navarro	Texas	16	0	2	0	12.5%
 Parker	Texas	16	1	0	0	0%
 Hockley	Texas	15	1	1	0	6.7%
 Hood	Texas	15	0	1	0	6.7%
 Kendall	Texas	14	2	0	0	0%
+Polk	Texas	14	3	0	0	0%
 Andrews	Texas	13	0	0	0	0%
 Erath	Texas	13	0	1	0	7.7%
 Medina	Texas	13	0	1	0	7.7%
@@ -604,15 +605,14 @@ Deaf Smith	Texas	11	0	0	0	0%
 Hale	Texas	11	0	2	0	18.2%
 Henderson	Texas	11	0	0	0	0%
 Limestone	Texas	11	0	1	0	9.1%
-Polk	Texas	11	0	0	0	0%
+San Augustine	Texas	11	2	1	0	9.1%
+Van Zandt	Texas	11	1	1	0	9.1%
 Wilson	Texas	11	0	0	0	0%
 De Witt	Texas	10	0	0	0	0%
 Maverick	Texas	10	0	0	0	0%
 Terry	Texas	10	0	0	0	0%
-Van Zandt	Texas	10	0	1	0	10%
 Atascosa	Texas	9	0	0	0	0%
 Cherokee	Texas	9	0	1	0	11.1%
-San Augustine	Texas	9	0	1	0	11.1%
 Upshur	Texas	9	0	0	0	0%
 Burleson	Texas	8	2	0	0	0%
 Dawson	Texas	8	0	1	0	12.5%
@@ -637,17 +637,17 @@ Camp	Texas	5	0	0	0	0%
 Fannin	Texas	5	0	0	0	0%
 Lynn	Texas	5	0	0	0	0%
 Montague	Texas	5	0	0	0	0%
+Tyler	Texas	5	1	0	0	0%
 Willacy	Texas	5	0	1	0	20%
 Wise	Texas	5	0	0	0	0%
 Goliad	Texas	5	1	0	0	0%
+Trinity	Texas	5	1	0	0	0%
 Pecos	Texas	5	2	0	0	0%
 Blanco	Texas	4	0	0	0	0%
 Hopkins	Texas	4	0	0	0	0%
 Jackson	Texas	4	0	0	0	0%
 Lavaca	Texas	4	0	0	0	0%
 Swisher	Texas	4	0	0	0	0%
-Tyler	Texas	4	0	0	0	0%
-Trinity	Texas	4	0	0	0	0%
 Clay	Texas	3	1	0	0	0%
 Comanche	Texas	3	0	0	0	0%
 Eastland	Texas	3	0	0	0	0%
@@ -710,6 +710,7 @@ Duval	Texas	1	0	0	0	0%
 Wilbarger	Texas	1	0	0	0	0%
 Bosque	Texas	1	1	0	0	0%
 Freestone	Texas	1	1	0	0	0%
+Marion	Texas	1	1	0	0	0%
 Monitor	Texas	0	0	0	0	0%
 Fulton	Georgia	1,844	32	62	2	3.4%
 Dougherty	Georgia	1,308	11	83	5	6.3%
@@ -1409,19 +1410,19 @@ Van Buren	Tennessee	1	0	0	0	0%
 Rhea	Tennessee	0	0	0	0	0%
 Crockett	Tennessee	0	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
-Mecklenburg	North Carolina	1,015	22	16	0	1.6%
+Mecklenburg	North Carolina	1,052	59	19	3	1.8%
 Wake	North Carolina	537	33	1	1	0.2%
 Durham	North Carolina	376	27	2	1	0.5%
 Rowan	North Carolina	216	8	7	4	3.2%
 Cabarrus	North Carolina	204	14	3	0	1.5%
-Orange	North Carolina	159	4	2	0	1.3%
+Orange	North Carolina	161	6	2	0	1.2%
 Guilford	North Carolina	151	13	10	0	6.6%
 Forsyth	North Carolina	125	2	4	0	3.2%
 Union	North Carolina	124	14	3	0	2.4%
 Johnston	North Carolina	107	3	9	1	8.4%
 Granville	North Carolina	99	2	1	0	1%
 Henderson	North Carolina	99	0	7	0	7.1%
-Gaston	North Carolina	91	0	3	0	3.3%
+Gaston	North Carolina	95	4	3	0	3.2%
 Cumberland	North Carolina	90	0	2	0	2.2%
 Davidson	North Carolina	90	4	2	0	2.2%
 Moore	North Carolina	88	3	3	1	3.4%
@@ -1450,9 +1451,9 @@ Craven	North Carolina	31	2	1	0	3.2%
 Halifax	North Carolina	30	2	1	0	3.3%
 Davie	North Carolina	23	1	2	0	8.7%
 Duplin	North Carolina	23	4	0	0	0%
+Vance	North Carolina	23	2	0	0	0%
 Carteret	North Carolina	22	0	1	0	4.5%
 Hoke	North Carolina	22	2	0	0	0%
-Vance	North Carolina	22	1	0	0	0%
 McDowell	North Carolina	20	2	0	0	0%
 Caldwell	North Carolina	19	0	0	0	0%
 Rockingham	North Carolina	18	2	2	0	11.1%
@@ -2538,37 +2539,37 @@ Sullivan	New Hampshire	7	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	0	-1	29	5	0%
 Puerto Rico	Puerto Rico	974	51	51	6	5.2%
-Douglas	Nebraska	251	0	5	0	2%
-Hall	Nebraska	214	0	4	0	1.9%
-Adams	Nebraska	62	0	0	0	0%
-Lancaster	Nebraska	57	0	1	0	1.8%
+Douglas	Nebraska	259	8	5	0	1.9%
+Hall	Nebraska	231	17	4	0	1.7%
+Adams	Nebraska	65	3	0	0	0%
+Lancaster	Nebraska	59	2	1	0	1.7%
 Sarpy	Nebraska	46	0	0	0	0%
-Buffalo	Nebraska	38	0	1	0	2.6%
+Buffalo	Nebraska	42	4	1	0	2.4%
 Gage	Nebraska	26	0	1	0	3.8%
-Washington	Nebraska	22	0	0	0	0%
+Unassigned	Nebraska	23	4	6	1	26.1%
+Dawson	Nebraska	21	3	0	0	0%
+Washington	Nebraska	20	0	0	0	0%
 Custer	Nebraska	19	0	0	0	0%
-Unassigned	Nebraska	19	0	5	0	26.3%
-Dawson	Nebraska	18	0	0	0	0%
 Lincoln	Nebraska	17	0	1	0	5.9%
-Scotts Bluff	Nebraska	14	0	0	0	0%
-Hamilton	Nebraska	13	0	0	0	0%
+Scotts Bluff	Nebraska	16	2	0	0	0%
+Hamilton	Nebraska	14	1	0	0	0%
 Dodge	Nebraska	12	0	0	0	0%
 Kimball	Nebraska	9	0	0	0	0%
-Madison	Nebraska	6	0	2	0	33.3%
+Madison	Nebraska	7	1	2	0	28.6%
 Platte	Nebraska	6	0	0	0	0%
 Saunders	Nebraska	6	0	0	0	0%
-York	Nebraska	4	0	0	0	0%
+York	Nebraska	5	1	0	0	0%
+Merrick	Nebraska	5	3	0	0	0%
 Colfax	Nebraska	4	0	0	0	0%
 Cass	Nebraska	3	0	0	0	0%
 Kearney	Nebraska	3	0	0	0	0%
+Cheyenne	Nebraska	3	1	0	0	0%
+Polk	Nebraska	3	1	0	0	0%
 Franklin	Nebraska	3	0	0	0	0%
+Dakota	Nebraska	3	1	0	0	0%
 Cuming	Nebraska	2	0	0	0	0%
 Knox	Nebraska	2	0	0	0	0%
-Merrick	Nebraska	2	0	0	0	0%
-Cheyenne	Nebraska	2	0	0	0	0%
-Polk	Nebraska	2	0	0	0	0%
 Clay	Nebraska	2	0	0	0	0%
-Dakota	Nebraska	2	0	0	0	0%
 Antelope	Nebraska	1	0	0	0	0%
 Gosper	Nebraska	1	0	0	0	0%
 Nemaha	Nebraska	1	0	0	0	0%
@@ -2584,6 +2585,7 @@ Wayne	Nebraska	1	0	0	0	0%
 Box	Nebraska	1	0	0	0	0%
 Pierce	Nebraska	1	0	0	0	0%
 Saline	Nebraska	1	0	0	0	0%
+Morrill	Nebraska	1	1	0	0	0%
 Logan	Nebraska	0	0	0	0	0%
 Cedar	Nebraska	0	0	0	0	0%
 Navajo, AZ	Navajo Nation	252	0	0	0	0%
