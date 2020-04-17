@@ -252,20 +252,20 @@ Riverside	California	2,264	159	59	5	2.6%
 San Diego	California	2,087	75	63	3	3%
 Santa Clara	California	1,833	40	69	4	3.8%
 Orange	California	1,425	49	25	3	1.8%
+San Bernardino	California	1,032	36	47	8	4.6%
 San Francisco	California	1,019	6	17	0	1.7%
 Alameda	California	1,009	45	39	3	3.9%
-San Bernardino	California	996	0	39	0	3.9%
 Sacramento	California	879	26	32	0	3.6%
 San Mateo	California	767	0	28	0	3.7%
 Contra Costa	California	631	16	16	2	2.5%
 Kern	California	565	12	3	0	0.5%
 Ventura	California	384	19	13	0	3.4%
 Tulare	California	372	20	17	2	4.6%
-San Joaquin	California	365	1	17	0	4.7%
+San Joaquin	California	369	5	17	0	4.6%
 Santa Barbara	California	354	20	3	1	0.8%
 Fresno	California	295	30	7	0	2.4%
-Marin	California	184	0	10	0	5.4%
-Stanislaus	California	177	0	4	0	2.3%
+Marin	California	187	3	10	0	5.3%
+Stanislaus	California	187	10	4	0	2.1%
 Sonoma	California	163	0	2	0	1.2%
 Solano	California	156	15	2	0	1.3%
 Placer	California	130	1	8	1	6.2%
@@ -276,12 +276,12 @@ Monterey	California	108	5	3	0	2.8%
 Santa Cruz	California	96	0	2	0	2.1%
 Merced	California	82	4	3	0	3.7%
 Humboldt	California	52	0	0	0	0%
-San Benito	California	41	0	2	0	4.9%
+San Benito	California	42	1	2	0	4.8%
 Napa	California	39	1	2	0	5.1%
 El Dorado	California	35	0	0	0	0%
 Nevada	California	34	0	1	0	2.9%
 Madera	California	33	0	2	0	6.1%
-Shasta	California	25	0	3	0	12%
+Shasta	California	26	1	3	0	11.5%
 Sutter	California	24	0	2	0	8.3%
 Mono	California	23	0	1	0	4.3%
 Kings	California	18	5	1	0	5.6%
@@ -315,8 +315,8 @@ Winnebago	Illinois	121	9	4	0	3.3%
 Kendall	Illinois	119	3	2	0	1.7%
 Champaign	Illinois	90	0	4	2	4.4%
 McLean	Illinois	82	0	3	1	3.7%
-Unassigned	Illinois	55	10	1	0	1.8%
 Sangamon	Illinois	54	4	4	0	7.4%
+Unassigned	Illinois	54	9	1	0	1.9%
 Monroe	Illinois	50	1	5	1	10%
 Macon	Illinois	47	3	5	0	10.6%
 Randolph	Illinois	46	0	0	0	0%
@@ -329,8 +329,8 @@ Adams	Illinois	29	2	0	0	0%
 Ogle	Illinois	29	1	1	0	3.4%
 Henry	Illinois	25	0	0	0	0%
 LaSalle	Illinois	25	1	1	0	4%
-Christian	Illinois	24	0	4	1	16.7%
 Grundy	Illinois	24	0	0	0	0%
+Christian	Illinois	23	0	4	1	17.4%
 Tazewell	Illinois	21	0	3	0	14.3%
 Macoupin	Illinois	18	1	0	0	0%
 Boone	Illinois	18	2	1	0	5.6%
@@ -355,7 +355,7 @@ Piatt	Illinois	7	1	0	0	0%
 Pulaski	Illinois	6	1	0	0	0%
 Carroll	Illinois	5	0	1	0	20%
 Logan	Illinois	5	1	0	0	0%
-Bond	Illinois	4	0	0	0	0%
+Bond	Illinois	4	0	1	1	25%
 Clark	Illinois	4	0	0	0	0%
 Crawford	Illinois	4	0	0	0	0%
 Ford	Illinois	4	0	1	0	25%
@@ -391,6 +391,7 @@ Fulton	Illinois	1	0	0	0	0%
 Greene	Illinois	1	0	0	0	0%
 Perry	Illinois	1	0	0	0	0%
 Clay	Illinois	1	0	0	0	0%
+Alexander	Illinois	1	1	0	0	0%
 Miami-Dade	Florida	8,326	263	183	28	2.2%
 Broward	Florida	3,466	103	101	7	2.9%
 Palm Beach	Florida	1,867	51	112	5	6%
@@ -531,16 +532,16 @@ Tarrant	Texas	1,093	103	34	4	3.1%
 Travis	Texas	1,029	52	18	1	1.7%
 Bexar	Texas	918	28	37	0	4%
 Fort Bend	Texas	656	29	16	1	2.4%
-Denton	Texas	547	0	14	0	2.6%
+Denton	Texas	564	17	15	1	2.7%
 Collin	Texas	505	11	11	1	2.2%
 El Paso	Texas	451	58	7	1	1.6%
 Galveston	Texas	421	20	14	1	3.3%
 Lubbock	Texas	401	34	28	3	7%
 Montgomery	Texas	350	19	6	0	1.7%
 Brazoria	Texas	285	13	3	0	1.1%
-Cameron	Texas	254	15	3	0	1.2%
+Cameron	Texas	254	15	4	1	1.6%
 Webb	Texas	245	6	11	1	4.5%
-Hidalgo	Texas	225	0	2	0	0.9%
+Hidalgo	Texas	225	0	3	1	1.3%
 Brazos	Texas	158	7	14	1	8.9%
 Jefferson	Texas	143	3	6	0	4.2%
 Williamson	Texas	140	12	4	0	2.9%
@@ -589,10 +590,10 @@ Andrews	Texas	19	6	0	0	0%
 Calhoun	Texas	19	0	0	0	0%
 Grayson	Texas	19	0	0	0	0%
 Navarro	Texas	18	2	2	0	11.1%
+Hood	Texas	17	2	1	0	5.9%
 Parker	Texas	17	1	0	0	0%
 Gray	Texas	16	3	0	0	0%
 Hockley	Texas	15	0	1	0	6.7%
-Hood	Texas	15	0	1	0	6.7%
 Medina	Texas	15	2	2	1	13.3%
 Kendall	Texas	14	0	0	0	0%
 Polk	Texas	14	0	0	0	0%
@@ -1605,7 +1606,7 @@ Holt	Missouri	1	0	0	0	0%
 Miller	Missouri	1	1	0	0	0%
 Texas	Missouri	0	0	0	0	0%
 Unassigned	Missouri	0	0	0	0	0%
-Unassigned	US Military	1,794	-432	8	0	0.4%
+Unassigned	US Military	1,794	-432	10	2	0.6%
 Navy	US Military	1,224	37	6	0	0.5%
 Air Force	US Military	731	0	1	0	0.1%
 Army	US Military	717	314	2	0	0.3%
@@ -1807,12 +1808,12 @@ Green Lake	Wisconsin	1	0	0	0	0%
 Washburn	Wisconsin	1	1	0	0	0%
 Unassigned	Wisconsin	0	-1	0	-2	0%
 Pepin	Wisconsin	0	0	0	0	0%
-Providence	Rhode Island	2,072	0	3	0	0.1%
-Unassigned	Rhode Island	1,211	309	102	18	8.4%
-Kent	Rhode Island	249	0	0	0	0%
-Washington	Rhode Island	162	0	0	0	0%
-Newport	Rhode Island	94	0	0	0	0%
-Bristol	Rhode Island	50	0	0	0	0%
+Providence	Rhode Island	2,401	329	3	0	0.1%
+Unassigned	Rhode Island	840	-62	102	18	12.1%
+Kent	Rhode Island	272	23	0	0	0%
+Washington	Rhode Island	171	9	0	0	0%
+Newport	Rhode Island	98	4	0	0	0%
+Bristol	Rhode Island	56	6	0	0	0%
 Hinds	Mississippi	301	21	4	0	1.3%
 DeSoto	Mississippi	211	12	3	0	1.4%
 Jackson	Mississippi	189	7	5	0	2.6%
@@ -1927,7 +1928,7 @@ Kane	Utah	3	0	0	0	0%
 Carbon	Utah	2	0	0	0	0%
 Garfield	Utah	1	0	0	0	0%
 Grand	Utah	1	0	0	0	0%
-unassigned	Utah	0	0	7	0	0%
+Unassigned	Utah	0	0	8	1	0%
 Jefferson	Kentucky	600	18	56	3	9.3%
 Fayette	Kentucky	209	3	7	0	3.3%
 Kenton	Kentucky	112	5	10	0	8.9%
@@ -2252,6 +2253,7 @@ Lac qui Parle	Minnesota	1	0	0	0	0%
 Mahnomen	Minnesota	1	0	0	0	0%
 Sibley	Minnesota	1	0	0	0	0%
 Koochiching	Minnesota	1	0	0	0	0%
+Unassigned	Minnesota	1	-1	0	0	0%
 Houston	Minnesota	1	0	0	0	0%
 Pipestone	Minnesota	1	0	0	0	0%
 Redwood	Minnesota	1	0	0	0	0%
@@ -2261,7 +2263,6 @@ Becker	Minnesota	1	0	0	0	0%
 Red Lake	Minnesota	1	0	0	0	0%
 Norman	Minnesota	1	0	0	0	0%
 Mille Lacs	Minnesota	1	1	0	0	0%
-Unassigned	Minnesota	0	-2	0	0	0%
 Multnomah	Oregon	448	18	26	4	5.8%
 Washington	Oregon	376	12	7	0	1.9%
 Marion	Oregon	309	15	11	1	3.6%
@@ -2553,20 +2554,9 @@ Belknap	New Hampshire	24	0	0	0	0%
 Sullivan	New Hampshire	8	1	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	1	1	31	2	0%
-Puerto Rico	Puerto Rico	1,043	69	56	5	5.4%
-Navajo, AZ	Navajo Nation	306	36	0	0	0%
-McKinley, NM	Navajo Nation	203	67	0	0	0%
-Coconino, AZ	Navajo Nation	199	16	0	0	0%
-Apache, AZ	Navajo Nation	147	28	0	0	0%
-San Juan, NM	Navajo Nation	140	55	0	0	0%
-Cibola, NM	Navajo Nation	13	4	0	0	0%
-San Juan, UT	Navajo Nation	12	1	0	0	0%
-Sandoval, NM	Navajo Nation	12	8	0	0	0%
-Socorro, NM	Navajo Nation	10	4	0	0	0%
-Bernalillo, NM	Navajo Nation	0	0	0	0	0%
-Unassigned	Navajo Nation	0	-98	41	3	0%
-Douglas	Nebraska	259	0	5	0	1.9%
+Douglas	Nebraska	266	7	5	0	1.9%
 Hall	Nebraska	247	16	4	0	1.6%
+Unassigned	Nebraska	99	76	9	3	9.1%
 Adams	Nebraska	64	0	0	0	0%
 Lancaster	Nebraska	62	3	1	0	1.6%
 Sarpy	Nebraska	47	1	0	0	0%
@@ -2615,7 +2605,18 @@ Morrill	Nebraska	1	0	0	0	0%
 Nance	Nebraska	1	1	0	0	0%
 Logan	Nebraska	0	0	0	0	0%
 Cedar	Nebraska	0	0	0	0	0%
-Unassigned	Nebraska	0	-23	6	0	0%
+Puerto Rico	Puerto Rico	1,043	69	56	5	5.4%
+Navajo, AZ	Navajo Nation	306	36	0	0	0%
+McKinley, NM	Navajo Nation	203	67	0	0	0%
+Coconino, AZ	Navajo Nation	199	16	0	0	0%
+Apache, AZ	Navajo Nation	147	28	0	0	0%
+San Juan, NM	Navajo Nation	140	55	0	0	0%
+Cibola, NM	Navajo Nation	13	4	0	0	0%
+San Juan, UT	Navajo Nation	12	1	0	0	0%
+Sandoval, NM	Navajo Nation	12	8	0	0	0%
+Socorro, NM	Navajo Nation	10	4	0	0	0%
+Bernalillo, NM	Navajo Nation	0	0	0	0	0%
+Unassigned	Navajo Nation	0	-98	41	3	0%
 Cumberland	Maine	343	4	14	0	4.1%
 York	Maine	164	8	6	2	3.7%
 Kennebec	Maine	94	1	3	0	3.2%
