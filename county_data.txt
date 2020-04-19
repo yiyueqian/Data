@@ -573,13 +573,13 @@ Gregg	Texas	52	0	0	0	0%
 Matagorda	Texas	51	0	3	0	5.9%
 Washington	Texas	50	0	4	0	8%
 Bastrop	Texas	44	0	2	0	4.5%
+Johnson	Texas	44	0	1	0	2.3%
 Comal	Texas	43	0	6	0	14%
 Harrison	Texas	42	0	4	0	9.5%
 Kaufman	Texas	42	0	0	0	0%
 Midland	Texas	42	0	3	0	7.1%
 Rockwall	Texas	41	0	0	0	0%
 Tom Green	Texas	41	0	1	0	2.4%
-Johnson	Texas	39	0	1	0	2.6%
 Panola	Texas	38	0	3	0	7.9%
 Chambers	Texas	35	0	0	0	0%
 Wharton	Texas	34	0	0	0	0%
@@ -603,11 +603,11 @@ Medina	Texas	15	0	2	0	13.3%
 Kendall	Texas	14	0	0	0	0%
 Polk	Texas	14	0	0	0	0%
 San Augustine	Texas	14	0	1	0	7.1%
+Brown	Texas	13	1	1	0	7.7%
 De Witt	Texas	13	0	0	0	0%
 Erath	Texas	13	0	1	0	7.7%
 Henderson	Texas	13	0	0	0	0%
 Austin	Texas	12	0	0	0	0%
-Brown	Texas	12	0	1	0	8.3%
 Dawson	Texas	12	0	1	0	8.3%
 Maverick	Texas	12	0	0	0	0%
 Val Verde	Texas	12	0	0	0	0%
@@ -656,6 +656,7 @@ Goliad	Texas	5	0	0	0	0%
 Pecos	Texas	5	0	0	0	0%
 Hamilton	Texas	5	0	0	0	0%
 Bee	Texas	5	0	0	0	0%
+Comanche	Texas	4	0	0	0	0%
 Hopkins	Texas	4	0	0	0	0%
 Jackson	Texas	4	0	0	0	0%
 Kerr	Texas	4	0	0	0	0%
@@ -664,9 +665,9 @@ Morris	Texas	4	0	0	0	0%
 Swisher	Texas	4	0	0	0	0%
 Young	Texas	4	0	1	0	25%
 Bandera	Texas	4	0	0	0	0%
+Jones	Texas	4	0	0	0	0%
 Cooke	Texas	4	0	0	0	0%
 Clay	Texas	3	0	0	0	0%
-Comanche	Texas	3	0	0	0	0%
 Eastland	Texas	3	0	0	0	0%
 Karnes	Texas	3	0	0	0	0%
 Live Oak	Texas	3	0	0	0	0%
@@ -674,7 +675,6 @@ Llano	Texas	3	0	0	0	0%
 Oldham	Texas	3	0	1	0	33.3%
 Dallam	Texas	3	0	0	0	0%
 McCulloch	Texas	3	0	0	0	0%
-Jones	Texas	3	0	0	0	0%
 Jack	Texas	3	0	0	0	0%
 Winkler	Texas	3	0	0	0	0%
 Freestone	Texas	3	0	0	0	0%
@@ -923,7 +923,7 @@ King	Washington	5,063	0	340	0	6.7%
 Snohomish	Washington	2,093	0	93	0	4.4%
 Pierce	Washington	1,143	0	32	0	2.8%
 Yakima	Washington	804	0	36	0	4.5%
-Unassigned	Washington	444	0	0	0	0%
+Unassigned	Washington	436	-8	0	0	0%
 Benton	Washington	306	0	34	0	11.1%
 Spokane	Washington	302	0	17	0	5.6%
 Clark	Washington	277	0	16	0	5.8%
@@ -1516,6 +1516,7 @@ Tyrrell	North Carolina	4	0	0	0	0%
 Alexander	North Carolina	3	0	0	0	0%
 Currituck	North Carolina	3	0	0	0	0%
 Warren	North Carolina	3	0	0	0	0%
+Unassigned	North Carolina	3	3	0	0	0%
 Alleghany	North Carolina	2	0	0	0	0%
 Macon	North Carolina	2	0	1	0	50%
 Bladen	North Carolina	2	0	0	0	0%
@@ -1907,10 +1908,10 @@ Greene	Mississippi	3	0	0	0	0%
 Unassigned	Mississippi	0	0	0	0	0%
 Clark	Nevada	2,882	0	133	0	4.6%
 Washoe	Nevada	606	0	16	0	2.6%
-Unassigned	Nevada	34	0	0	0	0%
 Carson City	Nevada	28	0	0	0	0%
-Humboldt	Nevada	26	0	1	0	3.8%
+Humboldt	Nevada	26	0	2	1	7.7%
 Nye	Nevada	21	0	0	0	0%
+Unassigned	Nevada	16	0	3	3	18.8%
 Lyon	Nevada	15	0	0	0	0%
 Douglas	Nevada	14	0	0	0	0%
 Elko	Nevada	12	0	1	0	8.3%
@@ -2337,7 +2338,7 @@ Dickinson	Kansas	1	0	0	0	0%
 Sherman	Kansas	1	0	0	0	0%
 Chase	Kansas	1	0	0	0	0%
 Wilson	Kansas	1	0	0	0	0%
-Unassigned	Kansas	0	0	1	0	0%
+Unassigned	Kansas	0	0	0	0	0%
 Anderson	Kansas	0	0	0	0	0%
 Kearny	Kansas	0	0	0	0	0%
 Multnomah	Oregon	493	0	28	0	5.7%
@@ -2620,6 +2621,7 @@ Red Willow	Nebraska	1	0	0	0	0%
 Furnas	Nebraska	1	0	0	0	0%
 Logan	Nebraska	0	0	0	0	0%
 Cedar	Nebraska	0	0	0	0	0%
+Puerto Rico	Puerto Rico	1,213	95	62	2	5.1%
 Navajo, AZ	Navajo Nation	316	0	0	0	0%
 McKinley, NM	Navajo Nation	235	0	0	0	0%
 Coconino, AZ	Navajo Nation	203	0	0	0	0%
@@ -2631,7 +2633,6 @@ Socorro, NM	Navajo Nation	13	0	0	0	0%
 Sandoval, NM	Navajo Nation	12	0	0	0	0%
 Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Unassigned	Navajo Nation	0	0	44	0	0%
-Puerto Rico	Puerto Rico	1,118	0	60	0	5.4%
 Cumberland	Maine	369	0	14	0	3.8%
 York	Maine	175	0	6	0	3.4%
 Kennebec	Maine	96	0	4	0	4.2%
@@ -2658,7 +2659,7 @@ Marion	West Virginia	42	0	1	0	2.4%
 Cabell	West Virginia	30	0	0	0	0%
 Harrison	West Virginia	29	0	1	0	3.4%
 Wood	West Virginia	29	0	0	0	0%
-Ohio	West Virginia	23	0	0	0	0%
+Ohio	West Virginia	22	0	0	0	0%
 Putnam	West Virginia	14	0	0	0	0%
 Mason	West Virginia	11	0	0	0	0%
 Preston	West Virginia	10	0	0	0	0%
