@@ -1521,14 +1521,14 @@ Macon	North Carolina	2	0	1	0	50%
 Bladen	North Carolina	2	1	0	0	0%
 St. Louis	Missouri	2,163	75	80	8	3.7%
 St. Louis City	Missouri	810	22	30	0	3.7%
-St. Charles	Missouri	438	0	18	0	4.1%
+St. Charles	Missouri	443	5	19	1	4.3%
 Kansas City	Missouri	412	11	13	0	3.2%
 Jackson	Missouri	268	1	11	0	4.1%
 Jefferson	Missouri	183	4	4	0	2.2%
 Franklin	Missouri	95	3	7	0	7.4%
 Boone	Missouri	93	0	1	0	1.1%
-Greene	Missouri	88	0	8	0	9.1%
-Saline	Missouri	60	0	0	0	0%
+Greene	Missouri	90	2	8	0	8.9%
+Saline	Missouri	64	4	0	0	0%
 Clay	Missouri	56	1	1	0	1.8%
 Cass	Missouri	53	0	6	0	11.3%
 Scott	Missouri	49	4	1	0	2%
@@ -1545,9 +1545,9 @@ Pulaski	Missouri	29	0	1	0	3.4%
 Platte	Missouri	27	0	0	0	0%
 St. Francois	Missouri	24	0	1	0	4.2%
 Butler	Missouri	23	1	0	0	0%
+Warren	Missouri	22	1	0	0	0%
 Callaway	Missouri	21	0	1	0	4.8%
 Jasper	Missouri	21	0	0	0	0%
-Warren	Missouri	21	0	0	0	0%
 Christian	Missouri	19	0	0	0	0%
 Dunklin	Missouri	19	1	2	0	10.5%
 Stoddard	Missouri	16	1	0	0	0%
