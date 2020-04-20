@@ -6,23 +6,23 @@ Pennsylvania	32,991	0	1,276	0	3.9%
 California	31,531	0	1,180	0	3.7%
 Michigan	31,424	0	2,391	0	7.6%
 Illinois	30,357	0	1,290	0	4.2%
-Florida	26,314	0	774	0	2.9%
+Florida	26,660	346	789	15	3%
 Louisiana	23,928	0	1,296	0	5.4%
 Texas	19,411	0	500	0	2.6%
-Georgia	18,499	202	689	2	3.7%
+Georgia	18,489	192	689	2	3.7%
 Connecticut	17,962	0	1,127	0	6.3%
-Maryland	12,847	0	548	0	4.3%
-Washington	12,025	0	634	0	5.3%
+Maryland	13,700	853	552	4	4%
+Washington	12,040	15	635	1	5.3%
 Ohio	11,602	0	471	0	4.1%
 Indiana	11,211	0	562	0	5%
 Colorado	9,730	0	422	0	4.3%
-Virginia	8,542	0	277	0	3.2%
+Virginia	8,669	127	277	0	3.2%
 Tennessee	7,070	0	148	0	2.1%
-North Carolina	6,621	15	200	0	3%
+North Carolina	6,801	195	201	1	3%
 Missouri	5,807	0	199	0	3.4%
 Veteran Affair	5,437	0	326	0	6%
+Alabama	4,946	43	165	5	3.3%
 Arizona	4,933	0	184	0	3.7%
-Alabama	4,928	25	164	4	3.3%
 US Military	4,849	0	19	0	0.4%
 Rhode Island	4,706	0	150	0	3.2%
 South Carolina	4,377	0	120	0	2.7%
@@ -31,15 +31,15 @@ Mississippi	4,274	0	159	0	3.7%
 Nevada	3,728	0	158	0	4.2%
 Utah	3,069	0	27	0	0.9%
 Kentucky	2,960	0	148	0	5%
+Washington, D.C.	2,927	134	105	9	3.6%
 Iowa	2,902	0	75	0	2.6%
-Washington, D.C.	2,793	0	96	0	3.4%
 Oklahoma	2,599	0	140	0	5.4%
 Delaware	2,538	0	67	0	2.6%
 Minnesota	2,356	0	134	0	5.7%
-Kansas	1,941	0	94	0	4.8%
+Kansas	1,949	8	95	1	4.9%
 Oregon	1,910	0	74	0	3.9%
+Arkansas	1,853	72	41	2	2.2%
 New Mexico	1,845	0	55	0	3%
-Arkansas	1,781	0	39	0	2.2%
 Idaho	1,672	0	44	0	2.6%
 South Dakota	1,635	0	7	0	0.4%
 Nebraska	1,474	0	28	0	1.9%
@@ -48,7 +48,7 @@ Puerto Rico	1,252	39	63	1	5%
 Navajo Nation	1,197	0	44	0	3.7%
 West Virginia	890	0	20	0	2.2%
 Maine	867	0	34	0	3.9%
-Vermont	813	0	38	0	4.7%
+Vermont	816	3	38	0	4.7%
 Federal Bureau of Prisons	804	0	22	0	2.7%
 North Dakota	585	0	10	0	1.7%
 Hawaii	580	0	10	0	1.7%
