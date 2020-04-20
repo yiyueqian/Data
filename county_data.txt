@@ -181,11 +181,11 @@ Santa Barbara	California	394	9	4	0	1%
 Fresno	California	315	0	7	0	2.2%
 Stanislaus	California	226	5	4	0	1.8%
 Marin	California	195	6	10	0	5.1%
-Sonoma	California	180	0	2	0	1.1%
+Sonoma	California	181	1	2	0	1.1%
 Solano	California	169	0	2	0	1.2%
 Imperial	California	160	5	3	0	1.9%
 Monterey	California	141	5	4	1	2.8%
-Yolo	California	137	11	8	0	5.8%
+Yolo	California	137	11	9	1	6.6%
 Placer	California	132	1	8	0	6.1%
 San Luis Obispo	California	132	1	1	0	0.8%
 Santa Cruz	California	104	3	2	0	1.9%
@@ -196,7 +196,7 @@ San Benito	California	44	0	2	0	4.5%
 El Dorado	California	36	0	0	0	0%
 Nevada	California	36	0	1	0	2.8%
 Madera	California	34	0	2	0	5.9%
-Kings	California	28	0	1	0	3.6%
+Kings	California	30	2	1	0	3.3%
 Shasta	California	26	0	3	0	11.5%
 Sutter	California	26	1	2	0	7.7%
 Mono	California	23	0	1	0	4.3%
@@ -548,7 +548,7 @@ Hidalgo	Texas	261	6	3	0	1.1%
 Jefferson	Texas	171	0	9	0	5.3%
 Brazos	Texas	169	0	16	0	9.5%
 Williamson	Texas	151	5	4	0	2.6%
-Taylor	Texas	142	0	2	0	1.4%
+Taylor	Texas	144	2	2	0	1.4%
 Potter	Texas	130	0	2	0	1.5%
 Bell	Texas	126	0	3	0	2.4%
 Hays	Texas	121	0	1	0	0.8%
@@ -2484,10 +2484,10 @@ Madison	Arkansas	1	0	0	0	0%
 Marion	Arkansas	1	0	0	0	0%
 Jackson	Arkansas	1	0	0	0	0%
 Ada	Idaho	598	0	10	0	1.7%
-Blaine	Idaho	475	0	5	0	1.1%
+Blaine	Idaho	476	1	5	0	1.1%
 Canyon	Idaho	187	0	5	0	2.7%
-Twin Falls	Idaho	115	0	9	0	7.8%
-Kootenai	Idaho	50	0	0	0	0%
+Twin Falls	Idaho	117	0	9	0	7.7%
+Kootenai	Idaho	51	1	0	0	0%
 Jerome	Idaho	44	0	2	0	4.5%
 Nez Perce	Idaho	30	0	11	0	36.7%
 Bonneville	Idaho	24	0	0	0	0%
