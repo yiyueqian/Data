@@ -18,11 +18,11 @@ Indiana	12,097	0	635	0	5.2%
 Colorado	10,460	0	486	0	4.6%
 Virginia	9,630	0	324	0	3.4%
 Tennessee	7,394	0	157	0	2.1%
-North Carolina	7,135	0	245	0	3.4%
+North Carolina	7,184	49	248	3	3.5%
 Missouri	6,210	68	229	0	3.7%
 Veteran Affair	5,599	0	357	0	6.4%
 Rhode Island	5,500	0	171	0	3.1%
-Alabama	5,344	17	192	7	3.6%
+Alabama	5,358	31	192	7	3.6%
 US Military	5,335	0	22	0	0.4%
 Arizona	5,256	0	208	0	4%
 Mississippi	4,716	0	183	0	3.9%
@@ -37,7 +37,7 @@ Delaware	2,931	0	82	0	2.8%
 Oklahoma	2,807	0	164	0	5.8%
 Minnesota	2,567	0	160	0	6.2%
 Arkansas	2,262	0	43	0	1.9%
-Kansas	2,222	12	110	1	5%
+Kansas	2,223	13	110	1	4.9%
 New Mexico	2,072	0	65	0	3.1%
 Oregon	2,002	0	78	0	3.9%
 Idaho	1,766	0	51	0	2.9%
@@ -49,7 +49,7 @@ Puerto Rico	995	80	67	3	6.7%
 West Virginia	933	0	27	0	2.9%
 Maine	888	0	36	0	4.1%
 Federal Bureau of Prisons	863	0	23	0	2.7%
-Vermont	818	0	40	0	4.9%
+Vermont	823	5	40	0	4.9%
 North Dakota	644	0	13	0	2%
 Hawaii	586	0	12	0	2%
 Wyoming	441	0	6	0	1.4%
