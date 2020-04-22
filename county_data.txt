@@ -94,6 +94,60 @@ Berkshire	Massachusetts	404	0	29	0	7.2%
 Hampshire	Massachusetts	337	0	10	0	3%
 Franklin	Massachusetts	192	0	29	0	15.1%
 Dukes and Nantucket	Massachusetts	23	0	1	0	4.3%
+Los Angeles	California	16,447	1,282	729	63	4.4%
+Riverside	California	2,960	0	93	0	3.1%
+San Diego	California	2,434	0	87	0	3.6%
+Santa Clara	California	1,962	16	94	6	4.8%
+Orange	California	1,753	62	34	1	1.9%
+San Bernardino	California	1,489	0	67	0	4.5%
+Alameda	California	1,242	1	43	0	3.5%
+San Francisco	California	1,233	2	21	1	1.7%
+Sacramento	California	971	17	36	1	3.7%
+San Mateo	California	958	23	39	11	4.1%
+Contra Costa	California	763	14	22	0	2.9%
+Kern	California	683	12	4	1	0.6%
+San Joaquin	California	460	4	20	0	4.3%
+Ventura	California	443	0	13	0	2.9%
+Tulare	California	441	5	25	3	5.7%
+Santa Barbara	California	429	0	5	0	1.2%
+Fresno	California	371	0	7	0	1.9%
+Stanislaus	California	236	0	4	0	1.7%
+Marin	California	200	0	10	0	5%
+Imperial	California	195	0	5	0	2.6%
+Sonoma	California	192	0	2	0	1%
+Solano	California	181	0	3	0	1.7%
+Monterey	California	150	0	4	0	2.7%
+Yolo	California	146	0	10	0	6.8%
+San Luis Obispo	California	134	0	1	0	0.7%
+Placer	California	133	0	8	0	6%
+Santa Cruz	California	111	3	2	0	1.8%
+Merced	California	93	1	3	0	3.2%
+Napa	California	54	0	2	0	3.7%
+Humboldt	California	52	0	0	0	0%
+San Benito	California	45	0	2	0	4.4%
+El Dorado	California	39	0	0	0	0%
+Nevada	California	38	0	1	0	2.6%
+Madera	California	36	0	6	0	16.7%
+Kings	California	32	0	1	0	3.1%
+Shasta	California	26	0	3	0	11.5%
+Sutter	California	26	0	2	0	7.7%
+Mono	California	24	0	1	0	4.2%
+Inyo	California	19	1	0	0	0%
+Butte	California	16	0	0	0	0%
+Yuba	California	16	0	1	0	6.3%
+Calaveras	California	12	0	0	0	0%
+Amador	California	8	0	0	0	0%
+Lake	California	6	0	0	0	0%
+Mendocino	California	5	0	0	0	0%
+Siskiyou	California	5	0	0	0	0%
+Glenn	California	4	0	0	0	0%
+Plumas	California	4	0	0	0	0%
+Colusa	California	3	0	0	0	0%
+Alpine	California	2	0	0	0	0%
+Tuolumne	California	2	0	0	0	0%
+Del Norte	California	2	0	0	0	0%
+Tehama	California	1	0	1	0	100%
+Unassigned	California	0	0	2	0	0%
 Philadelphia	Pennsylvania	10,028	0	394	0	3.9%
 Montgomery	Pennsylvania	3,294	140	230	7	7%
 Delaware	Pennsylvania	2,757	103	123	5	4.5%
@@ -162,60 +216,6 @@ Elk	Pennsylvania	2	0	0	0	0%
 Cameron	Pennsylvania	1	0	0	0	0%
 Sullivan	Pennsylvania	1	0	0	0	0%
 Unassigned	Pennsylvania	0	0	0	0	0%
-Los Angeles	California	15,177	12	666	0	4.4%
-Riverside	California	2,960	0	93	0	3.1%
-San Diego	California	2,434	0	87	0	3.6%
-Santa Clara	California	1,962	16	94	6	4.8%
-Orange	California	1,753	62	34	1	1.9%
-San Bernardino	California	1,489	0	67	0	4.5%
-Alameda	California	1,242	1	43	0	3.5%
-San Francisco	California	1,233	2	21	1	1.7%
-Sacramento	California	971	17	36	1	3.7%
-San Mateo	California	958	23	39	11	4.1%
-Contra Costa	California	763	14	22	0	2.9%
-Kern	California	683	12	4	1	0.6%
-San Joaquin	California	460	4	20	0	4.3%
-Ventura	California	443	0	13	0	2.9%
-Tulare	California	441	5	25	3	5.7%
-Santa Barbara	California	429	0	5	0	1.2%
-Fresno	California	371	0	7	0	1.9%
-Stanislaus	California	236	0	4	0	1.7%
-Marin	California	200	0	10	0	5%
-Imperial	California	195	0	5	0	2.6%
-Sonoma	California	192	0	2	0	1%
-Solano	California	181	0	3	0	1.7%
-Monterey	California	150	0	4	0	2.7%
-Yolo	California	146	0	10	0	6.8%
-San Luis Obispo	California	134	0	1	0	0.7%
-Placer	California	133	0	8	0	6%
-Santa Cruz	California	111	3	2	0	1.8%
-Merced	California	93	1	3	0	3.2%
-Napa	California	54	0	2	0	3.7%
-Humboldt	California	52	0	0	0	0%
-San Benito	California	45	0	2	0	4.4%
-El Dorado	California	39	0	0	0	0%
-Nevada	California	38	0	1	0	2.6%
-Madera	California	36	0	6	0	16.7%
-Kings	California	32	0	1	0	3.1%
-Shasta	California	26	0	3	0	11.5%
-Sutter	California	26	0	2	0	7.7%
-Mono	California	24	0	1	0	4.2%
-Inyo	California	19	1	0	0	0%
-Butte	California	16	0	0	0	0%
-Yuba	California	16	0	1	0	6.3%
-Calaveras	California	12	0	0	0	0%
-Amador	California	8	0	0	0	0%
-Lake	California	6	0	0	0	0%
-Mendocino	California	5	0	0	0	0%
-Siskiyou	California	5	0	0	0	0%
-Glenn	California	4	0	0	0	0%
-Plumas	California	4	0	0	0	0%
-Colusa	California	3	0	0	0	0%
-Alpine	California	2	0	0	0	0%
-Tuolumne	California	2	0	0	0	0%
-Del Norte	California	2	0	0	0	0%
-Tehama	California	1	0	1	0	100%
-Unassigned	California	0	0	2	0	0%
 Cook	Illinois	24,546	1,365	1,072	70	4.4%
 Lake	Illinois	2,379	92	89	2	3.7%
 DuPage	Illinois	1,947	83	103	5	5.3%
@@ -531,16 +531,25 @@ Madison	Louisiana	5	1	0	0	0%
 West Carroll	Louisiana	4	0	0	0	0%
 Cameron	Louisiana	3	0	0	0	0%
 Tensas	Louisiana	1	0	0	0	0%
-Harris--Houston	Texas	2,948	0	34	0	1.2%
-Dallas	Texas	2,602	0	64	0	2.5%
-Harris--Non Houston	Texas	2,195	0	45	0	2.1%
+Fairfield	Connecticut	9,883	1,411	584	40	5.9%
+New Haven	Connecticut	5,811	318	345	23	5.9%
+Hartford	Connecticut	4,128	177	442	40	10.7%
+Litchfield	Connecticut	722	79	63	4	8.7%
+Unassigned	Connecticut	550	47	4	0	0.7%
+Middlesex	Connecticut	525	13	53	6	10.1%
+New London	Connecticut	397	28	14	1	3.5%
+Tolland	Connecticut	331	26	32	2	9.7%
+Windham	Connecticut	122	10	7	5	5.7%
+Harris--Houston	Texas	2,975	27	34	0	1.1%
+Dallas	Texas	2,683	81	65	1	2.4%
+Harris--Non Houston	Texas	2,236	41	46	1	2.1%
 Tarrant	Texas	1,333	0	42	0	3.2%
 Travis	Texas	1,233	0	27	0	2.2%
 Bexar	Texas	1,080	0	39	0	3.6%
 Fort Bend	Texas	808	0	18	0	2.2%
 Denton	Texas	619	0	18	0	2.9%
 El Paso	Texas	587	0	9	0	1.5%
-Collin	Texas	570	0	14	0	2.5%
+Collin	Texas	584	14	14	0	2.4%
 Galveston	Texas	479	0	20	0	4.2%
 Lubbock	Texas	458	0	38	0	8.3%
 Montgomery	Texas	417	0	7	0	1.7%
@@ -892,15 +901,6 @@ Quitman	Georgia	3	0	1	0	33.3%
 Long	Georgia	2	0	0	0	0%
 Treutlen	Georgia	2	0	0	0	0%
 Montgomery	Georgia	2	0	0	0	0%
-Fairfield	Connecticut	8,472	0	544	0	6.4%
-New Haven	Connecticut	5,493	0	322	0	5.9%
-Hartford	Connecticut	3,951	0	402	0	10.2%
-Litchfield	Connecticut	643	0	59	0	9.2%
-Middlesex	Connecticut	512	0	47	0	9.2%
-Unassigned	Connecticut	503	0	4	0	0.8%
-New London	Connecticut	369	0	13	0	3.5%
-Tolland	Connecticut	305	0	30	0	9.8%
-Windham	Connecticut	112	0	2	0	1.8%
 Prince Georges	Maryland	3,875	141	132	14	3.4%
 Montgomery	Maryland	2,868	100	126	10	4.4%
 Baltimore	Maryland	2,012	87	67	9	3.3%
@@ -954,7 +954,7 @@ Allen	Ohio	94	6	12	0	12.8%
 Belmont	Ohio	93	9	6	0	6.5%
 Wayne	Ohio	85	3	18	2	21.2%
 Ashtabula	Ohio	80	10	6	0	7.5%
-Clermont	Ohio	73	0	3	0	4.1%
+Clermont	Ohio	73	0	2	0	2.7%
 Washington	Ohio	73	4	6	0	8.2%
 Richland	Ohio	68	2	1	0	1.5%
 Darke	Ohio	62	4	11	0	17.7%
@@ -1015,8 +1015,8 @@ Meigs	Ohio	2	0	0	0	0%
 Harrison	Ohio	2	0	0	0	0%
 Unassigned	Ohio	0	0	0	0	0%
 King	Washington	5,379	0	373	0	6.9%
-Snohomish	Washington	2,189	0	99	0	4.5%
-Pierce	Washington	1,219	0	36	0	3%
+Snohomish	Washington	2,209	20	98	0	4.4%
+Pierce	Washington	1,236	17	40	4	3.2%
 Yakima	Washington	886	0	38	0	4.3%
 Benton and Franklin	Washington	740	13	39	1	5.3%
 Spokane	Washington	315	0	19	0	6%
@@ -1631,59 +1631,64 @@ Kent	Rhode Island	412	26	0	0	0%
 Washington	Rhode Island	268	59	0	0	0%
 Newport	Rhode Island	114	4	0	0	0%
 Bristol	Rhode Island	88	20	0	0	0%
-VA Hospitals	Veteran Affair	5,599	0	357	0	6.4%
-Mobile	Alabama	749	28	39	1	5.2%
-Jefferson	Alabama	710	10	31	5	4.4%
-Lee	Alabama	325	6	19	0	5.8%
-Shelby	Alabama	275	2	6	0	2.2%
-Chambers	Alabama	266	7	16	0	6%
-Montgomery	Alabama	250	5	3	0	1.2%
-Tallapoosa	Alabama	238	10	15	1	6.3%
-Marshall	Alabama	228	33	4	0	1.8%
+VA Hospitals	Veteran Affair	5,777	178	374	17	6.5%
+Unassigned	US Military	2,203	393	15	3	0.7%
+Navy	US Military	1,631	0	7	0	0.4%
+Army	US Military	841	0	2	0	0.2%
+Air Force	US Military	800	0	1	0	0.1%
+Marine Corps	US Military	259	6	0	0	0%
+Mobile	Alabama	753	32	39	1	5.2%
+Jefferson	Alabama	713	13	31	5	4.3%
+Lee	Alabama	326	7	19	0	5.8%
+Shelby	Alabama	276	3	6	0	2.2%
+Chambers	Alabama	267	8	16	0	6%
+Montgomery	Alabama	252	7	3	0	1.2%
+Tallapoosa	Alabama	241	13	15	1	6.2%
+Marshall	Alabama	233	38	4	0	1.7%
 Madison	Alabama	204	1	4	0	2%
-Tuscaloosa	Alabama	163	6	1	0	0.6%
-Baldwin	Alabama	130	7	3	0	2.3%
+Tuscaloosa	Alabama	164	7	1	0	0.6%
+Baldwin	Alabama	131	8	3	0	2.3%
 Etowah	Alabama	116	6	8	0	6.9%
 Walker	Alabama	92	1	0	0	0%
-Calhoun	Alabama	85	2	3	0	3.5%
+Calhoun	Alabama	86	3	3	0	3.5%
 Houston	Alabama	75	2	3	0	4%
-Elmore	Alabama	73	1	1	0	1.4%
-Coffee	Alabama	71	3	1	1	1.4%
+Elmore	Alabama	74	2	1	0	1.4%
+Coffee	Alabama	73	5	1	1	1.4%
 Marion	Alabama	65	0	5	0	7.7%
 St. Clair	Alabama	60	1	0	0	0%
 Randolph	Alabama	59	0	3	0	5.1%
-DeKalb	Alabama	55	4	2	0	3.6%
-Morgan	Alabama	51	0	0	0	0%
+DeKalb	Alabama	56	5	2	0	3.6%
+Morgan	Alabama	52	1	0	0	0%
+Russell	Alabama	51	3	0	0	0%
 Talladega	Alabama	51	1	2	0	3.9%
-Russell	Alabama	50	2	0	0	0%
+Pike	Alabama	50	4	0	0	0%
 Wilcox	Alabama	50	1	1	0	2%
-Pike	Alabama	49	3	0	0	0%
+Chilton	Alabama	46	2	1	1	2.2%
 Sumter	Alabama	46	2	0	0	0%
-Chilton	Alabama	45	1	1	1	2.2%
 Cullman	Alabama	45	0	0	0	0%
 Pickens	Alabama	43	1	1	0	2.3%
 Jackson	Alabama	42	1	2	0	4.8%
 Limestone	Alabama	40	0	0	0	0%
+Greene	Alabama	39	7	0	0	0%
 Marengo	Alabama	39	4	3	1	7.7%
-Greene	Alabama	37	5	0	0	0%
 Hale	Alabama	36	2	1	0	2.8%
+Bibb	Alabama	34	2	0	0	0%
 Autauga	Alabama	32	2	1	0	3.1%
-Bibb	Alabama	32	0	0	0	0%
 Lowndes	Alabama	32	0	1	1	3.1%
 Dallas	Alabama	29	0	2	0	6.9%
+Blount	Alabama	28	2	0	0	0%
 Barbour	Alabama	28	0	0	0	0%
-Blount	Alabama	27	1	0	0	0%
 Covington	Alabama	27	1	0	0	0%
 Macon	Alabama	27	0	2	0	7.4%
+Clarke	Alabama	25	1	1	0	4%
 Lauderdale	Alabama	25	0	4	0	16%
-Clarke	Alabama	24	0	1	0	4.2%
 Coosa	Alabama	24	0	1	0	4.2%
 Dale	Alabama	22	1	0	0	0%
 Franklin	Alabama	21	3	0	0	0%
+Colbert	Alabama	20	4	1	0	5%
 Henry	Alabama	20	0	0	0	0%
 Choctaw	Alabama	19	1	0	0	0%
 Clay	Alabama	19	0	0	0	0%
-Colbert	Alabama	18	2	1	0	5.6%
 Escambia	Alabama	18	1	1	0	5.6%
 Washington	Alabama	18	1	1	0	5.6%
 Butler	Alabama	15	0	0	0	0%
@@ -1697,8 +1702,8 @@ Lamar	Alabama	9	0	0	0	0%
 Monroe	Alabama	9	0	1	1	11.1%
 Perry	Alabama	9	0	0	0	0%
 Crenshaw	Alabama	6	0	0	0	0%
+Geneva	Alabama	5	1	0	0	0%
 Fayette	Alabama	4	0	0	0	0%
-Geneva	Alabama	4	0	0	0	0%
 Unassigned	Alabama	0	0	0	0	0%
 Maricopa	Arizona	2,846	108	97	14	3.4%
 Pima	Arizona	973	10	68	3	7%
@@ -1716,11 +1721,6 @@ La Paz	Arizona	6	0	1	0	16.7%
 Graham	Arizona	2	0	0	0	0%
 Greenlee	Arizona	2	0	0	0	0%
 Unassigned	Arizona	0	0	0	0	0%
-Unassigned	US Military	1,810	0	12	0	0.7%
-Navy	US Military	1,631	0	7	0	0.4%
-Army	US Military	841	0	2	0	0.2%
-Air Force	US Military	800	0	1	0	0.1%
-Marine Corps	US Military	253	0	0	0	0%
 Hinds	Mississippi	377	20	6	0	1.6%
 DeSoto	Mississippi	244	5	3	0	1.2%
 Lauderdale	Mississippi	235	3	18	1	7.7%
@@ -1870,50 +1870,50 @@ Green Lake	Wisconsin	1	0	0	0	0%
 Washburn	Wisconsin	1	0	0	0	0%
 Unassigned	Wisconsin	0	0	0	0	0%
 Pepin	Wisconsin	0	0	0	0	0%
-Richland	South Carolina	689	0	14	0	2%
-Greenville	South Carolina	517	0	12	0	2.3%
-Charleston	South Carolina	403	0	5	0	1.2%
-Lexington	South Carolina	283	0	9	0	3.2%
-Beaufort	South Carolina	233	0	9	0	3.9%
-Spartanburg	South Carolina	225	0	6	0	2.7%
-Kershaw	South Carolina	203	0	9	0	4.4%
-Sumter	South Carolina	199	0	6	0	3%
-Horry	South Carolina	189	0	12	0	6.3%
-Florence	South Carolina	168	0	8	0	4.8%
-York	South Carolina	162	0	3	0	1.9%
-Berkeley	South Carolina	142	0	5	0	3.5%
-Anderson	South Carolina	132	0	5	0	3.8%
-Clarendon	South Carolina	126	0	8	0	6.3%
+Richland	South Carolina	725	36	15	1	2.1%
+Greenville	South Carolina	536	19	13	1	2.4%
+Charleston	South Carolina	406	3	5	0	1.2%
+Lexington	South Carolina	286	3	9	0	3.1%
+Beaufort	South Carolina	236	3	9	0	3.8%
+Spartanburg	South Carolina	227	2	7	1	3.1%
+Sumter	South Carolina	206	7	6	0	2.9%
+Kershaw	South Carolina	205	2	9	0	4.4%
+Horry	South Carolina	190	1	12	0	6.3%
+Florence	South Carolina	176	8	8	0	4.5%
+York	South Carolina	166	4	3	0	1.8%
+Berkeley	South Carolina	143	1	6	1	4.2%
+Clarendon	South Carolina	138	12	9	1	6.5%
+Anderson	South Carolina	135	3	5	0	3.7%
+Darlington	South Carolina	85	8	0	0	0%
 Dorchester	South Carolina	85	0	1	0	1.2%
-Lancaster	South Carolina	79	0	3	0	3.8%
-Darlington	South Carolina	77	0	0	0	0%
-Aiken	South Carolina	70	0	4	0	5.7%
-Orangeburg	South Carolina	49	0	0	0	0%
-Lee	South Carolina	41	0	5	0	12.2%
+Aiken	South Carolina	82	12	4	0	4.9%
+Lancaster	South Carolina	80	1	3	0	3.8%
+Orangeburg	South Carolina	51	2	0	0	0%
+Lee	South Carolina	42	1	5	0	11.9%
+Greenwood	South Carolina	41	1	0	0	0%
 Pickens	South Carolina	41	0	0	0	0%
-Greenwood	South Carolina	40	0	0	0	0%
 Chesterfield	South Carolina	37	0	0	0	0%
-Georgetown	South Carolina	33	0	2	0	6.1%
-Marlboro	South Carolina	29	0	0	0	0%
+Georgetown	South Carolina	35	2	2	0	5.7%
+Marlboro	South Carolina	32	3	0	0	0%
+Williamsburg	South Carolina	27	1	0	0	0%
 Fairfield	South Carolina	26	0	0	0	0%
-Williamsburg	South Carolina	26	0	0	0	0%
 Chester	South Carolina	25	0	0	0	0%
 Union	South Carolina	24	0	0	0	0%
 Colleton	South Carolina	23	0	2	0	8.7%
 Dillon	South Carolina	23	0	0	0	0%
-Newberry	South Carolina	22	0	1	0	4.5%
+Abbeville	South Carolina	22	4	0	0	0%
+Marion	South Carolina	22	3	1	0	4.5%
+Edgefield	South Carolina	21	4	1	0	4.8%
 Laurens	South Carolina	21	0	1	0	4.8%
+Newberry	South Carolina	21	0	1	0	4.8%
 Hampton	South Carolina	21	0	0	0	0%
-Marion	South Carolina	19	0	1	0	5.3%
 Oconee	South Carolina	19	0	0	0	0%
-Abbeville	South Carolina	18	0	0	0	0%
-Edgefield	South Carolina	17	0	1	0	5.9%
+Saluda	South Carolina	18	6	0	0	0%
 Jasper	South Carolina	15	0	1	0	6.7%
 Cherokee	South Carolina	14	0	0	0	0%
-Saluda	South Carolina	12	0	0	0	0%
+Barnwell	South Carolina	8	2	0	0	0%
 Bamberg	South Carolina	7	0	0	0	0%
 Allendale	South Carolina	6	0	0	0	0%
-Barnwell	South Carolina	6	0	0	0	0%
 Calhoun	South Carolina	6	0	1	0	16.7%
 McCormick	South Carolina	6	0	1	0	16.7%
 Clark	Nevada	3,099	0	141	0	4.5%
@@ -2042,7 +2042,7 @@ Boone	Kentucky	86	0	2	0	2.3%
 Christian	Kentucky	79	0	3	0	3.8%
 Butler	Kentucky	74	0	3	0	4.1%
 Muhlenberg	Kentucky	73	0	2	0	2.7%
-Unassigned	Kentucky	73	0	0	0	0%
+Unassigned	Kentucky	72	-1	0	0	0%
 Graves	Kentucky	68	0	6	0	8.8%
 Campbell	Kentucky	60	0	6	0	10%
 Jackson	Kentucky	57	0	4	0	7%
@@ -2141,6 +2141,7 @@ Garrard	Kentucky	1	0	0	0	0%
 Livingston	Kentucky	1	0	0	0	0%
 Clay	Kentucky	1	0	0	0	0%
 Fulton	Kentucky	1	0	0	0	0%
+Hickman	Kentucky	1	1	0	0	0%
 Oklahoma	Oklahoma	607	17	24	0	4%
 Tulsa	Oklahoma	437	5	25	0	5.7%
 Cleveland	Oklahoma	372	27	24	1	6.5%
@@ -2293,7 +2294,7 @@ Chippewa	Minnesota	1	0	0	0	0%
 Pennington	Minnesota	1	0	0	0	0%
 Wyandotte	Kansas	471	38	46	1	9.8%
 Johnson	Kansas	396	12	36	1	9.1%
-Sedgwick	Kansas	283	0	5	0	1.8%
+Sedgwick	Kansas	295	12	5	0	1.7%
 Ford	Kansas	208	21	0	0	0%
 Leavenworth	Kansas	150	14	3	0	2%
 Seward	Kansas	142	0	0	0	0%
@@ -2386,7 +2387,7 @@ Lonoke	Arkansas	27	0	0	0	0%
 Union	Arkansas	26	0	0	0	0%
 Van Buren	Arkansas	26	0	2	0	7.7%
 Johnson	Arkansas	22	0	0	0	0%
-Howard	Arkansas	14	0	1	0	7.1%
+Howard	Arkansas	14	0	0	0	0%
 Randolph	Arkansas	14	0	0	0	0%
 Ashley	Arkansas	13	0	0	0	0%
 Grant	Arkansas	11	0	0	0	0%
@@ -2658,7 +2659,7 @@ Socorro, NM	Navajo Nation	13	0	0	0	0%
 Sandoval, NM	Navajo Nation	13	0	0	0	0%
 Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Unassigned	Navajo Nation	0	0	45	0	0%
-Puerto Rico	Puerto Rico	995	80	67	3	6.7%
+Puerto Rico	Puerto Rico	1,252	337	63	0	5%
 Kanawha	West Virginia	138	2	0	0	0%
 Berkeley	West Virginia	121	3	1	0	0.8%
 Jackson	West Virginia	103	0	1	0	1%
@@ -2708,6 +2709,8 @@ Summers	West Virginia	1	0	0	0	0%
 Grant	West Virginia	1	0	0	0	0%
 Lincoln	West Virginia	1	0	0	0	0%
 Unassigned	West Virginia	0	-4	20	0	0%
+Inmates	Federal Bureau of Prisons	566	26	24	1	4.2%
+Staff	Federal Bureau of Prisons	342	19	0	0	0%
 Cumberland	Maine	395	9	18	1	4.6%
 York	Maine	185	2	6	0	3.2%
 Kennebec	Maine	99	2	4	0	4%
@@ -2725,8 +2728,6 @@ Unassigned	Maine	2	1	0	0	0%
 Aroostook	Maine	2	0	0	0	0%
 Washington	Maine	2	0	0	0	0%
 Piscataquis	Maine	1	0	0	0	0%
-Inmates	Federal Bureau of Prisons	540	0	23	0	4.3%
-Staff	Federal Bureau of Prisons	323	0	0	0	0%
 Chittenden	Vermont	393	2	25	0	6.4%
 Franklin	Vermont	92	0	4	0	4.3%
 Windham	Vermont	67	2	2	0	3%
