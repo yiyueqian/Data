@@ -900,31 +900,31 @@ Quitman	Georgia	3	0	1	0	33.3%
 Long	Georgia	2	0	0	0	0%
 Treutlen	Georgia	2	0	0	0	0%
 Montgomery	Georgia	2	0	0	0	0%
-Prince Georges	Maryland	3,734	0	118	0	3.2%
-Montgomery	Maryland	2,768	0	116	0	4.2%
-Baltimore	Maryland	1,925	0	58	0	3%
-Baltimore City	Maryland	1,542	0	59	0	3.8%
-Anne Arundel	Maryland	1,157	0	52	0	4.5%
-Frederick	Maryland	632	0	33	0	5.2%
-Howard	Maryland	565	0	13	0	2.3%
-Charles	Maryland	401	0	23	0	5.7%
-Carroll	Maryland	330	0	31	0	9.4%
-Harford	Maryland	232	0	7	0	3%
-Wicomico	Maryland	176	0	2	0	1.1%
-Cecil	Maryland	134	0	3	0	2.2%
-Washington	Maryland	126	0	3	0	2.4%
-Calvert	Maryland	116	0	4	0	3.4%
-St. Marys	Maryland	107	0	3	0	2.8%
-Allegany	Maryland	56	0	2	0	3.6%
+Prince Georges	Maryland	3,875	141	132	14	3.4%
+Montgomery	Maryland	2,868	100	126	10	4.4%
+Baltimore	Maryland	2,012	87	67	9	3.3%
+Baltimore City	Maryland	1,602	60	64	5	4%
+Anne Arundel	Maryland	1,190	33	56	4	4.7%
+Frederick	Maryland	658	26	35	2	5.3%
+Howard	Maryland	592	27	14	1	2.4%
+Charles	Maryland	427	26	30	7	7%
+Carroll	Maryland	344	14	32	1	9.3%
+Harford	Maryland	267	35	8	1	3%
+Wicomico	Maryland	183	7	2	0	1.1%
+Cecil	Maryland	134	0	5	2	3.7%
+Washington	Maryland	127	1	3	0	2.4%
+Calvert	Maryland	118	2	5	1	4.2%
+St. Marys	Maryland	112	5	3	0	2.7%
+Allegany	Maryland	58	2	3	1	5.2%
 Caroline	Maryland	41	0	0	0	0%
-Worcester	Maryland	33	0	0	0	0%
-Kent	Maryland	29	0	1	0	3.4%
-Queen Annes	Maryland	27	0	2	0	7.4%
-Dorchester	Maryland	25	0	1	0	4%
-Talbot	Maryland	22	0	1	0	4.5%
+Kent	Maryland	36	7	1	0	2.8%
+Worcester	Maryland	34	1	0	0	0%
+Queen Annes	Maryland	31	4	2	0	6.5%
+Dorchester	Maryland	28	3	1	0	3.6%
+Talbot	Maryland	23	1	1	0	4.3%
 Somerset	Maryland	11	0	0	0	0%
 Garrett	Maryland	4	0	0	0	0%
-Unassigned	Maryland	0	0	52	0	0%
+Unassigned	Maryland	0	0	120	0	0%
 Marion	Ohio	2,132	0	1	0	0%
 Cuyahoga	Ohio	1,653	0	64	0	3.9%
 Pickaway	Ohio	1,635	0	5	0	0.3%
@@ -1027,7 +1027,7 @@ Unassigned	Washington	159	0	0	0	0%
 Grant	Washington	147	0	2	0	1.4%
 Kitsap	Washington	141	0	2	0	1.4%
 Thurston	Washington	94	0	1	0	1.1%
-Chelan	Washington	81	0	5	0	6.2%
+Chelan	Washington	88	7	5	0	5.7%
 Douglas	Washington	61	0	1	0	1.6%
 Adams	Washington	44	0	0	0	0%
 Cowlitz	Washington	34	0	0	0	0%
@@ -1525,7 +1525,7 @@ Warren	North Carolina	3	0	0	0	0%
 Alleghany	North Carolina	2	0	0	0	0%
 Macon	North Carolina	2	0	1	0	50%
 Unassigned	North Carolina	0	0	0	0	0%
-St. Louis	Missouri	2,349	0	91	0	3.9%
+St. Louis	Missouri	2,417	68	91	0	3.8%
 St. Louis City	Missouri	908	0	42	0	4.6%
 St. Charles	Missouri	474	0	24	0	5.1%
 Kansas City	Missouri	438	0	13	0	3%
@@ -1631,18 +1631,13 @@ Kent	Rhode Island	386	0	0	0	0%
 Washington	Rhode Island	209	0	0	0	0%
 Newport	Rhode Island	110	0	0	0	0%
 Bristol	Rhode Island	68	0	0	0	0%
-Unassigned	US Military	1,810	0	12	0	0.7%
-Navy	US Military	1,631	0	7	0	0.4%
-Army	US Military	841	0	2	0	0.2%
-Air Force	US Military	800	0	1	0	0.1%
-Marine Corps	US Military	253	0	0	0	0%
-Mobile	Alabama	721	0	38	0	5.3%
-Jefferson	Alabama	700	0	26	0	3.7%
+Mobile	Alabama	738	17	38	0	5.1%
+Jefferson	Alabama	700	0	31	5	4.4%
 Lee	Alabama	319	0	19	0	6%
 Shelby	Alabama	274	0	6	0	2.2%
 Chambers	Alabama	259	0	16	0	6.2%
 Montgomery	Alabama	245	0	3	0	1.2%
-Tallapoosa	Alabama	228	0	14	0	6.1%
+Tallapoosa	Alabama	228	0	15	1	6.6%
 Madison	Alabama	203	0	4	0	2%
 Marshall	Alabama	195	0	5	0	2.6%
 Tuscaloosa	Alabama	157	0	1	0	0.6%
@@ -1698,12 +1693,17 @@ Lawrence	Alabama	10	0	0	0	0%
 Winston	Alabama	10	0	0	0	0%
 Conecuh	Alabama	9	0	0	0	0%
 Lamar	Alabama	9	0	0	0	0%
-Monroe	Alabama	9	0	0	0	0%
+Monroe	Alabama	9	0	1	1	11.1%
 Perry	Alabama	9	0	0	0	0%
 Crenshaw	Alabama	6	0	0	0	0%
 Fayette	Alabama	4	0	0	0	0%
 Geneva	Alabama	4	0	0	0	0%
 Unassigned	Alabama	0	0	0	0	0%
+Unassigned	US Military	1,810	0	12	0	0.7%
+Navy	US Military	1,631	0	7	0	0.4%
+Army	US Military	841	0	2	0	0.2%
+Air Force	US Military	800	0	1	0	0.1%
+Marine Corps	US Military	253	0	0	0	0%
 Maricopa	Arizona	2,738	0	83	0	3%
 Pima	Arizona	963	0	65	0	6.7%
 Navajo	Arizona	485	0	11	0	2.3%
@@ -2026,6 +2026,7 @@ Central Utah	Utah	17	0	0	0	0%
 TriCounty	Utah	10	0	0	0	0%
 Southeast Utah	Utah	7	0	0	0	0%
 Unassigned	Utah	0	0	0	0	0%
+District of Columbia	Washington, D.C.	3,206	108	127	15	4%
 Jefferson	Kentucky	925	0	70	0	7.6%
 Fayette	Kentucky	219	0	7	0	3.2%
 Kenton	Kentucky	169	0	13	0	7.7%
@@ -2135,7 +2136,6 @@ Garrard	Kentucky	1	0	0	0	0%
 Livingston	Kentucky	1	0	0	0	0%
 Clay	Kentucky	1	0	0	0	0%
 Fulton	Kentucky	1	0	0	0	0%
-District of Columbia	Washington, D.C.	3,098	0	112	0	3.6%
 New Castle	Delaware	1,303	0	36	0	2.8%
 Sussex	Delaware	1,139	0	32	0	2.8%
 Kent	Delaware	459	0	14	0	3.1%
@@ -2362,14 +2362,14 @@ Clay	Arkansas	1	0	0	0	0%
 Madison	Arkansas	1	0	0	0	0%
 Marion	Arkansas	1	0	0	0	0%
 Jackson	Arkansas	1	0	0	0	0%
-Wyandotte	Kansas	433	0	45	0	10.4%
-Johnson	Kansas	384	0	35	0	9.1%
+Wyandotte	Kansas	434	1	45	0	10.4%
+Johnson	Kansas	394	10	36	1	9.1%
 Sedgwick	Kansas	283	0	5	0	1.8%
 Ford	Kansas	187	0	0	0	0%
 Seward	Kansas	142	0	0	0	0%
 Leavenworth	Kansas	136	0	3	0	2.2%
 Lyon	Kansas	111	0	1	0	0.9%
-Shawnee	Kansas	94	0	5	0	5.3%
+Shawnee	Kansas	95	1	5	0	5.3%
 Coffey	Kansas	47	0	6	0	12.8%
 Douglas	Kansas	43	0	0	0	0%
 Finney	Kansas	42	0	1	0	2.4%
@@ -2498,11 +2498,11 @@ Jefferson	Oregon	1	0	0	0	0%
 Unassigned	Oregon	0	0	0	0	0%
 Ada	Idaho	622	0	12	0	1.9%
 Blaine	Idaho	480	0	5	0	1%
-Canyon	Idaho	212	0	5	0	2.4%
-Twin Falls	Idaho	132	0	10	0	7.6%
+Canyon	Idaho	212	0	6	0	2.8%
+Twin Falls	Idaho	132	0	11	0	8.3%
 Kootenai	Idaho	53	0	0	0	0%
 Jerome	Idaho	44	0	2	0	4.5%
-Nez Perce	Idaho	44	0	11	0	25%
+Nez Perce	Idaho	44	0	12	0	27.3%
 Elmore	Idaho	25	0	1	0	4%
 Bonneville	Idaho	24	0	0	0	0%
 Lincoln	Idaho	18	0	0	0	0%
@@ -2657,6 +2657,7 @@ Socorro, NM	Navajo Nation	13	0	0	0	0%
 Sandoval, NM	Navajo Nation	13	0	0	0	0%
 Bernalillo, NM	Navajo Nation	0	0	0	0	0%
 Unassigned	Navajo Nation	0	0	45	0	0%
+Puerto Rico	Puerto Rico	995	80	67	3	6.7%
 Kanawha	West Virginia	136	0	0	0	0%
 Berkeley	West Virginia	118	0	1	0	0.8%
 Jackson	West Virginia	103	0	1	0	1%
@@ -2706,7 +2707,6 @@ Summers	West Virginia	1	0	0	0	0%
 Grant	West Virginia	1	0	0	0	0%
 Lincoln	West Virginia	1	0	0	0	0%
 Unassigned	West Virginia	0	0	20	0	0%
-Puerto Rico	Puerto Rico	915	0	64	0	7%
 Cumberland	Maine	386	0	17	0	4.4%
 York	Maine	183	0	6	0	3.3%
 Kennebec	Maine	97	0	4	0	4.1%
