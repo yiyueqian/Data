@@ -1,58 +1,58 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	258,361	5,037	19,456	634	7.5%
+New York	258,484	5,160	19,466	644	7.5%
 New Jersey	92,387	3,581	4,753	233	5.1%
 Massachusetts	41,199	1,556	1,961	152	4.8%
-California	35,465	1,600	1,282	53	3.6%
+California	35,643	1,778	1,300	71	3.6%
 Pennsylvania	35,249	1,245	1,614	257	4.6%
 Illinois	33,059	1,552	1,468	119	4.4%
-Michigan	32,667	667	2,575	107	7.9%
+Michigan	32,967	1,008	2,700	235	8.2%
 Florida	27,869	812	867	44	3.1%
 Louisiana	24,854	332	1,405	77	5.7%
 Texas	20,574	487	533	13	2.6%
 Connecticut	20,360	545	1,423	92	7%
-Georgia	19,881	486	798	26	4%
+Georgia	20,166	778	818	49	4.1%
 Maryland	14,193	509	584	2	4.1%
 Ohio	13,725	806	557	48	4.1%
-Washington	12,563	77	664	6	5.3%
+Washington	12,704	218	682	24	5.4%
 Indiana	12,097	417	635	58	5.2%
-Colorado	10,473	362	485	36	4.6%
+Colorado	10,460	349	486	37	4.6%
 Virginia	9,630	646	324	24	3.4%
 Tennessee	7,394	167	157	5	2.1%
-North Carolina	7,130	151	243	23	3.4%
-Missouri	6,066	103	224	9	3.7%
+North Carolina	7,134	155	245	25	3.4%
+Missouri	6,095	132	226	11	3.7%
 Veteran Affair	5,599	65	357	18	6.4%
 Rhode Island	5,500	410	171	16	3.1%
 US Military	5,335	0	22	0	0.4%
-Alabama	5,297	220	181	17	3.4%
+Alabama	5,328	251	184	20	3.5%
 Arizona	5,256	188	208	17	4%
 Mississippi	4,716	204	183	14	3.9%
 Wisconsin	4,625	87	244	10	5.3%
-South Carolina	4,439	0	124	0	2.8%
+South Carolina	4,612	173	135	11	2.9%
 Nevada	3,937	107	163	0	4.1%
 Iowa	3,641	484	83	4	2.3%
 Utah	3,297	84	32	4	1%
-Kentucky	3,204	154	171	17	5.3%
+Kentucky	3,192	154	171	17	5.4%
 Washington, D.C.	3,098	171	112	7	3.6%
 Delaware	2,931	186	82	10	2.8%
 Oklahoma	2,807	126	164	21	5.8%
 Minnesota	2,567	98	160	17	6.2%
-Kansas	2,136	72	109	7	5.1%
-Oregon	2,004	48	78	3	3.9%
+Kansas	2,210	146	109	7	4.9%
+New Mexico	2,072	101	65	7	3.1%
+Oregon	2,002	48	78	3	3.9%
 Arkansas	1,990	19	42	0	2.1%
-New Mexico	1,971	0	58	0	2.9%
+Idaho	1,766	30	48	0	2.7%
 South Dakota	1,755	70	8	1	0.5%
-Idaho	1,736	0	48	0	2.8%
-Nebraska	1,613	0	33	0	2%
-New Hampshire	1,447	0	42	0	2.9%
+Nebraska	1,725	77	33	0	1.9%
+New Hampshire	1,490	43	42	0	2.8%
 Navajo Nation	1,321	0	45	0	3.4%
-Puerto Rico	1,298	46	64	1	4.9%
+Puerto Rico	915	0	64	1	7%
 West Virginia	908	0	26	0	2.9%
 Maine	888	13	36	1	4.1%
 Vermont	818	2	40	2	4.9%
 Federal Bureau of Prisons	816	0	22	0	2.7%
 North Dakota	644	17	13	0	2%
 Hawaii	586	2	10	0	1.7%
-Wyoming	443	14	2	0	0.5%
+Wyoming	441	14	6	4	1.4%
 Montana	437	4	12	2	2.7%
 Alaska	329	8	9	0	2.7%
 Guam	136	0	5	0	3.7%
