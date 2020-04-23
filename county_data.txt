@@ -106,22 +106,22 @@ Sacramento	California	971	17	36	1	3.7%
 San Mateo	California	958	23	39	11	4.1%
 Contra Costa	California	763	14	22	0	2.9%
 Kern	California	683	12	4	1	0.6%
-San Joaquin	California	460	4	20	0	4.3%
-Ventura	California	443	0	13	0	2.9%
+San Joaquin	California	472	16	20	0	4.2%
+Ventura	California	451	8	14	1	3.1%
 Tulare	California	441	5	25	3	5.7%
-Santa Barbara	California	429	0	5	0	1.2%
-Fresno	California	371	0	7	0	1.9%
-Stanislaus	California	236	0	4	0	1.7%
+Santa Barbara	California	440	11	5	0	1.1%
+Fresno	California	384	13	7	0	1.8%
+Stanislaus	California	251	15	5	1	2%
+Imperial	California	214	19	6	1	2.8%
 Marin	California	200	0	10	0	5%
-Imperial	California	195	0	5	0	2.6%
 Sonoma	California	192	0	2	0	1%
-Solano	California	181	0	3	0	1.7%
+Solano	California	186	5	3	0	1.6%
+Yolo	California	151	5	12	2	7.9%
 Monterey	California	150	0	4	0	2.7%
-Yolo	California	146	0	10	0	6.8%
-San Luis Obispo	California	134	0	1	0	0.7%
+San Luis Obispo	California	142	8	1	0	0.7%
 Placer	California	133	0	8	0	6%
 Santa Cruz	California	111	3	2	0	1.8%
-Merced	California	93	1	3	0	3.2%
+Merced	California	94	2	3	0	3.2%
 Napa	California	57	3	2	0	3.5%
 Humboldt	California	52	0	0	0	0%
 San Benito	California	46	1	2	0	4.3%
@@ -129,7 +129,7 @@ El Dorado	California	39	0	0	0	0%
 Nevada	California	38	0	1	0	2.6%
 Madera	California	36	0	2	0	5.6%
 Kings	California	32	0	1	0	3.1%
-Shasta	California	26	0	3	0	11.5%
+Shasta	California	27	1	3	0	11.1%
 Sutter	California	26	0	2	0	7.7%
 Mono	California	24	0	1	0	4.2%
 Inyo	California	19	1	0	0	0%
@@ -398,64 +398,64 @@ Luce	Michigan	1	0	0	0	0%
 Menominee	Michigan	1	0	0	0	0%
 Ontonagon	Michigan	0	0	0	0	0%
 Baraga	Michigan	0	0	0	0	0%
-Miami-Dade	Florida	10,153	97	240	7	2.4%
-Broward	Florida	4,228	60	141	15	3.3%
-Palm Beach	Florida	2,403	83	131	0	5.5%
-Orange	Florida	1,251	16	28	1	2.2%
-Hillsborough	Florida	982	3	20	0	2%
-Duval	Florida	925	16	17	0	1.8%
-Lee	Florida	794	0	29	0	3.7%
-Pinellas	Florida	638	6	19	1	3%
-Collier	Florida	483	6	10	0	2.1%
-Manatee	Florida	445	2	34	0	7.6%
-Osceola	Florida	423	6	6	0	1.4%
+Miami-Dade	Florida	10,289	233	252	19	2.4%
+Broward	Florida	4,254	86	147	21	3.5%
+Palm Beach	Florida	2,413	93	135	4	5.6%
+Orange	Florida	1,258	23	29	2	2.3%
+Hillsborough	Florida	986	7	21	1	2.1%
+Duval	Florida	936	27	17	0	1.8%
+Lee	Florida	821	27	30	1	3.7%
+Pinellas	Florida	641	9	21	3	3.3%
+Collier	Florida	487	10	11	1	2.3%
+Manatee	Florida	448	5	34	0	7.6%
+Osceola	Florida	427	10	6	0	1.4%
 Escambia	Florida	418	78	10	0	2.4%
-Volusia	Florida	375	9	13	0	3.5%
-Polk	Florida	361	5	15	0	4.2%
-Seminole	Florida	332	4	6	0	1.8%
-Sarasota	Florida	299	2	31	1	10.4%
-Clay	Florida	257	1	11	0	4.3%
+Volusia	Florida	376	10	13	0	3.5%
+Polk	Florida	364	8	16	1	4.4%
+Seminole	Florida	333	5	7	1	2.1%
+Sarasota	Florida	302	5	31	1	10.3%
+Clay	Florida	259	3	12	1	4.6%
 Alachua	Florida	227	3	1	0	0.4%
-Brevard	Florida	225	1	7	0	3.1%
-Pasco	Florida	218	5	3	0	1.4%
-Lake	Florida	213	0	7	0	3.3%
-St. Lucie	Florida	207	1	16	0	7.7%
+Brevard	Florida	226	2	7	0	3.1%
+Pasco	Florida	220	7	3	0	1.4%
+Lake	Florida	214	1	7	0	3.3%
+St. Lucie	Florida	213	7	16	0	7.5%
 St. Johns	Florida	195	1	4	0	2.1%
-Leon	Florida	186	0	1	0	0.5%
-Sumter	Florida	164	1	11	0	6.7%
-Martin	Florida	161	1	4	0	2.5%
-Charlotte	Florida	148	5	11	0	7.4%
+Leon	Florida	187	1	2	1	1.1%
+Sumter	Florida	164	1	12	1	7.3%
+Martin	Florida	162	2	4	0	2.5%
+Charlotte	Florida	154	11	11	0	7.1%
 Santa Rosa	Florida	144	5	6	0	4.2%
 Okaloosa	Florida	135	1	3	0	2.2%
-Marion	Florida	130	0	3	0	2.3%
+Marion	Florida	132	2	3	0	2.3%
 Suwannee	Florida	104	2	9	0	8.7%
-Citrus	Florida	92	0	8	0	8.7%
+Citrus	Florida	92	0	9	1	9.8%
 Indian River	Florida	85	0	5	1	5.9%
 Hernando	Florida	84	0	3	0	3.6%
 Flagler	Florida	78	0	2	0	2.6%
 Monroe	Florida	73	0	3	0	4.1%
 Highlands	Florida	71	0	7	0	9.9%
-Putnam	Florida	65	6	1	0	1.5%
-Bay	Florida	59	1	2	0	3.4%
-Gadsden	Florida	58	1	0	0	0%
-Hendry	Florida	52	6	1	0	1.9%
+Putnam	Florida	68	9	1	0	1.5%
+Bay	Florida	60	2	2	0	3.3%
+Gadsden	Florida	59	2	0	0	0%
+Hendry	Florida	55	9	1	0	1.8%
 Nassau	Florida	46	0	0	0	0%
+Columbia	Florida	44	2	0	0	0%
 Bradford	Florida	42	0	2	0	4.8%
-Columbia	Florida	42	0	0	0	0%
 Madison	Florida	35	9	2	0	5.7%
 Walton	Florida	32	0	0	0	0%
 Jefferson	Florida	26	0	1	0	3.8%
 DeSoto	Florida	24	0	4	0	16.7%
 Baker	Florida	17	0	3	0	17.6%
-Wakulla	Florida	15	0	1	0	6.7%
+Wakulla	Florida	16	1	1	0	6.3%
 Levy	Florida	13	1	0	0	0%
 Jackson	Florida	11	0	0	0	0%
 Washington	Florida	10	1	0	0	0%
 Holmes	Florida	8	0	0	0	0%
 Okeechobee	Florida	8	0	0	0	0%
 Calhoun	Florida	6	0	0	0	0%
+Hamilton	Florida	6	2	0	0	0%
 Glades	Florida	5	0	1	0	20%
-Hamilton	Florida	5	1	0	0	0%
 Hardee	Florida	4	0	0	0	0%
 Dixie	Florida	4	0	0	0	0%
 Gilchrist	Florida	4	0	0	0	0%
@@ -546,9 +546,9 @@ Harris--Non Houston	Texas	2,236	41	46	1	2.1%
 Tarrant	Texas	1,430	97	44	2	3.1%
 Travis	Texas	1,263	30	28	1	2.2%
 Bexar	Texas	1,126	46	39	0	3.5%
-Fort Bend	Texas	808	0	18	0	2.2%
+Fort Bend	Texas	870	62	18	0	2.1%
 El Paso	Texas	645	58	10	1	1.6%
-Denton	Texas	619	0	18	0	2.9%
+Denton	Texas	644	25	19	1	3%
 Collin	Texas	584	14	14	0	2.4%
 Galveston	Texas	479	0	20	0	4.2%
 Lubbock	Texas	470	12	39	1	8.3%
@@ -1432,7 +1432,7 @@ Wayne	Tennessee	2	0	0	0	0%
 Unicoi	Tennessee	1	0	0	0	0%
 Van Buren	Tennessee	1	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
-Mecklenburg	North Carolina	1,331	76	36	0	2.7%
+Mecklenburg	North Carolina	1,331	76	35	0	2.6%
 Wake	North Carolina	622	9	10	1	1.6%
 Wayne	North Carolina	585	4	6	0	1%
 Durham	North Carolina	469	30	7	1	1.5%
@@ -1447,15 +1447,15 @@ Forsyth	North Carolina	141	10	5	0	3.5%
 Chatham	North Carolina	135	4	6	5	4.4%
 Wilson	North Carolina	127	9	6	0	4.7%
 Gaston	North Carolina	124	4	3	0	2.4%
-Johnston	North Carolina	123	0	10	0	8.1%
+Johnston	North Carolina	122	0	10	0	8.2%
 Granville	North Carolina	118	4	5	0	4.2%
 Davidson	North Carolina	103	7	2	0	1.9%
 Moore	North Carolina	99	4	6	0	6.1%
 Pitt	North Carolina	99	3	2	0	2%
 Randolph	North Carolina	97	19	2	0	2.1%
 Iredell	North Carolina	94	6	3	0	3.2%
-Rutherford	North Carolina	84	0	4	0	4.8%
 Burke	North Carolina	83	8	8	0	9.6%
+Rutherford	North Carolina	82	0	4	0	4.9%
 Columbus	North Carolina	76	15	5	2	6.6%
 Franklin	North Carolina	75	1	13	2	17.3%
 Northampton	North Carolina	75	1	2	0	2.7%
@@ -1487,18 +1487,18 @@ Sampson	North Carolina	23	1	0	0	0%
 Stanly	North Carolina	22	1	4	1	18.2%
 Washington	North Carolina	22	0	2	0	9.1%
 Richmond	North Carolina	22	2	2	0	9.1%
-McDowell	North Carolina	21	0	0	0	0%
+McDowell	North Carolina	21	0	1	1	4.8%
 Rockingham	North Carolina	20	0	2	0	10%
 Anson	North Carolina	19	0	0	0	0%
-Cherokee	North Carolina	18	0	1	0	5.6%
 Montgomery	North Carolina	18	0	1	0	5.6%
-Person	North Carolina	18	0	0	0	0%
-Surry	North Carolina	17	0	0	0	0%
+Person	North Carolina	17	0	0	0	0%
 Beaufort	North Carolina	16	1	0	0	0%
+Cherokee	North Carolina	16	0	1	0	6.3%
 Dare	North Carolina	15	0	1	0	6.7%
 Scotland	North Carolina	15	2	0	0	0%
 Greene	North Carolina	14	0	0	0	0%
 Caswell	North Carolina	12	4	0	0	0%
+Surry	North Carolina	12	0	0	0	0%
 Jones	North Carolina	12	3	2	1	16.7%
 Martin	North Carolina	11	0	0	0	0%
 Hertford	North Carolina	11	1	1	0	9.1%
@@ -1507,13 +1507,13 @@ Stokes	North Carolina	11	1	0	0	0%
 Yadkin	North Carolina	11	0	1	0	9.1%
 Pender	North Carolina	11	2	0	0	0%
 Perquimans	North Carolina	8	0	0	0	0%
-Transylvania	North Carolina	8	0	0	0	0%
 Watauga	North Carolina	8	0	0	0	0%
-Mitchell	North Carolina	7	0	0	0	0%
+Transylvania	North Carolina	7	0	0	0	0%
 Chowan	North Carolina	6	0	0	0	0%
 Clay	North Carolina	6	0	0	0	0%
 Pamlico	North Carolina	6	0	0	0	0%
 Jackson	North Carolina	5	0	0	0	0%
+Mitchell	North Carolina	5	0	0	0	0%
 Wilkes	North Carolina	5	0	1	0	20%
 Haywood	North Carolina	5	0	0	0	0%
 Alexander	North Carolina	4	0	0	0	0%
@@ -2654,13 +2654,13 @@ Sullivan	New Hampshire	10	0	0	0	0%
 Coos	New Hampshire	2	0	0	0	0%
 Unassigned	New Hampshire	0	0	45	6	0%
 Puerto Rico	Puerto Rico	1,378	463	67	4	4.9%
-Navajo, AZ	Navajo Nation	332	0	0	0	0%
+Navajo, AZ	Navajo Nation	342	10	0	0	0%
 McKinley, NM	Navajo Nation	306	0	0	0	0%
-Apache, AZ	Navajo Nation	233	0	0	0	0%
-Coconino, AZ	Navajo Nation	217	0	0	0	0%
+Apache, AZ	Navajo Nation	260	27	0	0	0%
+Coconino, AZ	Navajo Nation	222	5	0	0	0%
 San Juan, NM	Navajo Nation	177	0	0	0	0%
+Cibola, NM	Navajo Nation	17	3	0	0	0%
 San Juan, UT	Navajo Nation	16	0	0	0	0%
-Cibola, NM	Navajo Nation	14	0	0	0	0%
 Socorro, NM	Navajo Nation	13	0	0	0	0%
 Sandoval, NM	Navajo Nation	13	0	0	0	0%
 Bernalillo, NM	Navajo Nation	0	0	0	0	0%

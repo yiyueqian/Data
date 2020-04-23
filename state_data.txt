@@ -2,14 +2,14 @@ state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rat
 New York	263,513	4,924	20,234	481	7.7%
 New Jersey	95,914	3,527	5,150	397	5.4%
 Massachusetts	42,944	1,745	2,182	221	5.1%
-California	37,603	1,759	1,434	112	3.8%
+California	37,701	1,857	1,439	117	3.8%
 Pennsylvania	36,212	876	1,673	60	4.6%
 Illinois	35,109	2,057	1,565	97	4.5%
 Michigan	33,966	1,002	2,813	114	8.3%
-Florida	28,309	442	893	26	3.2%
+Florida	28,586	719	927	60	3.2%
 Louisiana	25,258	404	1,473	70	5.8%
 Connecticut	22,469	2,109	1,544	121	6.9%
-Texas	21,675	700	567	22	2.6%
+Texas	21,762	787	568	23	2.6%
 Georgia	21,102	946	846	30	4%
 Maryland	14,775	582	698	46	4.7%
 Ohio	14,117	395	610	54	4.3%
@@ -18,7 +18,7 @@ Indiana	12,438	347	666	31	5.4%
 Colorado	10,891	432	508	22	4.7%
 Virginia	10,266	637	349	25	3.4%
 Tennessee	7,842	451	166	9	2.1%
-North Carolina	7,559	424	267	22	3.5%
+North Carolina	7,545	424	267	23	3.5%
 Missouri	6,320	178	242	14	3.8%
 Rhode Island	5,841	341	181	10	3.1%
 Veteran Affair	5,825	226	374	17	6.4%
@@ -45,7 +45,7 @@ Nebraska	1,813	91	38	5	2.1%
 Idaho	1,802	36	54	3	3%
 New Hampshire	1,588	98	48	6	3%
 Puerto Rico	1,378	463	67	4	4.9%
-Navajo Nation	1,321	0	45	0	3.4%
+Navajo Nation	1,366	45	45	0	3.3%
 West Virginia	963	30	29	2	3%
 Federal Bureau of Prisons	908	45	24	1	2.6%
 Maine	907	19	39	3	4.3%
