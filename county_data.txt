@@ -94,7 +94,7 @@ Berkshire	Massachusetts	418	0	29	0	6.9%
 Hampshire	Massachusetts	367	0	10	0	2.7%
 Franklin	Massachusetts	203	0	29	0	14.3%
 Dukes and Nantucket	Massachusetts	23	0	1	0	4.3%
-Los Angeles	California	17,537	0	797	0	4.5%
+Los Angeles	California	17,567	30	798	1	4.5%
 Riverside	California	3,218	0	100	0	3.1%
 San Diego	California	2,643	0	100	0	3.8%
 Santa Clara	California	1,987	0	95	0	4.8%
@@ -111,13 +111,13 @@ Ventura	California	465	0	16	0	3.4%
 Tulare	California	453	0	25	0	5.5%
 Santa Barbara	California	451	0	5	0	1.1%
 Fresno	California	419	0	7	0	1.7%
-Stanislaus	California	251	0	5	0	2%
+Stanislaus	California	258	7	5	0	1.9%
 Imperial	California	232	0	8	0	3.4%
+Sonoma	California	216	22	2	0	0.9%
 Marin	California	209	0	11	0	5.3%
-Sonoma	California	194	0	2	0	1%
 Solano	California	191	0	4	0	2.1%
-Monterey	California	154	0	4	0	2.6%
-Yolo	California	151	0	12	0	7.9%
+Monterey	California	164	10	4	0	2.4%
+Yolo	California	155	4	12	0	7.7%
 San Luis Obispo	California	149	0	1	0	0.7%
 Placer	California	136	0	8	0	5.9%
 Santa Cruz	California	114	0	2	0	1.8%
@@ -137,9 +137,9 @@ Butte	California	16	0	0	0	0%
 Yuba	California	16	0	1	0	6.3%
 Calaveras	California	13	0	0	0	0%
 Amador	California	8	0	0	0	0%
+Mendocino	California	8	3	0	0	0%
 Lake	California	6	0	0	0	0%
 Glenn	California	5	0	0	0	0%
-Mendocino	California	5	0	0	0	0%
 Siskiyou	California	5	0	0	0	0%
 Plumas	California	4	0	0	0	0%
 Colusa	California	3	0	0	0	0%
@@ -1434,7 +1434,7 @@ Wayne	Tennessee	2	0	0	0	0%
 Unicoi	Tennessee	1	0	0	0	0%
 Van Buren	Tennessee	1	0	0	0	0%
 Hancock	Tennessee	0	0	0	0	0%
-Mecklenburg	North Carolina	1,377	0	37	0	2.7%
+Mecklenburg	North Carolina	1,400	23	37	0	2.6%
 Wake	North Carolina	633	0	11	0	1.7%
 Wayne	North Carolina	597	0	6	0	1%
 Durham	North Carolina	500	0	9	0	1.8%
@@ -1528,8 +1528,8 @@ Alleghany	North Carolina	2	0	0	0	0%
 Currituck	North Carolina	2	0	0	0	0%
 Macon	North Carolina	2	0	1	0	50%
 Unassigned	North Carolina	0	0	0	0	0%
-St. Louis	Missouri	2,518	0	105	0	4.2%
-St. Louis City	Missouri	966	0	45	0	4.7%
+St. Louis	Missouri	2,653	135	105	0	4%
+St. Louis City	Missouri	966	0	46	1	4.8%
 St. Charles	Missouri	487	0	26	0	5.3%
 Kansas City	Missouri	461	0	14	0	3%
 Jackson	Missouri	287	0	12	0	4.2%
@@ -1554,13 +1554,13 @@ Pulaski	Missouri	30	0	1	0	3.3%
 Platte	Missouri	28	0	0	0	0%
 Butler	Missouri	26	0	0	0	0%
 St. Francois	Missouri	26	0	1	0	3.8%
-Jasper	Missouri	22	0	0	0	0%
 Warren	Missouri	22	0	0	0	0%
 Callaway	Missouri	21	0	1	0	4.8%
 Christian	Missouri	19	0	0	0	0%
 Dunklin	Missouri	19	0	2	0	10.5%
 Stoddard	Missouri	19	0	0	0	0%
 Pemiscot	Missouri	18	0	1	0	5.6%
+Jasper	Missouri	16	0	0	0	0%
 Pettis	Missouri	16	0	0	0	0%
 Webster	Missouri	13	0	0	0	0%
 Adair	Missouri	12	0	0	0	0%
@@ -1629,7 +1629,7 @@ Miller	Missouri	1	0	0	0	0%
 Audrain	Missouri	1	0	0	0	0%
 Carroll	Missouri	1	0	0	0	0%
 Texas	Missouri	0	0	0	0	0%
-VA Hospitals	Veteran Affair	6,273	0	391	0	6.2%
+VA Hospitals	Veteran Affair	6,363	90	400	9	6.3%
 Providence	Rhode Island	4,350	0	0	0	0%
 Unassigned	Rhode Island	1,006	0	189	0	18.8%
 Kent	Rhode Island	432	0	0	0	0%
@@ -2036,6 +2036,7 @@ Central Utah	Utah	21	0	0	0	0%
 TriCounty	Utah	9	0	0	0	0%
 Southeast Utah	Utah	7	0	0	0	0%
 Unassigned	Utah	0	0	0	0	0%
+District of Columbia	Washington, D.C.	3,528	167	153	14	4.3%
 Jefferson	Kentucky	1,008	0	78	0	7.7%
 Fayette	Kentucky	223	0	8	0	3.6%
 Kenton	Kentucky	214	0	16	0	7.5%
@@ -2147,7 +2148,6 @@ Livingston	Kentucky	1	0	0	0	0%
 Clay	Kentucky	1	0	0	0	0%
 Fulton	Kentucky	1	0	0	0	0%
 Carlisle	Kentucky	1	0	0	0	0%
-District of Columbia	Washington, D.C.	3,361	0	139	0	4.1%
 New Castle	Delaware	1,389	0	40	0	2.9%
 Sussex	Delaware	1,377	0	37	0	2.7%
 Kent	Delaware	539	0	15	0	2.8%
@@ -2302,8 +2302,8 @@ Marshall	Minnesota	1	0	0	0	0%
 Morrison	Minnesota	1	0	0	0	0%
 Chippewa	Minnesota	1	0	0	0	0%
 Pennington	Minnesota	1	0	0	0	0%
-Wyandotte	Kansas	490	0	47	0	9.6%
-Johnson	Kansas	403	0	36	0	8.9%
+Wyandotte	Kansas	490	0	48	1	9.8%
+Johnson	Kansas	415	12	36	0	8.7%
 Sedgwick	Kansas	316	0	6	0	1.9%
 Ford	Kansas	288	0	0	0	0%
 Seward	Kansas	249	0	0	0	0%
@@ -2378,15 +2378,15 @@ Kiowa	Kansas	1	0	0	0	0%
 Rice	Kansas	1	0	0	0	0%
 Unassigned	Kansas	0	0	0	0	0%
 Anderson	Kansas	0	0	0	0	0%
-Lincoln	Arkansas	630	0	0	0	0%
-Pulaski	Arkansas	427	0	12	0	2.8%
-Crittenden	Arkansas	156	0	5	0	3.2%
-Jefferson	Arkansas	142	0	7	0	4.9%
+Lincoln	Arkansas	631	1	0	0	0%
+Pulaski	Arkansas	428	1	12	0	2.8%
+Crittenden	Arkansas	159	3	5	0	3.1%
+Jefferson	Arkansas	143	1	7	0	4.9%
 Unassigned	Arkansas	127	0	0	0	0%
 Garland	Arkansas	109	0	0	0	0%
+Benton	Arkansas	71	1	0	0	0%
 Cleburne	Arkansas	71	0	4	0	5.6%
-Benton	Arkansas	70	0	0	0	0%
-St. Francis	Arkansas	69	0	0	0	0%
+St. Francis	Arkansas	70	1	0	0	0%
 Faulkner	Arkansas	67	0	2	0	3%
 Washington	Arkansas	62	0	2	0	3.2%
 Craighead	Arkansas	55	0	1	0	1.8%
@@ -2747,13 +2747,13 @@ Aroostook	Maine	3	0	0	0	0%
 Washington	Maine	2	0	0	0	0%
 Piscataquis	Maine	1	0	0	0	0%
 Unassigned	Maine	0	0	0	0	0%
-Chittenden	Vermont	395	0	27	0	6.8%
+Chittenden	Vermont	396	1	28	1	7.1%
 Franklin	Vermont	90	0	5	0	5.6%
 Windham	Vermont	67	0	2	0	3%
 Addison	Vermont	61	0	2	0	3.3%
 Rutland	Vermont	44	0	1	0	2.3%
+Bennington	Vermont	38	1	1	0	2.6%
 Windsor	Vermont	38	0	2	0	5.3%
-Bennington	Vermont	37	0	1	0	2.7%
 Washington	Vermont	33	0	1	0	3%
 Lamoille	Vermont	25	0	2	0	8%
 Caledonia	Vermont	12	0	0	0	0%
