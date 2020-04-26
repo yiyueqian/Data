@@ -1,63 +1,63 @@
 state	state_confirmed	state_new	state_deaths	state_deaths_new	state_fatality_rate
-New York	287,490	0	21,802	0	7.6%
-New Jersey	105,523	0	5,938	0	5.6%
+New York	293,598	6,108	22,342	540	7.6%
+New Jersey	109,038	3,515	5,938	69	5.4%
 Massachusetts	53,348	0	2,730	0	5.1%
-California	42,626	0	1,698	0	4%
+California	42,705	79	1,698	0	4%
+Pennsylvania	42,616	1,013	1,816	14	4.3%
 Illinois	41,777	0	1,875	0	4.5%
-Pennsylvania	41,605	0	1,810	0	4.4%
 Michigan	37,215	0	3,274	0	8.8%
-Florida	30,839	0	1,055	0	3.4%
-Louisiana	26,512	0	1,707	0	6.4%
+Florida	31,532	693	1,075	20	3.4%
+Louisiana	26,773	262	1,729	23	6.5%
+Texas	24,604	447	650	12	2.6%
 Connecticut	24,583	0	1,865	0	7.6%
-Texas	24,157	0	638	0	2.6%
-Georgia	23,222	0	907	0	3.9%
-Maryland	17,766	0	875	0	4.9%
-Ohio	15,587	0	711	0	4.6%
-Indiana	14,395	0	785	0	5.5%
+Georgia	23,401	179	912	5	3.9%
+Maryland	18,581	815	910	35	4.9%
+Ohio	15,972	385	728	17	4.6%
+Indiana	15,012	617	813	28	5.4%
 Washington	13,567	0	741	0	5.5%
+Virginia	12,970	604	449	12	3.5%
 Colorado	12,968	0	684	0	5.3%
-Virginia	12,366	0	437	0	3.5%
-Tennessee	9,189	0	177	0	1.9%
-North Carolina	8,768	0	305	0	3.5%
-Rhode Island	7,129	0	215	0	3%
-Missouri	6,935	0	283	0	4.1%
-Veteran Affair	6,731	0	413	0	6.1%
-Arizona	6,286	0	273	0	4.3%
+Tennessee	9,189	0	178	1	1.9%
+North Carolina	9,011	243	314	9	3.5%
+Rhode Island	7,439	310	226	11	3%
+Missouri	7,034	99	283	0	4%
+Veteran Affair	6,860	129	424	11	6.2%
+Arizona	6,534	248	275	2	4.2%
 Alabama	6,213	0	213	0	3.4%
 US Military	6,213	0	26	0	0.4%
-Mississippi	5,718	0	221	0	3.9%
+Mississippi	5,911	193	227	6	3.8%
 Wisconsin	5,687	0	266	0	4.7%
+Iowa	5,476	384	118	6	2.2%
 South Carolina	5,253	0	166	0	3.2%
-Iowa	5,092	0	112	0	2.2%
-Nevada	4,539	0	205	0	4.5%
-Utah	3,948	0	41	0	1%
+Nevada	4,546	7	206	1	4.5%
+Utah	4,123	175	41	0	1%
+Delaware	4,034	458	120	8	3%
 Kentucky	3,907	0	205	0	5.2%
-Washington, D.C.	3,699	0	165	0	4.5%
-Delaware	3,576	0	112	0	3.1%
-Minnesota	3,446	0	244	0	7.1%
-Oklahoma	3,194	0	194	0	6.1%
+Washington, D.C.	3,841	142	178	13	4.6%
+Minnesota	3,602	156	272	28	7.6%
+Oklahoma	3,254	61	195	1	6%
 Kansas	3,135	0	120	0	3.8%
-Arkansas	2,909	0	48	0	1.7%
+Arkansas	2,938	29	48	0	1.6%
 Nebraska	2,722	0	50	0	1.8%
 New Mexico	2,660	0	93	0	3.5%
 Oregon	2,253	0	87	0	3.9%
-South Dakota	2,147	0	10	0	0.5%
+South Dakota	2,212	65	11	1	0.5%
 Idaho	1,887	0	56	0	3%
-New Hampshire	1,797	0	53	0	2.9%
+New Hampshire	1,797	0	60	7	3.3%
 Navajo Nation	1,540	0	58	0	3.8%
-Puerto Rico	1,307	0	83	0	6.4%
+Puerto Rico	1,371	64	84	1	6.1%
 Federal Bureau of Prisons	1,047	0	26	0	2.5%
 West Virginia	1,025	0	33	0	3.2%
 Maine	990	0	50	0	5.1%
-Vermont	843	0	46	0	5.5%
-North Dakota	803	0	16	0	2%
+North Dakota	867	64	17	1	2%
+Vermont	851	8	46	0	5.4%
 Hawaii	604	0	14	0	2.3%
 Wyoming	491	0	7	0	1.4%
-Montana	445	0	14	0	3.1%
-Alaska	339	0	9	0	2.7%
+Montana	448	3	14	0	3.1%
+Alaska	340	1	9	0	2.6%
 Guam	141	0	5	0	3.5%
 Grand Princess	103	0	3	0	2.9%
-US Virgin Islands	55	0	3	0	5.5%
+US Virgin Islands	57	2	4	1	7%
 Diamond Princess	49	0	0	0	0%
 Northern Mariana Islands	14	0	2	0	14.3%
 Wuhan Evacuee	4	0	0	0	0%
